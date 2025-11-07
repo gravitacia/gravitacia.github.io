@@ -1,0 +1,563 @@
+"58001030169","adonia","beqa","kaxaberi","07/09/92 00:00:00",,"g",1,"1189603","xobi s. xeTa","xobi"
+"58001030170","iosava","Tamila","gigla","07/08/94 00:00:00",,"d",2,"1189603","xobi s. bia","xobi"
+"14001026161","TofaZe","tatiana","vladimeri","12/07/90 00:00:00",,"g",2,"1200889","dedofliswyaro s. zemo qedi","dedofliswyaro"
+"60001137305","qavTaraZe","nikoloz","Teimurazi","03/27/08 00:00:00",,,1,,"quTaisi  misamarTis gareSe",
+"48001024530","naWyebia","maka","nugzari","07/31/93 00:00:00",,"a",2,"1189405","d. Cxorowyu l.gobeCias q. N 4","Cxorowyu"
+"48001024531","berulava","beqa","murmani","11/26/92 00:00:00",,"b",1,"1189405","Cxorowyu s. xabume","Cxorowyu"
+"48001024532","vekua","boris","bakuri","06/10/93 00:00:00",,"d",1,"1422100","Cxorowyu s. lesiWine","Cxorowyu"
+"48001024533","kvirkvaia","bela","gigla","05/04/93 00:00:00",,"d",2,"1189405","Cxorowyu s. lewurwume","Cxorowyu"
+"53001017948","kirTaZe","eliso","buxuti","09/25/67 00:00:00",,"d",2,"0468273","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017949","kilaZe","domenti","daviTi","12/26/75 00:00:00",,"a",1,"0468274","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017950","fxakaZe","sofio","zurabi","10/18/80 00:00:00",,"a",2,"0931575","quTaisi z.WavWavaZis q. N 6 b. 80",
+"53001017951","TevdoraZe","elene","jumberi","05/06/66 00:00:00",,"b",2,"1400074","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017952","bazaZe","Tamazi","givi","11/14/69 00:00:00",,"d",1,"0468274","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017953","TevdoraZe","arCil","jumberi","06/25/73 00:00:00",,"a",1,"0468275","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017954","TevdoraZe","guliko","givi","08/20/56 00:00:00",,"g",2,"1268565","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017955","gvamberaZe","vladimeri","benia","05/30/55 00:00:00","09/23/10 00:00:00","b",1,"1351827","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017956","kostava","kote","budu","10/25/73 00:00:00",,"d",1,"1369093","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017957","koxreiZe","elguja","varlami","03/31/77 00:00:00",,"d",1,"0468279","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017958","Carkviani","maka","tristani","02/26/79 00:00:00",,"b",2,"0946016","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017959","JorJoliani","vefxia","domenti","04/27/84 00:00:00",,"g",1,"1321133","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017960","kuWuxiZe","nargizi","levani","10/05/53 00:00:00",,"g",2,"0468280","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017961","gvamberaZe","roza","korneli","09/18/57 00:00:00",,"d",2,"0468280","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017962","niqabaZe","giazi","ivane","04/10/47 00:00:00",,"a",1,"0468281","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017963","gvamberaZe","irine","elguja","06/17/78 00:00:00",,"b",2,"0468281","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017964","gubelaZe","nodari","joni","06/12/82 00:00:00",,"a",1,"1193487","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017965","mardaleiSvili","koba","jemali","08/24/75 00:00:00",,"d",1,"0811673","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017966","margvelaSvili","gela","leonti","01/19/86 00:00:00",,"a",1,"1369213","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017967","gvamberaZe","nargiza","givi","10/12/55 00:00:00",,"g",2,"0468282","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017968","gvamberaZe","daviTi","borisi","11/16/76 00:00:00",,"g",1,"0468367","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017969","TevdoraZe","nino","jibo","03/25/72 00:00:00",,"b",2,"1193545","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017970","TevdoraZe","marina","bagrati","10/20/56 00:00:00",,"b",2,"0468283","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017971","fxakaZe","goCa","iuza","04/18/63 00:00:00",,"d",1,"1136396","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017972","adeiSvili","xviCa","sergo","11/01/68 00:00:00",,"d",1,"1351847","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017973","fxakaZe","iuza","iasoni","09/15/46 00:00:00","03/02/06 00:00:00","a",1,"0468284","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017974","laRaZe","givi","kukuri","09/12/80 00:00:00",,"g",1,"0811732","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017975","kvernaZe","marina","vaJa","01/31/81 00:00:00",,"d",2,"1061979","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017976","fxakaZe","daviT","noe","12/07/76 00:00:00",,"a",1,"1173848","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017977","JorJoliani","inga","Teimurazi","04/18/77 00:00:00",,"a",2,"0468285","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017978","TevdoraZe","mixeili","biqtori","07/31/42 00:00:00",,"b",1,"0468285","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017979","laRaZe","daviTi","zurabi","08/14/83 00:00:00",,"d",1,"1233423","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017980","nucubiZe","griSa","ivane","02/11/38 00:00:00",,"d",1,"0468285","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017981","baSeleiSvili","igor","nikolozi","05/17/69 00:00:00",,"d",1,"1369184","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017982","nucubiZe","amiran","polikarpe","04/12/43 00:00:00",,"b",1,"0468286","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017983","andriaZe","lola","rezo","03/05/67 00:00:00",,"g",2,"0468286","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017984","fxakaZe","zaira","avTandili","09/05/61 00:00:00",,"a",2,"1078346","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017985","SaSiaSvili","nino","platoni","01/30/66 00:00:00",,"a",2,"0468287","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017986","kilaZe","nargiza","grigoli","05/01/62 00:00:00",,"g",2,"1045129","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017987","koxreiZe","liana","emeliane","11/13/64 00:00:00",,"g",2,"0468287","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017988","kuWuxiZe","demur","raJdeni","01/02/49 00:00:00",,"d",1,"0468287","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017989","giorgaZe","nitrafole","amirani","03/03/79 00:00:00",,"d",1,"1351715","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017990","kikvaZe","Tea","maradi","08/30/87 00:00:00",,"b",2,"0468288","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017991","kuWuxiZe","bedina","daviTi","09/24/71 00:00:00",,"g",1,"0991180","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017992","cibaZe","emzari","longinozi","08/15/64 00:00:00",,"d",1,"1290652","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017993","TvalTvaZe","mariami","giorgi","10/09/60 00:00:00",,"a",2,"0468289","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017994","TvalavaZe","qeTevan","zurabi","06/14/83 00:00:00",,"b",2,"1345682","quTaisi kibulis q. N 19",
+"53001017995","giorgaZe","lili","polikarpe","02/15/33 00:00:00",,"g",2,"0468289","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017996","CogovaZe","ledi","levani","03/14/41 00:00:00",,"d",2,"0468289","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017997","SaSiaSvili","lia","ilia","03/03/47 00:00:00",,"a",2,"0468290","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017998","fxakaZe","iuza","akaki","01/01/30 00:00:00",,"b",1,"0468290","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001017999","kilaZe","nunu","iaSa","03/10/40 00:00:00",,"g",2,"0468290","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018000","kilaZe","tarieli","gurami","05/17/81 00:00:00",,"b",1,"1193403","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018001","fxakaZe","xaTuna","giorgi","12/19/78 00:00:00",,"a",2,"0468291","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018002","kokelaZe","zani","ivane","04/01/44 00:00:00",,"b",2,"0468291","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018003","goduaZe","omar","dimitri","12/18/49 00:00:00",,"g",1,"0468291","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018004","gagua","lola","sevarioni","06/17/57 00:00:00",,"d",2,"0468291","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018005","goduaZe","cisana","nikifore","04/20/42 00:00:00",,"a",2,"0468292","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018006","fuTuriZe","roland","SoTa","02/25/49 00:00:00","11/16/05 00:00:00","b",1,"0468292","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018007","TevdoraZe","giorgi","gurami","10/07/66 00:00:00",,"a",1,"0841595","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018008","kilaZe","boris","SoTa","05/22/57 00:00:00",,"g",1,"0946213","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018009","babunaSvili","tariel","varlami","01/16/55 00:00:00",,"a",1,"0468293","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018010","pataraia","Tina","giorgi","01/15/30 00:00:00",,"b",2,"0468293","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018011","andriaZe","Salva","karlo","01/20/64 00:00:00",,"a",1,"1233004","wyaltubo s. farcxanayanevi","wyaltubo"
+"53001018108","TuTberiZe","zurab","valiko","02/01/32 00:00:00","04/08/08 00:00:00","d",1,"0468318","wyaltubo s. patrikeTi","wyaltubo"
+"53001018109","didava","mzia","jemali","06/09/72 00:00:00",,"a",2,"0468319","wyaltubo s. patrikeTi","wyaltubo"
+"53001018110","sulaZe","ira","levani","01/04/44 00:00:00",,"b",2,"0468319","wyaltubo s. patrikeTi","wyaltubo"
+"53001018111","siraZe","ineza","raJdeni","02/14/51 00:00:00",,"g",2,"0468319","wyaltubo s. patrikeTi","wyaltubo"
+"53001018112","gubelaZe","nargiza","Salva","03/07/51 00:00:00",,"d",2,"0468319","wyaltubo s. patrikeTi","wyaltubo"
+"53001018113","TuTberiZe","dariko","Salva","09/30/42 00:00:00",,"a",2,"0468320","wyaltubo s. patrikeTi","wyaltubo"
+"53001018114","vaCiberaZe","manana","aqvsenti","05/03/76 00:00:00",,"b",2,"0468320","wyaltubo s. patrikeTi","wyaltubo"
+"53001018115","beraZe","givi","daviTi","08/16/56 00:00:00",,"g",1,"0468320","wyaltubo s. patrikeTi","wyaltubo"
+"53001018116","namCavaZe","mariam","jemali","10/11/59 00:00:00",,"b",2,"0468727","wyaltubo s. patrikeTi","wyaltubo"
+"53001018117","TuTberiZe","gulTamze","zurabi","02/09/68 00:00:00",,"d",2,"0468838","wyaltubo s. patrikeTi","wyaltubo"
+"53001018118","pertia","maka","badri","08/15/86 00:00:00",,"b",2,"1136261","wyaltubo s. patrikeTi","wyaltubo"
+"53001018119","pertia","nazibrola","badri","08/15/85 00:00:00",,"a",2,"1351729","wyaltubo s. patrikeTi","wyaltubo"
+"53001018120","TuTberiZe","Teimuraz","WiWiko","02/22/61 00:00:00",,"a",1,"0946627","wyaltubo s. patrikeTi","wyaltubo"
+"53001018121","babunaSvili","apolon","daviTi","08/06/53 00:00:00",,"a",1,"0468322","wyaltubo s. patrikeTi","wyaltubo"
+"53001018122","koRuaSvili","justal","demuri","12/15/57 00:00:00",,"b",1,"0468322","wyaltubo s. patrikeTi","wyaltubo"
+"53001018123","vaCiberaZe","ia","aqvsenti","05/03/76 00:00:00",,"g",2,"0468322","wyaltubo s. patrikeTi","wyaltubo"
+"53001018124","babunaSvili","vaxtangi","iakobi","03/13/50 00:00:00",,"b",1,"0781570","wyaltubo s. patrikeTi","wyaltubo"
+"53001018125","karkalaia","suliko","levani","09/01/33 00:00:00",,"a",1,"0468323","wyaltubo s. patrikeTi","wyaltubo"
+"53001018126","namCavaZe","eliko","levani","09/16/40 00:00:00",,"g",2,"1351716","wyaltubo s. patrikeTi","wyaltubo"
+"53001018127","kakuSaZe","koba","daviTi","12/25/62 00:00:00",,"g",1,"0468323","wyaltubo s. patrikeTi","wyaltubo"
+"53001018128","vaCiberaZe","petre","uSangi","11/11/72 00:00:00",,"d",1,"0468323","wyaltubo s. patrikeTi","wyaltubo"
+"53001018129","tyeSelaSvili","vitali","kukuri","07/17/58 00:00:00",,"g",1,"0468722","wyaltubo s. patrikeTi","wyaltubo"
+"53001018130","xomeriki","Jana","vaJa","11/11/82 00:00:00",,"g",2,"1115259","wyaltubo s. patrikeTi","wyaltubo"
+"53001018131","gigiaZe","lela","beJani","02/27/82 00:00:00",,"g",2,"1233389","wyaltubo s. patrikeTi","wyaltubo"
+"53001018132","CijavaZe","irine","ramazi","12/25/81 00:00:00",,"d",2,"1173829","wyaltubo s. patrikeTi","wyaltubo"
+"53001018133","WeiSvili","giga","geno","08/28/86 00:00:00",,"a",1,"0468325","wyaltubo s. patrikeTi","wyaltubo"
+"53001018134","beraZe","irakli","aleqsandre","01/13/83 00:00:00",,"b",1,"0468325","wyaltubo s. patrikeTi","wyaltubo"
+"53001018135","WeiSvili","nargiza","nodari","11/07/64 00:00:00",,"g",2,"0468325","wyaltubo s. patrikeTi","wyaltubo"
+"53001018136","qurdiani","varlam","eldari","03/14/72 00:00:00",,"d",1,"0468325","wyaltubo s. patrikeTi","wyaltubo"
+"53001018137","maCalaZe","merab","aleqsandre","05/07/57 00:00:00",,"a",1,"0468326","wyaltubo s. patrikeTi","wyaltubo"
+"53001018138","namCevaZe","vaxtangi","valiko","03/13/35 00:00:00",,"g",1,"1061993","wyaltubo s. patrikeTi","wyaltubo"
+"53001018139","maCalaZe","bagrati","avTandili","12/07/81 00:00:00",,"b",1,"1290576","wyaltubo s. patrikeTi","wyaltubo"
+"53001018140","goduaZe","zviad","amirani","09/14/75 00:00:00",,"a",1,"0468736","wyaltubo s. patrikeTi","wyaltubo"
+"53001018141","qurdiani","mevlud","Tengisi","05/28/59 00:00:00",,"b",1,"0468327","wyaltubo s. patrikeTi","wyaltubo"
+"53001018142","namCavaZe","Tamaz","reno","07/25/59 00:00:00",,"a",1,"0468727","wyaltubo s. patrikeTi","wyaltubo"
+"53001018143","leJava","dali","bikenti","05/18/51 00:00:00","03/21/07 00:00:00","d",2,"0468327","wyaltubo s. patrikeTi","wyaltubo"
+"53001018144","ZoZuaSvili","gula","vasili","05/15/37 00:00:00",,"a",2,"0468328","wyaltubo s. patrikeTi","wyaltubo"
+"53001018145","vaCiberaZe","marina","grigoli","04/19/61 00:00:00",,"g",2,"0923286","wyaltubo s. patrikeTi","wyaltubo"
+"53001018146","ediberiZe","ira","aleqsandre","03/23/58 00:00:00",,"g",2,"0468328","wyaltubo s. patrikeTi","wyaltubo"
+"53001018147","vaCiberaZe","vaxtang","nitrofane","04/27/40 00:00:00",,"d",1,"0468328","wyaltubo s. patrikeTi","wyaltubo"
+"53001018148","tyemalaZe","zaira","aleqsandre","12/30/58 00:00:00",,"a",2,"0468329","wyaltubo s. patrikeTi","wyaltubo"
+"53001018149","dolaberiZe","irina","Tamazi","08/31/69 00:00:00",,"b",2,"0468329","wyaltubo s. patrikeTi","wyaltubo"
+"53001018150","goduaZe","solomon","bondo","01/20/60 00:00:00",,"b",1,"0747198","wyaltubo s. patrikeTi","wyaltubo"
+"53001018151","mesxi","daTuna","Tengizi","06/27/79 00:00:00",,"d",1,"0468329","wyaltubo s. patrikeTi","wyaltubo"
+"53001018152","vaCiberaZe","xaTuna","elguja","09/15/71 00:00:00",,"a",2,"1136292","wyaltubo s. patrikeTi","wyaltubo"
+"53001018153","ZoZuaSvili","nino","zaza","08/24/87 00:00:00",,"b",2,"0468330","wyaltubo s. patrikeTi","wyaltubo"
+"53001018154","laRaZe","natalia","rezo","06/08/69 00:00:00",,"g",2,"0468330","wyaltubo s. patrikeTi","wyaltubo"
+"53001018155","ZoZuaSvili","revaz","vasili","03/15/40 00:00:00",,"d",1,"0468330","wyaltubo s. patrikeTi","wyaltubo"
+"53001018156","namCevaZe","Tornike","uCa","01/23/81 00:00:00",,"g",1,"0841767","wyaltubo s. patrikeTi","wyaltubo"
+"53001018157","Sengelia","sonia","tarieli","03/04/85 00:00:00",,"b",2,"1321391","wyaltubo s. patrikeTi","wyaltubo"
+"53001018158","mamiseiSvili","darejan","grigori","12/06/55 00:00:00",,"g",2,"1400003","wyaltubo s. patrikeTi","wyaltubo"
+"53001018159","sanebliZe","emzar","jumberi","08/24/67 00:00:00",,"b",1,"1351770","wyaltubo s. patrikeTi","wyaltubo"
+"53001018160","maCalaZe","melano","leo","11/07/68 00:00:00",,"a",2,"0574966","wyaltubo s. patrikeTi","wyaltubo"
+"53001018161","gubelaZe","Tedo","murmani","01/06/75 00:00:00",,"g",1,"1111393","wyaltubo s. patrikeTi","wyaltubo"
+"53001018162","TuTberiZe","leila","valeriane","05/25/39 00:00:00",,"g",2,"0468332","wyaltubo s. patrikeTi","wyaltubo"
+"53001018163","adamaZe","dodo","zauri","09/13/69 00:00:00",,"b",2,"1173956","quTaisi s.gugunavas q. 15 N 5 b. 13",
+"53001018164","qevaniSvili","marine","raJdeni","01/05/55 00:00:00",,"a",2,"0468333","wyaltubo s. patrikeTi","wyaltubo"
+"53001018165","morCaZe","SoTa","imeri","09/19/60 00:00:00",,"d",1,"0811563","wyaltubo s. patrikeTi","wyaltubo"
+"53001018166","adamaZe","eTer","giorgi","11/10/48 00:00:00","07/01/10 00:00:00","g",2,"0468333","wyaltubo s. patrikeTi","wyaltubo"
+"53001018167","xurcia","mamuka","mituSa","08/28/63 00:00:00",,"d",1,"1136668","wyaltubo s. gumbra","wyaltubo"
+"53001018168","Cegiani","xaTuna","gela","08/18/75 00:00:00",,"a",2,"0468334","wyaltubo s. gumbra","wyaltubo"
+"53001018169","zarqua","Tamara","mixili","03/21/36 00:00:00",,"b",2,"0468334","wyaltubo s. gumbra","wyaltubo"
+"53001018170","beniZe","zaur","konstantine","07/01/41 00:00:00",,"g",1,"0468334","wyaltubo s. gumbra","wyaltubo"
+"53001018171","balanCivaZe-mesxi","zeinab","vladimeri","03/12/48 00:00:00",,"g",2,"0689001","wyaltubo s. banoja","wyaltubo"
+"53001018172","CirgaZe","germane","giorgi","09/17/85 00:00:00",,"a",1,"1400114","wyaltubo s. gumbra","wyaltubo"
+"53001018173","CirgaZe","medea","giorgi","06/25/83 00:00:00",,"b",2,"0468335","wyaltubo s. gumbra","wyaltubo"
+"53001018174","CogovaZe","larisa","Salva","03/02/47 00:00:00",,"g",2,"0468335","wyaltubo s. gumbra","wyaltubo"
+"53001018175","gureSiZe","elza","avTandili","08/22/69 00:00:00",,"d",2,"0468335","wyaltubo s. gumbra","wyaltubo"
+"53001018176","CixlaZe","giorgi","aleqsandre","01/10/36 00:00:00","01/11/07 00:00:00","a",1,"0468336","wyaltubo s. gumbra","wyaltubo"
+"53001018177","afulava","zaza","amirani","12/29/65 00:00:00",,"b",1,"0468336","wyaltubo s. gumbra","wyaltubo"
+"53001018178","qaSibaZe","roman","SoTa","10/05/51 00:00:00",,"g",1,"0468336","wyaltubo s. gumbra","wyaltubo"
+"53001018179","farulava","kaxa","gurami","01/22/70 00:00:00",,"g",1,"1369094","wyaltubo s. gumbra","wyaltubo"
+"53001018180","Carqseliani","varlam","gurieli","06/02/73 00:00:00",,"a",1,"1438525","wyaltubo s. gumbra","wyaltubo"
+"53001018181","boboxiZe","koba","biqtori","08/31/77 00:00:00",,"b",1,"0468337","wyaltubo s. gumbra","wyaltubo"
+"53001018182","xazaraZe-xurcia","lali","giuli","06/26/64 00:00:00",,"a",2,"1290526","wyaltubo s. gumbra","wyaltubo"
+"53001018183","balanCivaZe","nona","givi","02/16/58 00:00:00",,"b",2,"0468555","wyaltubo s. banoja","wyaltubo"
+"53001018184","CogovaZe","madona","iona","04/25/59 00:00:00",,"a",2,"0468338","wyaltubo s. gumbra","wyaltubo"
+"53001018185","gogeliZe","Tengiz","mixeili","04/06/45 00:00:00",,"b",1,"0468338","wyaltubo s. gumbra","wyaltubo"
+"53001018186","zviadaZe","lali","zauri","09/24/64 00:00:00",,"d",2,"1290880","wyaltubo s. gumbra","wyaltubo"
+"53001018187","abuTiZe","neli","filimoni","06/22/42 00:00:00",,"d",2,"0468338","wyaltubo s. gumbra","wyaltubo"
+"53001018188","SalamberiZe","rusiko","gela","05/25/60 00:00:00",,"g",2,"1078293","wyaltubo s. gumbra","wyaltubo"
+"53001018189","SalamberiZe","fatman","konstantine","03/08/86 00:00:00",,"d",2,"1400072","wyaltubo s. gumbra","wyaltubo"
+"53001018190","gogeliZe","vera","givi","05/28/49 00:00:00",,"g",2,"0468339","wyaltubo s. gumbra","wyaltubo"
+"53001018191","gureSiZe","giorgi","levani","04/14/36 00:00:00",,"d",1,"0468339","wyaltubo s. gumbra","wyaltubo"
+"53001018192","giorgobiani","lia","revazi","10/20/62 00:00:00",,"a",2,"1111380","wyaltubo d.guramiSvilis q. N 2 b. 8","wyaltubo"
+"53001018193","zviadaZe","guram","mixeili","10/20/86 00:00:00",,"b",1,"0468340","wyaltubo s. gumbra","wyaltubo"
+"53001018194","kaxiZe","nestan","givi","08/06/75 00:00:00",,"g",2,"0468340","wyaltubo s. gumbra","wyaltubo"
+"53001018195","xurcia","biZina","mituSa","03/22/61 00:00:00",,"b",1,"0923298","wyaltubo s. gumbra","wyaltubo"
+"53001018196","beniZe","liana","geronti","04/25/51 00:00:00",,"g",2,"0468366","wyaltubo s. gumbra","wyaltubo"
+"53001018197","zviadaZe","goCa","gurami","12/20/68 00:00:00",,"b",1,"0468341","wyaltubo s. gumbra","wyaltubo"
+"53001018198","nucubiZe","badri","geno","08/02/57 00:00:00",,"g",1,"1268714","wyaltubo s. xomuli","wyaltubo"
+"53001018199","gureSiZe","fridoni","grigoli","08/11/81 00:00:00",,"b",1,"0991058","wyaltubo s. gumbra","wyaltubo"
+"53001018200","sinataSvili","zaur","vlasi","06/06/61 00:00:00",,"g",1,"1007377","wyaltubo s. rioni","wyaltubo"
+"53001018201","beriSvili","Teona","vaxtangi","02/06/84 00:00:00",,"b",2,"1290014","senaki a.furcelaZis q. N 29","senaki"
+"53001018202","CxobaZe","Tamara","tarasi","11/17/59 00:00:00",,"b",2,"0841563","wyaltubo i.gogebaSvilis q. N 1 b. 2","wyaltubo"
+"53001018203","CxobaZe","roman","SoTa","10/20/55 00:00:00",,"d",1,"0468342","wyaltubo i.gogebaSvilis q. N 1 b. 2","wyaltubo"
+"53001018298","CirgaZe","giorgi","ipolite","09/22/58 00:00:00",,"d",1,"0468371","wyaltubo s. cxunkuri","wyaltubo"
+"53001018299","leqvinaZe","guram","vladimeri","04/15/56 00:00:00",,"a",1,"0468372","wyaltubo s. maRlaki","wyaltubo"
+"53001018300","SvangiraZe","zaza","eldari","03/18/84 00:00:00",,"g",1,"1136720","wyaltubo s. gviStibi","wyaltubo"
+"53001018301","miqaZe","hamleti","aleqsandre","08/04/50 00:00:00",,"g",1,"0468372","wyaltubo s. gumbra","wyaltubo"
+"53001018302","kvernaZe","irma","demuri","10/16/69 00:00:00",,"d",2,"0468372","wyaltubo ak.wereTlis I Ses. N 16","wyaltubo"
+"53001018303","Tabagari","demuri","vladimeri","07/31/87 00:00:00",,"b",1,"1321123","wyaltubo ak.wereTlis I Ses. N 16","wyaltubo"
+"53001018304","JorJoliani","vasil","Jora","01/28/71 00:00:00",,"g",1,"1061790","wyaltubo s. maRlaki","wyaltubo"
+"53001018305","WalakaniZe","nazibrola","gigla","05/26/52 00:00:00",,"b",2,"1181702","samtredia s. nabakevi","samtredia"
+"53001018306","fancxava","murTaz","titiko","11/28/64 00:00:00",,"g",1,"1369166","wyaltubo s. xomuli","wyaltubo"
+"53001018307","CxeiZe","SoTa","giorgi","09/11/80 00:00:00",,"d",1,"0885797","wyaltubo s. xomuli","wyaltubo"
+"53001018308","CxeiZe","sofio","giorgi","08/05/81 00:00:00",,"g",2,"1233132","wyaltubo s. xomuli","wyaltubo"
+"53001018309","managaZe","Temuri","kako","02/15/56 00:00:00",,"d",1,"0468374","wyaltubo s. xomuli","wyaltubo"
+"53001018310","dangaZe","Teona","murmani","02/16/87 00:00:00",,"a",2,"0468375","wyaltubo s. qviliSori","wyaltubo"
+"53001018311","beraZe","avTandili","nodari","01/02/57 00:00:00",,"b",1,"0468375","wyaltubo vaJa-fSavelas II Ses. N 1","wyaltubo"
+"53001018312","miqaberiZe","omari","uSangi","05/05/43 00:00:00",,"g",1,"0468375","wyaltubo ak.SaniZis q. N 4""a"" b. 9","wyaltubo"
+"53001018313","xaWapuriZe","Tina","levani","08/15/56 00:00:00",,"d",2,"0468375","wyaltubo n.baraTaSvilis q. N 2","wyaltubo"
+"53001018314","WeiSvili","ana","giorgi","05/31/83 00:00:00",,"d",2,"1393856","Tbilisi  misamarTis gareSe","gldani"
+"53001018315","quTaTelaZe","nika","vaJa","08/21/87 00:00:00",,"a",1,"1351644","wyaltubo s. wyaltubo","wyaltubo"
+"53001018316","bondarenko","mamuka","iuri","08/02/64 00:00:00",,"a",1,"1078309","wyaltubo s. patrikeTi","wyaltubo"
+"53001018317","gumberiZe","izolda","givi","12/27/54 00:00:00",,"a",2,"0468377","wyaltubo s. gumbra","wyaltubo"
+"53001018318","daTuaSvili","marine","nodari","11/07/80 00:00:00",,"a",2,"0923425","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018319","ZoZuaSvili","rusudan","Wabuki","09/02/56 00:00:00",,"g",2,"0468377","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018320","inaneiSvili","maka","jambeli","12/10/74 00:00:00",,"d",2,"0468377","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018321","bakuraZe","ana","levani","12/16/72 00:00:00",,"a",2,"0468378","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018322","margvelaSvili","sofio","polikarpe","01/04/78 00:00:00",,"b",2,"0468378","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018323","inaneiSvili","xaTuna","givi","04/23/76 00:00:00",,"g",2,"0468378","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018324","margvelaSvili","nona","karlo","10/26/76 00:00:00",,"d",2,"0468378","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018325","sanebliZe","inga","giorgi","09/30/52 00:00:00",,"a",2,"0468379","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018326","RvinianiZe","cisia","WiWiko","05/12/77 00:00:00",,"b",2,"0613586","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018327","niJaraZe","bariko","petre","05/04/84 00:00:00",,"b",1,"1290653","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018328","inaneiSvili","giga","ilia","12/06/74 00:00:00",,"d",1,"0468379","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018329","boWoriSvili","nikoloz","kukuri","05/24/87 00:00:00",,"d",1,"0946636","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018330","margvelaSvili","suliko","giorgi","05/03/50 00:00:00",,"b",1,"0468380","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018331","laliaSvili","nugzar","nugzari","02/28/83 00:00:00",,"g",1,"1351568","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018332","inaneiSvili","laSa","jambuli","10/27/76 00:00:00",,"d",1,"0468380","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018333","WolaZe","sergo","muradi","11/15/80 00:00:00",,"g",1,"1078433","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018334","toraZe","Salva","jemali","01/01/60 00:00:00",,"b",1,"1193382","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018335","toraZe","lia","SoTa","11/04/60 00:00:00",,"g",2,"1193444","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018336","ZoZuaSvili","anzor","sergo","01/01/47 00:00:00","11/30/05 00:00:00","d",1,"0468381","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018337","cincaZe","marine","raJdeni","08/23/55 00:00:00",,"a",2,"0468382","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018338","inaneiSvili","gulnazi","rezo","06/14/54 00:00:00",,"b",2,"0468382","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018339","ZoZuaSvili","naTela","iluSa","11/15/53 00:00:00",,"g",2,"0468382","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018340","margvelaSvili","varlam","giuleri","04/30/84 00:00:00",,"d",1,"1369172","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018341","RvinianiZe","nodar","koba","01/19/86 00:00:00",,"a",1,"0468383","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018342","nemsiwveriZe","guram","melitoni","01/04/37 00:00:00",,"b",1,"0468383","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018343","xaTriZe","ivane","griSa","02/20/62 00:00:00",,"g",1,"1078272","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018344","banZelaZe","elene","iveriko","11/15/73 00:00:00",,"d",2,"0468383","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018345","inaneiSvili","vefxvia","vaxtangi","04/08/76 00:00:00",,"a",1,"0468384","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018346","margvelaSvili","ramin","karlo","02/11/78 00:00:00",,"b",1,"0468384","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018347","inaneiSvili","mamuka","givi","11/25/78 00:00:00",,"g",1,"0468384","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018348","kbilaSvili","lia","iveriko","10/16/64 00:00:00",,"d",2,"0468384","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018349","SarvaSiZe","lia","aslani","10/26/65 00:00:00",,"a",2,"0468385","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018350","xaTriZe","nana","ramini","12/01/84 00:00:00",,"g",2,"0996756","WiaTura s. wirqvali","WiaTura"
+"53001018351","RvinianiZe","rodam","koba","01/12/87 00:00:00",,"g",1,"0468385","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018352","xaTriZe","mariam","simoni","01/06/79 00:00:00",,"d",2,"0468385","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018353","inaneiSvili","jambul","sergo","02/01/50 00:00:00",,"a",1,"0468386","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018354","SarvaSiZe","maia","iveriko","08/04/66 00:00:00",,"b",2,"0468386","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018355","deisaZe","kaxa","givi","08/10/86 00:00:00",,"g",1,"0885822","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018356","margvelaSvili","malxaz","Tamazi","07/22/80 00:00:00",,"g",1,"0885643","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018357","giorgaZe","gulTamze","Saqro","05/22/77 00:00:00",,"a",2,"0468387","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018358","kepulaZe","ruslan","Wabuka","04/08/80 00:00:00",,"g",1,"0841347","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018359","xidaSeli","mzia","nikolozi","09/29/49 00:00:00",,"g",2,"1321475","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018360","mJavia","avTandil","rafieli","04/30/65 00:00:00",,"b",1,"1078443","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018361","toraZe","aleqsandre","iveriko","10/15/77 00:00:00",,"a",1,"0468388","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018362","niSnianiZe","maka","jemali","10/07/73 00:00:00",,"b",2,"0468388","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018363","inaneiSvili","zurab","bondo","10/02/52 00:00:00",,"g",1,"0468388","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018364","xaTriZe","nino","ramini","07/05/80 00:00:00",,"g",2,"0841716","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018365","inaneiSvili","ilia","biZina","03/08/54 00:00:00",,"a",1,"0468389","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018366","fxakaZe","ia","levani","07/18/86 00:00:00",,"b",2,"0468389","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018367","deisaZe","murman","Salva","06/01/41 00:00:00",,"g",1,"0468389","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018368","miqabaZe","lamara","serapioni","06/20/40 00:00:00",,"d",2,"0468389","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018369","banZelaZe","ramazi","Tengizi","02/24/64 00:00:00",,"b",1,"1290628","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018370","deisaZe","gia","mituSa","02/15/76 00:00:00",,"b",1,"1305509","qobuleTi  misamarTis gareSe","qobuleTi"
+"53001018371","ZoZuaSvili","gaga","nugzari","05/25/86 00:00:00",,"d",1,"1193344","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018372","liklikaZe","nanuli","ipolite","02/05/52 00:00:00",,"d",2,"0468390","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018373","toraZe","rita","biWiko","10/16/82 00:00:00",,"d",2,"1136601","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018374","laliaSvili","Salva","givi","07/16/87 00:00:00",,"a",1,"1369123","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018375","deisaZe","nani","varlami","02/02/45 00:00:00",,"g",2,"0468391","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018376","robaqiZe","nazi","ismaili","06/25/51 00:00:00",,"d",2,"0468391","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018377","ZoZuaSvili","suliko","jemali","02/05/65 00:00:00",,"a",1,"1233480","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018378","nemsiwveriZe","merab","ramini","04/26/62 00:00:00",,"b",1,"1061838","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018379","niJaraZe","oleg","griSa","11/22/60 00:00:00",,"g",1,"0946323","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018380","ZoZuaSvili","Tamaz","barnabi","02/23/47 00:00:00",,"d",1,"0468392","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018381","fxakaZe","giorgi","tarieli","07/18/82 00:00:00",,"d",1,"1078267","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018382","sayvareliZe","irakli","Tamazi","08/16/77 00:00:00",,"g",1,"0468393","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018383","bolqvaZe","irma","nodari","07/01/67 00:00:00",,"d",2,"0468393","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018384","inaneiSvili","besik","giuri","09/18/72 00:00:00",,"a",1,"1290756","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018385","comaia","imeda","elguja","05/01/78 00:00:00",,"b",1,"0468394","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018386","laliaSvili","sofio","gia","12/12/86 00:00:00",,"g",2,"0468394","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018387","SarvaSiZe","olegi","grigoli","04/09/74 00:00:00","12/24/07 00:00:00","d",1,"0468394","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018388","fxakaZe","gurami","levani","07/02/34 00:00:00","02/01/10 00:00:00","a",1,"0468395","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018389","kepulaZe","meri","zurabi","01/12/50 00:00:00",,"b",2,"0468395","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018390","banZelaZe","Tamar","Sura","07/07/66 00:00:00",,"g",2,"0468395","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018391","inaneiSvili","koba","avTandili","02/14/69 00:00:00",,"d",1,"0468395","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018392","inaneiSvili","gaga","ilia","08/24/73 00:00:00",,"a",1,"0468396","wyaltubo s. ofSkviTi","wyaltubo"
+"53001018393","balanCivaZe","Teimuraz","andro","02/24/48 00:00:00",,"b",1,"0468405","wyaltubo s. banoja","wyaltubo"
+"53001016717","sulakaZe","giorgi","vaxtangi","12/03/81 00:00:00",,"d",1,"1027376","wyaltubo s. sayulia","wyaltubo"
+"53001016718","WolaZe","ramin","buxuti","10/10/64 00:00:00",,"g",1,"0408934","wyaltubo s. sayulia","wyaltubo"
+"53001016719","lomiZe","luiza","gervasi","04/11/50 00:00:00",,"d",2,"0408934","wyaltubo s. sayulia","wyaltubo"
+"53001016720","lomiZe","iuza","ivane","07/10/50 00:00:00",,"a",1,"0408935","wyaltubo s. sayulia","wyaltubo"
+"53001016721","babluani","vardo","miSa","02/10/47 00:00:00",,"b",2,"0408935","wyaltubo s. sayulia","wyaltubo"
+"53001016722","xabuliani","vladimeri","avTandili","04/06/87 00:00:00",,"a",1,"1233327","wyaltubo s. sayulia","wyaltubo"
+"53001016723","tvildiani","galaqtion","soso","01/08/82 00:00:00",,"d",1,"0841497","wyaltubo s. sayulia","wyaltubo"
+"53001016724","Canqseliani","ana","elvardi","12/15/86 00:00:00",,"a",2,"0408936","wyaltubo s. sayulia","wyaltubo"
+"53001016725","xabuliani","cico","giorgi","07/23/59 00:00:00",,"b",2,"0408936","wyaltubo s. sayulia","wyaltubo"
+"53001016726","margvelaSvili","roman","sevarioni","06/25/40 00:00:00",,"g",1,"0408936","wyaltubo s. sayulia","wyaltubo"
+"53001016727","xelaia","eka","guladi","06/05/85 00:00:00",,"d",2,"0408936","wyaltubo s. sayulia","wyaltubo"
+"53001016728","jalaRania","naTia","jemali","08/10/78 00:00:00",,"a",2,"0408937","wyaltubo s. sayulia","wyaltubo"
+"53001016729","svanaZe","dimitri","iliko","04/10/61 00:00:00",,"a",1,"0946256","wyaltubo s. sayulia","wyaltubo"
+"53001016730","WeliZe","nona","saSa","09/24/78 00:00:00",,"g",2,"0408937","wyaltubo s. sayulia","wyaltubo"
+"53001016731","Canqseliani","mirza","murzayani","03/15/58 00:00:00",,"d",1,"0408937","wyaltubo s. sayulia","wyaltubo"
+"53001016732","lomiZe","Tengiz","iosebi","12/12/55 00:00:00",,"a",1,"0408938","wyaltubo s. sayulia","wyaltubo"
+"53001016733","kaSia","ciala","nikolozi","11/12/47 00:00:00",,"b",2,"0408938","wyaltubo s. sayulia","wyaltubo"
+"53001016734","ferculiani","veriko","ciceroni","05/24/84 00:00:00",,"g",2,"1290506","wyaltubo s. sayulia","wyaltubo"
+"53001016735","kuxianiZe","Tea","Tengizi","07/27/82 00:00:00",,"d",2,"0408938","wyaltubo s. sayulia","wyaltubo"
+"53001016736","ferculiani","nana","anzori","04/23/78 00:00:00",,"a",2,"0408939","wyaltubo s. sayulia","wyaltubo"
+"53001016737","oniani","zurab","mixnari","03/25/58 00:00:00",,"b",1,"0408939","wyaltubo s. sayulia","wyaltubo"
+"53001016738","laliaSvili","Tamari","ivane","08/11/60 00:00:00",,"g",2,"1061860","wyaltubo s. ofSkviTi","wyaltubo"
+"53001016739","xingava","mamuka","avTandili","12/22/84 00:00:00",,"g",1,"1290666","wyaltubo s. geguTi","wyaltubo"
+"53001016740","Canqseliani","Tengiz","gurgeni","04/26/86 00:00:00",,"g",1,"1321416","wyaltubo s. sayulia","wyaltubo"
+"53001016741","Canqseliani","marina","uSangi","08/01/75 00:00:00",,"b",2,"0408940","wyaltubo s. sayulia","wyaltubo"
+"53001016742","xabuliani","maia","avTandili","02/28/83 00:00:00",,"d",2,"1136371","wyaltubo s. sayulia","wyaltubo"
+"53001016743","gabunia","Tina","zauri","03/06/76 00:00:00",,"d",2,"0408940","wyaltubo s. sayulia","wyaltubo"
+"53001016744","svanaZe","oTar","amirani","05/22/85 00:00:00",,"g",1,"1195501","quTaisi nikeas II Ses. N 7 b. 5",
+"53001016745","mukbaniani","fatima","zauri","04/09/75 00:00:00",,"g",2,"0468277","wyaltubo s. sayulia","wyaltubo"
+"53001016746","Canqseliani","Tea","gurgeni","12/29/84 00:00:00",,"g",2,"0408941","wyaltubo s. sayulia","wyaltubo"
+"53001016747","liparteliani","zezva","nodari","05/31/86 00:00:00",,"d",1,"0408941","wyaltubo s. sayulia","wyaltubo"
+"53001016748","gogonaZe","ermile","pavle","01/26/82 00:00:00","02/24/10 00:00:00","a",1,"0408942","wyaltubo s. sayulia","wyaltubo"
+"53001016749","svanaZe","eka","vaxtangi","05/08/84 00:00:00","12/17/10 00:00:00","g",2,"1282409","quTaisi nikeas II Ses. N 4 b. 24",
+"53001016750","Canqseliani","marexi","razioni","10/30/84 00:00:00",,"b",2,"1291000","wyaltubo s. sayulia","wyaltubo"
+"53001016751","gazdeliani","mixa","zaurbegi","09/24/86 00:00:00",,"a",1,"1027293","wyaltubo s. sayulia","wyaltubo"
+"53001016752","Canqseliani","ilamaz","kowia","11/21/62 00:00:00",,"a",1,"1136424","wyaltubo s. sayulia","wyaltubo"
+"53001016753","liparteliani","xaTuna","givi","10/17/84 00:00:00",,"b",2,"0408943","wyaltubo s. sayulia","wyaltubo"
+"53001016754","WolaZe","Teimuraz","bondo","03/17/79 00:00:00",,"g",1,"0408943","wyaltubo s. sayulia","wyaltubo"
+"53001016755","TevdoraZe","naTia","omari","09/19/84 00:00:00",,"a",2,"1290792","wyaltubo s. sayulia","wyaltubo"
+"53001016756","qurasbediani","sofiko","ramazi","03/11/87 00:00:00",,"g",2,"1392581","quTaisi wminda samebis V Ses. N 5",
+"53001016757","xelaia","guladi","kirile","02/25/51 00:00:00",,"b",1,"0408944","wyaltubo s. sayulia","wyaltubo"
+"53001016758","Canqseliani","maia","uSangi","05/05/74 00:00:00",,"d",2,"1042991","lentexi s. wanaSi","lentexi"
+"53001016759","svanaZe","nestan","murTazi","06/09/86 00:00:00",,"d",2,"0408944","wyaltubo s. sayulia","wyaltubo"
+"53001016760","togoniZe","xaTuna","tarieli","07/16/77 00:00:00",,"a",2,"0408945","wyaltubo s. zeda mesxeTi","wyaltubo"
+"53001016761","togoniZe","zinaida","vladimeri","05/25/82 00:00:00",,"a",2,"1136498","wyaltubo s. banoja","wyaltubo"
+"53001016762","SalamberiZe","cicino","valiko","07/10/82 00:00:00",,"g",2,"1193278","wyaltubo s. zeda mesxeTi","wyaltubo"
+"53001016763","SalamberiZe","zviad","elguja","10/04/82 00:00:00",,"b",1,"1193252","wyaltubo s. zeda mesxeTi","wyaltubo"
+"53001016764","SalamberiZe","sulxan","valiko","05/19/85 00:00:00",,"g",1,"1351548","wyaltubo s. zeda mesxeTi","wyaltubo"
+"53001016765","javaxiSvili","Teimurazi","Teimurazi","02/13/83 00:00:00",,"a",1,"1173796","wyaltubo s. zeda mesxeTi","wyaltubo"
+"53001016766","iobiZe","nugzar","tarasi","09/07/61 00:00:00",,"g",1,"1369079","wyaltubo k.gamsaxurdias q. N 96","wyaltubo"
+"53001016767","SvangiraZe","qeTevan","demuri","01/19/86 00:00:00",,"d",2,"0408946","wyaltubo s. gviStibi","wyaltubo"
+"53001016768","nadibaiZe","rezo","Salva","06/05/48 00:00:00",,"a",1,"0408947","wyaltubo ilia WavWavaZis q. N 8""a""","wyaltubo"
+"53001016769","quTaTelaZe","lali","gia","09/13/84 00:00:00",,"a",2,"1290791","wyaltubo 9 aprilis q. N 11 b. 1","wyaltubo"
+"53001016770","kvicariZe","naTia","muradi","05/09/81 00:00:00",,"g",2,"1115448","wyaltubo 9 aprilis q. N 11 b. 23","wyaltubo"
+"53001016771","kuxianiZe","jumberi","serapioni","11/10/32 00:00:00","04/21/09 00:00:00","d",1,"0408948","wyaltubo s. geguTi","wyaltubo"
+"53001016772","xingava","nana","tarieli","05/10/82 00:00:00",,"g",2,"1351562","wyaltubo s. geguTi","wyaltubo"
+"53001016773","maCalaZe","daviTi","nestori","08/02/84 00:00:00",,"b",1,"0408949","wyaltubo s. geguTi","wyaltubo"
+"53001016774","festveniZe","sofiko","vaxtangi","08/15/79 00:00:00",,"a",2,"0811585","wyaltubo s. geguTi","wyaltubo"
+"53001016775","mamiseiSvili","Tina","konstantine","02/20/80 00:00:00",,"a",2,"0877040","wyaltubo s. geguTi Tamar mefis q. N","wyaltubo"
+"53001016870","deisaZe","melori","vaniCka","08/08/42 00:00:00","05/11/10 00:00:00","d",1,"0408974","wyaltubo s. maRlaki","wyaltubo"
+"53001016871","dolaberiZe","maia","borisi","06/02/83 00:00:00",,"b",2,"1366578","zestafoni melqaZis q. N 11 b. 18","zestafoni"
+"53001016872","xanTaZe","mirza","grigoli","07/27/75 00:00:00",,"b",1,"0408975","wyaltubo s. sormoni","wyaltubo"
+"53001016873","xecuriani","naTela","aleqsandre","02/28/50 00:00:00",,"g",2,"0408975","wyaltubo g.tabiZis q. N 5 b. 26","wyaltubo"
+"53001016874","vardaniZe","givi","giorgi","11/03/62 00:00:00",,"d",1,"1115251","wyaltubo n.nikolaZis q. N 8","wyaltubo"
+"53001016875","vardaniZe","nana","Teimurazi","03/15/67 00:00:00",,"a",2,"0408976","wyaltubo n.nikolaZis q. N 8","wyaltubo"
+"53001016876","vardaniZe-jangavaZe","lali","giorgi","06/20/67 00:00:00",,"b",2,"1290624","wyaltubo s. gviStibi","wyaltubo"
+"53001016877","kinwuraSvili","anzor","dimitri","05/02/42 00:00:00",,"g",1,"0408976","wyaltubo s. Ternali","wyaltubo"
+"53001016878","kostava","tariel","avTandili","10/25/83 00:00:00",,"a",1,"1193672","wyaltubo s. maRlaki","wyaltubo"
+"53001016879","deisaZe","eTeri","melitoni","04/09/53 00:00:00",,"b",2,"0408977","wyaltubo s. maRlaki","wyaltubo"
+"53001016880","kobeSaviZe","rolandi","grigoli","08/16/47 00:00:00",,"g",1,"0408977","wyaltubo s. maRlaki","wyaltubo"
+"53001016881","xvistani","iuri","rostomi","06/12/68 00:00:00",,"d",1,"0408977","wyaltubo s. maRlaki","wyaltubo"
+"53001016882","deisaZe","meri","ermanozi","08/13/46 00:00:00",,"g",2,"0408997","wyaltubo s. maRlaki","wyaltubo"
+"53001016883","dvali","vladimer","oTari","01/14/60 00:00:00",,"g",1,"0991249","wyaltubo s. maRlaki","wyaltubo"
+"53001016884","vaSaymaZe","goCa","muradi","02/21/81 00:00:00",,"g",1,"1290665","wyaltubo s. maRlaki","wyaltubo"
+"53001016885","vaSaymaZe","murad","gervasi","04/22/48 00:00:00",,"d",1,"0408978","wyaltubo s. maRlaki","wyaltubo"
+"53001016886","kostava","Tamaz","avTandili","11/10/80 00:00:00",,"d",1,"0885808","wyaltubo s. maRlaki","wyaltubo"
+"53001016887","WeiSvili","badri","valiko","04/23/65 00:00:00",,"d",1,"1351871","wyaltubo s. maRlaki","wyaltubo"
+"53001016888","deisaZe","beJan","vaxtangi","05/02/61 00:00:00",,"g",1,"1007493","wyaltubo s. maRlaki","wyaltubo"
+"53001016889","JorJoliani","eka","Salva","03/10/78 00:00:00",,"d",2,"0408979","wyaltubo s. maRlaki","wyaltubo"
+"53001016890","Sene","Teona","ramazi","06/03/85 00:00:00",,"b",2,"1400062","wyaltubo s. maRlaki","wyaltubo"
+"53001016891","JorJoliani","fiqria","brZolverdi","09/05/84 00:00:00",,"a",2,"1356624","duSeTi s. wiTelsofeli","duSeTi"
+"53001016892","JorJoliani","Temur","nugzari","02/02/86 00:00:00",,"b",1,"1400003","wyaltubo s. maRlaki","wyaltubo"
+"53001016893","JorJoliani","juanSer","jeirani","10/23/86 00:00:00",,"d",1,"0408980","wyaltubo s. maRlaki","wyaltubo"
+"53001016894","kostava","giorgi","rusiko","01/21/68 00:00:00",,"a",1,"0408981","wyaltubo s. maRlaki","wyaltubo"
+"53001016895","deisaZe","WiWiko","akaki","04/01/37 00:00:00",,"b",1,"1111365","wyaltubo s. maRlaki","wyaltubo"
+"53001016896","urataZe","emzar","simoni","04/16/74 00:00:00",,"g",1,"0408981","wyaltubo s. maRlaki","wyaltubo"
+"53001016897","javaxaZe","ivane","giorgi","04/01/59 00:00:00",,"d",1,"0408981","wyaltubo s. maRlaki","wyaltubo"
+"53001016898","niJaraZe","kaxaberi","buxula","08/17/84 00:00:00",,"g",1,"1321445","wyaltubo s. maRlaki","wyaltubo"
+"53001016899","alfaiZe","nino","sergo","08/28/87 00:00:00",,"b",2,"0408982","wyaltubo s. maRlaki","wyaltubo"
+"53001016900","javaxaZe","sergo","givi","06/15/59 00:00:00",,"b",1,"0468466","wyaltubo s. maRlaki","wyaltubo"
+"53001016901","alfaiZe","sergo","aleqsandre","02/17/56 00:00:00",,"d",1,"0408982","wyaltubo s. maRlaki","wyaltubo"
+"53001016902","ioseliani","Teona","badri","10/30/83 00:00:00",,"a",2,"1223064","wyaltubo s. maRlaki","wyaltubo"
+"53001016903","JorJoliani","jeiran","griSa","08/27/59 00:00:00",,"b",2,"0408983","wyaltubo s. maRlaki","wyaltubo"
+"53001016904","kostava","arsen","jabulo","11/27/60 00:00:00",,"d",1,"0946220","wyaltubo s. maRlaki","wyaltubo"
+"53001016905","niqabaZe","Tamaz","apoloni","06/10/41 00:00:00","01/22/09 00:00:00","d",1,"0408983","wyaltubo s. maRlaki","wyaltubo"
+"53001016906","javaxaZe","lado","mixeili","01/07/40 00:00:00",,"a",1,"1321332","wyaltubo s. maRlaki","wyaltubo"
+"53001016907","ratiani","ramazi","JorJi","02/27/60 00:00:00",,"b",1,"0841392","wyaltubo s. maRlaki","wyaltubo"
+"53001016908","deisaZe","marina","givi","02/08/63 00:00:00",,"b",2,"1078327","wyaltubo s. maRlaki","wyaltubo"
+"53001016909","fxakaZe","naTela","murmani","03/31/86 00:00:00",,"d",2,"1078359","wyaltubo s. maRlaki","wyaltubo"
+"53001016910","museliani","roza","aleqsandre","05/25/55 00:00:00",,"a",2,"0408985","wyaltubo s. maRlaki","wyaltubo"
+"53001016911","kostava","avTandil","avTandili","07/18/86 00:00:00",,"b",1,"0408985","wyaltubo s. maRlaki","wyaltubo"
+"53001016912","javaxaZe","bela","avTandili","07/29/84 00:00:00",,"g",2,"0408985","wyaltubo s. maRlaki","wyaltubo"
+"53001016913","javaxaZe","klara","rubeni","09/15/63 00:00:00",,"b",2,"1290840","wyaltubo s. maRlaki","wyaltubo"
+"53001016914","javaxaZe","mamuka","WiWiko","03/27/67 00:00:00",,"a",1,"0408986","wyaltubo s. maRlaki","wyaltubo"
+"61002014546","SavaZe","jumber","nodari","02/28/83 00:00:00",,"d",1,"1144269","baTumi d.aRmaSeneblis q. N 32 b. 54",
+"61002014547","paiWaZe","xaTuna","Teimurazi","07/28/73 00:00:00",,"d",2,"0378618","baTumi l.gudiaSvilis q. N 18/20 b.",
+"61002014548","abaSiZe","gulnaz","griSa","05/19/73 00:00:00",,"d",2,"1054381","baTumi iv.javaxiSvilis II Ses. N 4",
+"61002014549","gorgaZe","ruslan","Tengizi","12/21/84 00:00:00",,"d",1,"1377682","baTumi g.tabiZis q. N 7",
+"61002014550","gorgaZe","cisnam","Tengizi","09/26/83 00:00:00",,"g",2,"0842901","baTumi v.gorgasalis q. N 153",
+"61002014551","beqiriSvili","natalia","nodari","12/05/72 00:00:00",,"a",2,"0378620","baTumi d.aRmaSeneblis q. N 7a b. 43",
+"61002014552","SaraZe","liana","goCa","03/15/61 00:00:00","08/31/10 00:00:00","k",2,"0000557","baTumi a.ostrovskis q. N 68",
+"61002014553","mamuWaZe","malxaz","levani","04/04/67 00:00:00",,"a",1,"0950887","baTumi 26 maisis q. N 55/57 b. 58",
+"61002014554","javeliZe","beniamin","omari","01/23/74 00:00:00",,"b",1,"1147385","baTumi g.tabiZis q. N 23 b. 16",
+"61002014555","beriZe","dali","revazi","01/23/71 00:00:00",,"a",2,"1378004","baTumi i.kobalaZis q. N 9 b. 37",
+"61002014556","dumbaZe","roin","gurami","02/27/75 00:00:00",,"g",1,"0378621","baTumi iv.javaxiSvilis q. N 80 b. 2",
+"61002014557","gogitiZe","nodar","memedi","06/20/54 00:00:00",,"d",1,"0378621","baTumi g.tabiZis q. N 21 b. 27",
+"61002014558","vasaZe","lida","maTe","04/06/22 00:00:00","12/02/10 00:00:00","b",2,"0341838","Tbilisi sanzona kor. 27 b. 68","naZaladevi"
+"61002014559","beriZe","rolandi","goCa","11/19/85 00:00:00",,"a",1,"1411900","baTumi d.aRmaSeneblis q. N 3 b. 46",
+"61002014560","kutubiZe","ia","gurami","01/01/79 00:00:00",,"a",2,"1366197","baTumi d.Tavdadebulis q. N 48",
+"61002014561","varTaniani","edgar","eduardi","07/03/84 00:00:00",,"a",1,"1275124","baTumi l.gudiaSvilis q. N 18 b. 52",
+"61002014562","romanaZe","roman","Tamazi","08/03/85 00:00:00",,"d",1,"0950756","baTumi gen.a.abaSiZis q. N 17 b. 38",
+"61002014563","jijavaZe","liana","jumberi","09/26/82 00:00:00",,"g",2,"1260188","baTumi tbel abuserisZis  Ses. N 3/9",
+"61002014564","paskali","gela","leoni","11/02/72 00:00:00",,"a",1,"0378624","baTumi S.ximSiaSvilis q. N 43 b. 1",
+"61002014565","CitaZe","ramaz","givi","02/08/82 00:00:00",,"g",1,"1275318","baTumi g.tabiZis q. N 19a b. 15",
+"61002014566","beriZe","guliko","aslani","08/22/41 00:00:00",,"g",2,"0936167","xelvaCauri s. axalSeni","xelvaCauri"
+"61002014567","qoqolaZe","ciuri","israfili","01/12/68 00:00:00",,"a",2,"0378625","baTumi iv.javaxiSvilis I Ses. N 13",
+"61002014568","nasyidaSvili","levan","gogi","09/03/79 00:00:00",,"d",1,"0981923","baTumi tbel abuserisZis q. N 55",
+"61002014569","solomoniZe","mayvala","aleqsi","05/03/57 00:00:00",,"a",2,"1113574","baTumi iv.javaxiSvilis q. N 14",
+"61002014570","kuznecovi","aleqsandre","pavle","05/14/86 00:00:00","10/06/05 00:00:00","b",1,"0378626","baTumi tbel abuserisZis q. N 18 b.",
+"61002014571","SaniZe","mamuka","nodari","06/13/67 00:00:00",,"g",1,"0378626","baTumi i.kobalaZis q. N 5 b. 54",
+"61002014572","bakuriZe","SuSana","beJani","05/23/76 00:00:00",,"d",2,"0378626","baTumi a.oZelaSvilis q. N 2",
+"61002014573","koCaliZe","mindia","nodari","08/22/63 00:00:00",,"a",1,"1174744","baTumi al.puSkinis q. N 172 b. 30",
+"61002014574","vaSaymaZe","Tamar","nuri","05/25/57 00:00:00",,"b",2,"0378627","baTumi g.leoniZis q. N 4 b. 33",
+"61002014575","beriZe","amiran","enveri","12/07/59 00:00:00",,"d",1,"0740368","baTumi i.kobalaZis q. N 6 b. 49",
+"61002014576","moqia","lia","levani","06/30/74 00:00:00",,"d",2,"0378627","baTumi d.aRmaSeneblis q. N 20 b. 32",
+"61002014577","abaSiZe","alaverd","xemdo","06/09/62 00:00:00",,"g",1,"1123442","baTumi g.leoniZis q. N 2 b. 34",
+"61002014578","gemazaSvili","gaioz","gurami","09/06/84 00:00:00",,"g",1,"1312525","baTumi S.ximSiaSvilis q. N 25 b. 56",
+"61002014579","gemazaSvili","genrieta","gurami","04/21/86 00:00:00",,"g",2,"0378628","baTumi S.ximSiaSvilis q. N 25 b. 56",
+"61002014580","SaqaraZe","jemal","qazimi","07/12/59 00:00:00",,"a",1,"1085913","baTumi firosmanis q. N 2 b. 3",
+"61002014581","SaqaraZe","marina","mixeili","05/05/62 00:00:00",,"d",2,"1123625","baTumi firosmanis q. N 2 b. 3",
+"61002014582","baxtaZe","nona","Temuri","12/17/77 00:00:00",,"d",2,"0589762","baTumi g.tabiZis q. N 19 b. 37",
+"61002014583","goliaZe","levan","avTandili","10/05/80 00:00:00",,"g",1,"1187136","baTumi g.tabiZis q. N 17 b. 34",
+"61002014584","tixonina","Janeta","arkadi","05/25/51 00:00:00",,"a",2,"0378631","baTumi g.tabiZis q. N 25 b. 36",
+"61002014585","TavarTqilaZe","zelimxan","muxamedi","07/11/48 00:00:00",,"g",1,"0362280","xulo s. ZirkvaZeebi","xulo"
+"61002014586","martirosiani","giulvard","mnacakani","04/18/60 00:00:00",,"g",2,"0766338","baTumi al.puSkinis q. N 172 b. 7",
+"61002014587","qamadaZe","mayvala","daviTi","03/08/81 00:00:00",,"b",2,"1049417","baTumi iv.javaxiSvilis q. N 74a b.",
+"61002014588","xajiSvili","oTar","gurami","12/07/51 00:00:00",,"g",1,"0455368","baTumi p.meliqiSvilis q. N 135",
+"61002014589","maxaraZe","Salva","akaki","06/20/62 00:00:00",,"a",1,"1312189","baTumi d.aRmaSeneblis q. N 18 b. 48",
+"61002014590","bolqvaZe","roman","levani","08/05/62 00:00:00",,"g",1,"1092961","baTumi d.aRmaSeneblis q. N 20 b. 5",
+"61002014591","cecxlaZe","jumber","rezo","03/14/64 00:00:00",,"d",1,"0013101","baTumi g.tabiZis q. N 7",
+"61002014592","maxaWaZe","nana","Tamazi","09/19/67 00:00:00",,"d",2,"0378633","baTumi g.tabiZis q. N 3 b. 35",
+"61002014593","gordelaZe","nino","avTandili","02/03/86 00:00:00",,"d",2,"1085786","baTumi al.puSkinis q. N 129131 b. 7",
+"61002014594","ovanesiani","gurgen","seiran","03/28/85 00:00:00",,"g",1,"1378105","baTumi S.ximSiaSvilis q. N 35 b. 21",
+"61002014595","bolqvaZe","inga","givi","09/10/72 00:00:00",,"b",2,"1167688","Tbilisi b.xmelnickis q. N 151 b. 53","isani"
+"61002014596","keropiani","robert","ambarcumi","06/06/62 00:00:00",,"b",1,"1092863","baTumi tbel abuserisZis q. N 21a b.",
+"61002014597","iToniSvili","marine","Tengizi","01/12/57 00:00:00",,"b",2,"0378635","baTumi S.ximSiaSvilis q. N 45 b. 52",
+"61002014598","zaqaraZe","darejan","suleimani","07/01/36 00:00:00",,"g",2,"0378636","baTumi gen.a.abaSiZis q. N 17 b. 63",
+"61002014599","piroJkovi","evgeni","mixeili","07/20/37 00:00:00","02/16/10 00:00:00","d",1,"0378636","baTumi i.kobalaZis q. N 8 b. 7",
+"61002014600","vasaZe","zurab","giorgi","06/01/72 00:00:00",,"b",1,"1377826","baTumi g.tabiZis q. N 25 b. 52",
+"61002014601","beriZe","zaza","zauri","09/11/83 00:00:00",,"g",1,"1390331","baTumi n.malazonias q. N 8",
+"61002014602","kakabaZe","daviT","levani","01/16/86 00:00:00",,"a",1,"1147677","baTumi iv.javaxiSvilis q. N 74 b. 1",
+"61002014603","vardmaniZe","albina","Tamazi","09/05/78 00:00:00",,"g",2,"1312458","baTumi iv.javaxiSvilis q. N 78 b. 5",
+"61002014604","Tedeluri","darejan","oTari","05/02/53 00:00:00",,"g",2,"0378638","baTumi i.kobalaZis q. N 6 b. 43",
+"61002014605","kazariani","svetlana","xaCiki","10/14/42 00:00:00",,"b",2,"1365967","baTumi m.lermontovis q. N 107v b. 3",
+"61002014606","quriZe","aleqsandre","jemali","09/14/46 00:00:00","08/23/06 00:00:00","a",1,"0378639","baTumi p.lorias q. N 5 b. 48",
+"61002014607","jiblaZe","mediko","nikolozi","03/20/35 00:00:00","06/22/06 00:00:00","b",2,"0378639","baTumi S.inasariZis q. N 8 b. 7-8",
+"61002014698","aslaniani","goar","sergo","01/02/66 00:00:00",,"d",2,"0378673","baTumi p.ruruas q. N 3 b. 31",
+"61002014699","aSlarba","Tamaz","xaliTi","05/16/52 00:00:00",,"a",1,"0378674","baTumi S.ximSiaSvilis q. N 43 b. 15",
+"61002014700","miqelaZe","goCa","nazimi","11/22/74 00:00:00",,"a",1,"0589875","baTumi g.tabiZis q. N 19 b. 46",
+"61002014701","tumazovi","inga","vaJa","06/05/83 00:00:00",,"b",2,"1147383","baTumi d.aRmaSeneblis q. N 28 b. 38",
+"61002014702","mujiri","biWiko","Temuri","11/27/84 00:00:00",,"g",1,"1312485","baTumi d.aRmaSeneblis q. N 28 b. 45",
+"61002014703","gienko","igor","nikolozi","02/10/48 00:00:00",,"a",1,"0378675","baTumi Tamar mefis das. N 2 b. 13",
+"61002014704","gienko","aleqsandre","igori","12/04/83 00:00:00",,"a",1,"1377515","baTumi Tamar mefis das. N 2 b. 13",
+"61002014705","gladiSeva","olRa","valnntini","11/21/53 00:00:00",,"d",2,"0363704","baTumi Tamar mefis das. N 2 b. 13",
+"61002014706","melqaZe","daviT","roberti","06/10/77 00:00:00",,"b",1,"0378676","baTumi g.tabiZis q. N 19 b. 40",
+"61002014707","bagdasariani","paicar","sureni","01/14/57 00:00:00",,"g",2,"0378676","baTumi p.ruruas q. N 1 b. 9",
+"61002014708","gogitiZe","amiran","xuseini","02/25/65 00:00:00",,"g",1,"1366022","baTumi g.tabiZis q. N 7",
+"61002014709","centeraZe","nazi","muxamedi","01/10/52 00:00:00",,"g",2,"0615444","baTumi g.tabiZis q. N 21 b. 8",
+"61002014710","vasaZe","ruslan","zauri","08/18/75 00:00:00",,"d",1,"0378677","baTumi S.inasariZis q. N 19 b. 22",
+"61002014711","civnariZe","sergo","axmedi","09/21/65 00:00:00",,"b",1,"1390793","baTumi a.oZelaSvilis q. N 20",
+"61002014712","polevaeva","marina","viqtori","08/19/56 00:00:00",,"b",2,"0378678","baTumi S.ximSiaSvilis q. N 35 b. 36",
+"61002014713","karamatoziani","nvard","stanislav","04/30/48 00:00:00",,"a",2,"0378679","baTumi g.tabiZis q. N 29 b. 7",
+"61002014714","nakaSiZe","naTela","nodari","05/27/82 00:00:00",,"b",2,"0378679","baTumi g.tabiZis q. N 15 b. 14",
+"61002014715","nakaSiZe","giorgi","nodari","09/20/86 00:00:00",,"g",1,"0378679","baTumi g.tabiZis q. N 15 b. 14",
+"61002014716","nakaSiZe","natalia","aleqsi","01/31/58 00:00:00",,"b",2,"0916581","baTumi m.lermontovis q. N 107e b. 3",
+"61002014717","kotrikaZe","daviT","jumberi","06/23/83 00:00:00",,"g",1,"1147656","baTumi g.leoniZis q. N 6v b. 62",
+"61002014718","diasamiZe","rostom","rostomi","06/15/69 00:00:00",,"b",1,"0378680","baTumi g.tabiZis q. N 7",
+"61002014719","grigorieva","naira","garsevani","08/22/62 00:00:00",,"g",2,"1390794","baTumi g.tabiZis q. N 7",
+"61002014720","CogaZe","manana","ilia","09/24/73 00:00:00",,"d",2,"0378680","baTumi g.tabiZis q. N 7",
+"61002014721","mamasaxlisi","ia","gigla","07/10/65 00:00:00",,"b",2,"0950891","baTumi d.aRmaSeneblis q. N 11 b. 6",
+"61002014722","kaxiZe","nugzar","suliko","06/02/78 00:00:00",,"b",1,"0472201","baTumi firosmanis q. N 1 b. 19",
+"61002014723","qaTamaZe","elza","daviTi","03/16/83 00:00:00",,"a",2,"1312817","baTumi S.ximSiaSvilis q. N 35 b. 35",
+"61002014724","beriZe","Tamaz","nodari","09/15/66 00:00:00",,"b",1,"0378682","baTumi iv.javaxiSvilis q. N 72a b.",
+"61002014725","melaZe","nargiz","iosebi","05/20/67 00:00:00",,"g",2,"0378682","baTumi iv.javaxiSvilis q. N 72a b.",
+"61002014726","beriZe","darejan","aliosmani","03/08/53 00:00:00",,"b",2,"0378683","baTumi g.leoniZis q. N 6v b. 54",
+"61002014727","doliZe","anzor","merabi","03/09/68 00:00:00",,"d",1,"0382375","baTumi g.eliavas q. N 4 b. 10",
+"61002014728","nazarenko","mimoza","andria","07/01/28 00:00:00",,"d",2,"0378683","baTumi tbel abuserisZis q. N 16 b.",
+"61002014729","miqelaZe","luna","avTandili","02/15/44 00:00:00",,"b",2,"0378684","baTumi S.inasariZis q. N 21 b. 52",
+"61002014730","dekanaZe","maia","Tamazi","11/25/77 00:00:00",,"g",2,"0378684","baTumi S.ximSiaSvilis q. N 11 b. 13",
+"61002014731","kbilianaSvili","luba","mixeili","12/10/14 00:00:00","10/05/05 00:00:00","a",2,"0378685","baTumi firosmanis q. N 3 b. 53",
+"61002014732","dnoiani","Jana","sogomon","07/04/67 00:00:00",,"b",2,"0378685","baTumi S.inasariZis q. N 2 b. 48",
+"61002014733","gorgilaZe","genadi","arseni","04/15/73 00:00:00",,"g",1,"0378685","baTumi S.ximSiaSvilis q. N 41 b. 74",
+"61002014734","malaymaZe","arCil","zurabi","07/01/84 00:00:00",,"g",1,"1275246","baTumi z.gorgilaZis q. N 120 b. 4",
+"61002014735","burWulaZe","irakli","rubeni","01/29/72 00:00:00",,"a",1,"0378687","baTumi g.tabiZis q. N 37 b. 39",
+"61002014736","gabaiZe","Tina","xasani","08/20/59 00:00:00",,"d",2,"0378687","baTumi S.ximSiaSvilis q. N 43 b. 42",
+"61002014737","miqelaZe","jumber","givi","09/02/72 00:00:00",,"a",1,"0378688","baTumi l.gudiaSvilis q. N 18/20 b.",
+"61002014738","melaZe","malxaz","murmani","10/30/81 00:00:00",,"g",1,"1144594","baTumi g.tabiZis q. N 19 b. 36",
+"61002014739","beriZe","daviT","SoTa","11/21/80 00:00:00",,"a",1,"0615418","baTumi g.leoniZis q. N 6v b. 46",
+"61002014740","kalandaZe","joni","panteleimoni","05/19/52 00:00:00",,"b",1,"0378689","baTumi g.tabiZis q. N 29 b. 46",
+"61002014741","aroSiZe","lia","akaki","11/08/78 00:00:00",,"b",2,"1113720","baTumi S.inasariZis q. N 21 b. 14",
+"61002014742","nanaZe","elene","pavle","06/16/61 00:00:00","04/03/03 00:00:00","d",2,"0378689","baTumi z.gorgilaZis q. N 102 b. 7",
+"61002014743","nanaZe","ilia","vladimeri","06/22/55 00:00:00","04/03/03 00:00:00","a",1,"0378690","baTumi z.gorgilaZis q. N 102 b. 7",
+"61002014744","TavarTqilaZe","giuli","rezo","08/16/71 00:00:00",,"g",2,"1147152","baTumi iv.javaxiSvilis q. N 9 b. 39",
+"61002014745","mamulaZe","naTia","nodari","02/18/84 00:00:00",,"b",2,"1274302","baTumi l.gudiaSvilis q. N 24",
+"61002014746","qaTamaZe","Teimuraz","jeferi","09/02/51 00:00:00","02/19/09 00:00:00","g",1,"0378691","baTumi g.tabiZis q. N 23 b. 21",
+"61002014747","falavandiSvili","avTandil","zurabi","01/24/75 00:00:00","05/10/08 00:00:00","d",1,"1106808","baTumi d.aRmaSeneblis q. N 7a b. 10",
+"61002014748","CxikvaZe","naira","aidini","01/09/63 00:00:00",,"a",2,"1343171","baTumi g.brwyinvales q. N 183",
+"61002014749","askerova","nona","ismaili","11/09/63 00:00:00",,"b",2,"1249782","baTumi g.brwyinvales q. N 181",
+"61002014750","oganesiani","vladimer","abgari","06/05/30 00:00:00",,"g",1,"0378692","baTumi S.ximSiaSvilis q. N 25 b. 58",
+"61002014751","oganesiani","evstalia","evstaTi","05/10/23 00:00:00","10/20/04 00:00:00","d",2,"0378692","baTumi S.ximSiaSvilis q. N 25 b. 58",
+"61002014752","vaCeiSvili","londa","karlo","10/10/46 00:00:00","03/10/09 00:00:00","a",2,"0378693","baTumi tbel abuserisZis q. N 21a b.",
+"61002014753","Selia","marina","lideri","08/02/62 00:00:00",,"b",2,"1342919","baTumi d.aRmaSeneblis q. N 3 b. 61",
+"61002014754","CxeiZe","murad","zurabi","07/30/86 00:00:00",,"b",1,"1312038","baTumi S.inasariZis q. N 16 b. 52",
+"61002014755","zaqaraZe","lili","rezo","10/16/82 00:00:00",,"a",2,"1174994","baTumi S.ximSiaSvilis q. N 13 b. 79",
+"61002014756","qoqolaZe","qeTevan","SoTa","06/07/85 00:00:00",,"d",2,"0889722","baTumi g.tabiZis q. N 21 b. 32",
+"61002014757","qaTamaZe","ineza","Tamazi","09/07/83 00:00:00",,"d",2,"0378694","baTumi g.leoniZis q. N 8 b. 36",
+"61002014758","daviTaZe","nona","Temuri","06/08/84 00:00:00",,"d",2,"1148326","xelvaCauri s. gonio","xelvaCauri"
+"61002014759","devaZe","JuJuna","levani","12/02/49 00:00:00",,"b",2,"0378695","baTumi g.tabiZis q. N 23 b. 7",
+"61002014760","jaiani","jaba","oTari","04/21/81 00:00:00",,"b",1,"1377468","baTumi p.ruruas q. N 5 b. 31",
+"61002014761","bagrationi","ciala","selimi","11/20/40 00:00:00","06/19/09 00:00:00","a",2,"0378696","baTumi S.inasariZis q. N 3 b. 18",
+"61002014762","doliZe","Sorena","gurami","04/20/81 00:00:00",,"g",2,"0950678","baTumi d.aRmaSeneblis q. N 22a b. 3",
+"61002014763","doliZe","irakli","gurami","11/03/84 00:00:00",,"d",1,"1274615","baTumi d.aRmaSeneblis q. N 22a b. 3",
+"61002014764","malazonia","galina","antoni","05/26/54 00:00:00",,"b",2,"0378697","baTumi S.ximSiaSvilis q. N 11 b. 78",
+"61002014765","malazonia","nino","omari","06/11/84 00:00:00",,"b",2,"1377597","baTumi S.ximSiaSvilis q. N 11 b. 78",
+"61002014766","bolqvaZe","Tamar","daviTi","11/03/76 00:00:00",,"d",2,"1390889","baTumi d.aRmaSeneblis q. N 24 b. 1",
+"61002014767","sixaruliZe","levan","galaqtioni","11/18/85 00:00:00",,"g",1,"1390513","baTumi iv.javaxiSvilis q. N 72b b.",
+"61002014768","bolqvaZe","jemal","aslani","03/17/58 00:00:00",,"b",1,"1237038","baTumi d.aRmaSeneblis q. N 30 b. 63",
+"61002014769","oveliani","pavle","misaki","04/03/82 00:00:00",,"g",1,"1113562","baTumi a.oZelaSvilis q. N 11 b. 38",
+"61002014770","yulejiSvili","madona","Saliko","05/05/65 00:00:00","01/09/09 00:00:00","b",2,"0378699","baTumi S.inasariZis q. N 16 b. 25",
+"61002014771","TurmaniZe","omar","aleqsandre","10/11/64 00:00:00",,"a",1,"1311912","baTumi S.inasariZis q. N 16 b. 25",
+"61002014772","Todria","ia","givi","03/01/84 00:00:00",,"g",2,"1260054","baTumi iv.javaxiSvilis q. N 72b b.",
+"61002014773","Todria","lia","givi","03/01/84 00:00:00",,"a",2,"1249943","baTumi iv.javaxiSvilis q. N 72b b.",
+"61002014774","fiodorova","nadeJda","igori","03/26/48 00:00:00",,"d",2,"1113500","baTumi d.aRmaSeneblis q. N 10 b. 43",
+"61002014775","abaSiZe","daviT","gurami","05/31/86 00:00:00",,"g",1,"0950566","baTumi S.inasariZis q. N 21 b. 4",
+"61002014776","faRava","ramaz","resani","03/16/73 00:00:00",,"a",1,"0378701","baTumi p.ruruas q. N 1 b. 36",
+"61002014777","iakobaZe","Tamaz","Salva","03/20/63 00:00:00",,"g",1,"1148684","xulo s. beRleTi","xulo"
+"61002014778","qamadaZe","ramaz","ilia","12/24/76 00:00:00",,"d",1,"0378701","baTumi g.tabiZis q. N 15 b. 3",
+"61002014779","bolqvaZe","mamuka","avTandili","04/02/83 00:00:00",,"g",1,"1049263","baTumi d.aRmaSeneblis q. N 16 b. 23",
+"61002014780","diasamiZe","mzia","pavle","11/26/65 00:00:00",,"g",2,"1113267","baTumi besikis q. N 41",
+"61002014781","pamba","lili","Tamazi","04/02/75 00:00:00",,"a",2,"0378703","baTumi gen.a.abaSiZis q. N 23a",
+"61002014782","cincaZe","Tamar","gela","05/22/83 00:00:00",,"d",2,"1174416","baTumi iv.javaxiSvilis q. N 53 b. 2",
+"61002014783","buxareviCi","manana","evgeni","09/09/76 00:00:00",,"d",2,"0378703","baTumi d.aRmaSeneblis q. N 28 b. 63",
+"61002014784","futkaraZe","melano","gurami","03/12/85 00:00:00",,"g",2,"0981657","baTumi p.ruruas q. N 1a b. 20",
+"61002014785","kaxaZe","marina","iliko","04/22/61 00:00:00",,"g",2,"1187316","baTumi d.aRmaSeneblis q. N 32 b. 72",
+"61002014786","daviTaZe","nunu","mevludi","01/24/51 00:00:00",,"a",2,"0014329","baTumi g.tabiZis q. N 1 b. 69",
+"61002014787","fircxalaiSvili","merab","rolandi","02/10/74 00:00:00",,"g",1,"1123687","baTumi d.aRmaSeneblis q. N 11 b. 22",
+"61002014878","qamadaZe","jemal","xasani","11/02/59 00:00:00",,"g",1,"1377872","baTumi gen.a.abaSiZis q. N 79 b. 6",
+"61002014879","cinariZe","xaTuna","iosebi","05/11/82 00:00:00",,"d",2,"1144603","baTumi z.gorgilaZis q. N 114 b. 4",
+"61002014880","SainiZe","naziko","suleimani","11/23/56 00:00:00",,"b",2,"0457444","baTumi lado asaTianis III Ses. N 10",
+"61002014881","SaraZe","nona","avTandili","07/18/76 00:00:00",,"b",2,"0378743","baTumi n.malazonias q. N 10",
+"61002014882","abuseliZe","suliko","axmedi","01/01/62 00:00:00",,"d",1,"1022994","baTumi p.lorias q. N 4 b. 12-14-1",
+"61002014883","Rlonti","natalia","dimitri","11/03/70 00:00:00",,"d",2,"1274083","lanCxuTi s. ninoSvili","lanCxuTi"
+"61002014884","basilaSvili","svetlana","mixeili","11/10/48 00:00:00",,"g",2,"0378744","baTumi iv.javaxiSvilis q. N 74 b. 2",
+"61002014885","ZnelaZe","grigol","viqtori","07/21/83 00:00:00",,"b",1,"1275153","baTumi S.ximSiaSvilis q. N 17 b. 35",
+"61002014886","vasaZe","valentina","nikolozi","10/13/50 00:00:00",,"a",2,"0378745","baTumi S.inasariZis q. N 19 b. 22",
+"61002014887","beriZe","jemal","zabiTi","08/05/58 00:00:00",,"d",1,"0378745","baTumi p.lorias q. N 4 b. 34-37",
+"61002014888","diasamiZe","arCil","dursuni","05/05/84 00:00:00",,"g",1,"1378123","baTumi gen.a.abaSiZis q. N 3 b. 1",
+"61002014889","cicxvaia","Tamaz","buTxuzi","01/24/61 00:00:00",,"a",1,"0950393","baTumi p.lorias q. N 4 b. 47-48",
+"61002014890","xunjua","darejan","duru","02/10/59 00:00:00",,"d",2,"0950392","baTumi p.lorias q. N 4 b. 47-48",
+"61002014891","CantlaZe","mariam","mixeili","01/28/60 00:00:00",,"d",2,"1274716","baTumi g.leoniZis q. N 4a b. 24",
+"61002014892","ximSiaSvili","amiran","ilia","04/15/73 00:00:00",,"g",1,"1314283","qobuleTi d. Caqvi i.gogebaSvilis q.","qobuleTi"
+"61002014893","darsalia","levan","avTandili","02/08/86 00:00:00",,"d",1,"1390693","baTumi iv.javaxiSvilis q. N 78a b.",
+"61002014894","zenaiSvili","zaur","nikita","03/25/38 00:00:00",,"a",1,"0378749","baTumi g.leoniZis q. N 6v b. 28",
+"61002014895","amirxanova","raisa","aleqsi","12/13/34 00:00:00","05/15/03 00:00:00","b",2,"0378749","baTumi d.aRmaSeneblis q. N 19 b. 51",
+"61002014896","cecxlaZe","ednar","oTari","08/12/78 00:00:00",,"b",1,"0378750","baTumi tbel abuserisZis q. N 14/4 b",
+"61002014897","miqelaZe","anzor","ibraimi","01/29/51 00:00:00",,"a",1,"0378751","baTumi i.kobalaZis q. N 6 b. 34",
+"61002014898","muTiZe","jemal","givi","08/10/86 00:00:00",,"g",1,"0378751","baTumi g.tabiZis q. N 37 b. 36",
+"61002014899","cecxlaZe","mindia","zauri","04/06/80 00:00:00",,"a",1,"1344281","xulo s. Cao","xulo"
+"61002014900","kunWulia","inga","roini","08/04/85 00:00:00",,"g",2,"0378752","baTumi p.ruruas q. N 1 b. 54",
+"61002014901","kviritiZe","Tamar","rezo","04/09/74 00:00:00",,"d",2,"0378752","baTumi tbel abuserisZis q. N 14/4 b",
+"61002014902","lomTaZe","ekaterine","nikolozi","12/03/80 00:00:00",,"g",2,"1028407","baTumi iv.javaxiSvilis q. N 76 b. 4",
+"61002014903","pataraia","gramito","guri","12/22/57 00:00:00",,"g",1,"0378753","baTumi tbel abuserisZis q. N 38 b.",
+"61002014904","azatiani","marina","xaCiki","09/30/60 00:00:00",,"d",2,"1113453","baTumi a.oZelaSvilis q. N 11 b. 3",
+"61002014905","cecxlaZe","Tamaz","vladimeri","06/17/65 00:00:00",,"a",1,"1391406","baTumi g.tabiZis q. N 7",
+"61002014906","surmaniZe","levan","saRdedini","08/15/44 00:00:00",,"b",1,"0936498","xulo s. Weri","xulo"
+"61002014907","SainiZe","mzevinar","levani","12/23/69 00:00:00",,"a",2,"0378757","adigeni s. RorZe","adigeni"
+"61002014908","maxaraZe","natalia","diogeni","10/05/77 00:00:00",,"b",2,"0378757","baTumi S.inasariZis q. N 16 b. 49",
+"61002014909","titoiani","mamuka","giorgi","04/03/79 00:00:00",,"a",1,"0378758","baTumi v.sarajiSvilis q. N 4",
+"61002014910","aruTuniani","sumbaT","iSxani","07/17/81 00:00:00",,"a",1,"1144937","baTumi S.ximSiaSvilis q. N 23 b. 11",
+"61002014911","CxaiZe","naTia","aleqsandre","03/25/86 00:00:00",,"a",2,"0378759","baTumi p.ruruas q. N 1a b. 17",
+"61002014912","ZnelaZe","arCil","mixeili","01/31/40 00:00:00",,"a",1,"1390261","baTumi m.lermontovis q. N 62",
+"61002014913","mameiSvili","mzia","kukuri","07/26/59 00:00:00",,"g",2,"0916616","baTumi a.oZelaSvilis q. N 20 b. 308",
+"61002014914","goraZe","marine","remzi","12/20/58 00:00:00",,"a",2,"0378760","baTumi p.lorias q. N 4 b. 51",
+"61002014915","kalandaZe","Tamar","giorgi","07/11/86 00:00:00",,"a",2,"1391458","baTumi p.lorias q. N 4 b. 51",
+"61002014916","kalandaZe","giorgi","leo","05/05/59 00:00:00",,"g",1,"1106925","baTumi p.lorias q. N 4 b. 51",
+"61002014917","arCaia","Tea","mixeili","07/28/84 00:00:00",,"a",2,"1249723","baTumi firosmanis q. N 8 b. 8",
+"61002014918","kekeliZe","giorgi","Tengizi","07/15/85 00:00:00",,"g",1,"1275350","baTumi g.tabiZis q. N 37 b. 32",
+"61002014919","xelaZe","eldar","vediko","08/25/58 00:00:00",,"b",1,"0378761","baTumi a.oZelaSvilis q. N 20 b. 308",
+"61002014920","xelaZe","giorgi","eldari","04/28/84 00:00:00",,"g",1,"0378761","baTumi a.oZelaSvilis q. N 20 b. 308",

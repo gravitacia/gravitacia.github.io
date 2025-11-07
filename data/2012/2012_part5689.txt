@@ -1,0 +1,695 @@
+"62005021840","tufuria","Tavela","arCiko","09/30/55 00:00:00",,"e",2,"0157541","oCamCire s. oxurei","oCamCire"
+"62005021841","xuxua","nona","oTari","11/20/73 00:00:00",,"e",2,"0157542","oCamCire s. oxurei","oCamCire"
+"62005021842","lagvilava","mziana","ilarioni","11/21/49 00:00:00",,"e",2,"0157543","oCamCire s. oxurei","oCamCire"
+"62005021843","yolbaia","svetlana","valiko","08/20/59 00:00:00",,"e",2,"0157544","oCamCire n.baraTaSvilis q.","oCamCire"
+"62005021844","Wolaria","arvelod","WoWo","09/15/44 00:00:00",,"e",1,"0157545","oCamCire s. merkula","oCamCire"
+"62005021845","Wolaria","ingiSter","vaniSa","02/19/49 00:00:00","12/05/07 00:00:00","e",1,"0157546","oCamCire s. oxurei","oCamCire"
+"62005021846","Wkadua","Saqro","akaki","03/26/56 00:00:00",,"e",1,"0157547","oCamCire s. tamiSi","oCamCire"
+"62005021847","Wkadua","zurab","WiWiko","02/10/53 00:00:00",,"e",1,"0157548","oCamCire soxumis gzat. N 225","oCamCire"
+"62005021848","Wedia","gigla","givi","02/04/57 00:00:00",,"e",1,"0157549","oCamCire s. axali kindRi","oCamCire"
+"62005021849","WiTanava","bondo","xuxuti","12/07/38 00:00:00",,"e",1,"0157550","oCamCire rkinigzis q. N 66","oCamCire"
+"62005021850","Wolaria","irani","vaniSa","04/20/57 00:00:00",,"e",1,"0157651","oCamCire s. oxurei","oCamCire"
+"62005021851","Wolaria","givi","vaniSa","04/19/62 00:00:00",,"e",1,"0157652","oCamCire s. oxurei","oCamCire"
+"62005021852","anCabaZe","mzevinar","koki","03/20/50 00:00:00","10/10/07 00:00:00","e",2,"0157653","oCamCire v.kuibiSevis q. N 65","oCamCire"
+"62005021853","Todua","valeri","apaloni","09/01/55 00:00:00",,"e",1,"0453537","oCamCire a.wereTlis q. N 67","oCamCire"
+"62005021854","Sengelia","mzia","Salva","03/24/65 00:00:00",,"e",2,"0157555","oCamCire n.gogolis q. N 30a","oCamCire"
+"62005021855","Samugia","iolina","mamanti","07/03/65 00:00:00",,"e",2,"0157556","oCamCire s. kvitouli","oCamCire"
+"62005021856","ardbelava","qeTo","aqvsenti","09/01/38 00:00:00","12/02/10 00:00:00","e",2,"0157557","oCamCire f.frunzes q. N 92","oCamCire"
+"62005021857","naciSvili","irma","viqtori","05/29/74 00:00:00",,"e",2,"0157558","oCamCire s. tamiSi","oCamCire"
+"62005021858","zarqua","gogola","profi","07/30/32 00:00:00",,"e",2,"0157559","oCamCire gufis q. N 7","oCamCire"
+"62005021859","anCabaZe","Sura","ivloni","05/01/39 00:00:00",,"e",2,"0157560","oCamCire komkavSiris q. N 236","oCamCire"
+"62005021860","zuxbaia","guram","valeriani","04/04/57 00:00:00",,"e",1,"0157561","oCamCire lagvilavas q. N 29","oCamCire"
+"62005021861","soselia","luiza","luduki","05/30/60 00:00:00",,"e",2,"0157562","oCamCire n.baraTaSvilis q. N 6","oCamCire"
+"62005021862","zaria","nugzar","giorgi","02/13/46 00:00:00",,"e",1,"0157563","oCamCire cxakaias q. N 97","oCamCire"
+"62005021863","xubua","mcinara","mixeili","04/06/42 00:00:00",,"e",2,"0157564","oCamCire s.Wanbas q. N 4","oCamCire"
+"62005021864","cqvitaia","nina","simoni","04/17/24 00:00:00",,"e",2,"0157565","oCamCire s. beslaxuba","oCamCire"
+"62005021865","naWyebia","Tamar","tarasi","08/15/38 00:00:00",,"e",2,"0157566","oCamCire suvorovis q. N 161","oCamCire"
+"62005021866","xasaia","omister","vladimeri","08/10/40 00:00:00",,"e",1,"0157567","oCamCire s. tamiSi","oCamCire"
+"62005021867","xoStaria","guliko","bondo","08/05/37 00:00:00",,"e",2,"0157568","oCamCire s. merkula","oCamCire"
+"62005021868","papasqua","guliko","koCoba","01/01/36 00:00:00","10/08/07 00:00:00","e",2,"0157569","oCamCire sabWos q. N 39","oCamCire"
+"62005021869","buliskeria","mamuka","Roto","08/17/66 00:00:00",,"e",1,"0157570","oCamCire a.wereTlis q. N 5","oCamCire"
+"62005021870","Zigua","valeri","kondrate","05/05/46 00:00:00",,"e",1,"0157571","oCamCire s. ilori","oCamCire"
+"62005021871","tyebuCava","soso","xoxori","03/19/52 00:00:00",,"e",1,"0157572","oCamCire 4 martis q. N 19","oCamCire"
+"62005021872","Zigua","arvelod","iasoni","05/01/49 00:00:00",,"e",1,"0467866","oCamCire s. ilori","oCamCire"
+"62005021873","Zigua","vaJiko","iasoni","05/01/49 00:00:00",,"e",1,"0157574","oCamCire s. ilori","oCamCire"
+"62005021874","labJania","robiko","RuRuni","02/17/54 00:00:00",,"e",1,"0157575","oCamCire s. axali kindRi","oCamCire"
+"62005021875","lagvilava","leri","ilarioni","06/17/55 00:00:00",,"e",1,"0157576","oCamCire S.rusTavelis q. N 202\36","oCamCire"
+"62005021876","burjanaZe","nana","nodari","09/06/67 00:00:00",,"b",2,"1256865","zugdidi s. didineZi","zugdidi"
+"62005021877","ubiria","liana","daTiko","07/19/54 00:00:00",,"e",2,"0157578","oCamCire s. beslaxuba","oCamCire"
+"62005021878","labJania","lia","giorgi","10/10/69 00:00:00",,"e",2,"0157579","oCamCire s. ilori","oCamCire"
+"62005021879","lagvilava","meri","aleqsi","03/13/58 00:00:00",,"e",2,"0157580","oCamCire s. oxurei","oCamCire"
+"62005021880","fifia","inga","janiko","08/11/75 00:00:00",,"e",2,"0157581","oCamCire s. aZiubJa","oCamCire"
+"62005021881","sabekia","naTela","danieli","02/28/41 00:00:00",,"e",2,"0157582","oCamCire s. ilori","oCamCire"
+"62005021882","zuxbaia","Tengiz","vladimeri","12/27/69 00:00:00",,"e",1,"0157583","oCamCire komkavSiris q. N 252","oCamCire"
+"62005021883","lomanZe","iamze","duru","09/15/49 00:00:00",,"e",2,"0157584","oCamCire s. merkula","oCamCire"
+"62005021884","abloTia","maJara","filipe","05/28/30 00:00:00",,"e",1,"0157585","oCamCire oqtombris q. N 121","oCamCire"
+"62005021885","abanaz-oRli","valeri","qiazimi","01/12/55 00:00:00",,"e",1,"0157586","oCamCire afsnis q. N 31","oCamCire"
+"62005021886","arqania","arvelod","valeriani","01/01/45 00:00:00","04/14/10 00:00:00","e",1,"0157587","oCamCire s. kvitouli","oCamCire"
+"62005021887","abSilava","nugzar","ermole","01/01/55 00:00:00",,"e",1,"0157588","oCamCire n.baraTaSvilis q.","oCamCire"
+"62005021888","caava","mayvala","uSangi","06/10/68 00:00:00",,"e",2,"0157589","oCamCire f.engelsis q. N 18","oCamCire"
+"62005021889","aronia","givi","gajala","03/25/33 00:00:00",,"e",1,"0157590","oCamCire s. merkula","oCamCire"
+"62005021890","anCabaZe","Salva","gede","02/10/39 00:00:00",,"e",1,"0157591","oCamCire komkavSiris q. N 236","oCamCire"
+"62005021891","anCabaZe","Tamaz","Salva","04/12/70 00:00:00",,"e",1,"0157592","oCamCire komkavSiris q. N 236","oCamCire"
+"62005021892","WumburiZe","maJara","besarioni","03/11/28 00:00:00",,"e",1,"0157593","oCamCire n.baraTaSvilis q. N 44","oCamCire"
+"62005021893","gablaia","Temur","indiko","06/25/80 00:00:00",,"e",1,"0157594","oCamCire s. merkula","oCamCire"
+"62005021894","laSxia","madona","xuntuli","07/15/84 00:00:00",,"e",2,"0157595","oCamCire s. merkula","oCamCire"
+"62005021895","CaCxalia","violeta","aleqsi","03/05/57 00:00:00",,"e",2,"0157596","oCamCire s. tamiSi","oCamCire"
+"62005021896","Selia","velodi","guli","01/12/73 00:00:00",,"e",1,"0157597","oCamCire s. beslaxuba","oCamCire"
+"62005021897","saRinaZe","boris","nikolozi","07/09/38 00:00:00",,"e",1,"0157598","oCamCire s. cagera","oCamCire"
+"62005021898","saqania","akaki","Wika","10/01/34 00:00:00",,"e",1,"0157599","oCamCire s. oxurei","oCamCire"
+"62005021899","siWinava","rauli","daviTi","07/15/35 00:00:00",,"e",1,"0157600","oCamCire n.gogolis q. N 46","oCamCire"
+"62005021900","soselia","tariel","murmani","12/29/55 00:00:00",,"e",1,"0157601","oCamCire s.orjonikiZis q. N 31","oCamCire"
+"62005021901","sajaia","revaz","vladimeri","12/13/55 00:00:00",,"e",1,"0157602","oCamCire s. beslaxuba","oCamCire"
+"62005021902","saldaZe","bondo","nodari","03/11/68 00:00:00",,"T",1,"0464913","oCamCire s. merkula","oCamCire"
+"62005021903","soldaZe","nodar","vasili","08/05/39 00:00:00",,"e",1,"0157604","oCamCire s. merkula","oCamCire"
+"62005021904","saRinaZe","griSa","giorgi","09/25/35 00:00:00","05/18/07 00:00:00","e",1,"0157605","oCamCire s. aradu","oCamCire"
+"62005021905","fifia","antimoz","varlami","04/01/59 00:00:00",,"e",1,"0157606","oCamCire s. beslaxuba","oCamCire"
+"62005021906","cacua","noe","xuxu","03/15/25 00:00:00",,"e",1,"0157607","oCamCire S.rusTavelis q. N 206\18","oCamCire"
+"62005021907","cickarava","valerian","WiWiko","12/31/28 00:00:00",,"e",1,"0157608","oCamCire s. axali kindRi","oCamCire"
+"62005021908","Wilaia","JuJuna","ilia","06/27/37 00:00:00",,"e",2,"0157609","oCamCire s. axali kindRi","oCamCire"
+"62005021909","ugrexeliZe","luda","serapioni","03/21/45 00:00:00","04/16/07 00:00:00","e",2,"0157610","oCamCire s. aradu","oCamCire"
+"62005021910","miqava","rezo","oTari","08/20/63 00:00:00",,"e",1,"0157611","oCamCire s. aradu","oCamCire"
+"62005021911","Ciqovani","xaTuna","nikolozi","03/25/74 00:00:00",,"e",2,"0157612","oCamCire s. koCara","oCamCire"
+"62005022008","fifia","brolica","farna","04/09/17 00:00:00",,"e",2,"0157709","oCamCire s. aZiubJa","oCamCire"
+"62005022009","fifia","manera","guta","07/10/52 00:00:00",,"e",2,"0157710","oCamCire s. aZiubJa","oCamCire"
+"62005022010","qobalia","qsenia","andria","06/16/27 00:00:00",,"e",2,"0157711",,
+"62005022011","ablaskir","vera","bido","01/17/32 00:00:00",,"e",2,"0157712","oCamCire s. koCara","oCamCire"
+"62005022012","arqania","zaira","xuta","04/01/53 00:00:00",,"e",2,"0157713","oCamCire S.rusTavelis q. N 206\37","oCamCire"
+"62005022013","basaria","zamera","uSangi","10/23/50 00:00:00",,"e",2,"0157714","oCamCire s. koCara","oCamCire"
+"62005022014","aburjania","juleta","zauri","05/06/59 00:00:00",,"e",2,"0157715","oCamCire s. ilori","oCamCire"
+"62005022015","kakava","lamara","levani","02/16/40 00:00:00",,"e",2,"0157716","oCamCire m.kalininis q. N 10","oCamCire"
+"62005022016","qiria","Tiniko","domenti","05/14/39 00:00:00",,"e",2,"0157717","oCamCire s. merkula","oCamCire"
+"62005022017","qobalia","leonti","romani","02/14/36 00:00:00",,"e",1,"0157718",,
+"62005022018","araxamia","rezo","aleqsi","06/15/58 00:00:00",,"e",1,"0157719","oCamCire s. merkula","oCamCire"
+"62005022019","torua","mziana","aleqsi","01/06/52 00:00:00",,"e",2,"0157720","oCamCire arSbas q. N 30","oCamCire"
+"62005022020","belqania","jemal","severi","04/02/49 00:00:00",,"e",1,"0157721","oCamCire s. merkula","oCamCire"
+"62005022021","zaqaraia","venera","guno","03/23/44 00:00:00",,"e",2,"0157722","oCamCire s. oxurei","oCamCire"
+"62005022022","Tordinava","marina","zauri","03/08/68 00:00:00",,"e",2,"0157723","oCamCire s. axali kindRi","oCamCire"
+"62005022023","TvarTvaia","raia","borisi","03/10/26 00:00:00",,"e",2,"0157724","oCamCire s. ilori","oCamCire"
+"62005022024","melaia","irina","ivane","10/10/75 00:00:00",,"e",2,"0157725","oCamCire S.rusTavelis q. N 206\37","oCamCire"
+"62005022025","TakalanZe","Tiniko","kapitoni","07/01/30 00:00:00",,"e",2,"0157726","oCamCire n.baraTaSvilis q. N 13","oCamCire"
+"62005022026","qobalia","naTela","varadi","10/07/37 00:00:00",,"e",2,"0157727",,
+"62005022027","Wkadua","zaira","WiWiko","09/29/54 00:00:00",,"e",2,"0157728","oCamCire soxumis gzat. N 25","oCamCire"
+"62005022028","mebonia","marina","alioSa","05/04/64 00:00:00",,"e",2,"0157729","oCamCire s. axali kindRi","oCamCire"
+"62005022029","maqacaria","eka","alioSa","04/07/67 00:00:00",,"e",2,"0157730","oCamCire s. merkula","oCamCire"
+"62005022030","Tordua","cacu","kuzu","01/01/16 00:00:00",,"e",2,"0157731","oCamCire S.rusTavelis q. N 205\16","oCamCire"
+"62005022031","gogia","CxaCxuti","Zuku","04/18/28 00:00:00",,"e",2,"0157732","oCamCire n.baraTaSvilis q. N 44","oCamCire"
+"62005022032","maliSava","lidiSa","dito","12/09/27 00:00:00",,"e",2,"0157733","oCamCire s. ilori","oCamCire"
+"62005022033","golobiani","ineza","kapitoni","05/20/53 00:00:00",,"e",2,"0157734","oCamCire s. ilori","oCamCire"
+"62005022034","gogoxia","flora","ingi","08/14/59 00:00:00",,"e",2,"0157735","oCamCire s. kvitouli","oCamCire"
+"62005022035","gogoxia","dilari","rudiki","04/03/74 00:00:00",,"e",1,"0157736","oCamCire s. kvitouli","oCamCire"
+"62005022036","maliSava","irodioni","mixeili","05/09/34 00:00:00",,"e",1,"0157737","oCamCire t.SevCenkos q. N 26","oCamCire"
+"62005022037","matkava","aleqsi","gaxa","08/28/28 00:00:00","07/09/06 00:00:00","e",1,"0157738","oCamCire S.rusTavelis q. N 44","oCamCire"
+"62005022038","malania","eliSer","Jora","09/22/66 00:00:00",,"e",1,"0157739","oCamCire s. oxurei","oCamCire"
+"62005022039","mogelaZe","jumber","mixeili","01/03/63 00:00:00",,"e",1,"015770","oCamCire s. koCara","oCamCire"
+"62005022040","matkava","nona","maTuSa","01/09/62 00:00:00",,"e",2,"0157741","oCamCire S.rusTavelis q. N 150","oCamCire"
+"62005022041","miqava","oTar","levani","09/20/40 00:00:00",,"e",1,"0157742","oCamCire s. aradu","oCamCire"
+"62005022042","miqava","ivane","trifoni","04/02/27 00:00:00",,"e",1,"0157743","oCamCire s. beslaxuba","oCamCire"
+"62005022043","morgoSia","varlam","sosrani","01/01/14 00:00:00","05/07/07 00:00:00","e",1,"0157744","oCamCire s. merkula","oCamCire"
+"62005022044","morgoSia","megona","lavrenti","05/20/46 00:00:00",,"e",1,"0157745","oCamCire s. axali kindRi","oCamCire"
+"62005022045","bagaTuria","saida","genadi","02/24/72 00:00:00",,"e",2,"0157746","oCamCire s. koCara","oCamCire"
+"62005022046","gamaxaria","klara","elise","02/10/32 00:00:00",,"e",2,"0157747","oCamCire sverdlovis q. N 35","oCamCire"
+"62005022047","fifia","lamzira","duSeTi","03/15/58 00:00:00",,"e",2,"0157748","oCamCire suvorovis q. N 122","oCamCire"
+"62005022048","miqava","qeTo","mixeili","01/21/62 00:00:00",,"e",2,"0157749","oCamCire s. aradu","oCamCire"
+"62005022049","miqaZe","inga","borisi","01/20/71 00:00:00",,"e",2,"0157750","oCamCire v.kuibiSevis q. N 2","oCamCire"
+"62005022050","mamardaSvili","londa","uSangi","09/24/70 00:00:00",,"e",2,"0157751","oCamCire s. koCara","oCamCire"
+"62005022051","gablaia","ingiSter","vladimeri","05/20/46 00:00:00",,"e",1,"0157752","oCamCire ijevanis q. N 4","oCamCire"
+"62005022052","gulordava","iuri","noe","04/01/63 00:00:00",,"e",1,"0157753","oCamCire s. beslaxuba","oCamCire"
+"62005022053","gamisonia","violeta","sergo","03/26/72 00:00:00",,"e",2,"0157754","oCamCire n.gogolis q. N 58","oCamCire"
+"62005022054","gamisonia","larisa","grigoli","01/11/71 00:00:00",,"e",2,"0157755","oCamCire s. oxurei","oCamCire"
+"62005022055","gvagvalia","suliko","WiWi","05/08/30 00:00:00",,"z",2,"0450674","oCamCire suvorovis q. N 145","oCamCire"
+"62005022056","gogoxia","vinari","vaJiko","03/22/68 00:00:00",,"e",2,"0157757","oCamCire s. kvitouli","oCamCire"
+"62005022057","gogia","eTeri","mixeili","01/10/15 00:00:00","09/07/10 00:00:00","e",2,"0157758","oCamCire cxakaias q. N 109","oCamCire"
+"62005022058","gogia","lamara","akimi","10/20/45 00:00:00",,"e",2,"0157759","oCamCire S.rusTavelis q. N 204 b. 1","oCamCire"
+"62005022059","gogia","izolda","varlami","08/13/50 00:00:00",,"e",2,"0157760","oCamCire s. tamiSi","oCamCire"
+"62005022060","faCulia","nana","iradioni","09/03/74 00:00:00",,"T",2,"0465451","oCamCire labaxuas q. N 23","oCamCire"
+"62005022061","miqaZe","boris","Zuku","05/09/30 00:00:00",,"e",1,"0157762","oCamCire v.kuibiSevis q. N 2","oCamCire"
+"62005022062","malazonia","dariko","arCili","05/10/40 00:00:00",,"e",2,"0157763",,
+"62005022063","marRania","iza","vaJa","04/05/64 00:00:00",,"e",2,"0157764","oCamCire s. koCara","oCamCire"
+"62005022064","mamardaSvili","Taliko","evgeni","07/17/37 00:00:00",,"e",2,"0157765","oCamCire s. koCara","oCamCire"
+"62005022065","moniava","Tamar","vasili","08/20/45 00:00:00",,"e",2,"0157766","oCamCire s. merkula","oCamCire"
+"62005022066","miqava","venera","mixeili","07/05/49 00:00:00",,"e",2,"0157767","oCamCire s. merkula","oCamCire"
+"62005022067","minjia","zaur","nikolozi","03/24/39 00:00:00",,"e",1,"0157768","oCamCire s. beslaxuba","oCamCire"
+"62005022068","miqia","venori","belgi","11/16/52 00:00:00",,"e",1,"0157769","oCamCire soxumis gzat. N 133","oCamCire"
+"62005022069","mebonia","nani","alioSa","07/07/71 00:00:00",,"e",2,"0157770","oCamCire s. axali kindRi","oCamCire"
+"62005022070","morgoSia","eTeri","ivane","08/22/64 00:00:00",,"e",2,"0455405","oCamCire s. aZiubJa","oCamCire"
+"62005022071","miqava","levan","ivane","05/04/62 00:00:00",,"e",1,"0157772","oCamCire s. beslaxuba","oCamCire"
+"62005022072","jabua","marusia","arsena","02/24/51 00:00:00",,"e",2,"0157773","oCamCire s. beslaxuba","oCamCire"
+"62005022073","malania","Jora","guju","05/15/38 00:00:00",,"e",1,"0157774","oCamCire s. oxurei","oCamCire"
+"62005022074","marSava","omar","apaloni","04/07/47 00:00:00",,"e",1,"0157775","oCamCire beslaxubis q. N 6","oCamCire"
+"62005022075","mitiani","tariel","varlami","04/20/52 00:00:00",,"e",1,"0157776","oCamCire s. koCara","oCamCire"
+"62005022076","malania","daTo","Jora","08/14/69 00:00:00",,"z",1,"0464890","oCamCire s. oxurei","oCamCire"
+"62005022077","mamasaxlisi","jeiran","patiko","03/20/62 00:00:00",,"e",2,"0157778","oCamCire komkavSiris q. N 21","oCamCire"
+"62005022078","minjia","xurxi","geno","02/15/42 00:00:00",,"e",2,"0157779","oCamCire s. beslaxuba","oCamCire"
+"62005022079","maliSava","vladimer","uSangi","05/29/53 00:00:00",,"e",1,"0157780","oCamCire soxumis gzat. N 225","oCamCire"
+"62005022080","maliSava","luduki","stefane","04/10/36 00:00:00",,"e",1,"0157781","oCamCire cxakaias q. N 129","oCamCire"
+"62005022081","miqava","indiko","levani","06/27/39 00:00:00",,"e",1,"0157782","oCamCire s. aradu","oCamCire"
+"62005022082","janaSia","nodar","irakli","08/18/47 00:00:00",,"e",1,"0157783","oCamCire s. oxurei","oCamCire"
+"62005022083","jaxaia","kako","ermane","09/20/41 00:00:00",,"e",1,"0157784","oCamCire s. oxurei","oCamCire"
+"62005022084","gogoxia","nusia","stefane","01/01/33 00:00:00",,"e",2,"0157785","oCamCire s. kvitouli","oCamCire"
+"62005022085","gogoxia","neliko","iosebi","03/05/47 00:00:00",,"e",2,"0157786","oCamCire s. kvitouli","oCamCire"
+"62005022086","gogoxia","valeri","xuxuti","03/19/54 00:00:00","05/06/10 00:00:00","e",1,"0157787","oCamCire s. oxurei","oCamCire"
+"62005022087","gogoxia","arvelod","iosebi","05/08/50 00:00:00",,"e",1,"0157788","oCamCire s. kvitouli","oCamCire"
+"62005022088","joloxava","rezo","dimitri","08/28/54 00:00:00","03/16/10 00:00:00","e",1,"0181711","oCamCire s. ilori","oCamCire"
+"62005022089","janjulia","iakob","giorgi","01/23/66 00:00:00",,"e",1,"0157790","oCamCire kecxovelis q. N 80","oCamCire"
+"62005022090","jomidava","eliso","vaJiko","07/24/69 00:00:00",,"e",2,"0157791","oCamCire s. koCara","oCamCire"
+"62005022091","gvagvalia","indiko","artemi","02/19/38 00:00:00",,"e",1,"0157792","oCamCire suvorovis q. N 145","oCamCire"
+"62005022092","gvilia","omister","ermine","06/25/44 00:00:00","12/07/10 00:00:00","e",1,"0157793","oCamCire ijevanis q. N 14","oCamCire"
+"62005022093","gelaSvili","iuri","Salva","05/18/61 00:00:00",,"e",1,"0157794","oCamCire s. koCara","oCamCire"
+"62005022094","gogoxia","zaur","indiko","05/01/52 00:00:00",,"e",1,"0157795","oCamCire s. kvitouli","oCamCire"
+"62005022095","gablaia","Taliko","pavle","03/10/41 00:00:00",,"e",2,"0157796","oCamCire s. koCara","oCamCire"
+"62005022096","gablaia","malxaz","elguja","11/30/67 00:00:00",,"e",1,"0157797","oCamCire ijevanis q. N 6","oCamCire"
+"62005022097","gordulava","aleqsi","daviTi","04/01/63 00:00:00",,"e",1,"0157798","oCamCire s. beslaxuba","oCamCire"
+"62005022098","janaSia","nino","nodari","07/10/72 00:00:00",,"e",2,"0157799","oCamCire s. oxurei","oCamCire"
+"62005022099","kalandia","lili","tarasi","08/01/52 00:00:00",,"e",2,"0157800","oCamCire S.rusTavelis q. N 200a","oCamCire"
+"62005022100","jgunjgia","lali","daviTi","10/22/58 00:00:00",,"e",2,"0157801","oCamCire 4 martis q. N 45","oCamCire"
+"62005022101","jamburia","lentro","severiani","03/25/39 00:00:00",,"e",1,"0157802","oCamCire s. axali kindRi","oCamCire"
+"62005022102","guCua","WiWiko","mixaili","05/10/29 00:00:00",,"e",1,"0157803","oCamCire suvorovis q. N 127","oCamCire"
+"62005022103","gabunia","alina","Temuri","02/02/54 00:00:00",,"e",2,"0157804","oCamCire s. merkula","oCamCire"
+"62005022200","buJRulaSvili","maka","jimSeri","12/21/83 00:00:00",,"e",2,"0157919","oCamCire gablias q. N 5","oCamCire"
+"62005022201","buJRulaSvili","maia","jimSeri","12/08/81 00:00:00",,"e",2,"0157920","oCamCire gablias q. N 5","oCamCire"
+"62005022202","esebua","zema","farnaozi","03/05/59 00:00:00",,"e",2,"0157921","oCamCire gablias q. N 5","oCamCire"
+"62005022203","gulbani","naTela","sandro","06/20/45 00:00:00",,"e",2,"0157922","oCamCire s. koCara","oCamCire"
+"62005022204","gablaia","lela","avTa","10/29/73 00:00:00",,"e",2,"0157923","oCamCire labaxuas q. N 26","oCamCire"
+"62005022205","moxvaSi","manana","revazi","07/16/74 00:00:00",,"e",2,"0157924","oCamCire s. koCara","oCamCire"
+"62005022206","xasia","kaxa","kako","08/15/71 00:00:00",,"e",1,"0157925","oCamCire s. koCara","oCamCire"
+"62005022207","sixarulia","vitali","tataSi","12/15/75 00:00:00",,"e",1,"0157926","oCamCire s. merkula","oCamCire"
+"62005022208","gvaramia","eTeri","levTeri","08/06/85 00:00:00",,"e",2,"0157927","oCamCire cxakaias q. N 73","oCamCire"
+"62005022209","margiani","diana","amirani","10/18/69 00:00:00",,"e",2,"0157928","oCamCire s. koCara","oCamCire"
+"62005022210","gurCiani","nana","soso","05/02/77 00:00:00",,"T",2,"0455428","oCamCire s. oxurei","oCamCire"
+"62005022211","cindeliani","donia","mixeili","11/27/37 00:00:00",,"e",2,"0157930","oCamCire s. aZiubJa","oCamCire"
+"62005022212","gurCiani","soso","elizbari","03/07/45 00:00:00",,"e",1,"0157931","oCamCire s. oxurei","oCamCire"
+"62005022213","samsiani","koba","rodami","07/28/85 00:00:00",,"T",1,"0457595","oCamCire s. oxurei","oCamCire"
+"62005022214","afrasiZe","izolda","piribe","11/23/47 00:00:00",,"e",2,"0157933","oCamCire s. aZiubJa","oCamCire"
+"62005022215","manuSarova","monika","giorgi","11/02/84 00:00:00",,"z",2,"0467840","oCamCire s. aZiubJa","oCamCire"
+"62005022216","kenWaZe","ciala","grigoli","09/25/38 00:00:00",,"e",2,"0157935","oCamCire leninis q. N 47","oCamCire"
+"62005022217","xurcilava","mimoza","mixeili","07/15/56 00:00:00",,"e",2,"0157936","oCamCire s. axali kindRi","oCamCire"
+"62005022218","vezdeni","levan","anzori","06/18/81 00:00:00",,"e",1,"0157937","oCamCire s. axaldaba","oCamCire"
+"62005022219","margiani","amiran","aleqsandre","05/28/40 00:00:00","10/31/05 00:00:00","e",1,"0157938","oCamCire s. koCara","oCamCire"
+"62005022220","gurCiani","liana","murza","05/15/48 00:00:00",,"e",2,"0157939","oCamCire s. oxurei","oCamCire"
+"62005022221","gogoxia","eldar","konstantine","03/29/74 00:00:00",,"e",1,"0157940","oCamCire gudauTis q. N 28","oCamCire"
+"62005022222","Cikvatia","zaza","mixeili","01/15/62 00:00:00",,"e",1,"0157941","oCamCire cxakaias q. N 56","oCamCire"
+"62005022223","Wolaria","darejan","zinobi","06/07/65 00:00:00",,"z",2,"0467416","oCamCire s. koCara","oCamCire"
+"62005022224","gadelia","nino","amirani","10/05/70 00:00:00",,"e",2,"0157943","oCamCire s.orjonikiZis q. N 69","oCamCire"
+"62005022225","vezdeni","nana","anzori","09/01/82 00:00:00",,"e",2,"0157944","oCamCire s. axaldaba","oCamCire"
+"62005022226","momcemliZe","eldar","gedevani","02/22/28 00:00:00",,"e",1,"0157945","oCamCire s. merkula","oCamCire"
+"62005022227","uCava","tatiana","samsoni","11/15/40 00:00:00",,"e",2,"0157946","oCamCire s. axali kindRi","oCamCire"
+"62005022228","CilaCava","dali","oTari","12/30/70 00:00:00",,"e",2,"0157947","oCamCire s. aZiubJa","oCamCire"
+"62005022229","ZalamiZe","eleonora","megona","12/07/85 00:00:00",,"e",2,"0180752","oCamCire labaxuas q. N 18","oCamCire"
+"62005022230","xufenia","nazibrola","makari","06/21/60 00:00:00",,"e",2,"0157949","oCamCire m.gorkis q. N 6","oCamCire"
+"62005022231","SamaTava","madona","guliko","05/10/59 00:00:00",,"e",2,"0157950","oCamCire s. ilori","oCamCire"
+"62005022232","Wabukiani","giorgi","omari","10/01/78 00:00:00",,"e",1,"0157951","oCamCire s. cagera","oCamCire"
+"62005022233","pakeliani","Tamar","gramitoni","12/29/54 00:00:00",,"e",2,"0157952","oCamCire s. aradu","oCamCire"
+"62005022234","margiani","omari","kamo","11/06/61 00:00:00",,"v",1,"0454160","oCamCire s. aradu","oCamCire"
+"62005022235","TuTisani","Tengiz","vaJa","07/22/66 00:00:00",,"e",1,"0157954","oCamCire s. cagera","oCamCire"
+"62005022236","kakubava","piva","baxva","04/07/27 00:00:00",,"e",2,"0157955","oCamCire afsnis q. N 24","oCamCire"
+"62005022237","xvadagiani","niura","biqtori","06/02/34 00:00:00",,"e",2,"0157956","oCamCire s. cagera","oCamCire"
+"62005022238","kopaliani","besik","vaJa","10/24/71 00:00:00",,"e",1,"0157957","oCamCire s. axali kindRi","oCamCire"
+"62005022239","Sonia","indira","anatoli","12/09/73 00:00:00",,"e",2,"0461052","oCamCire Waraias q. N 8","oCamCire"
+"62005022240","buava","marina","nugzari","05/26/71 00:00:00",,"e",2,"0181739","oCamCire oqtombris q. N 149","oCamCire"
+"62005022241","zarqua","omiane","kopila","08/31/43 00:00:00",,"e",1,"0157960","oCamCire s. oxurei","oCamCire"
+"62005022242","gelaSvili","venera","Salva","01/13/33 00:00:00",,"e",2,"0157961","oCamCire cxakaias q. N 132","oCamCire"
+"62005022243","saldaZe","mzia","vladimeri","04/15/68 00:00:00",,"v",2,"0453052","oCamCire s. merkula","oCamCire"
+"62005022244","qobalia-qiria","luiza","Saxi","01/01/75 00:00:00",,"e",2,"0197718","gulrifSi s. dranda","gulrifSi"
+"62005022245","efsia","luiza","kapitoni","10/10/52 00:00:00",,"e",2,"0157964","oCamCire soxumis gzat. N 201","oCamCire"
+"62005022246","marSania","dali","nurbe","04/12/61 00:00:00",,"e",2,"0157965","oCamCire s. koCara","oCamCire"
+"62005022247","lomaia","mariam","stefane","10/06/18 00:00:00",,"e",2,"0157966","oCamCire suvorovis q. N 87","oCamCire"
+"62005022248","jRarkava","mziana","Salva","10/02/46 00:00:00",,"e",2,"0157967","oCamCire suvorovis q. N 87","oCamCire"
+"62005022249","Tordinava","daviT","gigo","11/30/41 00:00:00",,"e",1,"0157968","oCamCire s. merkula","oCamCire"
+"62005022250","kalandia","nargiza","terenti","10/09/81 00:00:00",,"e",2,"0157969","oCamCire s. merkula","oCamCire"
+"62005022251","kalandia","terenti","joto","01/01/41 00:00:00",,"e",1,"0157970","oCamCire s. merkula","oCamCire"
+"62005022252","xecuriani","nikoloz","varlami","02/08/51 00:00:00",,"e",1,"0157971","oCamCire s. axali kindRi","oCamCire"
+"62005022253","CaCibaia","nodar","mituSa","05/05/57 00:00:00",,"e",1,"0157972","oCamCire s. merkula","oCamCire"
+"62005022254","meSveliani","naTia","gurgeni","09/10/84 00:00:00",,"e",2,"0157973","oCamCire s. aradu","oCamCire"
+"62005022255","beniZe","naTela","burda","10/05/56 00:00:00",,"e",2,"0157974","oCamCire s. aZiubJa","oCamCire"
+"62005022256","lomia","naziko","varlami","01/09/37 00:00:00",,"e",2,"0157975","oCamCire S.rusTavelis q. N 58","oCamCire"
+"62005022257","qaldani","nestan","nugzari","09/20/75 00:00:00",,"e",2,"0157976","oCamCire s. aZiubJa","oCamCire"
+"62005022258","gigani","donia","giorgi","01/15/00 00:00:00",,"e",2,"0157977","oCamCire s. koCara","oCamCire"
+"62005022259","gogolaZe","luba","nikolozi","01/03/20 00:00:00","12/25/07 00:00:00","e",2,"0157978","oCamCire s. merkula","oCamCire"
+"62005022260","arjevaniZe","albert","Tamazi","12/02/83 00:00:00",,"e",1,"0157979","oCamCire s. aradu","oCamCire"
+"62005022261","Rvinjilia","maia","biWiko","09/02/74 00:00:00",,"e",2,"0157980","oCamCire s. ilori","oCamCire"
+"62005022262","Rvinjilia","kaxaber","biWiko","06/10/73 00:00:00",,"e",1,"0157981","oCamCire s. ilori","oCamCire"
+"62005022263","beriZe","merdiko","lado","11/02/30 00:00:00",,"e",1,"0157982","oCamCire s. beslaxuba","oCamCire"
+"62005022264","kvaracxelia","manuCar","zurabi","07/25/84 00:00:00",,"T",1,"0455438","oCamCire s. koCara","oCamCire"
+"62005022265","kvitatiani","marina","jvebe","05/05/60 00:00:00",,"e",2,"0157984","oCamCire s. koCara","oCamCire"
+"62005022266","narmania","irine","leuSa","06/02/55 00:00:00",,"e",2,"0157985","oCamCire oqtombris q. N 113","oCamCire"
+"62005022267","ruxaia","nino","gogliki","01/11/68 00:00:00",,"e",2,"0181924","oCamCire e.eSbas q. N 128","oCamCire"
+"62005022268","quTelia","lili","artemi","01/22/25 00:00:00",,"e",2,"0157987","oCamCire cxakaias q. N 153","oCamCire"
+"62005022269","naveriani","robinzon","ivane","03/02/37 00:00:00",,"e",1,"0157988","oCamCire s. koCara","oCamCire"
+"62005022270","buRaZe","lili","rejebi","01/10/35 00:00:00",,"e",2,"0157989","oCamCire gufis q. N 1a","oCamCire"
+"62005022271","sangulia","nana","jumberi","12/02/76 00:00:00",,"e",2,"0157990","oCamCire s. oxurei","oCamCire"
+"62005022272","arqania","nona","zurabi","08/12/71 00:00:00",,"e",2,"0157991","oCamCire s. ilori","oCamCire"
+"62005022273","arqania","zurab","SoTa","07/07/47 00:00:00",,"e",1,"0157992","oCamCire s. ilori","oCamCire"
+"62005022274","xarCilava","ramin","vladimeri","07/04/64 00:00:00",,"e",1,"0157993","oCamCire s. axali kindRi","oCamCire"
+"62005022275","mitiani","ciala","nodari","05/10/58 00:00:00",,"e",2,"0157994","oCamCire s. koCara","oCamCire"
+"62005022276","gokaZe","lena","iliko","04/23/63 00:00:00",,"e",2,"0157995","oCamCire m.kalininis q. N 20","oCamCire"
+"62005022277","baRbaia","nato","ardevani","07/20/64 00:00:00",,"e",2,"0157996","oCamCire s. merkula","oCamCire"
+"62005022278","berZenia","valerian","raJdeni","12/14/55 00:00:00",,"e",1,"0157998","oCamCire kecxovelis q. N 19","oCamCire"
+"62005022279","kvirkvelia","zaur","varlami","08/04/50 00:00:00","02/28/08 00:00:00","e",1,"0157999","oCamCire suvorovis q. N 77","oCamCire"
+"62005022280","kvekveskiri","marina","givi","04/07/82 00:00:00",,"e",2,"0158000","oCamCire s. oxurei","oCamCire"
+"62005022281","nacvliSvili","jamlet","avTandili","04/04/83 00:00:00",,"e",1,"0174002","oCamCire s. ilori","oCamCire"
+"62005022282","korsantia","edemi","givi","10/19/85 00:00:00",,"e",1,"0174003","oCamCire s. oxurei","oCamCire"
+"62005022283","yolbaia","nazi","SoTa","03/29/63 00:00:00",,"e",2,"0174004","oCamCire s. axali kindRi","oCamCire"
+"62005022284","Jvania","xaTuna","anzori","11/22/84 00:00:00",,"e",2,"0174005","oCamCire s. axali kindRi","oCamCire"
+"62005022285","Wanturia","mzisadar","enveri","10/25/85 00:00:00",,"e",2,"0174006","oCamCire maxaraZis q. N 91","oCamCire"
+"62005022286","baqraZe","nunu","giorgi","01/19/58 00:00:00",,"z",2,"0465035","oCamCire komkavSiris q. N 51","oCamCire"
+"62005022287","malania","iason","severiani","08/25/84 00:00:00",,"z",1,"0463069","oCamCire S.rusTavelis q. N 11","oCamCire"
+"62005022288","Todua","zurab","aleqsi","07/04/59 00:00:00",,"e",1,"0174009","oCamCire s. ilori","oCamCire"
+"62005022289","Todua","limeri","iosebi","06/03/54 00:00:00",,"e",1,"0174010","oCamCire s. merkula","oCamCire"
+"62005022290","stepankovi","sergo","petre","10/06/85 00:00:00",,"e",1,"0174011","oCamCire portis q.","oCamCire"
+"62005022291","nasaraia","izolda","irodi","08/08/60 00:00:00",,"e",2,"0174012","oCamCire s. ilori","oCamCire"
+"62005022292","nanava","dali","Salva","10/16/72 00:00:00",,"e",2,"0174013","oCamCire s. axali kindRi","oCamCire"
+"62005022293","Wanturia","qeTo","bondo","08/15/65 00:00:00",,"e",2,"0174014","oCamCire s. axali kindRi","oCamCire"
+"62005022294","siordia","nana","biWiko","07/24/70 00:00:00",,"e",2,"0174015","oCamCire s. axaldaba","oCamCire"
+"62005022295","Cuxua","donari","miriani","07/23/45 00:00:00",,"e",2,"0174016","oCamCire s. aZiubJa","oCamCire"
+"62005022392","papava","nataSa","lavrenti","05/25/49 00:00:00",,"e",2,"0174073","oCamCire s. koCara","oCamCire"
+"62005022393","gablaia","nugzar","valeriani","06/19/63 00:00:00",,"v",1,"0466202","oCamCire s. koCara","oCamCire"
+"62005022394","qobalia","larisa","uSangi","07/21/71 00:00:00",,"e",2,"0174075","oCamCire s. merkula","oCamCire"
+"62005022395","fifia","svetlana","mixeili","02/10/49 00:00:00",,"e",2,"0174076","oCamCire s. beslaxuba","oCamCire"
+"62005022396","CaCibaia","nugzar","nodari","01/04/60 00:00:00",,"e",1,"0174077","oCamCire s. merkula","oCamCire"
+"62005022397","jgerenaia","Sulia","pavle","05/26/18 00:00:00",,"e",2,"0174078","oCamCire s. tamiSi","oCamCire"
+"62005022398","gelantia","valentina","giorgi","04/06/27 00:00:00",,"e",2,"0174079",,
+"62005022399","gelantia","mziana","SoTa","09/15/54 00:00:00",,"v",2,"0453531","oCamCire s. aZiubJa","oCamCire"
+"62005022400","gergedava","manuCar","xuTiko","11/12/74 00:00:00",,"e",1,"0174081","oCamCire s. oxurei","oCamCire"
+"62005022401","xurcia","lali","amirani","05/07/57 00:00:00",,"e",2,"0174082","oCamCire s. merkula","oCamCire"
+"62005022402","barTia","emzar","irodi","01/28/63 00:00:00",,"e",1,"0174083","oCamCire s. ilori","oCamCire"
+"62005022403","gogua","Zaba","beCu","09/10/21 00:00:00",,"e",2,"0174084","oCamCire S.rusTavelis q. N 202a b.","oCamCire"
+"62005022404","andrikopulo","klara","petre","12/12/26 00:00:00",,"e",2,"0174136","oCamCire s. koCara","oCamCire"
+"62005022405","Wanturia","Tengiz","aleqsandre","04/15/54 00:00:00",,"e",1,"0174137","oCamCire s. ilori","oCamCire"
+"62005022406","barTia","meriko","lavrenti","03/03/42 00:00:00",,"e",2,"0174138","oCamCire s. ilori","oCamCire"
+"62005022407","Tordinava","mzia","gaji","03/15/45 00:00:00","02/27/08 00:00:00","e",2,"0174139","oCamCire s. axali kindRi","oCamCire"
+"62005022408","qiria","dodo","vladimiri","07/03/63 00:00:00",,"v",2,"0466410","oCamCire s. beslaxuba","oCamCire"
+"62005022409","malania","lali","Salva","06/04/61 00:00:00",,"e",2,"0174141","oCamCire suvorovis q. N 86","oCamCire"
+"62005022410","injgia","avTandil","sandro","05/27/49 00:00:00",,"e",1,"0174142","oCamCire s. merkula","oCamCire"
+"62005022411","ardia","inga","giorgi","01/14/74 00:00:00",,"e",2,"0174143","oCamCire s. beslaxuba","oCamCire"
+"62005022412","xuxua","luna","vladimeri","05/03/37 00:00:00",,"e",2,"0174144","oCamCire s. beslaxuba","oCamCire"
+"62005022413","jguburia","leila","raJiko","08/16/56 00:00:00",,"e",2,"0174145","oCamCire s. merkula","oCamCire"
+"62005022414","gagua","lideri","lonia","05/25/60 00:00:00",,"e",1,"0174146","oCamCire s. axali kindRi","oCamCire"
+"62005022415","Sonia","zaira","muSni","07/03/55 00:00:00","05/22/05 00:00:00","e",2,"0174147","oCamCire s. ilori","oCamCire"
+"62005022416","papava","mokona","jaku","01/25/37 00:00:00",,"e",2,"0174148","oCamCire s. axali kindRi","oCamCire"
+"62005022417","qobalia","guram","apaloni","03/11/67 00:00:00",,"e",1,"0174149","oCamCire s. aZiubJa","oCamCire"
+"62005022418","xuxua","xviCa","nikolozi","02/15/67 00:00:00",,"e",1,"0174150","oCamCire s. beslaxuba","oCamCire"
+"62005022419","xoWava","Tamar","iasoni","02/05/15 00:00:00","10/18/04 00:00:00","e",2,"0174151","oCamCire s. ilori","oCamCire"
+"62005022420","gogoxia","arvelod","baja","05/24/55 00:00:00",,"e",1,"0174152","oCamCire s. kvitouli","oCamCire"
+"62005022421","qardava","raisa","radioni","03/04/52 00:00:00",,"e",2,"0174153","oCamCire s. beslaxuba","oCamCire"
+"62005022422","robaqiZe","aneta","vitali","01/19/58 00:00:00",,"e",2,"0174154","oCamCire s. aZiubJa","oCamCire"
+"62005022423","gvasalia","marina","mixeili","08/15/56 00:00:00",,"e",2,"0174155","oCamCire e.eSbas q. N 32","oCamCire"
+"62005022424","bagratia","avTandil","buxuti","01/01/50 00:00:00",,"e",1,"0174156","oCamCire S.rusTavelis q. N 202a b.","oCamCire"
+"62005022425","aSortia","naziko","noe","08/10/38 00:00:00",,"e",2,"0174157","oCamCire s. merkula","oCamCire"
+"62005022426","megreliSvili","Tamar","nikolozi","03/18/56 00:00:00",,"e",2,"0181954","oCamCire Tbilisis q. N 42","oCamCire"
+"62005022427","quraspediani","biWiko","sergo","08/03/51 00:00:00",,"e",1,"0174163","oCamCire s. cagera","oCamCire"
+"62005022428","zaqaraia","vladimer","biqtori","02/28/49 00:00:00",,"e",1,"0174164","oCamCire s. aradu","oCamCire"
+"62005022429","TuTisani","iaCqa","giorgi","08/15/25 00:00:00",,"e",2,"0174165","oCamCire s. aradu","oCamCire"
+"62005022430","samsiani","badri","vaxtangi","04/17/75 00:00:00",,"e",1,"0174166","oCamCire s. oxurei","oCamCire"
+"62005022431","vardaia","nugzar","noe","06/06/55 00:00:00",,"e",1,"0174167","oCamCire kecxovelis q. N 40","oCamCire"
+"62005022432","georxeliZe","naTela","dumu","08/15/30 00:00:00",,"e",2,"0174168","oCamCire s. koCara","oCamCire"
+"62005022433","gagua","nauSa","malaqi","05/10/29 00:00:00",,"e",1,"0174169","oCamCire s. axali kindRi","oCamCire"
+"62005022434","goleTiani","eliSuki","WiWiko","09/20/51 00:00:00",,"e",1,"0174170","oCamCire s. aradu","oCamCire"
+"62005022435","fircxelava","lamara","vladimeri","07/20/48 00:00:00",,"e",2,"0174171","oCamCire s. ilori","oCamCire"
+"62005022436","boWoriSvili","meri","vaxtangi","09/25/52 00:00:00",,"e",2,"0174172","oCamCire s. oxurei","oCamCire"
+"62005022437","gigaSvili","nona","zauri","10/14/73 00:00:00",,"T",2,"0466226","oCamCire s. tamiSi","oCamCire"
+"62005022438","arjevaniZe","nana","giorgi","12/30/73 00:00:00",,"T",2,"0467011","oCamCire s. aradu","oCamCire"
+"62005022439","muSkudiani","gurgen","onofro","12/10/30 00:00:00",,"e",1,"0174175","oCamCire s. aradu","oCamCire"
+"62005022440","beniZe","zaira","grigoli","10/27/59 00:00:00",,"e",2,"0174176","oCamCire s. aradu","oCamCire"
+"62005022441","giorbeliZe","Tamar","jambuli","02/20/84 00:00:00",,"e",2,"0174177","oCamCire s. aradu","oCamCire"
+"62005022442","gergedava","lela","mixeili","11/07/66 00:00:00",,"e",2,"0174178","oCamCire s. beslaxuba","oCamCire"
+"62005022443","gulua","mamanti","ilia","10/05/46 00:00:00",,"e",1,"0174179","oCamCire s. koCara","oCamCire"
+"62005022444","miqaia","nino","Tamazi","03/28/87 00:00:00",,"e",2,"0180978","oCamCire Waraias q. N 15","oCamCire"
+"62005022445","arahamia","zurab","valeriani","04/18/54 00:00:00",,"e",1,"0174181","oCamCire s. merkula","oCamCire"
+"62005022446","aSuba","vaxtang","ivane","11/26/53 00:00:00",,"e",1,"0174182","oCamCire soxumis gzat. N 302","oCamCire"
+"62005022447","murgvliani","naTela","kapitoni","12/26/53 00:00:00",,"e",2,"0174183","oCamCire s. oxurei","oCamCire"
+"62005022448","belTaZe","marusia","eziki","02/18/24 00:00:00",,"e",2,"0174184","oCamCire s. koCara","oCamCire"
+"62005022449","goleTiani","nuca","aleqsandre","02/05/30 00:00:00","10/19/05 00:00:00","e",2,"0174185","oCamCire s. axali kindRi","oCamCire"
+"62005022450","kakalaZe","liana","rezo","05/06/64 00:00:00",,"e",2,"0174186","oCamCire s. aZiubJa","oCamCire"
+"62005022451","janjRava","gogi","daviTi","11/27/50 00:00:00","11/17/06 00:00:00","e",1,"0174187","oCamCire s. axali kindRi","oCamCire"
+"62005022452","arqania","qeTo","SoTa","09/19/55 00:00:00",,"e",2,"0174188","oCamCire sabWos q. N 46","oCamCire"
+"62005022453","beniZe","mixeil","borisi","03/30/85 00:00:00",,"e",1,"0174189","oCamCire s. cagera","oCamCire"
+"62005022454","aSuba","irine","noe","03/23/58 00:00:00",,"e",2,"0174190","oCamCire soxumis gzat. N 302","oCamCire"
+"62005022455","akobiZe","Tamaz","Jora","06/04/76 00:00:00",,"e",1,"0174191","oCamCire s. aradu","oCamCire"
+"62005022456","vardaia","eliada","evstafi","10/13/32 00:00:00","12/20/05 00:00:00","e",2,"0174192","oCamCire kecxovelis q. N 40","oCamCire"
+"62005022457","Tordinava","mokona","dutu","02/15/28 00:00:00","11/03/08 00:00:00","e",2,"0201732","oCamCire soxumis gzat. N 304","oCamCire"
+"62005022458","natraZe","mzia","aleqsi","02/18/57 00:00:00",,"e",2,"0174195","oCamCire s. axali kindRi","oCamCire"
+"62005022459","mircxulava","roza","zaqaria","10/19/34 00:00:00",,"e",2,"0174196","oCamCire s. koCara","oCamCire"
+"62005022460","kopaliani","lida","murmani","02/05/86 00:00:00",,"e",2,"0174197","oCamCire lakobas q. N 32","oCamCire"
+"62005022461","Corgoliani","nodar","galaqtioni","03/11/54 00:00:00",,"e",1,"0174198","oCamCire s. axali kindRi","oCamCire"
+"62005022462","CargeiSvili","lauri","bondo","10/29/61 00:00:00","06/18/07 00:00:00","e",1,"0174199","oCamCire e.ninoSvilis q. N 49","oCamCire"
+"62005022463","bJania","svetlana","ilia","03/29/37 00:00:00",,"e",2,"0174200","oCamCire e.ninoSvilis q. N 49","oCamCire"
+"62005022464","kvinikaZe","iura","aleqsandre","07/20/59 00:00:00",,"e",1,"0174201","oCamCire s. axali kindRi","oCamCire"
+"62005022465","kvaracxelia","zinaida","Salva","08/03/52 00:00:00",,"e",2,"0174202","oCamCire s. koCara","oCamCire"
+"62005022466","zaria","lena","grigori","05/11/28 00:00:00","03/25/10 00:00:00","e",2,"0174203","oCamCire cxakaias q. N 101","oCamCire"
+"62005022467","dadvani","darejan","fridoni","01/08/68 00:00:00",,"e",2,"0174204","oCamCire s. koCara","oCamCire"
+"62005022468","daTusani","zoia","giorgi","11/10/40 00:00:00","12/19/09 00:00:00","e",2,"0174205","oCamCire s. aZiubJa","oCamCire"
+"62005022469","xuTkubia","inga","zurabi","03/30/71 00:00:00",,"e",2,"0174206","oCamCire S.rusTavelis q. N 50","oCamCire"
+"62005022470","pataraZe","anzor","uSangi","10/26/61 00:00:00",,"e",1,"0174207","oCamCire s. koCara","oCamCire"
+"62005022471","Todua","viola","kako","01/01/68 00:00:00",,"e",2,"0174208","oCamCire s. aradu","oCamCire"
+"62005022472","nacvliSvili","jandri","avTandili","03/18/78 00:00:00",,"e",2,"0462837","oCamCire s. beslaxuba","oCamCire"
+"62005022473","abralava","roman","aleqsi","06/01/60 00:00:00","02/19/07 00:00:00","e",1,"0174210","oCamCire s. ilori","oCamCire"
+"62005022474","beniZe","merab","WiWiko","01/06/58 00:00:00",,"e",1,"0174211","oCamCire s. aZiubJa","oCamCire"
+"62005022475","maliSava","Taliko","artemi","07/10/31 00:00:00",,"e",2,"0174212","oCamCire suvorovis q. N 89","oCamCire"
+"62005022476","xoStaria","vaxtang","aristraxi","06/23/27 00:00:00",,"e",1,"0174213","oCamCire suvorovis q. N 89","oCamCire"
+"62005022477","gulua","nona","Salva","10/10/67 00:00:00",,"e",2,"0174214","oCamCire s. koCara","oCamCire"
+"62005022478","baRbaia","maluza","vladimeri","05/05/67 00:00:00",,"e",2,"0174215","oCamCire e.ninoSvilis q. N 73","oCamCire"
+"62005022479","xarebava","gia","iliko","01/03/70 00:00:00",,"e",1,"0174216","oCamCire s. beslaxuba","oCamCire"
+"62005022480","dgebuaZe","aleqsandre","indiko","01/01/66 00:00:00","07/09/06 00:00:00","e",1,"0174225","oCamCire s. axali kindRi","oCamCire"
+"62005022481","beriZe","beslan","indiko","10/08/72 00:00:00",,"e",1,"0174226","oCamCire s. beslaxuba","oCamCire"
+"62005022482","beriZe","edvard","indiko","01/08/70 00:00:00",,"e",1,"0174227","oCamCire s. beslaxuba","oCamCire"
+"62005022483","oTxozoria","daviT","Toma","12/17/63 00:00:00",,"e",1,"0174228","oCamCire S.rusTavelis q. N 163","oCamCire"
+"62005022484","ruxaia","ciala","gogliko","06/03/62 00:00:00",,"e",2,"0174229","oCamCire e.eSbas q. N 128a","oCamCire"
+"62005022485","ruxaia","nona","gogliki","05/31/64 00:00:00",,"e",2,"0174230","oCamCire e.eSbas q. N 128a","oCamCire"
+"62005022486","nodia","naTela","pavle","09/27/33 00:00:00","07/09/06 00:00:00","e",2,"0174231","oCamCire s. aZiubJa","oCamCire"
+"62005022487","nodia","nugzar","nodari","03/08/58 00:00:00",,"e",1,"0453498","oCamCire s. aZiubJa","oCamCire"
+"61201091664","jijavaZe","giuli","ednari","10/21/93 00:00:00",,"a",2,"1390566",,
+"59801133388","xaCiuri","mariam","koba","08/27/05 00:00:00",,,2,,,
+"01511106657","mestviriSvili","giorgi","daviTi","07/18/07 00:00:00",,,1,,,
+"57201064781","tabucaZe","levan","givi","09/21/05 00:00:00",,,1,,,
+"01111106658","niftalievi","zaman","gumani","08/04/06 00:00:00",,,1,,,
+"28801124845","osmanovi","saxib","valex","09/28/94 00:00:00",,"b",1,"1406615",,
+"28401124846","gurbanova","elvira","elman","07/30/92 00:00:00",,"a",2,"1406616",,
+"28901124847","mexralievi","adalaT","mubariz","12/02/94 00:00:00",,"b",1,"1406616",,
+"62902014519","SalamberiZe","kapiton","mixeil","09/10/81 00:00:00",,"v",1,"0466666",,
+"03301023254","borboriani","andranik","hovakimi","10/29/91 00:00:00",,"d",1,"1357170",,
+"62902014520","alania","mariami","revaz","07/15/09 00:00:00",,,2,,,
+"17901034390","TvalabeiSvili","qeTevani","kaxa","02/20/07 00:00:00",,,2,,,
+"62502014521","alania","salome","revaz","09/15/10 00:00:00",,,2,,,
+"61106083201","lurcioRli","sofio","renadi","01/27/04 00:00:00",,,2,,,
+"01708066830","badagaZe","bakur","vaJa","10/16/04 00:00:00",,,1,,,
+"62102014522","siWinava","elene","zaliko","05/20/04 00:00:00",,,2,,,
+"62602014523","gabliani","marexi","soso","09/28/98 00:00:00",,,2,,,
+"62202014524","xurcilava","julieta","nugzar","11/07/07 00:00:00",,,2,,,
+"36801057259","nasibova","xalida","Temraz","09/21/99 00:00:00",,,2,,,
+"62702014525","gabliani","monika","soso","09/15/00 00:00:00",,,2,,,
+"62302014526","nodia","TaTia","zaza","05/20/04 00:00:00",,,2,,,
+"62802014527","zarqua","daTo","arsen","04/22/00 00:00:00",,,1,,,
+"62402014528","filfani","marexi","Temuri","04/21/00 00:00:00",,,2,,,
+"62902014529","miminoSvili","goCa","emili","06/13/07 00:00:00",,,1,,,
+"01301107315","kenWuaSvili","arCili","oTari","02/22/90 00:00:00",,"a",1,"1410755",,
+"62902014530","Cxetiani","zurabi","giorgi","08/26/99 00:00:00",,,1,,,
+"62502014531","Cxetiani","olegi","Temuri","12/14/98 00:00:00",,,1,,,
+"40101041556","elizbaraSvili","omari","berdia","01/24/06 00:00:00",,,1,,,
+"62102014532","cindeliani","jeni","merabi","08/28/01 00:00:00",,,2,,,
+"62602014533","cindeliani","ana","avTandili","12/20/98 00:00:00",,,2,,,
+"61606083202","nakaSiZe","avTandil","arCili","11/02/04 00:00:00",,,1,,,
+"28501124848","omarovi","eldar","maxir","10/04/03 00:00:00",,,1,,,
+"01117060710","gajieva","naiba","aqim","01/16/99 00:00:00",,,2,,,
+"01801107316","xuciSvili","anri","daviTi","10/07/05 00:00:00",,,1,,,
+"01224095243","paiWaSvili","Tamar","daviTi","03/22/05 00:00:00",,,2,,,
+"61206083203","Cesalovi","aleqsandre","iuri","03/13/96 00:00:00",,"g",1,"1378661",,
+"62202014534","dagargulia","leo","konstantine","11/16/06 00:00:00",,,1,,,
+"62702014535","dagargulia","nino","konstantine","08/13/95 00:00:00",,"z",2,"0466666",,
+"36801057260","balievi","bali","namaz","09/08/95 00:00:00",,"b",1,"1402609",,
+"26801039513","xviCia","nugzar","giorgi","02/15/08 00:00:00",,,1,,,
+"36401057261","bairamova","malTam","xanaxmad","01/19/91 00:00:00",,"d",1,"1402609",,
+"28101124849","Sixieva","CiCak","akif","03/04/04 00:00:00",,,2,,,
+"26401039514","koiZe","saba","daviTi","02/24/07 00:00:00",,,1,,,
+"06101008910","Zukaevi","sofia","merabi","09/01/93 00:00:00",,"d",2,"1326485",,
+"01724095244","yvelaSvili","manana","jaba","02/02/04 00:00:00",,,2,,,
+"15901029061","ismailova","giulbaxar","mustafa","04/23/46 00:00:00",,"a",2,"1372974",,
+"15501029062","gasanova","ilaga","ramin","12/11/03 00:00:00",,,2,,,
+"01251011556","papaSvili","nini","mixeil","01/05/11 00:00:00",,,2,,,
+"01252006296","xurcilava","beqa","mamuka","01/06/11 00:00:00",,,1,,,
+"01253009295","melaia","mariami","vitali","01/04/11 00:00:00",,,2,,,
+"01253009305","sadoiani","maria","malxaz","01/04/11 00:00:00",,,2,,,
+"01254012931","TedoraSvili","qeTevan","goCa","01/05/11 00:00:00",,,2,,,
+"01254012941","maxaraSvili","giorgi","soso","01/04/11 00:00:00",,,1,,,
+"01254012951","xaWapuriZe","sofi","konstantine","01/06/11 00:00:00",,,2,,,
+"01350007655","ubilava","irakli",,"12/13/09 00:00:00",,,1,,,
+"01350007665","SubiTiZe","Tazo","giorgi","01/04/11 00:00:00",,,1,,,
+"01350007675","samakaSvili","luka","kaxaberi","01/05/11 00:00:00",,,1,,,
+"01350007685","qsovreli","anano","Tamaz","01/05/11 00:00:00",,,2,,,
+"01350007695","gvritiSvili","ilia","mixeil","01/04/11 00:00:00",,,1,,,
+"01351011548","CanCibaZe","anastasia","zaza","01/05/11 00:00:00",,,2,,,
+"01351011558","dvaliSvili","gabriel","giorgi","01/05/11 00:00:00",,,1,,,
+"01352006298","nebuniSvili","TinaTin","giorgi","01/04/11 00:00:00",,,2,,,
+"01353009287","omarova","larisa","murad","01/04/11 00:00:00",,,2,,,
+"01353009297","iaseSvili","luka","demuri","01/04/11 00:00:00",,,1,,,
+"01353009307","oganezovi","david","karlen","01/03/11 00:00:00",,,1,,,
+"01354012933","mamedova","urga","mamed","12/30/10 00:00:00",,,2,,,
+"01354012943","cicxvaia","giorgi","emzar","01/05/11 00:00:00",,,1,,,
+"01356005483","boWoriSvili","sandro","nikoloz","01/05/11 00:00:00",,,1,,,
+"01450007657","qafianiZe","revaz","zurab","12/23/10 00:00:00",,,1,,,
+"01450007667","menTeSaSvili","vaxtangi",,"01/02/11 00:00:00",,,1,,,
+"01450007677","modebaZe","nikoloz","zurab","01/05/11 00:00:00",,,1,,,
+"01450007687","WumburiZe","mariam","pavle","01/05/11 00:00:00",,,2,,,
+"01450007697","imerliSvili","zaqaria","Tengiz","01/05/11 00:00:00",,,1,,,
+"01451011551","kldiaSvili","daviT","irakli","01/04/11 00:00:00",,,1,,,
+"01451011561","nikolaiSvili","qeTevan","aleqsandre","01/06/11 00:00:00",,,2,,,
+"01452006301","abaSiZe","qeTevan","vasil","01/05/11 00:00:00",,,2,,,
+"01453009289","labaZe","luka","levan","01/03/11 00:00:00",,,1,,,
+"01453009290","esitovi","arianna","eranos","01/04/11 00:00:00",,,2,,,
+"01453009299","korZaxia","konstantine","daviTi","01/04/11 00:00:00",,,1,,,
+"01453009300","safoevi","Teimurazi","nodari","01/05/11 00:00:00",,,1,,,
+"01453009309","afriaSvili","giorgi","mamuka","01/06/11 00:00:00",,,1,,,
+"01453009310","fruiZe","giorgi","nikolozi","01/02/11 00:00:00",,,1,,,
+"01454012925","Cvilevi","maTe",,"01/04/11 00:00:00",,,1,,,
+"01454012935","kapanaZe","sofi","zviad","12/05/10 00:00:00",,,2,,,
+"01454012945","daTiSvili","luka","vaxtangi","01/06/11 00:00:00",,,1,,,
+"01456005485","kaxeTeliZe","anastasia","daviT","01/05/11 00:00:00",,,2,,,
+"01550007659","sidamoniZe","ani","akaki","12/30/10 00:00:00",,,2,,,
+"01550007660","maxmedova","malika","ilham","01/03/11 00:00:00",,,2,,,
+"01550007669","bairamovi","xaTuna","durmiSxan","01/05/11 00:00:00",,,2,,,
+"01550007670","miqaZe","TaTuli","giorgi","01/03/11 00:00:00",,,2,,,
+"01550007679","maisuraZe","barbare","domenti","01/04/11 00:00:00","01/25/11 00:00:00",,2,,,
+"01550007680","mxiTariani","aleqsandre","riCard","01/04/11 00:00:00",,,1,,,
+"01550007689","goginaSvili","saba","aleqsandre","01/04/11 00:00:00",,,1,,,
+"01550007690","xvistani","revaz","sulxan","01/06/11 00:00:00",,,1,,,
+"01550007699","gabaZe","giorgi","kaxaber","12/31/10 00:00:00",,,1,,,
+"01551011543","asabaSvili","nuca","paata","01/03/11 00:00:00",,,2,,,
+"01551011553","nodia","ana","mirian","01/05/11 00:00:00",,,2,,,
+"01551011563","mxeiZe","mariam","irakli","01/03/11 00:00:00",,,2,,,
+"01552006303","qurdiani","saba","andro","01/06/11 00:00:00",,,1,,,
+"01553009292","RviniaSvili","giorgi","oTar","01/04/11 00:00:00",,,1,,,
+"01553009302","qobulaSvili","giorgi","SoTa","01/05/11 00:00:00",,,1,,,
+"01553009312","gudaZe","nana","laSa","01/04/11 00:00:00",,,2,,,
+"01554012927","oniani","laSa","SoTa","01/03/11 00:00:00",,,1,,,
+"01554012937","bairamovi","nurlan","adalat","01/03/11 00:00:00",,,1,,,
+"01554012947","miqaZe","anastasia","merab","01/06/11 00:00:00",,,2,,,
+"01556005487","zedelaSvili","mariam","dimitri","01/06/11 00:00:00",,,2,,,
+"01650007662","tuxaSvili","saba","giorgi","01/04/11 00:00:00","03/21/11 00:00:00",,1,,,
+"01650007672","sujaSvili","ilia","mixeil","01/04/11 00:00:00",,,1,,,
+"01650007682","oTxozoria","demetre","vano","01/05/11 00:00:00",,,1,,,
+"01650007692","paqsaSvili","qristine","besik","01/06/11 00:00:00",,,2,,,
+"01651011545","guSaraSvili","avTandil","saba","10/14/10 00:00:00",,,1,,,
+"01651011555","Todria","ilia","daviT","01/04/11 00:00:00",,,1,,,
+"01652006295","toriaSvili","giorgi","aleqsandre","01/04/11 00:00:00",,,1,,,
+"01653009294","beJuaSvili","anastasia","giorgi","01/04/11 00:00:00",,,2,,,
+"01653009304","qurasbediani","nikoloz","giorgi","12/10/10 00:00:00",,,1,,,
+"01654012929","jojua","nikoloz","giorgi","01/04/11 00:00:00",,,1,,,
+"01654012930","kldiaSvili","giorgi","paata","01/04/11 00:00:00",,,1,,,
+"01654012939","garaevi","simar","gabil","01/03/11 00:00:00",,,1,,,
+"01654012940","Ciqovani","mariami","zaali","01/06/11 00:00:00",,,2,,,
+"01654012949","janjRava","Toma",,"01/05/11 00:00:00",,,1,,,
+"01654012950","lekiaSvili","daviT","giorgi","01/05/11 00:00:00",,,1,,,
+"01750007664","komlaZe","elene","Teimuraz","01/04/11 00:00:00",,,2,,,
+"01750007674","takiZe","nikoloz","giorgi","01/04/11 00:00:00",,,1,,,
+"01750007684","feiqriSvili","elene","ivane","01/06/11 00:00:00",,,2,,,
+"01750007694","wereTeli","naTia","dimitri","01/03/11 00:00:00",,,2,,,
+"01751011547","gogberaSvili","linda","ivane","01/05/11 00:00:00",,,2,,,
+"01751011557","yavelaSvili","Tekla","giorgi","01/03/11 00:00:00",,,2,,,
+"01752006297","avaliSvili","daviTi","ivane","01/05/11 00:00:00",,,1,,,
+"01753009286","parastaSvili","mariam","avTandili","01/04/11 00:00:00",,,2,,,
+"01753009296","norzalova","diana","mamuka","01/04/11 00:00:00",,,2,,,
+"01753009306","migineiSvili","barbare","Temur","01/05/11 00:00:00",,,2,,,
+"01754012932","kasumovi","rauli","ramin","01/03/11 00:00:00",,,1,,,
+"01754012942","biZinaSvili","Temuri","merabi","01/05/11 00:00:00",,,1,,,
+"28750006800","salaxovi","roial","elCin","01/02/11 00:00:00",,,1,,,
+"28850006802","zeinalovi","zaxir","azer","09/11/10 00:00:00",,,1,,,
+"31250001636","goCaSvili","barbare","goCa","01/04/11 00:00:00",,,2,,,
+"31650001635","pirmisaSvili","barbare","giorgi","01/04/11 00:00:00",,,2,,,
+"31750001637","manqanaSvili","anastasia","zviadi","01/03/11 00:00:00",,,2,,,
+"32350001165","mkrtCian","vartan","amazasp","01/03/11 00:00:00",,,1,,,
+"32750001164","Capanian","alberT","haikaz","01/12/00 00:00:00",,,1,,,
+"33450002292","darCia","elguja","paata","01/05/11 00:00:00",,,1,,,
+"33550002294","giorgaZe","daviTi","simon","01/05/11 00:00:00",,,1,,,
+"33950002293","maxaraZe","anTea","durmiSxan","01/04/11 00:00:00",,,2,,,
+"35150006049","qelexsaSvili","mariami","ramazi","01/06/11 00:00:00",,,2,,,
+"35150006050","CiRunaZe","daCi","daviT","01/05/11 00:00:00",,,1,,,
+"35250006052","ZebisaSvili","gia","guram","01/05/11 00:00:00",,,1,,,
+"35350006054","bacikaZe","mariam","vladimeri","01/05/11 00:00:00",,,2,,,
+"35550006048","gasanovi","sarxan","janbulad","01/04/11 00:00:00",,,1,,,
+"35650006051","TaTariSvili","ana","andro","01/03/11 00:00:00",,,2,,,
+"35750006053","megreliSvili","nikolozi","olegi","01/05/11 00:00:00",,,1,,,
+"35950006047","ambukaZe","gurami","daviT","01/04/11 00:00:00",,,1,,,
+"36350003217","alievi","nijaT","zaur","01/04/11 00:00:00",,,1,,,
+"36750003216","alazova","aisun","qamandar","01/02/11 00:00:00",,,2,,,
+"36850003218","alievi","rahif","zaman","01/03/11 00:00:00",,,1,,,
+"37250001376","axobaZe","barbare","soso","01/05/11 00:00:00",,,2,,,
+"38450002465","lacabiZe","Salva","merab","01/04/11 00:00:00",,,1,,,
+"38950002466","asaniZe","giorgi","Teimuraz","01/05/11 00:00:00",,,1,,,
+"39250002557","kapanaZe","qristina","iakobi","01/04/11 00:00:00",,,2,,,
+"39350002559","axverdaSvili","anamaria","giorgi","01/05/11 00:00:00",,,2,,,
+"39350002560","gogoli","giorgi","Teimurazi","01/05/11 00:00:00",,,1,,,
+"39450002562","jiqia","ani","vaxtang","01/04/11 00:00:00",,,2,,,
+"39650002556","mamforia","saba","manuCar","01/04/11 00:00:00",,,1,,,
+"39750002558","TaniaSvili","naTela","SoTa","01/04/11 00:00:00",,,2,,,
+"39850002561","Wkadua","saba","oleg","01/04/11 00:00:00",,,1,,,
+"40450000989","sesitaSvili","salome","givi","01/04/11 00:00:00",,,2,,,
+"42150001614","zalikaSvili","gega",,"01/04/11 00:00:00",,,1,,,
+"42450001611","qorqia","dea","irakli","01/02/11 00:00:00",,,2,,,
+"42550001613","kilaZe","nika","rolandi","01/06/11 00:00:00",,,1,,,
+"42950001612","darsalia","gigi","gela","12/31/10 00:00:00",,,1,,,
+"43350001395","gagloeva","ioseb",,"01/04/11 00:00:00","01/06/11 00:00:00",,1,,,
+"43850001396","gagloeva","mose",,"01/04/11 00:00:00","01/06/11 00:00:00",,1,,,
+"45250001206","meqoSvili","nugzari","simoni","01/05/11 00:00:00",,,1,,,
+"47250001789","grZeliZe","saba","kaxaber","01/06/11 00:00:00",,,1,,,
+"47650001788","oTanaZe","avTo","uCa","01/04/11 00:00:00",,,1,,,
+"48750000819","siWinava","vika","eldar","01/04/11 00:00:00",,,2,,,
+"51350001105","buliskeria","elene","irakli","01/04/11 00:00:00",,,2,,,
+"51850001106","cindeliani","barbare","murman","01/02/11 00:00:00",,,2,,,
+"53250000928","cikolia","giorgi","kaxa","01/03/11 00:00:00",,,1,,,
+"53750000929","bzikaZe","giorgi","ramaz","01/06/11 00:00:00",,,1,,,
+"53750000930","geleniZe","Tamar","aleqsandre","01/05/11 00:00:00",,,2,,,
+"54250001413","kapanaZe","nikoloz","kaxaber","01/05/11 00:00:00",,,1,,,
+"54650001412","SeyilaZe","mariam","daviT","01/04/11 00:00:00",,,2,,,
+"55250000542","abzianiZe","mariam","aluda","01/01/11 00:00:00",,,2,,,
+"56350000401","lomiZe","nikoloz","aleqsi","01/06/11 00:00:00",,,1,,,
+"57350001925","gelaSvili","merab","sulxan","11/20/10 00:00:00",,,1,,,
+"57450001927","mosiaSvili","elene","koba","12/27/10 00:00:00",,,2,,,
+"57850001926","Caxoiani","barbare","eZik","01/02/11 00:00:00",,,2,,,
+"57950001928","bluaSvili","zura","giorgi","01/06/11 00:00:00",,,1,,,
+"58550001006","gogua","iliko",,"01/15/02 00:00:00",,,1,,,
+"59150005455","demetraSvili","nikoloz","oTar","01/05/11 00:00:00",,,1,,,
+"59250005457","ancariZe","luka","genad","01/01/11 00:00:00",,,1,,,
+"59350005459","gelaSvili","luka","vefxvia","01/04/11 00:00:00",,,1,,,
+"59350005460","gelaSvili","beqa","vefxvia","01/04/11 00:00:00",,,1,,,
+"59450005462","RviniaSvili","daCi","giorgi","01/04/11 00:00:00",,,1,,,
+"59550005454","wkrialaSvili","Teona",,"07/26/01 00:00:00",,,2,,,
+"59550005464","ramazaSvili","mariam","romani","01/05/11 00:00:00","01/18/11 00:00:00",,2,,,
+"59650005456","dvaliSvili","andria","ivane","01/05/11 00:00:00",,,1,,,
+"59750005458","ancariZe","saba","genad","01/01/11 00:00:00",,,1,,,
+"59850005461","mWedliSvili","nini","nodar","01/06/11 00:00:00",,,2,,,
+"59950005463","giorgaSvili","nikoloz",,"01/05/11 00:00:00",,,1,,,
+"60150013597","sxirtlaZe","giorgi","laSa","01/04/11 00:00:00","03/25/11 00:00:00",,1,,,
+"60150013607","silagaZe","irine","Temur","01/05/11 00:00:00",,,2,,,
+"60150013617","fruiZe","givi","irakli","01/01/11 00:00:00",,,1,,,
+"60150013627","xurciZe","mariam","giorgi","01/04/11 00:00:00",,,2,,,
+"60250013599","kevaliSvili","giorgi","levan","01/01/11 00:00:00",,,1,,,
+"60250013600","xarSilaZe","mariam","ledeni","01/01/11 00:00:00",,,2,,,
+"60250013609","paikiZe","Toma","grigol","01/05/11 00:00:00",,,1,,,
+"60250013610","niJaraZe","mariam","vaxtangi","01/04/11 00:00:00",,,2,,,
+"60250013619","bardaveliZe","gvanca","laSa","01/04/11 00:00:00",,,2,,,
+"60250013620","lorTqifaniZe","nikoloz","amiran","01/05/11 00:00:00",,,1,,,
+"60350013602","kbilaSvili","manana","ramaz","01/02/11 00:00:00",,,2,,,
+"60350013612","JorJoliani","giorgi","gela","01/04/11 00:00:00",,,1,,,
+"60350013622","axvlediani","lela","kaxa","01/05/11 00:00:00",,,2,,,
+"60450013594","iobiZe","Tamar","daviT","12/31/10 00:00:00",,,2,,,
+"60450013604","beniZe","maTe","levani","01/04/11 00:00:00",,,1,,,
+"60450013614","lobJaniZe","qristine","giorgi","01/03/11 00:00:00",,,2,,,
+"60450013624","xamaSuriZe","anri",,"01/04/11 00:00:00",,,1,,,
+"60550013596","kenWoSvili","giorgi","zauri","01/04/11 00:00:00",,,1,,,
+"60550013606","buaZe","anastasia","omari","01/04/11 00:00:00",,,2,,,
+"60550013616","belTaZe","luka","irakli","01/05/11 00:00:00",,,1,,,
+"60550013626","ubilava","anri","mindia","01/05/11 00:00:00",,,1,,,
+"60650013598","CaCua","lizi",,"01/01/11 00:00:00",,,2,,,
+"60650013608","mamardaSvili","nino","zurabi","01/04/11 00:00:00",,,2,,,
+"60650013618","gogberaSvili","aleqsandre","Salva","01/05/11 00:00:00",,,1,,,
+"61801091667","ZnelaZe","irakli","ilia","12/25/03 00:00:00",,,1,,,
+"51501031981","Waraia","Tengiz","rezo","02/10/79 00:00:00",,"b",1,"1320495",,
+"61208021262","arZenaZe","daTo","ramazi","09/24/04 00:00:00",,,1,,,
+"61708021263","arZenaZe","raul","ramazi","03/01/03 00:00:00",,,1,,,
+"60501165294","CxeiZe","Tekla","besik","02/08/08 00:00:00",,,2,,,
+"07501057130","abajian","repsima","poRosi","01/16/63 00:00:00",,"b",1,"1322511",,
+"50801004671","javaxiSvili","marami","givi","05/06/96 00:00:00",,"d",2,"1388524",,
+"61401091668","baRirova","aida","Sahmar","05/08/77 00:00:00",,"d",2,"0014364",,
+"07101057131","grigorian","gagik","Suras","05/02/60 00:00:00",,"b",1,"0015792",,
+"07601057132","serofian","artur","igori","12/15/92 00:00:00",,"g",1,"0015792",,
+"26601039518","Sengelia","giorgi","genadi","05/10/06 00:00:00",,,1,,,
+"58701034835","bukia","murTazi","napoleoni","07/18/45 00:00:00",,"a",1,"1368702",,
+"25101051697","enuqiZe","diana","robizoni","03/21/00 00:00:00",,,2,,,
+"57301064783","lomia","vano","laSa","05/17/04 00:00:00",,,1,,,
+"33701084347","mekeiZe","avTandili","Temuri","07/12/04 00:00:00",,,1,,,
+"01217060712","alafiSvili","beJani","vefxia","04/10/05 00:00:00",,,1,,,
+"33301084348","gogeliZe","ana","mirza","01/16/07 00:00:00",,,2,,,
+"59201133395","oniaSvili","ani","aleqsi","04/18/05 00:00:00",,,2,,,
+"60101165295","niSnianiZe","luka","mevludi","04/09/06 00:00:00",,,1,,,
+"26201039519","maxaraZe","aleko","indiko","12/08/04 00:00:00",,,1,,,
+"12101103979","buTxuzi","gela","vardo","02/06/04 00:00:00",,,1,,,
+"20301072965","SavaZe","Tamar","SoTa","08/11/94 00:00:00",,"a",2,"1403263",,
+"35201134480","cxvaraZe","gela","amiran","04/11/78 00:00:00",,"d",1,"1413305",,
+"10201072960","adigezalovi","elvin","muzalim","07/14/04 00:00:00",,,1,,,
+"12101103980","imamalieva","banovSa","matlab","07/13/93 00:00:00",,"g",2,"1406461",,
+"01497002019","rahimi eiblu","iusef","ahmadali","12/22/68 00:00:00",,"b",1,"0004836",,
+"50401004672","dekanoziSvili","giorgi","abesalomi","12/05/07 00:00:00",,,1,,,
+"48901028323","Todua","abeli","avTa","12/15/65 00:00:00",,"g",1,"1367929",,
+"25601051698","cercvaZe","sofiko","Teimurazi","09/03/97 00:00:00",,,2,,,
+"10701072961","adigezalova","anura","muzalim","08/03/03 00:00:00",,,2,,,
+"33801084349","solomoniZe","enrike","badri","07/26/04 00:00:00",,,1,,,
+"59701133396","lomiZe","mariam","giorgi","12/05/07 00:00:00",,,2,,,
+"54301063645","CiRunaZe","nikolozi","giorgi","03/09/07 00:00:00",,,1,,,
+"29201042559","jojua","dima","avTandili","04/24/02 00:00:00",,,1,,,
+"47501048036","qomoSvili","mariam","mamuka","08/17/07 00:00:00",,,2,,,
+"28501124858","xalilovi","ialCin","kurban","07/03/83 00:00:00",,"a",1,"1406618",,
+"62202014544","Satifa","Sorena","niazbei","07/15/76 00:00:00",,"T",2,"0466676",,
+"29201042560","jojua","vika","avTandili","12/07/06 00:00:00",,,2,,,
+"01105049474","mangoSvili","mamula","gela","08/31/05 00:00:00",,,1,,,
+"62702014545","ansiani","daTo","emzari","08/25/99 00:00:00",,,1,,,
+"12601103981","isaevi","ibragim","baxman","04/05/07 00:00:00",,,1,,,
+"01605049475","mangoSvili","ivane","gela","04/28/04 00:00:00",,,1,,,
+"08101039804","margoSvili","maqa","omar","11/01/04 00:00:00",,,2,,,
+"25201051699","amiraxov","malaq","rasim","10/13/05 00:00:00",,,1,,,
+"01201107333","svimoniSvili","manana","avTandili","05/01/61 00:00:00",,"d",2,"1410772",,
+"26201039520","futkaraZe","luka","mamuka","03/09/08 00:00:00",,,1,,,
+"01701107334","xaxutaSvili","svetlana","vasili","05/21/38 00:00:00",,"a",2,"1410773",,
+"26701039521","CxaiZe","eTer","grigoli","06/13/53 00:00:00",,"b",2,"1367423",,
+"26301039522","SavaZe","baCuki","Salva","01/02/95 00:00:00",,"g",1,"1367422",,
+"26801039523","TavaZe","SoTa","giorgi","08/11/95 00:00:00",,"b",1,"1367422",,
+"20801072966","yojaevi","roman","amrula","02/11/07 00:00:00",,,1,,,
+"57801064784","fsuturi","zurab","giorgi","02/26/00 00:00:00",,,1,,,
+"01301107335","gogolaZe","aludi","gurgeni","01/20/68 00:00:00",,"a",1,"1410774",,
+"61191000934","kalaita","piter kiondo",,"05/07/69 00:00:00",,"b",1,"0004304",,
+"61306083205","gorgoSaZe","ana","rauli","01/04/05 00:00:00",,,2,,,
+"51101031982","Wkadua","lika","gogia","05/08/94 00:00:00",,"b",2,"1320497",,
+"33801084350","cecxlaZe","lana","joni","06/20/05 00:00:00",,,2,,,
+"60601165296","jangavaZe","anastasia","nikoloz","11/12/05 00:00:00",,,2,,,
+"33401084351","mekeiZe","badri","Tamazi","08/21/04 00:00:00",,,1,,,
+"61806083206","konceliZe","giorgi","anzori","05/06/04 00:00:00",,,1,,,
+"56901027075","Caduneli","gela","arCil","05/30/07 00:00:00",,,1,,,
+"61406083207","arZenaZe","elita","zviadi","04/16/04 00:00:00",,,2,,,
+"14301030365","maZRaraSvili","giorgi","akaki","07/25/05 00:00:00",,,1,,,
+"01711106672","isaxaniani","violeta","petros","02/25/00 00:00:00",,,2,,,
+"61906083208","devaZe","nana","tarieli","04/07/04 00:00:00",,,2,,,
+"01717060713","guseinovi","jeixun","maxir","03/20/96 00:00:00",,"a",1,"1409066",,
+"29701042561","cxakaia","Teona","rolandi","10/08/97 00:00:00",,,2,,,
+"61506083209","miqelaZe","qristina","ruslani","12/26/04 00:00:00",,,2,,,
+"61909035698","nakaiZe","sulxan","daviTi","05/17/07 00:00:00",,,1,,,
+"01311106673","xaCiZe","nino","zaza","07/06/04 00:00:00",,,2,,,
+"01811106674","leveraSvili","Tamar","daviTi","01/19/05 00:00:00",,,2,,,
+"54801063646","kaWkaWiSvili","nia","grigoli","06/07/06 00:00:00",,,2,,,
+"01205049476","rogava","mariam","ediSer","09/01/09 00:00:00",,,2,,,
+"61509035699","cecxlaZe","daTuna","durmiSxani","10/04/07 00:00:00",,,1,,,
+"01411106675","deviZe","mariam","givi","08/18/07 00:00:00",,,2,,,
+"34501009303","bendianiSvili","nikoloz","giorgi","03/09/04 00:00:00",,,1,,,
+"10301072962","guseinova","gozal","miqail","03/17/51 00:00:00",,"a",2,"1340934",,
+"48501028324","jomidava","oTiko","badri","03/20/07 00:00:00",,,1,,,
+"11901034120","aruTunian","arfine","ararat","10/24/10 00:00:00",,,2,,,
+"54401063647","cercvaZe","zurab","murTazi","10/23/07 00:00:00",,,1,,,
+"01911106676","kvirikaSvili","mariami","daviTi","11/19/04 00:00:00",,,2,,,
+"01511106677","tabliaSvili","jumber","jumberi","02/13/07 00:00:00",,,1,,,
+"33901084352","royua","nodari","avTandili","06/04/04 00:00:00",,,1,,,
+"12201103982","bolqvaZe","iamze","mamia","05/28/69 00:00:00",,"b",2,"1406462",,
+"33501084353","stamusi","mzia","kaxaberi","07/18/07 00:00:00",,,2,,,
+"01111106678","inauri","naira","giorgi","08/02/64 00:00:00",,"a",2,"1408438",,
+"01611106679","gabelaia","mariam","parTeni","03/12/94 00:00:00",,"b",2,"1408438",,
+"01317060714","levicki","nino","zurabi","02/03/00 00:00:00",,,2,,,
+"29301042562","woworia","nino","akaki","07/25/05 00:00:00",,,2,,,
+"12701103983","kandelaki","Tamari","aleqsi","05/18/02 00:00:00",,,2,,,
+"53401063391","TuTberiZe","daviT","mamuka","02/14/08 00:00:00",,,1,,,
+"61406083217","CxaiZe","nodar","rezo","04/29/57 00:00:00",,"g",1,"1378667",,
+"61604076319","gogitiZe","imeda","rezo","10/30/69 00:00:00",,"d",1,"1344058",,
+"30201011292","CarTolani","mariami","zurabi","08/06/04 00:00:00",,,2,,,
+"10801072963","irzaevi","funxan","novruzali","12/16/95 00:00:00",,"b",1,"1340936",,
+"12701103993","axmedovi","ilxam","xaiat","12/06/04 00:00:00",,,1,,,
+"01101107341","qerdikaSvili","giorgi","merabi","06/28/05 00:00:00",,,1,,,
+"01895000802",,"balakriSnan sa",,"08/04/64 00:00:00",,"g",1,"0004927",,
+"22701026006","isoiani","rodit","vladimer","12/06/05 00:00:00",,,1,,,
+"01601107342","dekanoiZe","giorgi","malxaz","04/08/05 00:00:00",,,1,,,
+"01201107343","abaSiZe","lizi","paata","01/13/06 00:00:00",,,2,,,
+"01701107344","leJava","nino","varlami","01/26/05 00:00:00",,,2,,,
+"01301107345","gafrindaSvili","akaki","zaza","01/27/08 00:00:00",,,1,,,
+"53901063392","kondratev","vasil","ivane","09/10/47 00:00:00",,"d",1,"1369076",,
+"35301134482","CitaSvili","saba","malxazi","08/31/05 00:00:00",,,1,,,
+"62809009591","jRamaZe","giorgi","besiki","07/08/98 00:00:00",,,1,,,
+"43401047389","CareqaSvili","mamuka","daviTi","07/06/04 00:00:00",,,1,,,
+"62409009592","marRia","nana","nugzar","08/13/07 00:00:00",,,2,,,
+"62909009593","marRia","naTia","nugzari","06/24/05 00:00:00",,,2,,,
+"61501091671","ximSiaSvili","tatiana","vladimeri","08/11/76 00:00:00",,"a",2,"1390578",,
+"35801134483","xuciSvili","daviT","ramazi","04/02/08 00:00:00",,,1,,,

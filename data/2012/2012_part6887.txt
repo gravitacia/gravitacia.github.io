@@ -1,0 +1,576 @@
+"61001008180","baramiZe","avTandil","TaTraxani","03/04/61 00:00:00",,"g",1,"1385705","Tbilisi S.nucubiZis ferd III m/r II","vake"
+"61001008181","CxartiSvili","nino","SoTa","07/30/62 00:00:00",,"a",2,"1342921","baTumi quTaisis q. N 4 b. 15",
+"61001008182","SaqaraZe","valentina","andro","06/21/48 00:00:00",,"a",2,"1312482","baTumi imedaSvilis q. N 11 b. 11",
+"61001008183","SaqaraZe","beJan","yurSumi","04/02/39 00:00:00",,"a",1,"1390884","baTumi imedaSvilis q. N 11 b. 11",
+"61001008184","qobulaZe","Tamaz","selimi","12/08/50 00:00:00",,"d",1,"1390557","baTumi v.gorgasalis q. N 150 b. 53",
+"61001008185","levoniani","ludvik","petre","04/01/28 00:00:00",,"g",1,"0012149","baTumi vaJa-fSavelas q. N 39 b. 2",
+"61001008186","levoniani","lida","nikolozi","05/15/34 00:00:00",,"d",2,"0012149","baTumi vaJa-fSavelas q. N 39 b. 2",
+"61001008187","metreveli","ciala","giorgi","04/08/38 00:00:00","06/22/06 00:00:00","a",2,"0012150","baTumi p.meliqiSvilis q. N 4 b. 37",
+"61001008188","cxoiZe","boris","xarlampi","09/04/28 00:00:00",,"b",1,"0012150","baTumi m.komaxiZis q. N 117 b. 40",
+"61001008189","surmaniZe","jemal","givi","01/27/67 00:00:00",,"a",1,"0128846","baTumi qobuleTis q. N 14",
+"61001008190","purkina","lora","grigoli","12/29/32 00:00:00","04/05/97 00:00:00","a",2,"0012151","baTumi e.TayaiSvilis q. N 62 b. 8",
+"61001008191","surmaniZe","ciuri","nazimi","06/11/65 00:00:00","02/17/11 00:00:00","b",2,"0012151","baTumi m.lermontovis q. N 80",
+"61001008192","jiblaZe","eliso","vaxtangi","03/29/57 00:00:00",,"d",2,"0012151","baTumi d.guramiSvilis q. N 64",
+"61001008193","lomTaTiZe","damir","giorgi","01/02/42 00:00:00",,"a",1,"0012152","baTumi m.abaSiZis gamz. N 56 b. 13",
+"61001008194","adamiani","aSot","akopi","09/15/22 00:00:00","07/07/06 00:00:00","b",1,"0012152","baTumi ilia WavWavaZis q. N 78/88 b",
+"61001008195","verZaZe","omar","ibraimi","11/16/58 00:00:00",,"g",1,"1054058","baTumi ilia WavWavaZis q. N 99",
+"61001008196","riJvaZe","nodar","jesimi","05/25/52 00:00:00",,"a",1,"1174361","baTumi al.griboedovis q. N 2 b. 18",
+"61001008197","gvianiZe","eka","sergo","09/12/76 00:00:00",,"b",2,"1275531","baTumi m.komaxiZis q. N 113/115 b.",
+"61001008198","saluqvaZe","jemal","besarioni","03/18/60 00:00:00",,"b",1,"1237103","baTumi farnavaz mefis q. N 93/99 b.",
+"61001008199","gapoiani","viCan","mkrtiCi","04/14/50 00:00:00",,"g",1,"0012153","baTumi al.puSkinis q. N 39 b. 22",
+"61001008200","baramiZe","JuJuna","axmedi","11/07/46 00:00:00",,"g",2,"0012577","baTumi 26 maisis q. N 10/12 b. 48",
+"61001008201","doliZe","kaxaber","zia","06/30/61 00:00:00",,"a",1,"0012154","baTumi k.marjaniSvilis q. N 2",
+"61001008202","kekeliZe","muxamed","Salva","02/02/68 00:00:00",,"a",1,"0916701","baTumi d.SafaTavas  Ses. N 4a",
+"61001008203","kovali","nina","vasili","01/18/56 00:00:00",,"b",2,"0916472","baTumi m.lermontovis q. N 107",
+"61001008204","pataraia","vaso","Tamazi","06/07/66 00:00:00",,"d",1,"0842789","baTumi luka asaTianis q. N 20",
+"61001008205","msaxuraZe","irma","riza","06/14/68 00:00:00",,"a",2,"0382148","baTumi imedaSvilis q. N 22/24 b. 52",
+"61001008206","maxaraZe","eleonora","elise","04/14/30 00:00:00",,"d",2,"1391397","baTumi quTaisis q. N 7 b. 12",
+"61001008207","moiswrafiSvili","zurab","durmiSxani","07/06/52 00:00:00",,"a",1,"1366066","baTumi 26 maisis q. N 53a b. 16",
+"61001008208","grigolia","laSa","zauri","04/29/74 00:00:00",,"g",1,"0132665","baTumi eg.ninoSvilis q. N 25 b. 14",
+"61001008209","sarjvelaZe","avTandil","giorgi","03/28/53 00:00:00",,"d",1,"0531168","baTumi v.gorgasalis q. N 98",
+"61001008210","baftalovski","valentin","vladimeri","08/04/42 00:00:00",,"g",1,"0012156","baTumi m.abaSiZis gamz. N 60 b. 45",
+"61001008211","manukiani","tigran","ovanesi","06/28/59 00:00:00",,"g",1,"0473474","baTumi v.gorgasalis q. N 146 b. 7",
+"61001008212","kaxiani","grigol","aleqsandre","03/03/71 00:00:00",,"a",1,"0012157","baTumi k.gamsaxurdias gamz. N 40 b.",
+"61001008213","wilosani","liana","gurami","01/25/79 00:00:00",,"a",2,"0843434","baTumi h.abaSiZis q. N 8",
+"61001008214","xaWapuriZe","ciala","ambako","12/09/34 00:00:00",,"a",2,"1049013","baTumi  misamarTis gareSe",
+"61001008215","bakuraZe","akaki","gurami","08/28/73 00:00:00",,"d",1,"0151522","gaurkveveli",
+"61001008216","xaCaturian","garegin","androniki","05/04/78 00:00:00","06/01/07 00:00:00","g",1,"0003072","Tbilisi varkeTili 3 III m/r kor. 30","samgori"
+"61001008217","vionidi","pavle","konstantine","05/09/55 00:00:00","01/15/99 00:00:00","b",1,"0012158","baTumi i.gogebaSvilis q. N 58",
+"61001008218","arCaia","akaki","nodari","03/20/62 00:00:00","10/19/07 00:00:00","g",1,"0012158","baTumi al.puSkinis q. N 13",
+"61001008219","oganiani","xaCik","vladimeri","10/19/65 00:00:00",,"d",1,"0012158","baTumi iv.javaxiSvilis q. N 9 b. 10",
+"61001008220","megrelaZe","ciala","togo","08/30/49 00:00:00",,"g",2,"0299658","baTumi d.aRmaSeneblis q. N 22a b. 2",
+"61001008221","papunaSvili","amiran","givi","07/07/61 00:00:00","07/22/09 00:00:00","a",1,"0715711","baTumi al.puSkinis q. N 61",
+"61001008222","stefaniani","ariadna","varTani","06/08/73 00:00:00",,"d",2,"0916571","baTumi m.komaxiZis q. N 113/115 b.",
+"61001008223","muradiani","ariknaz","sureni","06/15/61 00:00:00",,"a",2,"0012160","baTumi m.lermontovis q. N 107g b. 6",
+"61001008224","varSaniZe","naTela","sergo","03/01/58 00:00:00",,"d",2,"0130062","baTumi gen.a.abaSiZis q. N 1 b. 54",
+"61001008225","vasaZe","revaz","vaxtangi","01/07/37 00:00:00",,"g",1,"0012160","baTumi iv.javaxiSvilis q. N 67 b. 2",
+"61001008226","kapanaZe","nino","giorgi","08/15/56 00:00:00",,"b",2,"0473012","baTumi iv.javaxiSvilis q. N 47 b. 1",
+"61001008227","grebeni","flora","xurSuti","08/29/40 00:00:00",,"a",2,"0013128","baTumi navsadguris Ses. N 4 b. 2",
+"61001008228","saRriSvili","natalia","raimondi","12/18/59 00:00:00",,"b",2,"0012161","baTumi ak.wereTlis q. N 40",
+"61001008229","qoriZe","goCa","giorgi","10/05/65 00:00:00",,"d",1,"1275749","baTumi k.gamsaxurdias gamz. N 44 b.",
+"61001008230","melaZe","asmaT","mevludi","05/25/63 00:00:00",,"a",2,"0012162","baTumi iv.javaxiSvilis q. N 47 b. 2",
+"61001008231","devaZe","avTandil","enveri","07/10/55 00:00:00",,"b",1,"0012162","baTumi m.lermontovis q. N 101 b. 52",
+"61001008232","abulaZe","irma","SoTa","01/06/70 00:00:00",,"a",2,"1275441","baTumi p.Caikovskis q. N 3",
+"61001008233","lomTaZe","german","valeri","01/07/72 00:00:00","11/09/10 00:00:00","d",1,"1174504","baTumi al.puSkinis q. N 35/18 b. 22",
+"61001008234","giorxeliZe","zurab","WiWiko","02/22/72 00:00:00",,"a",1,"0889107","baTumi gen.g.mazniaSvilis q. N 35",
+"61001008235","kukulaZe","malvina","valeriani","09/16/41 00:00:00",,"a",2,"1359385","Tbilisi g.ZoweniZis q. N 4a kor. 2","vake"
+"61001008236","lomTaZe","ekaterine","aguli","02/12/74 00:00:00",,"d",2,"0012163","baTumi n.baraTaSvilis q. N 27 b. 8",
+"61001008237","sixaruliZe","zurab","mixeili","01/01/53 00:00:00",,"a",1,"0012164","baTumi n.baraTaSvilis q. N 27 b. 8",
+"61001008238","javaxia","ruslani","jondo","02/12/76 00:00:00",,"d",1,"0509695","Tbilisi gldani VIII m/r kor. 17 b.","gldani"
+"61001008239","pataraia","gurami","gramitoni","12/10/75 00:00:00",,"d",1,"0800852","Tbilisi gldani IV m/r kor. 100 b. 5","gldani"
+"61001008240","darCiZe","levan","nuri","11/07/41 00:00:00",,"b",1,"0881572","Suaxevi s. gomarduli","Suaxevi"
+"61001008241","jiblaZe","irakli","Teimurazi","06/30/75 00:00:00",,"g",1,"1411470","baTumi n.baraTaSvilis q. N 27 b. 12",
+"61001008242","gujabiZe","nugzar","roberti","02/26/60 00:00:00",,"d",1,"1174488","baTumi d.Tavdadebulis  Ses. N 13",
+"61001008243","beriZe","nani","jemali","12/21/61 00:00:00",,"b",2,"1113635","baTumi p.meliqiSvilis q. N 58 b. 1",
+"61001008244","diasamiZe","merab","jumberi","01/26/68 00:00:00",,"d",1,"0916499","baTumi iv.javaxiSvilis q. N 75 b. 4",
+"61001008245","adeiSvili","revaz","aleqsandre","02/03/53 00:00:00",,"b",1,"0012166","baTumi vaJa-fSavelas q. N 80",
+"61001008246","gulievi","nuru","kulu-ogli","07/01/60 00:00:00",,"g",1,"1106818","baTumi m.lermontovis q. N 80",
+"61001008247","gegeSiZe","giorgi","anzori","02/22/71 00:00:00",,"b",1,"1085887","baTumi h.abaSiZis q. N 20",
+"61001008248","niJaraZe","Teimuraz","revazi","06/06/50 00:00:00",,"a",1,"0128922","baTumi v.gorgasalis q. N 34/40 b. 1",
+"61001008249","laRaZe","eTer","kirile","01/29/53 00:00:00",,"d",2,"0299793","Tbilisi r.xomlelis q. N 2 b. 13","samgori"
+"61001008250","CexniCenko","vladimer","aleqsi","11/01/67 00:00:00",,"g",1,"0012167","baTumi iv.javaxiSvilis q. N 65 b. 4",
+"61001008251","sixaruliZe","asmaT","aleqsi","04/19/79 00:00:00",,"d",2,"0662210","Tbilisi didi diRomi g.brwyinvales q","saburTalo"
+"61001008252","imnaiSvili","gulnara","enveri","01/01/59 00:00:00",,"b",2,"0981817","baTumi d.kldiaSvilis q. N 13 b. 30",
+"61001008253","abgariani","giorgi","mixeili","07/14/51 00:00:00","03/21/06 00:00:00","g",1,"0012168","baTumi ilia WavWavaZis q. N 78/88 b",
+"61001008254","minaSvili","akaki","oTari","05/17/59 00:00:00",,"d",1,"1123654","baTumi ilia WavWavaZis q. N 27 b. 9",
+"61001008255","TevzaZe","sergo","isaki","03/05/47 00:00:00",,"d",1,"1390725","xelvaCauri s. maxvilauri","xelvaCauri"
+"61001008256","waldaZe","genrieta","ivane","01/14/41 00:00:00",,"b",2,"0012169","baTumi vaJa-fSavelas q. N 52 b. 127",
+"61001008257","avetisiani","siranuS","alberti","10/09/59 00:00:00",,"g",2,"0012169","baTumi s.ximSiaSvilis q. N 94 b. 36",
+"61001008258","avaliani","murman","memedi","04/14/73 00:00:00","06/09/08 00:00:00","d",1,"0012169","baTumi a.melaSvilis q. N 36 b. 22",
+"61001008347","jijavaZe","levan","gurami","06/13/63 00:00:00",,"d",1,"1312082","baTumi m.lermontovis q. N 100 b. 15",
+"61001008348","gogitiZe","raul","nugzari","08/02/73 00:00:00",,"a",1,"0362683","baTumi h.abaSiZis q. N 2 b. 1",
+"61001008349","wulaZe","avTandil","pavle","11/15/54 00:00:00",,"b",1,"1390953","baTumi s.qavTaraZis I Ses. N 21",
+"61001008350","dumbaZe","amiran","axmedi","02/10/53 00:00:00",,"b",1,"0012195","baTumi d.Tavdadebulis q. N 8",
+"61001008351","Jukovski","rostoslav","timofe","03/19/39 00:00:00",,"b",1,"0135822","baTumi k.gamsaxurdias gamz. N 45 b.",
+"61001008352","kalandaZe","avTandil","simoni","07/07/63 00:00:00",,"a",1,"1184821","Tbilisi   misamarTis gareSe","saburTalo"
+"61001008353","adamia","nikoloz","SoTa","06/06/65 00:00:00",,"b",1,"0012196","baTumi v.gorgasalis q. N 127 b. 10",
+"61001008354","bolqvaZe","qeTevan","revazi","11/17/71 00:00:00",,"g",2,"0012196","baTumi S.rusTavelis q. N 21",
+"61001008355","melaZe","irakli","revazi","04/17/77 00:00:00",,"b",1,"0364965","baTumi p.bagrationis q. N 59",
+"61001008356","kulkov","mixeil","viaCeslavi","11/21/65 00:00:00",,"d",1,"1312364","baTumi n.Jordanias q. N 7",
+"61001008357","anTiZe","nino","vaJa","10/19/63 00:00:00",,"b",2,"0012197","baTumi n.Jordanias q. N 7",
+"61001008358","jafariZe","niza","uSangi","07/16/68 00:00:00",,"d",2,"1085812","baTumi quTaisis q. N 3 b. 15",
+"61001008359","Wolokava","nugzar","Tengizi","01/03/65 00:00:00",,"d",1,"0012197","baTumi a.melaSvilis q. N 18",
+"61001008360","kaxiZe","zurab","niazi","12/19/57 00:00:00",,"a",1,"0012198","baTumi p.Caikovskis q. N 59",
+"61001008361","yenia","irakli","givi","01/17/68 00:00:00",,"g",1,"1249876","baTumi k.gamsaxurdias gamz. N 4 b.",
+"61001008362","afaqiZe","irakli","mamia","03/11/76 00:00:00",,"b",1,"1275673","baTumi maruxis q. N 2",
+"61001008363","poRosovi","artem","kazari","05/15/34 00:00:00",,"g",1,"1312735","baTumi 26 maisis q. N 79",
+"61001008364","bJalava","vaJa","daviTi","04/30/41 00:00:00","02/18/99 00:00:00","a",1,"0012199","baTumi s.ximSiaSvilis q. N 38",
+"61001008365","axnoiani","minas","sevani","12/01/51 00:00:00",,"b",1,"0012199","baTumi lado asaTianis II Ses. N 2",
+"61001008366","axnoiani","giuli","azati","02/14/56 00:00:00",,"g",2,"0012199","baTumi lado asaTianis II Ses. N 2",
+"61001008367","berZeniSvili","elena","vladimeri","09/26/56 00:00:00",,"d",2,"0020377","baTumi besikis q. N 42 b. 15",
+"61001008368","qarcivaZe","zia","veli","08/28/53 00:00:00",,"d",1,"0363778","baTumi g.kaikaciSvilis q. N 19",
+"61001008369","axobaZe","nikoloz","akaki","02/07/41 00:00:00",,"b",1,"0012200","baTumi n.baraTaSvilis q. N 4",
+"61001008370","Rlonti","Tamar","SoTa","09/10/66 00:00:00",,"b",2,"0365150","baTumi m.komaxiZis q. N 117 b. 20",
+"61001008371","loria","jemal","jimSeri","03/25/50 00:00:00",,"d",1,"0012200","baTumi besikis q. N 49 b. 24",
+"61001008372","joxaZe","nikoloz","rula","08/03/67 00:00:00",,"a",1,"0012201","baTumi al.sulaberiZis q. N 93",
+"61001008373","xalvaSi","fridon","iSiRi","05/17/25 00:00:00","07/09/10 00:00:00","b",1,"0012201","baTumi n.baraTaSvilis q. N 14 b. 5",
+"61001008374","dumbaZe","biZina","muxamedi","05/23/67 00:00:00",,"b",1,"1187338","baTumi n.baraTaSvilis q. N 32",
+"61001008375","futkaraZe","Sorena","nodari","08/01/74 00:00:00",,"a",2,"1023149","baTumi 26 maisis q. N 10/12 b. 46",
+"61001008376","danileviCi","viaCeslav","leonarde","05/10/71 00:00:00",,"a",1,"0012202","baTumi a.melaSvilis q. N 48 b. 1",
+"61001008377","sixaruliZe","inga","avTandili","03/05/77 00:00:00",,"a",2,"1343022","baTumi m.lermontovis q. N 106 b. 9",
+"61001008378","SublaZe","mzia","murmani","01/09/75 00:00:00",,"a",2,"0301651","baTumi S.rusTavelis q. N 8 b. 9",
+"61001008379","CaCua","mamuka","gurami","03/09/65 00:00:00",,"d",1,"1249550","baTumi m.lermontovis q. N 46 b. 6",
+"61001008380","guguSvili","aida","viqtori","03/02/47 00:00:00",,"a",2,"0012203","baTumi farnavaz mefis q. N 136",
+"61001008381","doliZe","givi","abduli","05/20/41 00:00:00",,"g",1,"0473349","baTumi besikis q. N 44/42",
+"61001008382","xviCia","manana","levani","05/02/61 00:00:00",,"g",2,"0012203","baTumi vaJa-fSavelas q. N 13",
+"61001008383","futkaraZe","zviad","suliko","02/23/74 00:00:00","09/27/07 00:00:00","g",1,"0843191","baTumi s.ximSiaSvilis q. N 94a b. 4",
+"61001008384","CxaiZe","vladimer","simoni","11/30/53 00:00:00",,"b",1,"0135725","baTumi a.melaSvilis q. N 4/6 b. 23",
+"61001008385","miqelaZe","Tamar","ramizi","01/18/39 00:00:00",,"a",2,"0570669","baTumi g.brwyinvales q. N 132",
+"61001008386","mamisaSvili","roman","vasili","09/02/61 00:00:00",,"g",1,"0012204","baTumi tbel abuserisZis q. N 1",
+"61001008387","SiSmaniZe","lika","romani","11/06/70 00:00:00",,"d",2,"0012204","baTumi S.rusTavelis q. N 41 b. 16",
+"61001008388","giuveni","igor","ismeTi","07/11/75 00:00:00",,"d",1,"1249551","baTumi z.gorgilaZis q. N 50/52 b. 9",
+"61001008389","minka","stanislav","nikolozi","12/13/69 00:00:00",,"b",1,"0012205","baTumi a.melaSvilis q. N 11",
+"61001008390","goduaZe","demuri","nikolozi","01/16/49 00:00:00","03/11/09 00:00:00","g",1,"0012205","baTumi sevastopolis q. N 23",
+"61001008391","varSaniZe","guram","xuseini","04/27/76 00:00:00",,"d",1,"0616189","baTumi e.TayaiSvilis q. N 98",
+"61001008392","CxaiZe","nugzar","vladimeri","07/05/56 00:00:00",,"a",1,"0012206","baTumi m.komaxiZis q. N 49",
+"61001008393","bogovkova","irina","vitali","04/10/67 00:00:00",,"b",2,"0012206","baTumi gen.g.mazniaSvilis q. N 54",
+"61001008394","misorian","artiom","ivane","05/17/49 00:00:00",,"g",1,"1274370","baTumi d.SafaTavas q. N 7",
+"61001008395","miqelaZe","dursun","ramizi","02/11/45 00:00:00",,"d",1,"0012206","baTumi n.dumbaZis q. N 16",
+"61001008396","verZaZe","Teona","nuri","07/20/79 00:00:00",,"a",2,"1054445","baTumi z.gamsaxurdias q. N 15",
+"61001008397","ramiSvili","lia","zauri","02/20/68 00:00:00",,"b",2,"0012207","baTumi S.rusTavelis q. N 41 b. 10",
+"61001008398","wulaZe","badri","avTandili","08/05/58 00:00:00",,"g",1,"0012207","baTumi vaJa-fSavelas q. N 42",
+"61001008399","bakuriZe","Tamaz","aslani","01/01/53 00:00:00",,"a",1,"0889596","baTumi p.meliqiSvilis q. N 67",
+"61001008400","kiziria","miSa","Saqro","04/30/51 00:00:00",,"a",1,"0012208","baTumi besikis q. N 49/51 b. 30",
+"61001008401","cincaZe","xelil","abili","10/20/61 00:00:00",,"g",1,"1365519","baTumi angisis III Cixi N 9",
+"61001008402","JorJoliani","avTandil","aleqsandre","10/11/52 00:00:00",,"d",1,"0012208","baTumi v.gorgasalis q. N 152/154 b.",
+"61001008403","tuRuSi","ilia","nikolozi","11/14/36 00:00:00","02/14/11 00:00:00","a",1,"0012209","baTumi soxumis q. N 39",
+"61001008404","zaqareiSvili","nino","givi","10/20/67 00:00:00",,"a",2,"0301914","baTumi al.griboedovis q. N 36 b. 45",
+"61001008405","qajaia","JuJuna","usufi","02/22/61 00:00:00",,"b",2,"0017132","qeda s. orcva","qeda"
+"61001008406","qobulaZe","SoTa","emini","01/16/33 00:00:00",,"b",1,"1081415","xelvaCauri s. mejiniswyali","xelvaCauri"
+"61001008407","gurabaniZe","inga","jemali","03/18/63 00:00:00",,"b",2,"1022854","baTumi S.ximSiaSvilis q. N 41 b. 27",
+"61001008408","ToTlaZe","giorgi","Salva","01/21/64 00:00:00",,"d",1,"0838617","qareli s. qobesaanTubani","qareli"
+"61001008409","malaymaZe","giorgi","mevludi","07/01/51 00:00:00",,"g",1,"0012210","baTumi vaJa-fSavelas q. N 51",
+"61001008410","ungiaZe","oTar","giorgi","07/10/53 00:00:00",,"d",1,"0012210","baTumi s.axmetelis q. N 9/48",
+"61001008411","buresteckaia","ala","reufi","11/26/44 00:00:00",,"a",2,"0012211","baTumi ilia WavWavaZis q. N 121 b.",
+"61001008412","kotov","georgi","ilia","09/07/46 00:00:00","02/08/11 00:00:00","b",1,"1377587","baTumi al.puSkinis q. N 116",
+"61001008413","anTiZe","soso","rubeni","12/12/46 00:00:00",,"g",1,"0301522","baTumi z.gorgilaZis q. N 55 b. 10",
+"61001008414","zoiZe","suliko","xulusi","10/08/49 00:00:00",,"b",1,"0015822","baTumi e.TayaiSvilis q. N 44/50 b.",
+"61001008415","tarielaZe","anzor","ramizi","02/25/52 00:00:00",,"d",1,"1144704","baTumi h.abaSiZis q. N 59",
+"61001008416","lorTqifaniZe","jambul","jemali","07/13/67 00:00:00",,"b",1,"1275523","baTumi S.ximSiaSvilis q. N 37 b. 76",
+"61001008417","kaxiZe","maia","mixeili","05/11/74 00:00:00",,"a",2,"1147531","baTumi S.ximSiaSvilis q. N 37 b. 76",
+"61001008418","qvariani","mixeil","vilgelmi","06/15/49 00:00:00",,"g",1,"1274262","baTumi p.meliqiSvilis q. N 49",
+"61001008419","makaraZe","inga","sergo","07/03/67 00:00:00",,"a",2,"0012213","baTumi p.meliqiSvilis q. N 90",
+"61001008420","basilia","lali","jemali","01/14/65 00:00:00",,"b",2,"0012213","baTumi vaJa-fSavelas q. N 80",
+"61001008421","jabniZe","leila","elguja","03/27/59 00:00:00",,"g",2,"1144517","baTumi n.Jordanias q. N 17",
+"61001008422","ramiSvili","rusudan","zaqro","11/28/53 00:00:00",,"g",2,"1144329","baTumi Tamar mefis das. N 23 b. 46",
+"61001008423","beJaniZe","SoreT","xuseini","04/05/27 00:00:00","12/19/07 00:00:00","a",2,"0012214","baTumi al.griboedovis q. N 5 b. 40",
+"61001008424","CaxvaZe","anzor","qiSvardi","06/22/39 00:00:00",,"d",1,"1391409","baTumi z.gorgilaZis q. N 54/62 b. 1",
+"61001008425","nikuraZe","nino","anzori","09/05/63 00:00:00","03/28/11 00:00:00","b",2,"1356189","Tbilisi S.askuravas q. N 11","naZaladevi"
+"61001008426","CaxvaZe","liana","grigoli","01/20/41 00:00:00",,"b",2,"1311994","baTumi z.gorgilaZis q. N 54/62 b. 1",
+"61001008427","CaxvaZe","qeTevan","anzori","09/25/65 00:00:00",,"d",2,"0889469","baTumi z.gorgilaZis q. N 54/62 b. 1",
+"61001008428","loria","lamara","ivane","06/10/32 00:00:00",,"a",2,"0666397","baTumi m.abaSiZis gamz. N 60 b. 48",
+"61001008429","guguSvili","eTer","karlo","01/11/61 00:00:00",,"b",2,"0088584","Tbilisi al.griboedovis q. N 20 b. 1","mTawminda"
+"61001008430","gogitiZe","mamia","iosebi","08/09/75 00:00:00",,"b",1,"1274579","baTumi al.puSkinis q. N 137/139 b.",
+"61001008431","bakuriZe","JuJuna","aslani","03/16/63 00:00:00",,"b",2,"1168576","xelvaCauri s. maxinjauri","xelvaCauri"
+"61001008432","melqaZe","levan","vladimeri","08/27/49 00:00:00",,"a",1,"0378346","Tbilisi didi diRomi IV m/r kor. 12","saburTalo"
+"61001008433","ferdmani","robert","solomoni","12/06/70 00:00:00",,"g",1,"0012216","baTumi al.puSkinis q. N 38",
+"61001008434","riJvaZe","lamzira","levani","10/02/67 00:00:00","05/06/11 00:00:00","d",2,"0012216","baTumi s.ximSiaSvilis q. N 3 b. 4",
+"61001008435","xumariani","oganes","martini","08/08/76 00:00:00",,"b",1,"0889444","baTumi ak.wereTlis q. N 44/48 b. 8",
+"61001008436","varSaniZe","Saban","riza","06/01/39 00:00:00",,"b",1,"0012217","baTumi vaJa-fSavelas q. N 71",
+"61001008525","Ciqovani","medea","murmani","05/13/59 00:00:00",,"d",2,"0012240","baTumi soxumis q. N 41",
+"61001008526","xaCaturiani","mkrtiC","solomoni","02/15/56 00:00:00","09/04/08 00:00:00","g",1,"1147720","baTumi a.melaSvilis q. N 15",
+"61001008527","borodin","aleqsandre","vladimeri","05/02/53 00:00:00",,"g",1,"1249704","baTumi al.puSkinis q. N 129/131 b.",
+"61001008528","TavberiZe","vladimer","leonide","02/11/54 00:00:00",,"d",1,"0012241","baTumi S.rusTavelis q. N 10 b. 92",
+"61001008529","TavberiZe","natalia","amirani","04/11/52 00:00:00",,"a",2,"0012242","baTumi S.rusTavelis q. N 10 b. 91",
+"49001000855","yubusiZe","ilarion","avTandili","05/28/69 00:00:00",,"d",1,"1166222","Tbilisi varkeTili 3 I m/r kor. 7 b.","samgori"
+"49001000856","bendeliani","magda",,"01/19/80 00:00:00",,"b",2,"0416295","cageri m.kostavas q. N 24","cageri"
+"49001000857","miqaZe","naTia","borisi","01/09/80 00:00:00",,"g",2,"1412794","cageri m.kostavas q. N 29","cageri"
+"49001000858","cxvediani","Sorena","levan","12/01/79 00:00:00",,"g",2,"1029014","Tbilisi diRombaris q. N 19","CuRureTi"
+"49001000859","Wabukiani","besiki","borisi","04/24/71 00:00:00",,"b",1,"0051222","cageri Tavisuflebis q. N 5","cageri"
+"49001000860","saRinaZe","Tea","gurami","01/16/80 00:00:00",,"d",2,"1023452","cageri s. WalisTavi","cageri"
+"49001000861","banZelaZe","zeinabi","murmani","05/28/79 00:00:00",,"b",2,"1100257","cageri s. tviSi","cageri"
+"49001000862","iremaZe","marina",,"02/01/67 00:00:00",,"d",2,"0851947","cageri l.asaTianis q. N 23","cageri"
+"49001000863","ugrexeliZe","avTandil",,"03/17/71 00:00:00",,"b",1,"0051223","cageri s. oyureSi","cageri"
+"49001000864","kopaliani","gaga","Samili","11/14/79 00:00:00",,"g",1,"1023413","cageri s. qveda cageri","cageri"
+"49001000865","jiaZe","madona",,"09/24/79 00:00:00",,"a",2,"0051224","cageri s. aRvi","cageri"
+"49001000866","leTodiani","sofiko","anzori","11/29/79 00:00:00",,"b",2,"1218106","quTaisi d.miqelaZe-mevelis III Ses.",
+"49001000867","xmeliZe","gia",,"04/09/79 00:00:00",,"g",1,"0617436","cageri Tavisuflebis q. N 15","cageri"
+"49001000868","TvaraZe","valeriane","ermalo","05/10/80 00:00:00",,"g",1,"1419483","cageri s. Cxuteli","cageri"
+"49001000869","xvadagiani","naziko","maqsime","03/15/30 00:00:00",,"a",2,"0051225","cageri s. zogiSi","cageri"
+"49001000870","xvadagiani","SoTa","Jora","07/04/31 00:00:00","05/16/11 00:00:00","b",1,"0051225","cageri s. zogiSi","cageri"
+"49001000871","daviTuliani","daviT","maqsime","08/11/80 00:00:00",,"d",1,"1023460","cageri s. wiferCi","cageri"
+"49001000872","Skubuliani","vladimeri","rezo","06/19/80 00:00:00",,"g",1,"1023483","cageri d.aRmaSeneblis q. N 75","cageri"
+"49001000873","silagaZe","valerian","Temuri","02/06/80 00:00:00",,"g",1,"1023251","cageri d.aRmaSeneblis q. N 41","cageri"
+"49001000874","cvariani","eka","karlo","02/18/80 00:00:00",,"b",2,"1100298","cageri Tamar mefis q. N 31","cageri"
+"49001000875","futkaraZe","ana",,"11/29/79 00:00:00","07/07/10 00:00:00","b",2,"0834815","Tbilisi vagzlis q. N 57 kor. g b. 1","krwanisi"
+"49001000876","kaWkaWaSvili","eliso","levani","08/13/80 00:00:00",,"a",2,"1100274","cageri s. lailaSi","cageri"
+"49001000877","giorgobiani","xaTuna","giorgi","06/02/80 00:00:00",,"g",2,"1100284","cageri s. lailaSi","cageri"
+"49001000878","bregvaZe","beJan",,"01/26/80 00:00:00",,"d",1,"0415827","cageri s. lasuriaSi","cageri"
+"49001000879","gviSiani","tarieli","avTandili","11/25/79 00:00:00",,"d",1,"0842041","quTaisi s.xundaZis q. N 15",
+"49001000880","sivsiva","marina","revazi","01/16/80 00:00:00",,"d",2,"0051227","cageri Tamar mefis q. N 43","cageri"
+"49001000977","giorgobiani","olegi","geronti","05/25/50 00:00:00",,"g",1,"1348371","cageri S.rusTavelis q. N 63","cageri"
+"49001000978","miqaZe","Teimuraz","Sardeni","05/25/58 00:00:00",,"a",1,"1282081","quTaisi f.varlamiSvilis III Cixi N",
+"49001000979","liparteliani","Tamaz","elguja","01/15/79 00:00:00",,"d",1,"0051253","cageri s. qveda cageri","cageri"
+"49001000980","liluaSvili","irakli","elguja","01/15/77 00:00:00",,"d",1,"0651427","cageri s.isianis q. N 6","cageri"
+"49001000981","xvadagiani","amiran",,"01/29/59 00:00:00","07/06/10 00:00:00","d",1,"0944772","cageri s. lasuriaSi","cageri"
+"49001000982","gogsaZe","sofiko","amirani","05/23/79 00:00:00",,"d",2,"0051254","cageri s. tviSi","cageri"
+"49001000983","nemsiwveriZe","maka","emzari","05/23/78 00:00:00",,"b",2,"1119180","quTaisi z.gamsaxurdias I Ses. N 6 b",
+"49001000984","yuraSvili","zviadi","vagneri","10/07/75 00:00:00",,"d",1,"1100283","cageri s. oyureSi","cageri"
+"49001000985","bendeliani","nato","irodi","02/28/77 00:00:00",,"a",2,"1214362","cageri s. lasuriaSi","cageri"
+"49001000986","murcxvalaZe","aluda","anzori","11/14/66 00:00:00",,"d",1,"0051255","cageri s. Cxuteli","cageri"
+"49001000987","murcxvalaZe","daviT","nodari","10/14/59 00:00:00",,"a",1,"0051256","cageri s. Cxuteli","cageri"
+"49001000988","burjaliani","soso","gramitoni","10/14/64 00:00:00",,"g",1,"0051256","cageri s. lailaSi","cageri"
+"49001000989","Cxetiani","amiran","akaki","09/22/69 00:00:00",,"d",1,"0051256","cageri s. qveda cageri","cageri"
+"49001000990","Skubuliani","zaza","gela","09/22/78 00:00:00",,"b",1,"1348458","cageri Tamar mefis q. N 43","cageri"
+"49001000991","giorbeliZe","levan","revazi","04/15/80 00:00:00",,"b",1,"1100421","cageri s. ofitara","cageri"
+"49001000992","nemswveriZe","gizo",,"12/26/59 00:00:00",,"d",1,"1007572","Terjola d.jabiZis q. N 77","Terjola"
+"49001000993","oniani","qajana",,"09/07/76 00:00:00",,"d",2,"1214289","cageri s. nasperi","cageri"
+"49001000994","nemsiwveriZe","Sorena","ramazi","12/02/73 00:00:00",,"g",2,"1100258","cageri s. nakuraleSi","cageri"
+"49001000995","Ciqovani","melsi",,"10/06/71 00:00:00",,"d",1,"1100350","cageri s. lajana","cageri"
+"49001000996","silagaZe","Tina",,"09/09/54 00:00:00",,"a",2,"0051259","cageri s. leSkeda","cageri"
+"49001000997","banZalaZe","nineli","Tamazi","09/29/79 00:00:00",,"a",2,"0885741","wyaltubo s. gviStibi","wyaltubo"
+"49001000998","yuraSvili","maia","elguja","06/03/68 00:00:00",,"b",2,"1412825","cageri s. orbeli","cageri"
+"49001000999","tvildiani","goCa",,"08/02/68 00:00:00",,"d",1,"0051259","cageri s. ucxeri","cageri"
+"49001001000","Corgoliani","sergo","aleqsandre","03/19/70 00:00:00",,"g",1,"0851780","cageri s. Ru","cageri"
+"49001001001","qarselaZe","liana","platoni","09/02/46 00:00:00",,"b",2,"1100382","cageri s. Tabori","cageri"
+"49001001002","xecuriani","zurabi","nodari","10/16/65 00:00:00","01/22/06 00:00:00","g",1,"0051260","cageri d.aRmaSeneblis q. N 2","cageri"
+"49001001003","kikabiZe","iamze",,"05/09/66 00:00:00",,"a",2,"0051261","cageri d.aRmaSeneblis q. N 2","cageri"
+"49001001004","yuraSvili","gia",,"02/16/71 00:00:00",,"b",1,"0051261","cageri s. nakuraleSi","cageri"
+"49001001005","goleTiani","sozari","kuWiko","04/21/69 00:00:00",,"g",1,"1285626","cageri s. nakuraleSi","cageri"
+"49001001006","megreli","iuri","Salva","03/02/55 00:00:00",,"a",1,"0851975","cageri m.kostavas q. N 26","cageri"
+"49001001007","CakvetaZe","izolda","SoTa","08/18/47 00:00:00",,"g",2,"1055876","Tbilisi didi diRomi d.Tavdadebulis","saburTalo"
+"49001001008","nemswveriZe","akaki","giorgi","06/15/26 00:00:00",,"b",1,"1023261","cageri s. ucxeri","cageri"
+"49001001009","TuTisani","lia","gimari","01/30/74 00:00:00",,"b",2,"1107934","foTi e.TayaiSvilis q. N 57",
+"49001001010","xecuriani","guladi","buWu","02/03/49 00:00:00",,"a",1,"1285552","cageri s. luxvano","cageri"
+"49001001011","bakuraZe","merabi","fridoni","01/01/75 00:00:00",,"d",1,"1285555","cageri s. surmuSi","cageri"
+"49001001012","gurguCiani","cisana","WiWiko","06/03/60 00:00:00",,"b",2,"0051263","quTaisi vaJa-fSavelas q. N 106",
+"49001001013","axvlediani","giorgi","zurabi","06/20/60 00:00:00",,"d",1,"0728731","quTaisi z.faliaSvilis q. N 35 b. 13",
+"49001001014","kopaliani","bakuri","jumberi","01/25/72 00:00:00",,"d",1,"1412764","cageri s. WalisTavi","cageri"
+"49001001015","beniZe","marina","guSeri","06/13/69 00:00:00",,"b",2,"1084251","Tbilisi rusTavis gzat. N 3 b. 55","krwanisi"
+"49001001016","erbeliZe","leri",,"02/12/70 00:00:00",,"b",1,"0051264","cageri s. lailaSi","cageri"
+"49001001017","kanaCaZe","mamuka","griSa","02/05/63 00:00:00","07/26/06 00:00:00","g",1,"0051264","cageri s. lasuriaSi","cageri"
+"49001001018","kanaCaZe","daviT","griSa","11/11/61 00:00:00",,"b",1,"1285549","cageri s. lasuriaSi","cageri"
+"49001001019","yuraSvili","vladimer","jumberi","03/09/77 00:00:00",,"a",1,"0051265","cageri s. lasuriaSi","cageri"
+"49001001020","svaniZe","buWu",,"09/28/61 00:00:00",,"b",1,"0051265","cageri s. Cxuteli","cageri"
+"49001001021","xmeliZe","malxazi","nodari","11/10/78 00:00:00",,"a",1,"1100370","cageri s. lasxana","cageri"
+"49001001022","bzikaZe","nino",,"07/19/71 00:00:00",,"d",2,"0051265","cageri s. orbeli","cageri"
+"49001001023","goleTiani","zviad","gurgeni","02/18/72 00:00:00",,"a",1,"1100442","cageri s. lajana","cageri"
+"49001001024","gasviani","naTia",,"12/23/78 00:00:00",,"b",2,"0051266","cageri s. lasxana","cageri"
+"49001001025","xecuriani","Tamro","kukuri","07/12/79 00:00:00",,"a",2,"1023407","cageri s. larCvali","cageri"
+"49001001026","banZelaZe","murmani",,"02/05/54 00:00:00",,"g",1,"0527944","cageri s. tviSi","cageri"
+"49001001027","kvirikaSvili","givi","daviTi","07/27/56 00:00:00",,"g",1,"0944938","cageri s. Cxuteli","cageri"
+"49001001028","saRinaZe","roini","biqtori","05/01/59 00:00:00",,"b",1,"1023279","cageri s. luxvano","cageri"
+"49001001029","kvirikaSvili","maia","domenti","10/17/69 00:00:00",,"g",2,"0051267","quTaisi z.WavWavaZis q. N 44 b. 10",
+"49001001030","omanaZe","Temur",,"04/10/48 00:00:00","02/26/10 00:00:00","d",1,"0051267","cageri s. zubi","cageri"
+"49001001031","daviTuliani","melori",,"02/20/50 00:00:00",,"a",1,"0051268","cageri s. Cxuteli","cageri"
+"49001001032","murcxvalaZe","demur",,"10/17/52 00:00:00","07/01/10 00:00:00","b",1,"0051268","cageri s. Cxuteli","cageri"
+"49001001033","ugrexeliZe","Jora",,"09/15/37 00:00:00",,"g",1,"0051268","cageri s. Cxuteli","cageri"
+"49001001034","muSkudiani","omari",,"09/20/62 00:00:00",,"d",1,"0051268","cageri s. oyureSi","cageri"
+"49001001035","asaTiani","Salva",,"05/31/74 00:00:00",,"a",1,"0051269","cageri s. bardnala","cageri"
+"49001001036","murcxvalaZe","giorgi","oTari","10/07/77 00:00:00",,"b",1,"1285718","cageri s. Cxuteli","cageri"
+"49001001037","xubukelaSvili","maka","jimSeri","10/09/73 00:00:00",,"g",2,"1100499","cageri s. orbeli","cageri"
+"49001001038","muSkudiani","aleko","rostom","05/26/74 00:00:00",,"a",1,"1214383","cageri s. lasuriaSi","cageri"
+"49001001039","xuciZe","mamuka","buWu","02/21/62 00:00:00",,"g",1,"1214319","cageri s. sairme","cageri"
+"49001001040","fruiZe","levan","Tengizi","12/15/80 00:00:00",,"g",1,"1100337","cageri s. qveda cageri","cageri"
+"49001001041","svaniZe","koba",,"12/17/64 00:00:00",,"d",1,"0051270","cageri s. orbeli","cageri"
+"49001001042","kopaliani","genadi","jemali","04/01/66 00:00:00",,"b",1,"1348412","cageri s. qulbaqi","cageri"
+"49001001043","axvlediani","nugzar","Sardeni","09/04/57 00:00:00",,"b",1,"0051271","cageri s. orbeli","cageri"
+"49001001044","yuraSvili","beqa","badri","03/21/74 00:00:00",,"b",1,"1100480","cageri s. nakuraleSi","cageri"
+"49001001045","CikvaiZe","sofio","zauri","05/20/78 00:00:00",,"d",2,"1285621","cageri s. zubi","cageri"
+"49001001046","gasviani","soso","nodari","04/06/72 00:00:00",,"g",1,"1023387","cageri s. dexviri","cageri"
+"49001001047","CakvetaZe","kaxa","raJdeni","11/12/75 00:00:00",,"a",1,"1214491","cageri s. zubi","cageri"
+"49001001048","megreli","SoTa",,"04/17/64 00:00:00",,"a",1,"0051273","cageri s. orbeli","cageri"
+"49001001049","Cxetiani","maka","romani","03/31/76 00:00:00",,"g",2,"1214318","cageri s. leSkeda","cageri"
+"49001001050","Cafrava","aleko","alioSa","02/10/80 00:00:00",,"a",1,"1100372","cageri s. Cxuteli","cageri"
+"49001001051","kopaliani","Tengiz",,"05/15/42 00:00:00","05/05/06 00:00:00","d",1,"0051273","cageri ak.wereTlis q. N 7","cageri"
+"49001001052","goleTiani","arjevani","zosime","02/01/71 00:00:00",,"a",1,"0051274","cageri s. ucxeri","cageri"
+"49001001053","megreli","fridon","SoTa","10/10/70 00:00:00",,"d",1,"1100349","cageri s. lajana","cageri"
+"49001001054","giorbeliZe","merabi","vladimeri","06/24/66 00:00:00",,"d",1,"1348370","cageri s. oyureSi","cageri"
+"49001001055","gviSiani","irakli","rezo","10/19/78 00:00:00",,"a",1,"1100319","cageri s. Cxuteli","cageri"
+"49001001056","goqaZe","maia","revazi","02/15/60 00:00:00",,"a",2,"0051275","cageri d.aRmaSeneblis q. N 29","cageri"
+"49001001057","CakvetaZe","Tengiz",,"06/25/51 00:00:00",,"b",1,"0051275","cageri stalinis q. N 37","cageri"
+"49001001058","goleTiani","giorgi",,"03/01/70 00:00:00",,"g",1,"0051275","cageri s. oyureSi","cageri"
+"49001001059","svaniZe","daviT","amirani","08/09/77 00:00:00",,"d",1,"1285678","cageri s. orbeli","cageri"
+"49001001060","Carkviani","kaxaber","leuSa","06/05/76 00:00:00",,"b",1,"1100450","cageri s. gveso","cageri"
+"49001001061","axvlediani","valenti","gela","01/28/64 00:00:00",,"g",1,"1023464","cageri s. dexviri","cageri"
+"49001001062","ivaneiSvili","naTia","vladimeri","01/01/82 00:00:00",,"g",2,"1212550","quTaisi sulxan-sabas gamz. N 41 b.",
+"49001001063","meSveliani","zaali",,"08/07/69 00:00:00",,"d",1,"0051276","cageri S.rusTavelis q. N 83","cageri"
+"49001001064","CakvetaZe","giuli","griSa","08/26/71 00:00:00",,"a",1,"0051277","cageri s. zubi","cageri"
+"49001001065","daviTuliani","nugzari",,"01/14/60 00:00:00",,"b",1,"0051277","cageri s. qveda cageri","cageri"
+"49001001066","daviTuliani","sozari",,"02/07/63 00:00:00",,"g",1,"0051277","cageri s. qveda cageri","cageri"
+"49001001068","leSkaSeli","tarieli",,"07/13/65 00:00:00",,"a",1,"0944945","cageri s. lajana","cageri"
+"49001001069","bendeliani","malxazi","sozari","07/17/71 00:00:00",,"a",1,"1214260","cageri s. qveda cageri","cageri"
+"49001001070","uCaZe","aleko","janiko","04/25/80 00:00:00",,"d",1,"1023373","cageri s. ucxeri","cageri"
+"49001001071","megreli","mamia","kowia","11/05/74 00:00:00",,"a",1,"1285548","cageri s. orbeli","cageri"
+"49001001072","guruli","daviTi","kandidi","08/19/73 00:00:00",,"a",1,"1134753","quTaisi nikeas q. N 7b b. 2_58",
+"49001001073","liparteliani","eTeri","indiko","02/03/41 00:00:00",,"d",2,"1214297","cageri s. qulbaqi","cageri"
+"49001001074","janeliZe","rusiko",,"03/10/34 00:00:00",,"a",2,"0051280","cageri s. zubi","cageri"
+"49001001075","aslanikaSvili","nato","karlo","11/15/64 00:00:00",,"g",2,"1409453","Tbilisi S.nucubiZis q. N 215 kor. 2","vake"
+"49001001076","kalandaZe","gizo","geologi","01/25/71 00:00:00",,"b",1,"1348309","cageri eg.ninoSvilis q. N 45","cageri"
+"49001001174","saRinaZe","nino","badri","02/28/81 00:00:00",,"b",2,"1285663","cageri s. gveso","cageri"
+"49001001175","beniZe","aleqsandre","avTandili","10/18/80 00:00:00",,"b",1,"0051307","cageri S.rusTavelis q. N 81","cageri"
+"49001001176","meSveliani","Tamar","murTazi","05/04/81 00:00:00",,"a",2,"1100498","cageri s. Cxuteli","cageri"
+"49001001177","cxvediani","levani","rezo","05/10/81 00:00:00",,"d",1,"1100476","cageri s. maxaSi","cageri"
+"49001001178","zurabiani","rostomi","roini","03/23/81 00:00:00",,"d",1,"1214398","cageri d.aRmaSeneblis II Ses. N 5","cageri"
+"49001001179","Cafrava","eka","alioSa","03/08/81 00:00:00",,"a",2,"1100482","cageri s. Cxuteli","cageri"
+"49001001180","gugava","ana","Tamazi","10/23/80 00:00:00",,"b",2,"1162331","quTaisi S.leJavas q. N 5b b. 30",
+"49001001181","saRinaZe","Sorena","zurabi","03/07/81 00:00:00",,"d",2,"0603200","Tbilisi r.TabukaSvilis q. N 45","mTawminda"
+"49001001182","CikvaiZe","nino","besarioni","12/17/80 00:00:00",,"g",2,"1300250","rusTavi J.Sartavas gamz. kor. 6 b.",
+"49001001183","nemswveriZe","manana","SoTa","06/10/80 00:00:00",,"g",2,"1214289","cageri stalinis q. N 5","cageri"
+"49001001184","liparteliani","zurabi","abela","09/10/66 00:00:00",,"g",1,"0051309","cageri s. wiferCi","cageri"
+"49001001185","meSveliani","laSa","sandro","06/19/75 00:00:00",,"b",1,"1285642","cageri s. wiferCi","cageri"
+"49001001186","meSveliani","sofio","romani","12/24/78 00:00:00",,"a",2,"0941277","Tbilisi p.ingoroyvas q. N 19","mTawminda"
+"49001001187","omanaZe","naTia","Temuri","08/27/81 00:00:00",,"g",2,"1336241","Tbilisi vaJa-fSavelas gamz. N 2 b.","saburTalo"
+"49001001188","kopaliani","laSa","daviTi","11/27/80 00:00:00",,"g",1,"0851783","cageri s. maxaSi","cageri"
+"49001001189","megreli","miriani","mevludi","08/09/81 00:00:00",,"d",1,"0971769","Tbilisi vazisubnis III m/r I kv. ko","isani"
+"49001001190","saRinaZe","giorgi","bondo","09/04/80 00:00:00",,"a",1,"1412815","cageri d.aRmaSeneblis q. N 63","cageri"
+"49001001191","tvildiani","nino","beJani","07/13/81 00:00:00",,"d",2,"1214252","cageri Tavisuflebis I Ses. N 2","cageri"
+"49001001192","WiWinaZe","roman","amirani","09/06/80 00:00:00",,"b",1,"0781425","cageri s. Cxuteli","cageri"
+"49001001193","meSveliani","Teimuraz","romani","07/18/81 00:00:00",,"d",1,"1100488","cageri s. Cxuteli","cageri"
+"49001001194","fanjaraZe","zurabi","borisi","04/07/81 00:00:00",,"d",1,"1100427","cageri s. lasuriaSi","cageri"
+"49001001195","kopaliani","besiki","rezo","10/24/69 00:00:00",,"b",1,"0051312","cageri s. WalisTavi","cageri"
+"49001001196","muSkudiani","merabi","valeriani","05/17/81 00:00:00",,"a",1,"1100441","cageri s. qveda cageri","cageri"
+"49001001197","qomeTiani","Temur","gurami","05/16/80 00:00:00","07/29/08 00:00:00","g",1,"1181346","Tbilisi   misamarTis gareSe","naZaladevi"
+"49001001198","CaCxiani","ia","daviTi","08/24/81 00:00:00",,"b",2,"1246995","Tbilisi  misamarTis gareSe","gldani"
+"49001001199","bendeliani","naTia","mizdoni","10/05/79 00:00:00","08/31/10 00:00:00","m",2,"0001471","Tbilisi muxiani II m/r kor. 33 b. 2","gldani"
+"49001001200","kopaliani","xaTuna","gela","05/07/81 00:00:00",,"g",2,"0051313","cageri s. WalisTavi","cageri"
+"49001001201","pirveli","maia","biZina","07/20/81 00:00:00",,"b",2,"1387069","Tbilisi liTon-konstruqciis VI das.","samgori"
+"49001001202","ZnelaZe","xaTuna","vaxtangi","07/28/81 00:00:00",,"b",2,"1100427","cageri Tavisuflebis q. N 9","cageri"
+"49001001203","burjaliani","alma","raindi","12/22/80 00:00:00",,"b",2,"1439235","cageri s. lajana","cageri"
+"49001001204","yuraSvili","xuta","Salva","10/06/80 00:00:00",,"d",1,"1387553","Tbilisi muxiani I m/r kor. b b. 110","gldani"
+"49001001205","janeliZe","tigrani","valiko","08/10/65 00:00:00",,"g",1,"1100327","cageri s. zubi","cageri"
+"49001001206","lomTaZe","eka","aleqsandre","07/31/81 00:00:00",,"g",2,"1214271","cageri s. tviSi","cageri"
+"49001001207","liparteliani","nino","Teimurazi","05/17/81 00:00:00",,"b",2,"1392451","quTaisi nikeas II Ses. N 6 b. 32",
+"49001001208","WiRvaria","Tamari","olegi","07/08/80 00:00:00",,"g",2,"1100496","cageri s. lasxana","cageri"
+"49001001209","bendeliani","Smagi","alberti","07/14/77 00:00:00",,"d",1,"1214445","cageri s. WalisTavi","cageri"
+"49001001210","burjaliani","nestani","jibilo","03/12/76 00:00:00",,"g",2,"1100484","cageri s. orbeli","cageri"
+"49001001211","qarselaZe","irakli","olegi","07/17/81 00:00:00",,"b",1,"1214297","cageri k.leseliZis q. N 3","cageri"
+"49001001212","bendeliani","gela","muxrani","03/19/80 00:00:00",,"b",1,"1100500","cageri s. qveda cageri","cageri"
+"49001001213","goleTiani","seiTo",,"09/01/11 00:00:00","11/15/99 00:00:00","d",1,"0051316","cageri s. oyureSi","cageri"
+"49001001214","burjaliani","vera","valeriani","02/23/81 00:00:00",,"b",2,"1348397","cageri s. surmuSi","cageri"
+"49001001215","nemswveriZe","zaza","griSa","05/30/72 00:00:00",,"b",1,"1285581","cageri s. ucxeri","cageri"
+"49001001216","maxarobliZe","zurabi","Tamazi","08/11/81 00:00:00",,"b",1,"0051318","cageri s. lajana","cageri"
+"49001001217","saRinaZe","zaza","rozaliusi","06/06/79 00:00:00",,"b",1,"1214383","cageri s. qveda cageri","cageri"
+"49001001218","mukvani","Sorena","zurabi","08/03/80 00:00:00",,"d",2,"1100489","cageri s. WalisTavi","cageri"
+"49001001220","gugava","mindia","iuri","07/12/76 00:00:00",,"b",1,"1218102","quTaisi  misamarTis gareSe",
+"49001001221","sanikiZe","merabi","normandi","01/23/80 00:00:00",,"a",1,"1214305","cageri s. orbeli","cageri"
+"49001001222","mdivani","spartaki","Tamazi","04/08/75 00:00:00",,"b",1,"0651423","cageri S.rusTavelis q. N 97","cageri"
+"49001001223","zurabiani","nana","omari","01/23/81 00:00:00",,"g",2,"1285697","cageri s. qveda cageri","cageri"
+"49001001224","beriZe","paata","borisi","01/21/81 00:00:00",,"d",1,"1412789","cageri s. qveda cageri","cageri"
+"49001001225","qobulaZe","avTandil",,"11/09/72 00:00:00",,"g",1,"0051320","cageri s. qoreniSi","cageri"
+"49001001226","goleTiani","tarieli","karlo","08/20/60 00:00:00",,"a",1,"0051321","cageri s. nakuraleSi","cageri"
+"49001001227","kopaliani","guram","melitoni","09/30/37 00:00:00","01/08/06 00:00:00","b",1,"0617272","cageri S.rusTavelis q. N 84","cageri"
+"49001001228","gogiZe","mituSa",,"04/01/42 00:00:00","04/01/04 00:00:00","g",1,"0051321","cageri s. qveda cageri","cageri"
+"49001001229","markozaSvili","iamze","aleqsandre","01/28/59 00:00:00",,"d",2,"0051321","cageri s. Cxuteli","cageri"
+"49001001230","nemsiwveriZe","anna","merabi","04/10/81 00:00:00",,"g",2,"1348460","cageri s. tviSi","cageri"
+"49001001231","lomTaZe","nino","Saqro","03/06/80 00:00:00","11/16/10 00:00:00","b",2,"0904434","quTaisi iv.javaxiSvilis q. N 51 b.",
+"49001001232","kopaliani","jemali","indisi","03/18/40 00:00:00","11/02/10 00:00:00","g",1,"1348382","cageri s. qulbaqi","cageri"
+"49001001233","urTmeliZe","petre","Salva","03/31/81 00:00:00",,"b",1,"1392788","quTaisi  misamarTis gareSe",
+"49001001234","bendeliani","marika","gela","02/01/78 00:00:00",,"d",2,"1285741","cageri s. qveda cageri","cageri"
+"49001001235","yuraSvili","aleqsandre","akaki","06/25/76 00:00:00",,"d",1,"1214251","cageri s. usaxelo","cageri"
+"49001001236","janaZe","marika","avTandili","11/23/80 00:00:00",,"g",2,"0051323","cageri s. alpana","cageri"
+"49001001237","xecuriani","eliso","murmani","02/19/79 00:00:00",,"g",2,"0416255","cageri s. qveda cageri","cageri"
+"49001001238","omanaZe","nato","zauri","12/06/79 00:00:00",,"a",2,"0051324","cageri d.aRmaSeneblis q. N 17","cageri"
+"49001001239","kvirikaSvili","zaali","zauri","04/15/81 00:00:00",,"a",1,"1100464","cageri s. Cxuteli","cageri"
+"49001001240","kvirikaSvili","Tamaz","grigoli","11/18/52 00:00:00",,"g",1,"0051324","cageri s. Cxuteli","cageri"
+"49001001241","bregvaZe","spartak","romani","08/20/80 00:00:00",,"a",1,"1023421","cageri s. qulbaqi","cageri"
+"49001001242","axvlediani","lali",,"01/10/81 00:00:00",,"g",2,"0527840","cageri s. lajana","cageri"
+"49001001243","daviTuliani","giorgi",,"02/13/74 00:00:00",,"g",1,"0851985","cageri s. lajana","cageri"
+"49001001244","fruiZe","giorgi","murTazi","06/23/81 00:00:00",,"d",1,"1100417","cageri s. gaguleCi","cageri"
+"49001001245","silagaZe","soso","valeriani","04/05/58 00:00:00",,"a",1,"0051326","cageri s. leSkeda","cageri"
+"49001001246","jiaZe","Temur","SoTa","08/24/81 00:00:00",,"g",1,"1210506","Tbilisi e.andronikaSvilis q. N 69","gldani"
+"49001001247","jiaZe","nestan","SoTa","09/16/80 00:00:00",,"d",2,"1185054","Tbilisi moskovis gamz. V kv. kor. 1","samgori"
+"49001001248","yubusiZe","goCa","avTandili","07/26/77 00:00:00",,"d",1,"1348285","cageri s. lailaSi","cageri"
+"49001001249","kopaliani","Samili","afTioni","02/10/54 00:00:00",,"a",1,"0851938","cageri s. qveda cageri","cageri"
+"49001001250","kvenetaZe","sofiko","nugzari","01/10/81 00:00:00",,"b",2,"1285682","cageri s. orbeli","cageri"
+"49001001251","xabuliani","aluda","oTari","03/03/73 00:00:00",,"g",1,"1214266","cageri s. bardnala","cageri"
+"49001001252","kopaliani","irine","jemali","12/11/80 00:00:00",,"a",2,"1217528","quTaisi z.WavWavaZis q. N 20 b. 41",
+"49001001253","guruli","daviT","buWu","04/19/73 00:00:00",,"d",1,"1412793","cageri s. gveso","cageri"
+"49001001254","TvaraZe","irina",,"04/17/57 00:00:00",,"b",2,"0051328","cageri s. oyureSi","cageri"
+"49001001255","liparteliani","rita","ilakri","03/21/80 00:00:00",,"b",2,"1214387","cageri s. zubi","cageri"
+"49001001256","kopaliani","mamuka","jemali","09/09/67 00:00:00","05/05/06 00:00:00","a",1,"0051329","cageri s. WalisTavi","cageri"
+"49001001257","murcxvalaZe","rusudan","buWu","11/01/53 00:00:00",,"a",2,"1100305","cageri s.isianis q. N 6","cageri"
+"49001001258","liparteliani","anzori","mixeili","07/10/59 00:00:00",,"g",1,"0051329","cageri s. lajana","cageri"
+"49001001259","axvlediani","Tamaz","griSa","12/05/53 00:00:00",,"d",1,"0051329","cageri s. lajana","cageri"
+"49001001260","beniZe","nato","nodari","04/06/60 00:00:00",,"a",2,"0594404","cageri s. qveda cageri","cageri"
+"49001001261","qarselaZe","Tamaz","biqtori","08/20/51 00:00:00",,"a",1,"0527830","cageri m.kostavas q. N 7","cageri"
+"49001001262","silagaZe","zurabi",,"07/26/72 00:00:00","02/15/10 00:00:00","g",1,"0051330","cageri k.leseliZis q. N 11","cageri"
+"49001001263","goloZe","zaza","Tamazi","12/19/79 00:00:00",,"d",1,"0051330","cageri s. lailaSi","cageri"
+"49001001264","gelovani","merabi",,"01/08/79 00:00:00",,"a",1,"0527779","cageri s. orbeli","cageri"
+"49001001266","burjaliani","griSa",,"05/02/37 00:00:00",,"g",1,"0051331","cageri s. orbeli","cageri"
+"49001001267","beniZe","Sio",,"01/04/56 00:00:00",,"d",1,"0051331","cageri s. zubi","cageri"
+"49001001268","kopaliani","Tengizi","samsoni","12/09/65 00:00:00",,"b",1,"1285643","cageri s. WalisTavi","cageri"
+"49001001269","burjaliani","rolandi","eqvTime","03/13/40 00:00:00",,"g",1,"0051332","cageri s. lacoria","cageri"
+"49001001270","urTmeliZe","Tornike","zurabi","06/27/75 00:00:00",,"d",1,"1348368","cageri s. spaTagori","cageri"
+"49001001271","urTmeliZe","giorgi",,"11/15/71 00:00:00",,"a",1,"0051333","cageri s. usaxelo","cageri"
+"49001001368","kekutia","romani","domenti","07/01/51 00:00:00",,"b",1,"1287364","xoni s. ivandidi","xoni"
+"49001001369","jamburiZe","zurabi","valeriani","04/25/63 00:00:00",,"a",1,"0051359","cageri s. maxaSi","cageri"
+"49001001370","RurWumaliZe","konstantine","genozi","01/15/76 00:00:00",,"a",1,"1214376","cageri s. nasperi","cageri"
+"49001001371","xabuliani","zurabi",,"10/04/48 00:00:00",,"g",1,"0051359","cageri s. bardnala","cageri"
+"49001001372","xecuriani","maTe","Tengizi","07/24/77 00:00:00",,"a",1,"0944978","cageri s. RviriSi","cageri"
+"49001001373","gabiZaSvili","zviad","almardi","04/15/77 00:00:00",,"g",1,"0651374","cageri s. tviSi","cageri"
+"49001001374","Wabukiani","vaJa","zaqro","04/15/31 00:00:00","02/10/09 00:00:00","d",1,"0416433","cageri S.rusTavelis q. N 47","cageri"
+"49001001375","silagaZe","iuri",,"03/08/49 00:00:00",,"g",1,"0051360","cageri d.aRmaSeneblis q. N 50","cageri"
+"49001001376","TagvaZe","zurabi",,"03/29/63 00:00:00",,"d",1,"0051360","cageri s. WalisTavi","cageri"
+"49001001377","xvadagiani","giorgi",,"09/02/80 00:00:00",,"a",1,"0051361","cageri s. alpana","cageri"
+"49001001378","meSveliani","elza",,"07/08/71 00:00:00","01/18/11 00:00:00","a",2,"0723730","d. lentexi stalinis q. N 27","lentexi"
+"49001001379","qlibaZe","irma","givi","10/30/71 00:00:00",,"a",2,"1219514","quTaisi v.xarebavas q. N 5 b. 61",
+"49001001380","silagaZe","maizer","pavle","03/15/64 00:00:00",,"d",1,"0051361","cageri s. leSkeda","cageri"
+"49001001381","maxarobliZe","kaxi","revazi","05/23/71 00:00:00",,"b",1,"1023274","cageri s. lajana","cageri"
+"49001001382","maxarobliZe","genuri","Tengizi","08/10/70 00:00:00",,"b",1,"0051362","quTaisi axalgazrdobis gamz. N 76",
+"49001001383","goleTiani","kaxa","oTari","03/05/76 00:00:00",,"g",1,"1285652","cageri s. nakuraleSi","cageri"
+"49001001384","nemswveriZe","elguja",,"02/24/79 00:00:00",,"d",1,"0415980","cageri s. bardnala","cageri"
+"49001001385","gviSiani","jemali","ilarioni","09/11/53 00:00:00",,"a",1,"1285535","cageri d.aRmaSeneblis q. N 45","cageri"
+"49001001386","svaniZe","daviT",,"06/06/73 00:00:00",,"d",1,"0651432","cageri s. cxukuSeri","cageri"
+"49001001387","xvadagiani","daTuna",,"10/30/53 00:00:00",,"g",1,"0051363","cageri s. zogiSi","cageri"
+"49001001388","gabelia","roin",,"04/22/74 00:00:00","12/21/10 00:00:00","d",1,"0051363","cageri s. bardnala","cageri"
+"49001001389","ratiani","nana","sergo","07/06/75 00:00:00",,"d",2,"1317146","quTaisi Tavisuflebis IV Ses. N 44",
+"49001001390","murcxvalaZe","dali","arCili","01/06/69 00:00:00",,"e",2,"0178207","gulrifSi s. Cini","gulrifSi"
+"49001001391","Cxetiani","kaxaberi","revazi","06/01/72 00:00:00",,"b",1,"1214268","cageri Tavisuflebis q. N 8","cageri"
+"49001001392","nemsiwveriZe","aza",,"01/23/48 00:00:00",,"d",2,"0051364","cageri s. bardnala","cageri"
+"49001001393","burjaliani","Tamaz","apoloni","03/02/55 00:00:00",,"a",1,"1348463","cageri s. orbeli","cageri"
+"49001001394","leTodiani","Temur","givi","08/27/68 00:00:00",,"b",1,"1412772","cageri s. qveda cageri","cageri"
+"49001001395","xecuriani","koba",,"06/16/79 00:00:00",,"d",1,"1430015","cageri s. usaxelo","cageri"
+"49001001396","leTodiani","jiguli","genadi","02/28/72 00:00:00",,"b",2,"1095245","Tbilisi  misamarTis gareSe","gldani"
+"49001001397","ugrexeliZe","mixeil","evdimani","11/15/75 00:00:00",,"b",1,"1023317","cageri s. oyureSi","cageri"
+"49001001398","sivsiva","sergo",,"05/09/75 00:00:00","02/01/00 00:00:00","b",1,"0051366","cageri s. usaxelo","cageri"
+"49001001399","gviSiani","gia",,"01/25/61 00:00:00",,"g",1,"0051366","cageri s. orbeli","cageri"
+"49001001400","burjaliani","raindi","pavle","10/15/50 00:00:00",,"g",1,"1348444","cageri s. orbeli","cageri"
+"49001001401","gugava","jimSeri","WiWiko","12/15/34 00:00:00",,"a",1,"0051367","cageri s. usaxelo","cageri"
+"49001001402","futkaraZe","baxva","vasili","05/02/69 00:00:00",,"a",1,"1023476","cageri s. wiferCi","cageri"
+"49001001403","silagaZe","maia",,"03/11/78 00:00:00",,"g",2,"0051367","cageri s. lesindi","cageri"
+"49001001404","abulaZe","marine",,"10/16/67 00:00:00",,"d",2,"0051367","cageri s. Cxuteli","cageri"
+"49001001405","fruiZe","murTaz",,"03/18/52 00:00:00","02/22/10 00:00:00","a",1,"0051368","cageri s. gaguleCi","cageri"
+"49001001406","afaqiZe","vaxtang","Salva","01/06/56 00:00:00",,"g",1,"0851918","cageri s. lasuriaSi","cageri"
+"49001001407","bendeliani","goCa",,"08/20/72 00:00:00",,"g",1,"0051368","cageri s. gveso","cageri"
+"49001001408","meSveliani","Jora","WiWiko","02/01/54 00:00:00",,"a",1,"1285698","cageri s. Cxuteli","cageri"
+"49001001409","murcxvalaZe","daviT",,"08/31/81 00:00:00",,"a",1,"0051369","cageri s. Cxuteli","cageri"
+"49001001410","kopaliani","laSa",,"09/19/75 00:00:00",,"g",1,"0323646","cageri s. WalisTavi","cageri"
+"49001001411","nemswveriZe","mirza","joni","02/26/83 00:00:00",,"a",1,"1348484","cageri s. bardnala","cageri"
+"49001001412","iremaZe","giorgi",,"01/06/55 00:00:00",,"d",1,"0051369","cageri d.aRmaSeneblis q. N 40","cageri"
+"49001001413","kalandaZe","Tamaz",,"05/17/71 00:00:00",,"d",1,"0651101","cageri n.baraTaSvilis q. N 6","cageri"
+"49001001414","Carkviani","merabi","SoTa","09/20/69 00:00:00",,"d",1,"0944915","cageri s. Cxuteli","cageri"
+"49001001415","futkaraZe","jumberi","SamSe","04/14/54 00:00:00",,"g",1,"0051370","cageri s. sanorCi","cageri"
+"49001001416","beniZe","gogi",,"01/06/63 00:00:00",,"d",1,"0051370","cageri s. zubi","cageri"
+"49001001417","gurguCiani","leila","biWiko","05/25/55 00:00:00",,"d",2,"1214305","cageri m.kostavas q. N 13","cageri"
+"49001001418","murcxvalaZe","giorgi",,"07/24/72 00:00:00",,"b",1,"0051371","cageri s. gaguleCi","cageri"
+"49001001419","qvariani","nora",,"11/22/31 00:00:00",,"g",2,"0051371","cageri s. orxvi","cageri"
+"49001001420","silagaZe","Surman",,"02/22/49 00:00:00",,"d",1,"0051371","cageri s. lesindi","cageri"
+"49001001421","xabuliani","marina",,"01/28/65 00:00:00",,"a",2,"0051372","cageri s. wiferCi","cageri"
+"49001001422","gviSiani","gia","anzori","12/15/64 00:00:00",,"a",1,"1214287","cageri s. orbeli","cageri"
+"49001001423","silagaZe","mirza","janveri","03/18/77 00:00:00",,"a",1,"1348448","cageri s. gaguleCi","cageri"
+"49001001424","muSkudiani","ramazi","oTari","02/03/67 00:00:00",,"d",1,"0051372","cageri s. lasuriaSi","cageri"
+"49001001425","bakuraZe","aleqsandre","gurgeni","08/06/77 00:00:00",,"d",1,"1419341","cageri s. surmuSi","cageri"
+"49001001426","ugrexeliZe","vaxtang",,"03/07/56 00:00:00",,"b",1,"0051373","cageri s. oyureSi","cageri"
+"49001001427","janaZe","merabi","jiu","08/13/71 00:00:00",,"g",1,"0051373","cageri s. tviSi","cageri"
+"49001001428","burjaliani","xaTuna","rezo","08/16/76 00:00:00",,"d",2,"0051373","cageri s. tviSi","cageri"
+"49001001429","mamardaSvili","zurab","nodari","02/05/60 00:00:00",,"a",1,"0051374","cageri s. oyureSi","cageri"
+"49001001430","xecuriani","muradi","murmani","04/08/76 00:00:00",,"b",1,"0415994","cageri s. qveda cageri","cageri"
+"49001001431","bendeliani","paata","gurami","07/13/82 00:00:00",,"b",1,"1285611","cageri s. luxvano","cageri"
+"49001001432","saRinaZe","roland",,"08/15/50 00:00:00",,"d",1,"0051374","cageri s. qveda cageri","cageri"
+"49001001433","nemsiwveriZe","mindia","lazare","03/04/82 00:00:00",,"d",1,"1285746","cageri s. tviSi","cageri"
+"49001001434","qarTveliSvili","avTandil",,"03/20/59 00:00:00",,"b",1,"0051375","cageri s. zogiSi","cageri"
+"49001001435","muSkudiani","Jora","artemi","04/15/37 00:00:00",,"a",1,"1412845","cageri m.kostavas q. N 20","cageri"
+"49001001436","jiaZe","romani","ramini","01/11/75 00:00:00",,"g",1,"1348292","cageri s. aRvi","cageri"
+"49001001437","liparteliani","genadi",,"08/10/68 00:00:00",,"a",1,"0051376","cageri s. qveda cageri","cageri"
+"49001001438","CaCxiani","daviT",,"04/07/63 00:00:00",,"b",1,"0051376","cageri s. lailaSi","cageri"
+"49001001439","silagaZe","xaTuna",,"06/06/63 00:00:00",,"g",2,"0051376","cageri s. wilamieri","cageri"
+"49001001440","cvariani","eliso","karlo","05/22/73 00:00:00",,"d",2,"0051376","cageri s. gveso","cageri"
+"49001001442","terelaZe","mindia","akaki","08/15/80 00:00:00",,"a",1,"1287715","xoni s. qutiri","xoni"
+"49001001443","silagaZe","Temur","SoTa","10/22/77 00:00:00",,"d",1,"0944770","cageri s. maxaSi","cageri"
+"49001001444","nemswveriZe","koba","jemali","07/29/79 00:00:00",,"g",1,"0851950","cageri s. bardnala","cageri"
+"49001001445","silagaZe","merab","roini","03/20/78 00:00:00",,"b",1,"0944872","cageri m.kostavas q. N 29","cageri"
+"49001001446","Corgoliani","zaza","avTo","12/15/80 00:00:00",,"a",1,"1100275","cageri d.aRmaSeneblis q. N 29","cageri"
+"49001001447","leSkaSeli","lali","nestori","06/15/58 00:00:00",,"g",2,"0051378","cageri s. spaTagori","cageri"
+"49001001448","kikaliSvili","mamia","Salva","02/05/69 00:00:00",,"d",1,"0051378","cageri s. zubi","cageri"
+"49001001449","beniZe","imeda","guSeri","10/04/75 00:00:00",,"g",1,"1218386","quTaisi sulxan-sabas gamz. N 23 b.",
+"49001001450","kvenetaZe","oTar","grigoli","01/26/56 00:00:00",,"a",1,"1240618","Tbilisi gldani VIII m/r kor. 7 b. 7","gldani"
+"49001001451","xubukelaSvili","irma","qiSvardis","08/22/70 00:00:00",,"a",2,"0546599","quTaisi p.meliqiSvilis q. N 10 b. 2",
+"49001001452","silagaZe","grigol","grigoli","10/20/56 00:00:00","02/26/10 00:00:00","d",1,"0051379","cageri m.kostavas q. N 24","cageri"
+"49001001453","megreliSvili","SuSana","menaSi","03/16/26 00:00:00",,"a",2,"0051380","cageri s. lailaSi","cageri"
+"49001001454","xamaSuriZe","elene","iosebi","02/16/52 00:00:00","05/31/11 00:00:00","b",2,"1199691","rusTavi  misamarTis gareSe",
+"49001001455","svaniZe","daviT","iakobi","12/09/34 00:00:00",,"d",1,"0051380","cageri d.aRmaSeneblis q. N 22","cageri"
+"49001001456","kvirikaSvili","zurabi","JorJi","04/10/63 00:00:00",,"g",1,"0051380","cageri s. Cxuteli","cageri"
+"49001001457","xecuriani","zurabi","samSe","06/07/56 00:00:00",,"a",1,"1348368","cageri m.kostavas q. N 27","cageri"
+"49001001458","goleTiani","besik",,"11/30/75 00:00:00",,"b",1,"0051381","cageri s. xoji","cageri"
+"49001001459","murcxvalaZe","giorgi","mixeili","01/04/67 00:00:00",,"a",1,"1412768","cageri eg.ninoSvilis q. N 24","cageri"
+"49001001460","futkaraZe","pieri","pimeni","09/16/45 00:00:00",,"a",1,"1285541","cageri S.rusTavelis q. N 47","cageri"
+"49001001461","gviSiani","karlo","jimSeri","09/08/63 00:00:00",,"d",1,"1100372","cageri s.isianis q. N 2","cageri"
+"49001001462","yuraSvili","bela","guju","03/16/70 00:00:00",,"g",2,"1100472","cageri s. qveda cageri","cageri"
+"49001001463","nemswveriZe","jemali","biWiko","11/19/56 00:00:00",,"a",1,"0415878","cageri s. bardnala","cageri"
+"49001001464","kopaliani","karlo",,"06/02/45 00:00:00","02/04/10 00:00:00","g",1,"0051383","cageri s. bardnala","cageri"
+"49001001560","gugava","iago","vaJa","05/15/77 00:00:00",,"a",1,"1023390","cageri s. usaxelo","cageri"
+"49001001561","kopaliani","Teimurazi","mixeili","11/12/74 00:00:00",,"d",1,"1214437","cageri s. WalisTavi","cageri"
+"49001001562","kopaliani","giorgi","Samili","02/28/82 00:00:00",,"g",1,"1023418","cageri s. qveda cageri","cageri"
+"49001001563","WiRvaria","merabi",,"07/12/72 00:00:00",,"b",1,"0944894","cageri s. lasxana","cageri"
+"49001001564","goleTiani","aleqsandre","omari","09/18/81 00:00:00",,"g",1,"1317745","quTaisi  misamarTis gareSe",
+"49001001565","murcxvalaZe","ekaterine","demuri","03/05/82 00:00:00",,"b",2,"1285689","cageri s. Cxuteli","cageri"
+"49001001566","xecuriani","ia",,"11/12/81 00:00:00",,"g",2,"0651031","cageri l.asaTianis q. N 19","cageri"
+"49001001567","silagaZe","revazi","amirani","01/28/82 00:00:00",,"g",1,"0051410","cageri s. gaguleCi","cageri"
+"49001001568","gugava","Tea","gela","01/16/78 00:00:00",,"a",2,"0532567","Tbilisi arbos q. N 20b b. 69","naZaladevi"
+"49001001569","muSkudiani","Tamari","romani","03/04/82 00:00:00",,"g",2,"1285677","cageri s. oyureSi","cageri"
+"49001001570","Cxetiani","aleqsandre","rezo","07/24/81 00:00:00",,"a",1,"1348422","cageri s. lajana","cageri"
+"49001001571","fruiZe","mindia","jambuli","01/25/82 00:00:00",,"d",1,"1100255","cageri s. alpana","cageri"
+"49001001572","Ciqovani","mamuka","Tamazi","01/08/82 00:00:00",,"a",1,"1100356","cageri s. gveso","cageri"
+"49001001573","Carkviani","Tamriko","valeri","01/06/81 00:00:00",,"g",2,"1100298","cageri s. larCvali","cageri"
+"49001001574","laWyepiani","mamuka","avTandili","03/06/82 00:00:00",,"g",1,"0051413","cageri s. dexviri","cageri"
+"49001001575","fruiZe","daviT","avTandili","01/30/82 00:00:00",,"g",1,"1412775","cageri s. alpana","cageri"
+"49001001576","WiRvaria","ana","baxva","11/26/81 00:00:00",,"d",2,"0649766","Tbilisi gldani II m/r kor. 46 b. 60","gldani"
+"49001001577","liparteliani","roza",,"03/09/78 00:00:00",,"d",2,"0944945","cageri s. bardnala","cageri"
+"49001001578","axvlediani","Tengiz",,"05/28/69 00:00:00",,"b",1,"0051413","cageri s. aRvi","cageri"
+"49001001579","goloZe","salome",,"04/30/82 00:00:00",,"d",2,"0051413","cageri s. lailaSi","cageri"
+"49001001580","meSveliani","qeTino","joni","04/01/82 00:00:00",,"a",2,"0944797","cageri s. wiferCi","cageri"
+"49001001581","TvaraZe","Tornike","soso","05/10/82 00:00:00",,"g",1,"1170048","Tbilisi varkeTili 3 II m/r kor. 27","samgori"
+"49001001582","burjaliani","mamuka","rolandi","02/02/82 00:00:00",,"d",1,"1100396","cageri s. orbeli","cageri"
+"49001001583","Cxetiani","imeda","iuri","06/11/79 00:00:00",,"b",1,"0851837","cageri s. qveda cageri","cageri"
+"49001001584","leSkaSeli","maia","WuWa","06/21/82 00:00:00",,"g",2,"1263977","ambrolauri s. bostana","ambrolauri"
+"49001001585","Wabukiani","Teimuraz","justani","10/15/81 00:00:00",,"g",1,"1100470","cageri s. lesindi","cageri"
+"49001001586","meSveliani","ramazi","romani","04/23/82 00:00:00",,"a",1,"1285670","cageri s. Cxuteli","cageri"
+"49001001587","meSveliani","sofio",,"04/07/81 00:00:00",,"d",2,"0051415","cageri s. Cxuteli","cageri"
+"49001001588","xmeliZe","giorgi","grigoli","06/19/82 00:00:00",,"d",1,"1100310","cageri s. lasxana","cageri"
+"49001001589","xabuliani","eTeri","gela","05/23/82 00:00:00",,"a",2,"1348308","cageri s. bardnala","cageri"
+"49001001590","CaCxiani","sofiko","alberti","01/04/82 00:00:00",,"g",2,"0051416","cageri s. lajana","cageri"
+"49001001591","qlibaZe","inga","joni","10/02/82 00:00:00",,"d",2,"1271908","Tbilisi Temqa X kv. kor. 24 b. 30","naZaladevi"
+"49001001592","qlibaZe","nikoloz","joni","11/09/79 00:00:00",,"b",1,"1348362","cageri s. lajana","cageri"
+"49001001593","jinWaraZe","xaTuna","vitali","02/27/82 00:00:00",,"a",2,"1100392","cageri s. lailaSi","cageri"
+"49001001594","mukbaniani","naTia","murmani","08/14/82 00:00:00",,"d",2,"1348360","cageri m.kostavas q. N 13","cageri"
+"49001001595","silagaZe","eka","arqifo","01/17/81 00:00:00",,"g",2,"1382702","cageri s. xoji","cageri"
+"49001001596","kaWkaWaSvili","maia","levani","09/30/81 00:00:00",,"a",2,"1348424","cageri s. lailaSi","cageri"
+"49001001597","silagaZe","sofiko","rolandi","10/02/81 00:00:00",,"b",2,"1337508","Tbilisi gldani II m/r kor. 35 b. 38","gldani"
+"49001001598","saRinaZe","eka","grigoli","08/19/82 00:00:00",,"d",2,"1285557","cageri s. WalisTavi","cageri"
+"49001001599","futkaraZe","qeTo","Tamazi","09/01/81 00:00:00",,"b",2,"1386848","Tbilisi  misamarTis gareSe","vake"
+"49001001600","axvlediani","nino","rezo","02/20/82 00:00:00",,"a",2,"1285629","cageri v.goleTianis q. N 12","cageri"
+"49001001601","muSkudiani","nato","avTandili","08/23/80 00:00:00",,"a",2,"1214432","cageri s. orbeli","cageri"
+"49001001602","axvlediani","giorgi",,"04/19/82 00:00:00",,"g",1,"0323827","cageri s. qveda cageri","cageri"
+"01001077852","qvliviZe","ana","giorgi","01/24/06 00:00:00",,,2,,"Tbilisi gldani IIIa m/r kor. 24 b.","gldani"
+"01019068445","SaviZe","salome","iosebi","06/25/94 00:00:00",,"d",2,"1206472","Tbilisi c.dadianis q. N 144 b. 45","naZaladevi"
+"40001035859","xoxoniSvili","miSiko","nikolozi","05/31/91 00:00:00",,"d",1,"1196050","siRnaRi s. saqobo","siRnaRi"
+"28001107508","alieva","narmin","nodar","04/09/07 00:00:00",,,2,,"marneuli n.narimanovis q. N 87","marneuli"
+"01005029142","kokozaSvili","maka","estate","03/19/70 00:00:00",,"g",2,"1411894","Tbilisi afxazeTis q. N 58","CuRureTi"
+"10001064337","mamedovi","zulfigar","zulumxan","07/07/92 00:00:00",,"a",1,"1202538","bolnisi s. senebi","bolnisi"
+"24001043472","gamxitaSvili","ivane","romani","05/28/92 00:00:00",,"g",1,"1205523","kaspi s. boJami","kaspi"
+"24001043473","iskandarovi","vidadi","muradi","10/12/89 00:00:00",,"d",1,"1205523","kaspi s. saqadagiano","kaspi"
+"20001062342","axmeteli","ira","vasili","07/28/48 00:00:00",,"a",2,"1198155","Telavi megobrobis q. N 1","Telavi"
+"01001077853","jiqia","luka","Sengeli","07/18/04 00:00:00",,,1,,"Tbilisi muxiani III m/r kor. 17 b.","gldani"
+"10001064472","iolCieva","aisel","baxlul","02/09/08 00:00:00",,,2,,"bolnisi s. javSaniani","bolnisi"
+"25001043609","SarmiaSvili","ana","daviTi","04/25/03 00:00:00",,,2,,"lagodexi eg.ninoSvilis q. N 55","lagodexi"
+"35001113937","guseinovi","nizam","asif","11/21/98 00:00:00",,,1,,"rusTavi VIII m/r kor. 6a b. 51",
+"61004060691","jaiani","naTia","danieli","11/06/92 00:00:00",,"b",2,"1168966","qobuleTi d. oCxamuri qeTevan wamebu","qobuleTi"
+"01008052942","giviSvili","elene","Tamazi","07/28/06 00:00:00",,,2,,"Tbilisi q.areSiZis q. N 18","vake"
+"01027067920","jiSkariani","devi","aleqsi","02/07/00 00:00:00",,,1,,"Tbilisi moskovis gamz. N 33 kor. 2","samgori"
+"57001053850","metiviSvili","Teona","iase","12/29/91 00:00:00",,"d",2,"1158994","xaSuri n.lomouris q. N 48","xaSuri"
+"62006063810","basaria","Tamari","besiki","12/13/91 00:00:00",,"z",2,"0455592","gali s. pirveli gali","gali"
+"62006063811","Samugia","elene","paata","01/15/03 00:00:00",,"T",2,"0455592","gali s. aCigvara","gali"
+"10001064473","valieva","Telli","ramin","04/06/06 00:00:00",,,2,,"bolnisi s. akaurTa","bolnisi"
+"45001032578","nayeuri","zauri","tato","02/01/54 00:00:00","05/10/10 00:00:00","b",1,"1177520","yvareli s. mTisZiri","yvareli"
+"10001064313","bairamli","taxir","Teiar","10/24/93 00:00:00",,"g",1,"1202529","bolnisi s. qvemo bolnisi","bolnisi"
+"48001024287","siWinava","baia","badri","04/04/92 00:00:00",,"a",1,"1189290","Cxorowyu s. lesiWine","Cxorowyu"
+"48001024288","siWinava","pata","murmani","06/03/72 00:00:00",,"g",1,"1367826","Cxorowyu s. lesiWine","Cxorowyu"
+"48001024289","qobalia","nana","biWiko","02/23/69 00:00:00",,"d",2,"1189290","Cxorowyu s. nafiCxovo","Cxorowyu"
+"01001077854","jiqia","mari","Sengeli","09/04/97 00:00:00",,,2,,"Tbilisi muxiani III m/r kor. 17 b.","gldani"
+"57001053851","bliaZe","merab","giorgi","07/28/49 00:00:00",,"b",1,"1158995","xaSuri d. surami s. bekami","xaSuri"
+"01019068430","baTilaSvili","TamTa","besarion","09/19/92 00:00:00","03/24/11 00:00:00","d",2,"1206468","Tbilisi c.dadianis q. N 34 kor. 3 b","naZaladevi"
+"62006063812","zanTaraia","irakli","zaali","11/17/93 00:00:00",,"e",1,"0455593","gali robaqiZis q. N 54","gali"
+"01005029143","kuWava","irina","jemali","03/20/62 00:00:00",,"g",2,"1206913","Tbilisi o.dgebuaZis q. N 10","CuRureTi"
+"37001052249","TevzaZe","Tamar","soso","05/17/91 00:00:00",,"d",2,"1177871","samtredia s. gomi","samtredia"
+"01001077855","CxartiSvili","nikoloz","irakli","08/25/06 00:00:00",,,1,,"Tbilisi  misamarTis gareSe","gldani"
+"37001052250","janeliZe","Tamar","roberti","01/11/91 00:00:00",,"a",2,"1177872","samtredia s. didi jixaiSi","samtredia"
+"57001053852","lomiZe","laSa","Tamazi","08/26/89 00:00:00",,"b",1,"1158996","xaSuri  misamarTis gareSe","xaSuri"
+"35001113938","guseinovi","aisel","asif","04/02/00 00:00:00",,,2,,"rusTavi VIII m/r kor. 6a b. 51",
+"01008052943","TurmaniZe","elene","irakli","03/19/99 00:00:00",,,2,,"Tbilisi  misamarTis gareSe","vake"
+"62005029510","papaskiri","maTe","gigla","07/11/92 00:00:00",,"z",1,"0456504","oCamCire kecxovelis q. N 68","oCamCire"
+"53001054183","xanTaZe","gia","gervasi","10/08/70 00:00:00",,"g",1,"1193343","wyaltubo s. ofSkviTi","wyaltubo"
+"28001107404","safarova","xatiJa","adil","09/17/74 00:00:00",,"b",2,"1182127","marneuli s. sabirqendi","marneuli"
+"01008052952","bregvaZe","irakli","platoni","07/23/04 00:00:00",,,1,,"Tbilisi vaJa-fSavelas gamz. VI kv.","vake"
+"25001043586","seidova","madina","seid","06/18/93 00:00:00",,"g",2,"1197152","lagodexi s. uzunTala","lagodexi"
+"28001107395","abbasovi","fazil","famil","08/04/92 00:00:00",,"b",1,"1182125","marneuli s. Taqalo","marneuli"

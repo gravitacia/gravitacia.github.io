@@ -1,0 +1,550 @@
+"18001049780","bokova","valentina","anatoli","09/17/54 00:00:00",,"g",2,"0871657","zestafoni z.anjafariZis q. N 20","zestafoni"
+"18001049781","maWaraSvili","cisana","nikolozi","08/19/61 00:00:00",,"g",2,"0871658","zestafoni qeTevan wamebulis q. N 49","zestafoni"
+"18001049782","lolaZe","eka","badri","07/10/77 00:00:00",,"d",2,"0871658","zestafoni sulxan-sabas q. N 12","zestafoni"
+"18001049783","TurmaniZe","Tea","romani","08/24/85 00:00:00",,"a",2,"0871659","zestafoni s. ilemi","zestafoni"
+"18001049784","gaCeCilaZe","lali","gela","03/06/88 00:00:00",,"g",2,"0977354","zestafoni s. cxrawyaro","zestafoni"
+"18001049785","CafiZe","bondo","givi","03/02/57 00:00:00",,"g",1,"0871659","zestafoni s. boslevi","zestafoni"
+"18001049786","CafiZe","naili","alioSa","03/02/61 00:00:00",,"d",2,"0871659","zestafoni s. boslevi","zestafoni"
+"18001049787","kvinikaZe","tariel","iuri","12/04/79 00:00:00",,"a",1,"0871662","zestafoni s. cxenTaro","zestafoni"
+"18001049788","cercvaZe","cisana","kukuri","02/19/77 00:00:00",,"b",2,"0871662","zestafoni s. meore sviri","zestafoni"
+"18001049789","ostariSvili","lamara","vaJa","03/11/61 00:00:00",,"g",2,"0871662","zestafoni s. kinoTi","zestafoni"
+"18001049790","cxadaZe","kaxaber","vaJa","08/14/72 00:00:00",,"d",1,"0871662","zestafoni s. rodinauli","zestafoni"
+"18001049791","baduraSvili","besarion","karpo","02/10/29 00:00:00",,"a",1,"0871663","zestafoni s. boslevi","zestafoni"
+"18001049792","papiZe","antiofi","iese","03/19/23 00:00:00",,"b",2,"0871663","zestafoni s. meore sviri","zestafoni"
+"18001049793","SaviZe","mixeil","Tamazi","10/27/88 00:00:00",,"g",1,"0871663","zestafoni p.iaSvilis q. N 3","zestafoni"
+"18001049794","beRelaZe","marexi","nodari","04/22/65 00:00:00",,"d",2,"0871663","zestafoni s. kvaliTi","zestafoni"
+"18001049795","SavguliZe","dali","SoTa","08/01/46 00:00:00",,"a",2,"0871664","zestafoni s. zovreTi","zestafoni"
+"18001049796","guniava","anzori","anzori","06/03/84 00:00:00",,"b",1,"0871664","zestafoni s. kvaliTi","zestafoni"
+"18001049890","TuTaraSvili","lali","avTandili","08/10/77 00:00:00",,"d",2,"1118036","Tbilisi foniWala 3 kor. 29 b. 21","krwanisi"
+"18001049891","wiTelaSvili","maia","Tamazi","08/15/65 00:00:00",,"b",2,"1279820","zestafoni s. kinoTi","zestafoni"
+"18001049892","janiaSvili","maia","tariel","01/26/75 00:00:00",,"g",2,"0871694","zestafoni s. kinoTi","zestafoni"
+"18001049893","kelenjeriZe","nato","biZina","08/09/66 00:00:00",,"d",2,"0871694","zestafoni s. kldeeTi","zestafoni"
+"18001049894","kelenjeriZe","vaJa","xaxuta","01/19/65 00:00:00",,"a",1,"0871695","zestafoni s. kldeeTi","zestafoni"
+"18001049895","WyoiZe","zurab","biZina","03/17/73 00:00:00",,"b",1,"0871695","zestafoni d.aRmaSeneblis q. N 87 b.","zestafoni"
+"18001049896","nikaWaZe","iamze","giorgi","07/18/69 00:00:00",,"g",2,"0871695","zestafoni s. tabakini","zestafoni"
+"18001049897","nikaWaZe","vaxtangi","rezo","10/29/62 00:00:00",,"d",1,"0871695","zestafoni s. kldeeTi","zestafoni"
+"18001049898","nebieriZe","dali","oTari","10/12/54 00:00:00",,"a",2,"0871696","zestafoni s. zovreTi","zestafoni"
+"18001049899","gvelesiani","irakli","jumberi","09/04/72 00:00:00",,"b",1,"0871696","zestafoni i.WavWavaZis I Ses. N 1","zestafoni"
+"18001049900","arabiZe","nineli","jemali","12/26/61 00:00:00","09/29/10 00:00:00","g",2,"0871696","zestafoni z.anjafariZis q. N 20","zestafoni"
+"18001050007","gabriWiZe","nargizi","rezo","04/22/67 00:00:00",,"d",2,"0871728","zestafoni s. kvaliTi","zestafoni"
+"18001050008","sayvareliZe","pavle","pavle","02/28/43 00:00:00",,"g",1,"1279791","zestafoni kekeliZis q. N 11 b. 7","zestafoni"
+"18001050009","maWavariani","lali","gola","09/01/68 00:00:00",,"b",2,"0871729","zestafoni SaTiriSvilis q. N 4 b. 2","zestafoni"
+"18001050010","msxviliZe","manana","givi","10/13/82 00:00:00",,"d",2,"0871732","zestafoni d. Sorapani z.gaCeCilaZis","zestafoni"
+"18001050011","gumberiZe","irakli","ilia","12/02/88 00:00:00",,"a",1,"0871733","zestafoni SaTiriSvilis q. N 23 b. 6","zestafoni"
+"18001050012","ruxaZe","zeinab","aleqsandre","08/27/59 00:00:00",,"b",2,"0871733","zestafoni CikaSuas q. N 5 b. 10","zestafoni"
+"18001050013","lomiZe","jemali","uSangi","03/29/59 00:00:00",,"g",1,"0871733","zestafoni d.aRmaSeneblis q. N 65 b.","zestafoni"
+"18001050014","kapanaZe","naumi","griSa","09/25/44 00:00:00",,"d",1,"0871733","zestafoni s. zovreTi","zestafoni"
+"18001050015","tyeSelaSvili","asmaTi","muradi","11/25/74 00:00:00",,"a",2,"0871734","zestafoni s. ilemi","zestafoni"
+"18001050016","talaxaZe","oTari","Tamazi","02/26/89 00:00:00",,"d",1,"1194523","zestafoni bibilaSvilis q. N 13 b. 7","zestafoni"
+"18001050017","arabiZe","irakli","sergo","10/02/89 00:00:00",,"g",1,"0871734","zestafoni uS.CxeiZis q. N 31","zestafoni"
+"18001050018","WuluxaZe","zauri","giuli","07/25/84 00:00:00",,"d",1,"0871734","zestafoni s. pirveli sviri","zestafoni"
+"18001050019","kiknaveliZe","zurab","SoTa","07/22/53 00:00:00",,"a",1,"0871735","zestafoni s. fuTi","zestafoni"
+"18001050020","areSiZe","Smagi","aleqsandre","12/22/87 00:00:00",,"b",1,"0871735","zestafoni s. kvaliTi","zestafoni"
+"18001050021","RibraZe","elguja","uSangi","04/19/54 00:00:00",,"g",1,"0871735","zestafoni s. pirveli sviri","zestafoni"
+"18001050022","abulaZe","sulxan","revazi","02/09/89 00:00:00",,"d",1,"1388156","Tbilisi didi diRomi III m/r kor. 4","saburTalo"
+"18001050023","kotoreiSvili","Temuri","grigol","07/24/53 00:00:00",,"a",1,"0871736","zestafoni s. cxenTaro","zestafoni"
+"18001050024","vardosaniZe","eka","iluSa","01/13/89 00:00:00",,"b",2,"0871736","zestafoni s. rodinauli","zestafoni"
+"18001050025","kvinikaZe","giorgi","amiran","10/26/87 00:00:00",,"a",1,"1280120","zestafoni qeTevan wamebulis q. N 33","zestafoni"
+"18001050026","vardosaniZe","nino","badri","02/09/89 00:00:00",,"d",2,"0871736","zestafoni s. rodinauli","zestafoni"
+"18001050027","qaTamaZe","naTia","beJani","10/12/88 00:00:00",,"b",2,"1194645","zestafoni s. fuTi","zestafoni"
+"18001050028","cxadaZe","Sorena","gurami","02/09/70 00:00:00",,"b",2,"0871737","zestafoni s. meore sviri","zestafoni"
+"18001050029","dadunaSvili","aldona","kako","01/01/66 00:00:00",,"g",2,"0871737","zestafoni melqaZis q. N 9 b. 45","zestafoni"
+"18001050030","gabexaZe","iamze","Tamazi","06/04/82 00:00:00",,"d",2,"0871737","zestafoni s. meore sviri","zestafoni"
+"18001050031","lominaSvili","laSa","Teimurazi","07/04/85 00:00:00",,"d",1,"1280151","zestafoni s. meore sviri","zestafoni"
+"18001050032","gewaZe","andro","Saliko","04/08/30 00:00:00","07/22/08 00:00:00","b",1,"0871738","zestafoni s. meore sviri","zestafoni"
+"18001050033","xvinCiaSvili","maka","jimSeri","02/20/76 00:00:00",,"a",2,"1367244","zestafoni SaTiriSvilis q. N 11 b. 1","zestafoni"
+"18001050034","maRlakeliZe","kaxaber","jemali","12/07/71 00:00:00",,"d",1,"0871738","zestafoni s. meore sviri","zestafoni"
+"18001050035","waqaZe","budu","sevarioni","03/25/43 00:00:00",,"a",1,"0871739","zestafoni s. pirveli sviri","zestafoni"
+"18001050036","lominaSvili","mayvala","biWiko","07/25/52 00:00:00",,"b",2,"0871739","zestafoni s. meore sviri","zestafoni"
+"18001050037","abulaZe","levani","sergo","12/01/40 00:00:00",,"g",1,"0871739","zestafoni s. rodinauli","zestafoni"
+"18001050038","maRlakeliZe","Tamar","remi","02/21/75 00:00:00",,"d",2,"0871739","zestafoni s. Zirula","zestafoni"
+"18001050039","svaniZe","Teona","goCa","10/24/88 00:00:00",,"a",2,"0871740","zestafoni s. dilikauri","zestafoni"
+"18001050040","RavTaZe","lili","sergo","10/30/39 00:00:00",,"b",2,"0871740","zestafoni s. boslevi","zestafoni"
+"18001050041","mSvenieraZe","irakli","ramini","12/26/88 00:00:00",,"g",1,"0871740","zestafoni s. cxenTaro","zestafoni"
+"18001050042","qoCiaSvili","nazi","avTandil","05/11/88 00:00:00",,"d",2,"0871740","zestafoni v.batoniSvilis q. N 41","zestafoni"
+"18001050043","mSvenieraZe","nino","giorgi","04/28/57 00:00:00",,"a",2,"0871741","zestafoni s. cxenTaro","zestafoni"
+"18001050044","bogveraZe","liana","vladimer","06/10/37 00:00:00",,"b",2,"0871741","zestafoni s. zovreTi","zestafoni"
+"18001050045","feraZe","nani","noe","03/21/47 00:00:00",,"g",2,"0871741","zestafoni s. zeda saqara","zestafoni"
+"18001050046","cucqiriZe","Tamar","nodari","01/20/89 00:00:00",,"d",2,"0871741","zestafoni d.aRmaSeneblis q. N 87 b.","zestafoni"
+"18001050047","TavaZe","manuCar","mevludi","05/25/80 00:00:00",,"a",1,"0871742","zestafoni s. zeda saqara","zestafoni"
+"18001050048","baxtaZe","inga","Tengizi","03/14/75 00:00:00",,"b",2,"0871742","zestafoni s. zeda saqara","zestafoni"
+"18001050049","TavberiZe","maka","givi","06/23/89 00:00:00",,"b",2,"1193149","Terjola s. zeda sazano","Terjola"
+"18001050050","oqruaZe","rusiko","bikenti","10/05/35 00:00:00",,"d",2,"0871742","zestafoni s. boslevi","zestafoni"
+"18001050051","gumberiZe","avTandil","SoTa","03/07/60 00:00:00",,"b",1,"0906200","zestafoni s. cxrawyaro","zestafoni"
+"18001050052","mSvenieraZe","daviT","amirani","11/27/86 00:00:00",,"a",1,"1366575","zestafoni s. cxenTaro","zestafoni"
+"18001050053","guruli","daviT","oTari","07/04/66 00:00:00",,"a",1,"0871744","zestafoni s. qveda sazano","zestafoni"
+"18001050054","mumlaZe","venera","akaki","01/20/33 00:00:00",,"a",2,"0871745","zestafoni s. kldeeTi","zestafoni"
+"18001050055","cercvaZe","laSa","avTandil","11/26/82 00:00:00",,"b",1,"0871745","zestafoni s. dilikauri","zestafoni"
+"18001050056","kelenjeriZe","ekaterine","genadi","05/16/24 00:00:00",,"d",2,"0871745","zestafoni s. fuTi","zestafoni"
+"18001050057","yanCaveli","Saqro","ambako","03/15/24 00:00:00",,"a",1,"0871746","zestafoni s. fuTi","zestafoni"
+"18001050058","yanCaveli","gogola","silibistro","08/25/26 00:00:00",,"b",2,"0871746","zestafoni s. fuTi","zestafoni"
+"18001050059","CitoreliZe","Juta","andro","08/04/36 00:00:00",,"g",2,"0871746","zestafoni s. fuTi","zestafoni"
+"18001050060","gvelesiani","Taliko","anapodiste","10/28/27 00:00:00",,"d",2,"0871746","zestafoni s. fuTi","zestafoni"
+"18001050061","qaTamaZe","cisana","Jora","07/11/32 00:00:00",,"a",2,"0871747","zestafoni s. fuTi","zestafoni"
+"18001050062","jafariZe","nina","iovane","02/21/12 00:00:00","09/27/06 00:00:00","b",2,"0871747","zestafoni s. fuTi","zestafoni"
+"18001050063","saraliZe","Taliko","kalenike","01/10/28 00:00:00","10/20/09 00:00:00","g",2,"0871747","zestafoni s. fuTi","zestafoni"
+"18001050064","yanCaveli","Tamar","levani","08/05/61 00:00:00",,"g",2,"1075618","zestafoni s. fuTi","zestafoni"
+"18001050065","xuskivaZe","vefxvia","zurabi","10/06/74 00:00:00",,"a",1,"1366890","zestafoni s. kvaliTi","zestafoni"
+"18001050066","alania","maka","robeni","10/15/77 00:00:00",,"b",2,"0871748","zestafoni SaTiriSvilis q. N 23 b. 7","zestafoni"
+"18001050067","WiWinaZe","medi","mituSa","01/16/54 00:00:00",,"g",2,"0871748","zestafoni s. qveda saqara","zestafoni"
+"18001050068","kamlaZe","daTuna","mixeili","11/25/44 00:00:00",,"g",1,"1243595","zestafoni s. rodinauli","zestafoni"
+"18001050069","kamlaZe","noe","geno","05/07/62 00:00:00",,"a",1,"0871749","zestafoni s. rodinauli","zestafoni"
+"18001050070","gabriWiZe","dali","nikolozi","07/09/51 00:00:00",,"b",2,"0871749","zestafoni s. kvaliTi","zestafoni"
+"18001050071","ZabiraZe","giorgi","rezo","10/29/65 00:00:00",,"a",1,"0871750","zestafoni s. kinoTi","zestafoni"
+"18001050072","kvetenaZe","margalita","aleqsanlre","07/01/26 00:00:00",,"b",2,"0871750","zestafoni s. zovreTi","zestafoni"
+"18001050073","SalamberiZe","giorgi","levani","02/06/56 00:00:00",,"d",1,"0871750","zestafoni s. cxrawyaro","zestafoni"
+"18001050074","SalamberiZe","jaba","amirani","01/17/74 00:00:00",,"a",1,"0871751","zestafoni s. cxrawyaro","zestafoni"
+"18001050075","feraZe","daviT","rezos","04/17/59 00:00:00","06/19/08 00:00:00","b",1,"0871751","zestafoni s. zeda saqara","zestafoni"
+"18001050076","dalaqiSvili","marina","daviT","06/10/60 00:00:00",,"g",2,"0871752","zestafoni d.uznaZis q. N 46","zestafoni"
+"18001050077","kobaxiZe","manana","WiWiko","09/01/58 00:00:00",,"g",2,"0871753","zestafoni s. qveda saqara","zestafoni"
+"18001050172","cxadaZe","meri","varlami","04/17/54 00:00:00",,"a",2,"0871784","zestafoni s. meore sviri","zestafoni"
+"18001050173","wiTelaSvili","vaxtangi","giorgi","01/22/88 00:00:00",,"b",1,"1102470","zestafoni melqaZis q. N 7 b. 16","zestafoni"
+"18001050174","arabiZe","nika","zurabi","06/04/89 00:00:00",,"a",1,"1075569","zestafoni d.aRmaSeneblis q. N 55 b.","zestafoni"
+"18001050175","TedoraZe","oTari","nikolozi","03/01/41 00:00:00",,"d",1,"0871784","zestafoni s. ajameTi","zestafoni"
+"18001050176","yvavaZe","levan","goCa","02/20/89 00:00:00","05/20/11 00:00:00","a",1,"0871785","zestafoni farnavazis q. N 3 b. 7","zestafoni"
+"18001050177","gureSiZe","manana","givi","10/25/52 00:00:00",,"b",2,"0871785","zestafoni s. kldeeTi","zestafoni"
+"18001050178","kaxniaSvili","rezo","trifoni","12/24/46 00:00:00",,"d",1,"0871786","zestafoni dadianis q. N 49","zestafoni"
+"18001050179","gigaSvili","marine","vaJa","11/12/56 00:00:00",,"a",2,"0871787","zestafoni l.mesxiSvilis q. N 11","zestafoni"
+"18001050180","abaSiZe","beJani","giorgi","04/18/59 00:00:00",,"b",1,"0871787","zestafoni s. qveda sazano","zestafoni"
+"18001050181","fxalaZe","naTela","vasio","05/10/36 00:00:00",,"g",2,"0871788","zestafoni s. fuTi","zestafoni"
+"18001050182","lomiZe","tariel","vasili","11/09/56 00:00:00",,"a",1,"1035249","zestafoni s. cxrawyaro","zestafoni"
+"18001050183","wiwilaSvili","lela","givi","01/07/70 00:00:00",,"a",2,"0871789","zestafoni s. tabakini","zestafoni"
+"18001050184","leviZe","nino","Salva","08/05/71 00:00:00",,"b",2,"0871789","zestafoni s. tabakini","zestafoni"
+"18001050185","feraZe","mamuka","avTandil","10/06/89 00:00:00",,"g",1,"0871789","zestafoni s. tabakini","zestafoni"
+"18001050186","papiZe","iasoni","zurabi","09/04/79 00:00:00",,"a",1,"1418101","zestafoni 9 aprilis q. N 2 b. 31","zestafoni"
+"18001050187","kverexaZe","nodari","ambrosi","12/29/35 00:00:00",,"d",1,"0871790","zestafoni qoCiaSvilis q. N 54","zestafoni"
+"18001050188","ukleba","roena","jumberi","02/16/71 00:00:00",,"a",2,"0871791","zestafoni s. meore sviri","zestafoni"
+"18001050189","cxadaZe","muradi","grigol","05/17/59 00:00:00",,"b",1,"0871791","zestafoni s. meore sviri","zestafoni"
+"18001050190","nebieriZe","mamuka","daviT","07/07/89 00:00:00",,"g",1,"0871791","zestafoni s. qveda saqara","zestafoni"
+"18001050191","gewaZe","kizila","karpo","05/15/26 00:00:00","01/18/11 00:00:00","a",1,"0871792","zestafoni s. meore sviri","zestafoni"
+"18001050192","xidaSeli","gela","jemali","03/25/64 00:00:00",,"d",1,"1019369","zestafoni s. meore sviri","zestafoni"
+"18001050193","gaCeCilaZe","fatmani","jansuli","05/02/70 00:00:00",,"g",2,"0871792","zestafoni s. meore sviri","zestafoni"
+"18001050194","gurgeniZe","ciala","daviT","08/29/51 00:00:00",,"d",2,"0871792","zestafoni s. meore sviri","zestafoni"
+"18001050195","futkaraZe","alberti","gurami","10/19/66 00:00:00",,"a",1,"0871793","zestafoni s. meore sviri","zestafoni"
+"18001050196","saceraZe","naTia","zaza","04/20/89 00:00:00",,"b",2,"0871793","zestafoni s. kvaliTi","zestafoni"
+"18001050197","qebaZe","eliso","Tamazi","01/15/78 00:00:00",,"g",2,"0871793","zestafoni s. boslevi","zestafoni"
+"18001050198","mSvenieraZe","anzor","neofite","01/05/41 00:00:00",,"b",1,"0871794","zestafoni s. rodinauli","zestafoni"
+"18001050199","patariZe","goCa","elguja","09/13/87 00:00:00",,"b",1,"0871795","zestafoni d. Sorapani farnavaz mefi","zestafoni"
+"18001050200","WiRlaSvili","vladimer","Tengiz","11/19/61 00:00:00",,"d",1,"1418032","zestafoni s. kldeeTi","zestafoni"
+"18001050201","SaqariSvili","vefxvia","iuri","01/11/77 00:00:00",,"g",1,"0871796","zestafoni s. zovreTi","zestafoni"
+"18001050202","oqromWedliZe","eliso","nodari","09/08/69 00:00:00",,"d",2,"0871796","zestafoni v.gorgaslis q. N 13","zestafoni"
+"18001050203","WeliZe","laSa","malzazi","06/18/84 00:00:00",,"g",1,"0871795","zestafoni kekeliZis q. N 7 b. 23","zestafoni"
+"18001050204","WumburiZe","nestan","giorgi","07/15/88 00:00:00",,"g",2,"1194392","zestafoni s. boslevi","zestafoni"
+"18001050205","wverava","elguja","mixeili","04/13/45 00:00:00",,"g",1,"1102401","zestafoni s. Zirula","zestafoni"
+"18001050206","gorgoZe","irine","giorgi","11/02/70 00:00:00",,"b",2,"0871797","zestafoni s. kvaliTi","zestafoni"
+"18001050207","vaWaraZe","jemali","artemi","03/23/38 00:00:00",,"g",1,"0871797","zestafoni s. zeda saqara","zestafoni"
+"18001050208","CafiZe","darejan","vladimer","02/17/53 00:00:00",,"d",2,"0871797","zestafoni melqaZis q. N 1 b. 32","zestafoni"
+"18001050209","maRlakeliZe","nana","giorgi","03/23/85 00:00:00",,"a",2,"0871798","zestafoni s. sanaxSire","zestafoni"
+"18001050210","kvinikaZe","eTeri","Rutu","11/18/58 00:00:00",,"b",2,"0871798","zestafoni v.barnovis q. N 24","zestafoni"
+"18001050211","svianaZe","maia","giorgi","09/08/88 00:00:00",,"d",2,"0871798","zestafoni kekeliZis q. N 11","zestafoni"
+"18001050212","JRenti","mariam","giorgi","09/06/89 00:00:00",,"d",2,"0871799","zestafoni SaTiriSvilis q. N 3 b. 19","zestafoni"
+"18001050213","kapanaZe","maka","ramazi","04/02/73 00:00:00",,"g",2,"0871800","zestafoni s. kvaliTi","zestafoni"
+"18001050214","kalandaZe","lana","giorgi","12/27/88 00:00:00",,"d",2,"0871800","zestafoni farnavazis q. N 3 b. 9","zestafoni"
+"18001050215","kamlaZe","xviCa","timuSa","09/15/64 00:00:00",,"a",1,"0871801","zestafoni s. cxenTaro","zestafoni"
+"18001050216","samaniSvili","daviT","levani","04/05/59 00:00:00",,"a",1,"1011424","zestafoni s. qveda sazano","zestafoni"
+"18001050217","arabiZe","giorgi","gogia","02/25/63 00:00:00",,"g",1,"0871801","zestafoni melqaZis q. N 8 b. 7","zestafoni"
+"18001050218","zibzibaZe","jumberi","daviT","09/20/40 00:00:00",,"d",1,"0871801","zestafoni s. rodinauli","zestafoni"
+"18001050219","yifiani","Tamar","giorgi","02/14/89 00:00:00",,"b",2,"0871803","zestafoni o.kvantriSvilis q. N 1","zestafoni"
+"18001050220","CafiZe","irakli","panteli","06/04/88 00:00:00",,"d",1,"1367075","zestafoni S.rusTavelis q. N 10 b. 1","zestafoni"
+"18001050221","qoCiaSvili","avTandil","natuSa","05/28/59 00:00:00",,"d",1,"0871803","zestafoni v.batoniSvilis I Cixi N 3","zestafoni"
+"18001050222","mWedliZe","grigol","dianozi","05/09/42 00:00:00",,"a",1,"0871804","zestafoni s. boslevi","zestafoni"
+"18001050223","maWaraSvili","nargizi","gabo","03/27/68 00:00:00",,"b",2,"0871804","zestafoni CikaSuas q. N 5","zestafoni"
+"18001050224","arabiZe","domna","levanti","07/01/18 00:00:00","02/12/08 00:00:00","g",2,"0871804","zestafoni s. qveda saqara","zestafoni"
+"18001050225","gumberiZe","manana","levani","05/12/51 00:00:00",,"a",2,"1418110","zestafoni uS.CxeiZis q. N 91","zestafoni"
+"18001050226","svianaZe","SoTa","merabi","04/17/89 00:00:00",,"a",1,"0871805","zestafoni megobrobis q. N 11 b. 27","zestafoni"
+"18001050227","boWoriSvili","mariam","vladimeri","05/24/89 00:00:00",,"g",2,"1279548","zestafoni melqaZis q. N 7 b. 15","zestafoni"
+"18001050228","gureSiZe","ekaterine","jondo","05/22/89 00:00:00",,"g",2,"0871805","zestafoni d.aRmaSeneblis q. N 71""a""","zestafoni"
+"18001050229","cercvaZe","Tamaz","levani","04/14/57 00:00:00",,"d",1,"0871805","zestafoni kekeliZis q. N 9 b. 18","zestafoni"
+"18001050230","CinCalaZe","Tamar","JorJika","11/07/73 00:00:00",,"b",2,"0871806","zestafoni CikaSuas q. N 13 b. 38","zestafoni"
+"18001050231","siordia","Tamar","jumberi","06/28/65 00:00:00",,"b",2,"1131811","zestafoni d.aRmaSeneblis q. N 55 b.","zestafoni"
+"18001050232","SubiTiZe","naTia","nugzari","02/13/89 00:00:00",,"a",2,"1194363","zestafoni uS.CxeiZis q. N 21","zestafoni"
+"18001050233","gaCeCilaZe","fridoni","omar","07/30/81 00:00:00",,"a",1,"0871807","zestafoni uS.CxeiZis q. N 99","zestafoni"
+"18001050234","wiwilaSvili","TamTa","sergo","02/24/89 00:00:00",,"b",2,"0871807","zestafoni farnavazis q. N 3 b. 14","zestafoni"
+"18001050235","kvesitaZe","marine","aleqsandre","11/01/55 00:00:00",,"g",2,"0871807","zestafoni s. boslevi","zestafoni"
+"18001050236","jafariZe","dali","varlami","02/12/61 00:00:00",,"b",2,"0871808","zestafoni s. kldeeTi","zestafoni"
+"18001050237","sayvareliZe","nani","titiko","07/13/61 00:00:00",,"g",2,"0871808","zestafoni d.aRmaSeneblis q. N 71""a""","zestafoni"
+"18001050238","feraZe","sofio","Tamazi","06/13/89 00:00:00",,"d",2,"0871808","zestafoni SaTiriSvilis q. N 19 b. 1","zestafoni"
+"18001050239","Cixoria","giorgi","Teimuraz","08/03/89 00:00:00",,"a",1,"0871809","zestafoni s. tabakini","zestafoni"
+"18001050240","TurmaniZe","zoia","geronti","12/07/55 00:00:00",,"b",2,"0871809","zestafoni s. ilemi","zestafoni"
+"18001050241","CubiniZe","omari","biqtori","08/17/51 00:00:00",,"g",1,"0871809","zestafoni s. SroSa","zestafoni"
+"18001050242","CubiniZe","ledi","geronti","10/05/62 00:00:00",,"b",2,"1019315","zestafoni s. kldeeTi","zestafoni"
+"18001050243","gogberaSvili","elguja","jaba","04/05/79 00:00:00",,"a",1,"0871810","zestafoni s. rodinauli","zestafoni"
+"18001050244","maxaTaZe","qeTevan","beno","11/09/63 00:00:00",,"b",2,"0871810","zestafoni uS.CxeiZis VII Ses. N 16","zestafoni"
+"18001050245","ediberiZe","giorgi","ramini","01/28/89 00:00:00",,"g",1,"0871810","zestafoni s. meore sviri","zestafoni"
+"18001050246","nebieriZe","boris","agabo","03/16/55 00:00:00",,"d",1,"0871810","zestafoni s. qveda saqara","zestafoni"
+"18001050247","ediberiZe","ramini","vasil","08/15/53 00:00:00",,"a",1,"0871811","zestafoni s. meore sviri","zestafoni"
+"18001050248","WankvetaZe","svetlana","jumberi","04/26/65 00:00:00",,"b",2,"0871811","zestafoni g.Wyondidelis q. N 8","zestafoni"
+"18001050249","mSvenieraZe","emiri","Tamazi","01/16/65 00:00:00",,"d",1,"1418038","zestafoni g.saakaZis q. N 30","zestafoni"
+"18001050250","ediberiZe","valida","mixeil","03/25/58 00:00:00",,"d",2,"0871811","zestafoni s. meore sviri","zestafoni"
+"18001050251","xvedeliZe","suliko","daviT","06/12/49 00:00:00",,"a",1,"0871812","zestafoni s. dilikauri","zestafoni"
+"18001050252","lebaniZe","nana","anzori","09/22/68 00:00:00",,"d",2,"1244220","zestafoni d.guramiSvilis q. N 41","zestafoni"
+"18001050253","gurjiZe","vladimer","pavle","04/26/55 00:00:00",,"g",1,"0871812","zestafoni s. fuTi","zestafoni"
+"18001050254","mSvenieraZe","Tamar","ambrosi","06/25/36 00:00:00",,"d",2,"0871812","zestafoni g.saakaZis q. N 30","zestafoni"
+"18001050255","labaZe","laSa","amiran","07/28/89 00:00:00",,"a",1,"0871813","zestafoni v.gorgaslis q. N 33","zestafoni"
+"18001050256","guruli","Tengiz","afrasioni","06/01/58 00:00:00",,"b",1,"0871813","zestafoni s. qveda sazano","zestafoni"
+"18001050257","WeliZe","darejan","giorgi","03/17/56 00:00:00",,"g",2,"0871813","zestafoni megobrobis q. N 1 b. 7","zestafoni"
+"18001050258","SaTiriSvili","goCa","simoni","07/17/70 00:00:00",,"d",1,"0871813","zestafoni s. tabakini","zestafoni"
+"18001050259","Tolordava","ekaterine","jemali","05/27/76 00:00:00",,"a",2,"0871814","zestafoni v.gorgaslis q. N 28","zestafoni"
+"18001050260","mumlaZe","akaki","pavle","07/16/55 00:00:00",,"b",1,"0871816","zestafoni d. Sorapani farnavaz mefi","zestafoni"
+"18001050261","turiaSvili","ivane","vaxtangi","01/27/65 00:00:00",,"d",1,"0871815","zestafoni s. dilikauri","zestafoni"
+"18001050262","gelaSvili","nana","guladi","06/20/83 00:00:00",,"a",2,"0871817","zestafoni s. kldeeTi","zestafoni"
+"18001050351","CafiCaZe","sofio","miSa","07/20/89 00:00:00",,"d",2,"0871850","zestafoni CikaSuas q. N 4 b. 29","zestafoni"
+"18001050352","jaSiaSvili","lia","murmani","07/26/89 00:00:00",,"a",2,"0871851","zestafoni s. kvaliTi","zestafoni"
+"18001050353","abramiSvili","tariel","vasili","05/15/49 00:00:00",,"g",1,"1019429","zestafoni g.Wanturias q. N 1 b. 1","zestafoni"
+"18001050354","sxilaZe","eleonora","ivane","10/16/42 00:00:00",,"g",2,"0871851","zestafoni uS.CxeiZis q. N 16","zestafoni"
+"18001050355","vardosaniZe","lola","irodi","06/20/52 00:00:00",,"b",2,"0871852","zestafoni s. kvaliTi","zestafoni"
+"18001050356","qoCiaSvili","zviad","budu","12/24/74 00:00:00",,"b",1,"0871853","zestafoni s. dilikauri","zestafoni"
+"18001050357","WiWinaZe","salome","mamuka","01/23/89 00:00:00",,"g",2,"0871853","zestafoni s. qveda saqara","zestafoni"
+"18001050358","maRlakeliZe","cicino","zuriko","10/23/73 00:00:00",,"d",2,"0871853","zestafoni melqaZis q. N 5 b. 4","zestafoni"
+"18001050359","RavTaZe","darejan","demuri","07/28/73 00:00:00",,"a",2,"0871854","zestafoni s. boslevi","zestafoni"
+"18001050360","niqabaZe","irakli","Salva","05/31/89 00:00:00",,"b",1,"0871854","zestafoni gr.xanZTelis q. N 38","zestafoni"
+"18001050361","managaZe","vladimer","giorgi","02/19/89 00:00:00",,"g",1,"1217073","Tbilisi pekinis gamz.","saburTalo"
+"18001050362","qoCiaSvili","elmira","kako","11/03/74 00:00:00",,"d",2,"0871854","zestafoni s. dilikauri","zestafoni"
+"18001050363","cxeliSvili","vitali","givi","05/16/66 00:00:00",,"a",1,"0871855","zestafoni g.Wyondidelis q. N 25","zestafoni"
+"18001050364","qoCiaSvili","lia","amirani","03/13/89 00:00:00",,"a",2,"1279360","zestafoni g.saakaZis q. N 29","zestafoni"
+"18001050365","labaZe","mariam","nodari","11/10/62 00:00:00",,"g",2,"1366680","zestafoni 300 aragvelis q. N 46","zestafoni"
+"18001050366","nikaWaZe","vasil","goderZi","03/24/89 00:00:00",,"a",1,"0871856","zestafoni d.aRmaSeneblis q. N 4 b.","zestafoni"
+"18001050367","saRareiSvili","vaJa","indiko","11/16/61 00:00:00",,"b",1,"0871856","zestafoni g.leoniZis q. N 1","zestafoni"
+"18001050368","maisuraZe","gela","gurami","03/15/68 00:00:00",,"d",1,"1279270","zestafoni s. fuTi","zestafoni"
+"18001050369","gloveli","ramaz","mixeili","10/05/61 00:00:00",,"a",1,"0871857","zestafoni gr.xanZTelis q. N 25","zestafoni"
+"18001050370","buxnikaSvili","malxaz","givi","07/25/89 00:00:00",,"b",1,"1194510","zestafoni g.saakaZis q. N 43","zestafoni"
+"18001050371","WiRlaSvili","rezo","ladiko","02/20/37 00:00:00","05/14/10 00:00:00","g",1,"0871857","zestafoni s. kldeeTi","zestafoni"
+"18001050372","RavTaZe","mevludi","gurami","01/09/65 00:00:00",,"d",1,"0871857","zestafoni s. boslevi","zestafoni"
+"18001050373","xuskivaZe","Sorena","jumberi","11/30/71 00:00:00",,"b",2,"0871858","zestafoni SaTiriSvilis q. N 25 b. 2","zestafoni"
+"18001050374","qveliaSvili","mzia","Jora","05/26/62 00:00:00",,"g",2,"0871858","zestafoni n.nikolaZis I Ses. N 5","zestafoni"
+"18001050375","manCxaSvili","gugula","kalistate","09/02/35 00:00:00",,"d",1,"0871858","zestafoni uS.CxeiZis IV Ses. N 13","zestafoni"
+"18001050376","RvinefaZe","qristine","daviTi","02/24/89 00:00:00","03/16/11 00:00:00","a",2,"0871859","zestafoni 9 aprilis q. N 28","zestafoni"
+"18001050377","SveliZe","besik","nikolozi","08/14/81 00:00:00",,"g",1,"0871859","zestafoni d. Sorapani z.gaCeCilaZis","zestafoni"
+"18001050378","miqaberiZe","gaioz","SoTa","03/25/49 00:00:00",,"d",1,"0871859","zestafoni s. qveda saqara","zestafoni"
+"18001050379","wverava","mixeil","zviadi","09/19/89 00:00:00",,"a",1,"0871860","zestafoni 9 Zmis q. N 26","zestafoni"
+"18001050380","daviTiani","veron","ervandi","11/26/53 00:00:00",,"b",2,"0871860","zestafoni g.saakaZis q. N 27","zestafoni"
+"18001050381","niSnianiZe","manana","pavle","10/20/67 00:00:00",,"g",2,"0871860","zestafoni d.aRmaSeneblis III Ses. N","zestafoni"
+"18001050382","niSnianiZe","Jana","iuza","02/23/88 00:00:00",,"d",2,"0871860","zestafoni d.aRmaSeneblis III Ses. N","zestafoni"
+"18001050383","niSnianiZe","ana","iuza","06/21/89 00:00:00",,"a",2,"0871861","zestafoni d.aRmaSeneblis III Ses. N","zestafoni"
+"18001050384","niSnianiZe","iuza","biZina","05/15/64 00:00:00",,"b",1,"0871861","zestafoni d.aRmaSeneblis III Ses. N","zestafoni"
+"18001050385","javaxaZe","ciala","xaritoni","01/28/64 00:00:00",,"g",2,"0871861","zestafoni s. Zirula","zestafoni"
+"18001050386","CubiniZe","rezo","omari","11/04/89 00:00:00",,"g",1,"1366830","zestafoni s. rodinauli","zestafoni"
+"18001050387","talaxaZe","nargizi","irodi","04/10/48 00:00:00",,"a",2,"1221005","zestafoni s. boslevi","zestafoni"
+"18001050388","qaTamaZe","irakli","merabi","03/06/86 00:00:00",,"b",1,"0871862","zestafoni s. qveda saqara","zestafoni"
+"18001050389","cercvaZe","zaira","agabo","06/13/62 00:00:00",,"a",2,"1244431","zestafoni n.maWavarianis q. N 41","zestafoni"
+"18001050390","maxaTaZe","lela","jemali","09/22/73 00:00:00",,"d",2,"0871862","zestafoni s. kvaliTi","zestafoni"
+"18001050391","maxaTaZe","nanuli","varlami","09/25/39 00:00:00",,"a",2,"0871863","zestafoni s. kvaliTi","zestafoni"
+"18001050392","Wabukiani","fati","petre","12/02/75 00:00:00",,"b",2,"0871863","zestafoni s. qveda saqara","zestafoni"
+"18001050393","kobaxiZe","izo","lengizi","06/10/75 00:00:00",,"b",2,"0886634","Tbilisi gldani VII m/r kor. 4 b. 98","gldani"
+"18001050394","vardosaniZe","ioseb","Teimurazi","12/12/83 00:00:00",,"d",1,"1366897","zestafoni s. rodinauli","zestafoni"
+"18001050395","ergemliZe","jambuli","ambrosi","01/06/58 00:00:00",,"a",1,"0871864","zestafoni d.aRmaSeneblis q. N 87 b.","zestafoni"
+"18001050396","kvantriSvili","meri","aleqsandre","02/28/69 00:00:00",,"b",2,"0885430","Tbilisi foniWala 3 kor. 18 b. 55","krwanisi"
+"18001050397","xijakaZe","daviT","ivane","10/23/64 00:00:00",,"g",1,"0871864","zestafoni eg.ninoSvilis q. N 133","zestafoni"
+"18001050398","sebiskveraZe","lia","mamia","04/30/68 00:00:00",,"d",2,"0871864","zestafoni qeTevan wamebulis q. N 50","zestafoni"
+"18001050399","feraZe","leo","nestori","08/10/47 00:00:00",,"a",1,"0871865","zestafoni s. zeda saqara","zestafoni"
+"18001050400","kakauriZe","Teona","terenti","10/28/82 00:00:00",,"b",2,"0871865","zestafoni s. meore sviri","zestafoni"
+"18001050401","mumlaZe","ira","polikarpe","02/06/50 00:00:00",,"g",2,"0871865","zestafoni s. kvaliTi","zestafoni"
+"18001050402","futkaraZe","marine","elguja","04/10/69 00:00:00",,"d",2,"0871865","zestafoni uS.CxeiZis q. N 131","zestafoni"
+"18001050403","Crdileli","liana","zurabi","12/31/39 00:00:00",,"a",2,"0871866","zestafoni n.nikolaZis II Ses. N 8","zestafoni"
+"18001050404","TuTaraSvili","alberti","irodi","01/10/33 00:00:00",,"b",1,"0871866","zestafoni s. meore sviri","zestafoni"
+"18001050405","TuTaraSvili","lili","aleqsandre","10/24/40 00:00:00",,"g",2,"0871866","zestafoni s. meore sviri","zestafoni"
+"18001050406","SariqaZe","marina","tarieli","11/20/78 00:00:00",,"d",2,"0871866","zestafoni s. kldeeTi","zestafoni"
+"18001050407","bancaZe","Teona","konstantine","04/04/85 00:00:00",,"a",2,"0871867","zestafoni n.nikolaZis I Cixi N 10","zestafoni"
+"18001050408","manjaviZe","maia","avTandili","11/16/69 00:00:00",,"g",2,"0938117","zestafoni 9 Zmis q. N 5","zestafoni"
+"18001050409","zibzibaZe","maia","daviTi","01/04/90 00:00:00",,"g",2,"1171882","zestafoni didgoris q. N 4","zestafoni"
+"18001050410","sulaqveliZe","medea","tarieli","04/23/89 00:00:00",,"b",2,"0871868","zestafoni s. pirveli sviri","zestafoni"
+"18001050411","zibzibaZe","sofiko","daviTi","01/04/89 00:00:00",,"g",2,"0871868","zestafoni didgoris q. N 4","zestafoni"
+"18001050412","ediberiZe","giorgi","nikolozi","10/15/49 00:00:00","03/30/11 00:00:00","d",1,"0871868","zestafoni gr.xanZTelis q. N 49","zestafoni"
+"18001050413","qavTaraZe","salome","kote","04/09/89 00:00:00",,"a",2,"0871869","zestafoni d.aRmaSeneblis q. N 29 b.","zestafoni"
+"18001050414","kiknaZe","Tamar","vaxtangi","11/17/75 00:00:00",,"b",2,"0871869","zestafoni kekeliZis q. N 11 b. 5","zestafoni"
+"18001050415","manjaviZe","omger","afrasioni","05/18/45 00:00:00",,"g",1,"0871869","zestafoni melqaZis q. N 1 b. 33","zestafoni"
+"18001050416","lutiZe","irma","SoTa","01/05/72 00:00:00",,"d",2,"0871869","zestafoni gr.xanZTelis q. N 79 b. 3","zestafoni"
+"18001050417","WuluxaZe","Tamar","daviTi","05/26/89 00:00:00",,"a",2,"0871870","zestafoni farnavazis q. N 7 b. 41","zestafoni"
+"18001050418","manjaviZe","ekaterine","vladimeri","11/21/88 00:00:00",,"d",2,"0938117","zestafoni 9 Zmis q. N 5","zestafoni"
+"18001050419","feraZe","irina","nodari","06/03/73 00:00:00",,"g",2,"0871870","zestafoni s. dilikauri","zestafoni"
+"18001050420","kiknaveliZe","Tamaz","zaqaria","03/08/49 00:00:00",,"d",1,"0871871","zestafoni n.nikolaZis I Ses. N 5","zestafoni"
+"18001050421","vardosaniZe","zurab","grigoli","02/04/80 00:00:00",,"a",1,"0871872","zestafoni s. SroSa","zestafoni"
+"18001050422","bokovi","roberti","ivane","05/08/89 00:00:00",,"d",1,"0882765","zestafoni z.anjafariZis q. N 20","zestafoni"
+"18001050423","kapanaZe","anna","nodari","05/31/89 00:00:00",,"d",2,"1366902","zestafoni i.javaxiSvilis q. N 17","zestafoni"
+"18001050424","kapanaZe","marina","nodari","05/31/89 00:00:00",,"a",2,"0871873","zestafoni i.javaxiSvilis q. N 17","zestafoni"
+"18001050425","gagniZe","xaTuna","zviadi","01/24/77 00:00:00",,"b",2,"0871873","zestafoni s. Zirula","zestafoni"
+"18001050426","kaxniaSvili","SuSanika","Salva","05/27/55 00:00:00",,"d",2,"0871873","zestafoni megobrobis q. N 7 b. 9","zestafoni"
+"18001050427","svaniZe","aleqsandre","giorgi","03/20/49 00:00:00",,"a",1,"0871874","zestafoni s. argveTa","zestafoni"
+"18001050428","xixaZe","amiran","sergo","01/02/52 00:00:00",,"b",1,"0871874","zestafoni d.uznaZis q. N 120","zestafoni"
+"18001050429","lutiZe","naTela","valodia","06/26/56 00:00:00",,"d",2,"0871874","zestafoni s. qveda sazano","zestafoni"
+"18001050430","manjaviZe","marexi","naumi","01/31/74 00:00:00",,"a",2,"0871875","zestafoni d. Sorapani v.batoniSvili","zestafoni"
+"18001050431","manjaviZe","merab","Saqro","08/20/62 00:00:00",,"b",1,"0871875","zestafoni d. Sorapani v.batoniSvili","zestafoni"
+"18001050432","CxeiZe","marine","nodari","05/14/68 00:00:00",,"g",2,"0871875","zestafoni s. alaverdi","zestafoni"
+"18001050433","CitoreliZe","beJan","Jora","01/02/62 00:00:00",,"d",1,"0871875","zestafoni s. fuTi","zestafoni"
+"18001050434","gogolaZe","marexi","vaJa","03/08/69 00:00:00",,"a",2,"0871876","zestafoni s. fuTi","zestafoni"
+"18001050435","cqifuriSvili","nino","lengizi","01/02/70 00:00:00",,"b",2,"0871876","zestafoni s. argveTa","zestafoni"
+"18001050436","dekanoiZe","mari","daviTi","09/19/88 00:00:00",,"g",2,"0871876","zestafoni d. Sorapani g.wereTlis q.","zestafoni"
+"18001050437","joxaZe","koba","giorgi","02/06/63 00:00:00",,"g",1,"0871877","zestafoni s. cxrawyaro","zestafoni"
+"18001050438","beraZe","anzori","konstantine","04/08/40 00:00:00","07/27/09 00:00:00","d",1,"0871877","zestafoni uS.CxeiZis q. N 16","zestafoni"
+"18001050439","farjanaZe","zurab","mixeili","01/17/55 00:00:00",,"a",1,"0871878","zestafoni i.griSaSvilis q. N 12","zestafoni"
+"18001050530","qaTamaZe","kaxa","igori","01/25/89 00:00:00",,"a",1,"1366749","zestafoni s. fuTi","zestafoni"
+"18001050531","boWoiZe","kaxaber","xviCa","09/17/88 00:00:00",,"g",1,"1221045","zestafoni d.aRmaSeneblis q. N 55 b.","zestafoni"
+"18001050532","cxadaZe","ciuri","sergo","07/29/89 00:00:00",,"d",2,"0871908","zestafoni s. meore sviri","zestafoni"
+"18001050533","cercvaZe","sofiko","gela","04/03/89 00:00:00",,"a",2,"0871909","zestafoni s. dilikauri","zestafoni"
+"18001050534","janiaSvili","Tengiz","ivane","07/05/56 00:00:00",,"b",1,"0871909","zestafoni s. kinoTi","zestafoni"
+"18001050535","cxovrebaZe","Teimuraz","leo","10/27/70 00:00:00",,"g",1,"0871909","zestafoni CikaSuas q. N 8 b. 60","zestafoni"
+"18001050536","CitaZe","salome","murmani","02/14/89 00:00:00",,"b",2,"1075706","zestafoni 26 maisis q. N 28","zestafoni"
+"18001050537","samxaraZe","malxazi","iveri","10/29/76 00:00:00",,"a",1,"1244087","zestafoni maRlakeliZis q. N 3 b. 28","zestafoni"
+"18001050538","buxraSvili","paata","elguja","06/26/65 00:00:00",,"g",1,"0871910","zestafoni s. ilemi","zestafoni"
+"18001050539","CafiCaZe","merabi","zurab","12/28/64 00:00:00",,"d",1,"0871910","zestafoni s. qveda saqara","zestafoni"
+"18001050540","cxovrebaZe","leo","kalistate","05/18/42 00:00:00",,"b",1,"1162959","zestafoni k.marjaniSvilis q. N 44","zestafoni"
+"18001050541","baZaRua","xuta","petre","07/05/48 00:00:00",,"d",1,"0871911","zestafoni CikaSuas q. N 13 b. 37","zestafoni"
+"18001050542","kiknaveliZe","oTari","zurabi","06/06/61 00:00:00",,"a",1,"0871912","zestafoni s. argveTa","zestafoni"
+"18001050543","kapanaZe","tariel","vaJa","08/07/67 00:00:00",,"b",1,"0871912","zestafoni gr.xanZTelis q. N 69","zestafoni"
+"18001050544","cxovrebaZe","suliko","platoni","08/12/44 00:00:00",,"g",2,"0871912","zestafoni CikaSuas q. N 8 b. 60","zestafoni"
+"18001050545","cxovrebaZe","mamuka","leo","12/22/71 00:00:00",,"d",1,"0871912","zestafoni CikaSuas q. N 8 b. 60","zestafoni"
+"18001050546","SavguliZe","mavlina","eldari","10/26/71 00:00:00",,"a",2,"0871913","zestafoni s. zeda saqara","zestafoni"
+"18001050547","megreliSvili","Tea","Tengizi","07/02/87 00:00:00",,"b",2,"0871913","zestafoni uS.CxeiZis q. N 14","zestafoni"
+"18001050548","miqaberiZe","mzevinar","demuri","07/16/76 00:00:00",,"g",2,"0871913","zestafoni s. zovreTi","zestafoni"
+"18001050549","manCxaSvili","lamzira","anzori","09/15/62 00:00:00",,"d",2,"0871913","zestafoni d.aRmaSeneblis q. N 65 b.","zestafoni"
+"18001050550","maxaTaZe","vitali","konstantine","03/14/51 00:00:00",,"a",1,"0871914","zestafoni s. kvaliTi","zestafoni"
+"18001050551","robaqiZe","laSa","giorgi","12/01/88 00:00:00",,"d",1,"1279865","zestafoni uS.CxeiZis IV Ses. N 17","zestafoni"
+"18001050552","yinCiyiZe","leila","konstantine","11/04/42 00:00:00",,"g",2,"0871914","zestafoni uS.CxeiZis q. N 167","zestafoni"
+"18001050553","vardukaZe","giorgi","avTandili","12/25/88 00:00:00",,"g",1,"0988290","zestafoni s. kldeeTi","zestafoni"
+"18001050554","lutiZe","besik","ramazi","02/02/74 00:00:00",,"a",1,"0871915","zestafoni s. qveda sazano","zestafoni"
+"18001050555","verulaSvili","daviT","titiko","08/03/61 00:00:00",,"b",1,"0871915","zestafoni bibilaSvilis q. N 7 b. 6","zestafoni"
+"18001050556","verulaSvili","giorgi","daviTi","12/02/87 00:00:00","02/10/11 00:00:00","a",1,"1279758","zestafoni d.aRmaSeneblis q. N 19 b.","zestafoni"
+"18001050557","verulaSvili","Teona","daviTi","02/18/89 00:00:00",,"b",2,"1367184","zestafoni bibilaSvilis q. N 7 b. 6","zestafoni"
+"18001050558","gvelesiani","rusudan","paata","05/01/89 00:00:00",,"a",2,"0871916","zestafoni d.uznaZis q. N 68","zestafoni"
+"18001050559","maWavariani","sofio","avTandili","06/14/77 00:00:00",,"b",2,"0871916","zestafoni s. kldeeTi","zestafoni"
+"18001050560","WumburiZe","nana","revazi","09/08/88 00:00:00",,"g",2,"0871916","zestafoni s. boslevi","zestafoni"
+"18001050561","dekanoiZe","nana","Temuri","08/09/65 00:00:00",,"d",2,"0871916","zestafoni d.aRmaSeneblis q. N 65 b.","zestafoni"
+"18001050562","maRlakeliZe","laSa","demuri","10/14/79 00:00:00",,"b",1,"0871917","zestafoni CikaSuas q. N 7 b. 30","zestafoni"
+"18001050563","dekanoiZe","aleqsandre","givi","04/11/89 00:00:00",,"d",1,"1366801","zestafoni d.aRmaSeneblis q. N 65 b.","zestafoni"
+"18001050564","kapanaZe","ia","oTari","01/26/70 00:00:00",,"a",2,"0871918","zestafoni s. ajameTi","zestafoni"
+"18001050565","TuTberiZe","eka","ramazi","11/21/74 00:00:00",,"b",2,"0871918","zestafoni s. fuTi","zestafoni"
+"18001050566","feraZe","gugula","omari","02/12/76 00:00:00",,"g",1,"0871918","zestafoni s. wiflavake","zestafoni"
+"18001050567","lelaZe","Tengiz","lavrenti","04/10/52 00:00:00",,"d",1,"0871918","zestafoni s. qveda sazano","zestafoni"
+"18001050568","maRlakeliZe","guram","giorgi","07/14/55 00:00:00",,"a",1,"0871919","zestafoni kekeliZis q. N 10 b. 11","zestafoni"
+"18001050569","birbiCaZe","amiran","budu","01/13/62 00:00:00",,"b",1,"0871919","zestafoni s. kvaliTi","zestafoni"
+"18001050570","beraZe","zaur","daviTi","03/25/41 00:00:00",,"d",1,"0871919","zestafoni qoCiaSvilis q. N 14","zestafoni"
+"18001050571","kurcxalia","goga","amirani","01/24/89 00:00:00",,"a",1,"0871920","zestafoni s. zeda saqara","zestafoni"
+"18001050572","barbaqaZe","naTela","tarasi","05/01/51 00:00:00",,"b",2,"0871920","zestafoni s. qveda saqara","zestafoni"
+"18001050573","saraliZe","cismari","terenti","08/13/50 00:00:00",,"g",2,"0871920","zestafoni s. fuTi","zestafoni"
+"18001050574","saraliZe","Jora","kalenike","10/10/44 00:00:00","03/19/10 00:00:00","d",1,"0871920","zestafoni s. fuTi","zestafoni"
+"18001050575","feraZe","salome","jambuli","12/08/88 00:00:00",,"a",2,"0871921","zestafoni s. zeda saqara","zestafoni"
+"18001050576","vardosaniZe","vera","vasili","06/05/42 00:00:00",,"b",2,"0871921","zestafoni s. zovreTi","zestafoni"
+"18001050577","okribelaSvili","ramaz","gurami","10/23/59 00:00:00",,"g",1,"0871921","zestafoni maRlakeliZis q. N 9 b. 40","zestafoni"
+"18001050578","okribelaSvili","mari","Jora","11/17/58 00:00:00",,"d",2,"0871921","zestafoni maRlakeliZis q. N 9 b. 40","zestafoni"
+"18001050579","maxaTaZe","SuSana","gervasi","11/03/35 00:00:00",,"a",2,"0871922","zestafoni s. boslevi","zestafoni"
+"18001050580","gvalia","giorgi","noe","03/06/54 00:00:00",,"b",1,"0871922","zestafoni s. zovreTi","zestafoni"
+"18001050581","ebanoiZe","galina","nikolozi","06/21/29 00:00:00",,"g",2,"0871922","zestafoni s. Zirula","zestafoni"
+"18001050582","kakoiSvili","qeTevan","aleqsandre","01/16/58 00:00:00",,"d",2,"1366579","zestafoni s. qveda saqara","zestafoni"
+"18001050583","barbaqaZe","cicino","levani","12/14/39 00:00:00",,"a",2,"0871923","zestafoni s. qveda saqara","zestafoni"
+"18001050584","barbaqaZe","dimitri","sergo","01/11/27 00:00:00",,"b",1,"0871923","zestafoni s. qveda saqara","zestafoni"
+"18001050585","zasoxaSvili","malvina","rostomi","02/26/89 00:00:00",,"g",2,"0871923","zestafoni CikaSuas q. N 8 b. 39","zestafoni"
+"18001050586","lomiZe","vano","Tamazi","12/02/88 00:00:00",,"d",1,"0871923","zestafoni d.aRmaSeneblis q. N 65 b.","zestafoni"
+"18001050587","mazmiSvili","maia","gurami","10/23/88 00:00:00",,"a",2,"0871924","zestafoni CikaSuas q. N 8 b. 49","zestafoni"
+"18001050588","mWedliZe","nestani","tristani","03/18/77 00:00:00",,"b",2,"1418182","zestafoni s. boslevi","zestafoni"
+"18001050589","talaxaZe","lia","nodari","05/03/89 00:00:00",,"a",2,"1131835","zestafoni SaTiriSvilis q. N 4 b. 22","zestafoni"
+"18001050590","wiwilaSvili","nino","zaza","03/07/89 00:00:00",,"d",2,"0871924","zestafoni g.abesaZis q. N 28","zestafoni"
+"18001050591","gocaZe","daviT","malxazi","08/17/89 00:00:00",,"a",1,"0871925","zestafoni al.puSkinis q. N 68","zestafoni"
+"18001050592","kelenjeriZe","nino","bondo","05/10/68 00:00:00",,"b",2,"0871925","zestafoni n.nikolaZis q. N 26","zestafoni"
+"18001050593","mirotaZe","Tea","avTandili","10/23/77 00:00:00",,"g",2,"0871925","zestafoni SaTiriSvilis q. N 19 b. 3","zestafoni"
+"18001050594","vardosaniZe","zurab","ambrosi","10/01/56 00:00:00",,"d",1,"0871925","zestafoni s. fuTi","zestafoni"
+"18001050595","arabiZe","maka","xviCa","10/03/88 00:00:00",,"a",2,"0871926","zestafoni s. qveda saqara","zestafoni"
+"18001050596","baramaZe","nani","konstantine","09/19/50 00:00:00",,"b",2,"0871926","zestafoni s. cxrawyaro","zestafoni"
+"18001050597","robaqiZe","iuza","levani","10/21/49 00:00:00",,"g",1,"0871926","zestafoni s. pirveli sviri","zestafoni"
+"18001050598","nebieriZe","daviT","giorgi","07/30/89 00:00:00",,"g",1,"1162425","quTaisi  misamarTis gareSe",
+"18001050599","kvitaSvili","revaz","valiko","11/20/56 00:00:00",,"a",1,"0871927","zestafoni s. kldeeTi","zestafoni"
+"18001050600","SergelaSvili","revazi","badri","05/20/89 00:00:00",,"d",1,"1367103","zestafoni S.rusTavelis q. N 4","zestafoni"
+"18001050601","davaZe","salome","simoni","06/19/63 00:00:00",,"g",2,"0871927","zestafoni s. pirveli sviri","zestafoni"
+"18001050602","isakaZe","daviT","bagrati","10/02/57 00:00:00",,"d",1,"0871927","zestafoni s. meore sviri","zestafoni"
+"18001050603","WiWinaZe","rusudan","bondo","08/18/75 00:00:00",,"a",2,"0871928","zestafoni s. qveda saqara","zestafoni"
+"35001005053","makaraZe","genadi","valeriani","10/01/67 00:00:00",,"d",1,"0992908","rusTavi xalxTa megobrobis gamz. kor",
+"35001005054","makaraSvili","boris","SoTa","05/09/52 00:00:00",,"d",1,"0069765","rusTavi 9 Zma xerxeuliZis q. kor. 9",
+"35001005055","arevaZe","nunu",,"06/22/60 00:00:00",,"d",2,"0237480","rusTavi g.leoniZis q. kor. 20 b. 11",
+"35001005056","narsia","kaxaberi","nugzari","12/02/77 00:00:00",,"g",1,"1087117","rusTavi m.kostavas gamz. kor. 2 b.",
+"35001005057","SayulaSvili","manana","xoreni","10/08/60 00:00:00",,"a",2,"0316846","rusTavi m.balanCivaZis q. kor. 7 b.",
+"35001005058","zaqaraSvili","marine","aleqsandre","01/23/58 00:00:00",,"a",2,"0909578","rusTavi daviT garejis q. kor. 12a b",
+"35001005059","mavridi","xrisula",,"01/07/72 00:00:00",,"a",2,"0069767","rusTavi al.mesxiSvilis III gas. kor",
+"35001005060","mavridi","elena",,"02/23/70 00:00:00",,"b",2,"0069767","rusTavi al.mesxiSvilis III gas. kor",
+"35001005061","topalidi","marina",,"01/21/73 00:00:00",,"g",2,"0069767","rusTavi xalxTa megobrobis gamz. kor",
+"35001005062","SixaSvili","ciala","Tamazi","04/07/53 00:00:00",,"d",2,"0116805","rusTavi XXI m/r kor. 2 b. 36",
+"35001005063","gvenetaZe","giorgi","zurabi","11/13/74 00:00:00",,"a",1,"0015967","Tbilisi muxiani II m/r kor. 4 b. 49","gldani"
+"35001005064","baliaSvili","nunu","Tengizi","07/26/56 00:00:00",,"g",2,"0819745","rusTavi XIX m/r kor. 2 b. 17",
+"35001005065","kostanovi","nadeJda",,"03/04/41 00:00:00",,"g",2,"0069768","rusTavi p.Todrias q. kor. 5 b. 112",
+"35001005066","gulbaTaSvili","jemal",,"10/04/64 00:00:00","07/29/10 00:00:00","d",1,"0069768","rusTavi xalxTa megobrobis I gas. ko",
+"35001005067","muqeria","vaJa","domenti","04/12/79 00:00:00",,"b",1,"1087051","rusTavi VII m/r kor. 22 b. 48",
+"35001005068","koraSvili","giorgi","goderZi","07/17/75 00:00:00",,"a",1,"1339359","rusTavi  misamarTis gareSe",
+"35001005069","alaxverdievi","gasanfaSa",,"12/30/29 00:00:00","02/24/11 00:00:00","g",1,"0069769","rusTavi t.granelis q. kor. 7 b. 3",
+"35001005070","xunaSvili","paata",,"10/15/61 00:00:00",,"d",1,"0069769","rusTavi baTumis q. kor. 14 b. 5",
+"35001005071","maxariaSvili","natalia","giorgi","06/30/56 00:00:00",,"d",2,"1441100","rusTavi XII m/r kor. 37 b. 3",
+"35001005072","yaliCava","daviT","vladimeri","03/07/59 00:00:00",,"g",1,"0992765","rusTavi XIX m/r kor. 6 b. 52",
+"35001005073","CilingaraSvili","levan","fridoni","10/05/77 00:00:00",,"d",1,"0938643","rusTavi XVII m/r kor. 9 b. 55",
+"35001005074","imerliSvili","laSa","fridoni","01/01/79 00:00:00",,"a",1,"1414000","rusTavi XVII m/r kor. 9 b. 55",
+"35001005075","kasteckaia","marina","vasili","10/10/60 00:00:00",,"g",2,"0884107","rusTavi v.maiakovskis q. kor. 22 b.",
+"35001005076","JRenti","merab","mixeili","10/29/52 00:00:00",,"d",1,"0805441","rusTavi n.nekrasovis q. N 41 b. 2",
+"35001005077","ivanovi","alen","aleqsandre","02/11/78 00:00:00",,"a",1,"0376434","Tbilisi J.Sartavas q. N 4 b. 74","saburTalo"
+"35001005078","WoxoneliZe","laSa","Teimurazi","05/02/78 00:00:00",,"d",1,"1339468","rusTavi firosmanis q. kor. 22 b. 3",
+"35001005079","mgalobliSvili","roland","mamia","09/17/56 00:00:00",,"b",1,"0069772","rusTavi m.kostavas gamz. kor. 26 b.",
+"35001005080","jolia","eTer","konstantine","11/25/60 00:00:00",,"d",2,"0819883","rusTavi h.gonaSvilis q. N 3",
+"35001005081","TaqTaqiSvili","merab","Salva","06/09/65 00:00:00",,"d",1,"0069772","rusTavi g.leoniZis q. kor. 18 b. 13",
+"35001005082","guseinova","saial","madJid","07/30/47 00:00:00",,"b",2,"0439931","gardabani s. nazarlo","gardabani"
+"35001005083","SveliZe","giorgi","jemali","11/06/77 00:00:00",,"b",1,"0069773","rusTavi konstituciis q. kor. 14 b.",
+"35001005084","xunjukaSvili","Tamar","giorgi","06/09/77 00:00:00",,"b",2,"1143216","rusTavi VIIa m/r kor. 2 b. 12",
+"35001005085","baRdavaZe","mamuka","vaxtangi","12/27/65 00:00:00",,"a",1,"1355289","Tbilisi gldani VII m/r kor. 4 b. 11","gldani"
+"35001005086","TurmaniZe","zaal",,"07/25/63 00:00:00",,"a",1,"0069774","rusTavi XX m/r kor. 12 b. 75",
+"35001005087","ivaniZe","xaTuna","giorgi","01/26/79 00:00:00",,"a",2,"0767494","rusTavi XXI m/r kor. 9 b. 44",
+"35001005088","ivaniZe","goCa","giorgi","07/31/76 00:00:00",,"b",1,"0749535","rusTavi XXI m/r kor. 9 b. 44",
+"35001005089","feiqriSvili","giorgi",,"05/01/44 00:00:00",,"d",1,"0069774","rusTavi al.mesxiSvilis III gas. kor",
+"35001005090","kekeliSvili","maia","valodia","04/29/77 00:00:00",,"d",2,"1300890","rusTavi sportis q. kor. 2 b. 34-35",
+"35001005091","mWedliZe","manana","mixeili","10/10/56 00:00:00",,"a",2,"0243876","Tbilisi r.xomlelis II Ses. kor. 4b","samgori"
+"35001005092","gonaSvili","malxaz","kako","02/25/79 00:00:00",,"d",1,"1300730","rusTavi XVII m/r kor. 17 b. 69",
+"35001005093","gonaSvili","nana","kako","04/30/77 00:00:00",,"b",2,"0466710","rusTavi XVII m/r kor. 17 b. 69",
+"35001005094","zedginiZe","maia","galaqtioni","05/25/76 00:00:00",,"b",2,"1183116","rusTavi VII m/r kor. 14 b. 16",
+"35001005095","zaikovi","anatol","ivane","06/13/48 00:00:00",,"g",1,"1441052","rusTavi J.Sartavas gamz. kor. 14 b.",
+"35001005096","guguSvili","zurab","vitali","05/30/73 00:00:00",,"d",1,"0069776","rusTavi XIX m/r kor. 22 b. 58",
+"35001005097","kurtaniZe","ramaz","merabi","09/15/78 00:00:00",,"a",1,"0767205","rusTavi XIX m/r kor. 2' b. 60",
+"35001005098","koWlamazaSvili","Tea","robizoni","05/15/77 00:00:00",,"g",2,"1324392","lagodexi s. Sroma","lagodexi"
+"35001005099","kapanaZe","maka","vaxtangi","02/02/78 00:00:00",,"b",2,"1156718","rusTavi VIII m/r kor. 10 b. 39",
+"35001005100","Siukaeva","Sorena","vardeni","12/10/67 00:00:00",,"b",2,"0389456","rusTavi p.Todrias q. kor. 17 b. 104",
+"35001005101","bedoSvili","daviT","nugzari","05/20/79 00:00:00",,"d",1,"1106711","rusTavi XXI m/r kor. 12 b. 83",
+"35001005102","krasnovi","vladimer","konstantine","05/05/49 00:00:00",,"b",1,"1208570","Tbilisi qinZmaraulis II Ses. N 6a b","samgori"
+"35001005103","vaSakiZe","sonia",,"07/14/65 00:00:00",,"g",2,"1300664","rusTavi Tbilisis q. kor. 37 b. 33",
+"35001005104","xaCiZe","irma",,"06/15/67 00:00:00",,"d",2,"0069778","rusTavi xalxTa megobrobis gamz. kor",
+"35001005105","xarZeiSvili","beJan",,"05/02/57 00:00:00",,"a",1,"0069779","rusTavi n.nikolaZis q. 7 s.s.",
+"35001005106","miraSvili","marina",,"06/30/57 00:00:00",,"b",2,"0069779","rusTavi al.mesxiSvilis q. kor. 9 b.",
+"35001005107","xaCiZe","gela",,"01/06/67 00:00:00",,"g",1,"0069779","rusTavi taSkentis q. kor. 5 b. 37",
+"35001005108","Samanidi","leonid",,"04/10/69 00:00:00",,"a",1,"0069780","rusTavi p.Todrias III Cixi kor. 4 b",
+"35001005109","baRaSvili","mixeil","mTxovari","07/08/49 00:00:00",,"b",1,"1339053","rusTavi m.kostavas gamz. kor. 34 b.",
+"35001005110","Cepidi","iraklis",,"07/15/71 00:00:00",,"g",1,"0069780","rusTavi XXI m/r kor. 5 b. 43",
+"35001005111","kobiaSvili","eTer",,"12/23/45 00:00:00",,"d",2,"0069780","rusTavi VIII m/r kor. 5a b. 78",
+"35001005112","ezieSvili","svetlana","arqifo","04/28/38 00:00:00",,"a",2,"1106133","rusTavi al.mesxiSvilis III gas. kor",
+"35001005113","fanCviZe","sergo","SoTa","09/05/78 00:00:00",,"g",1,"1228506","rusTavi VII m/r kor. 13 b. 28",
+"35001005114","kritarasovi","aleqs","alkiviadi","06/15/39 00:00:00",,"g",1,"0069781","rusTavi p.Todrias q. kor. 15 b. 80",
+"35001005115","lisenko","neli",,"05/22/53 00:00:00",,"a",2,"0069782","rusTavi giorgaZis q. kor. 6 b. 5",
+"35001005116","yazaiSvili","mzia","antoni","05/01/58 00:00:00",,"a",2,"0097073","belgia",
+"35001005117","papaSvili","mixeili","Tamazi","05/13/77 00:00:00",,"g",1,"0459621","rusTavi XIX m/r kor. 6 b. 93",
+"35001005118","SoSitaSvili","levan","romani","08/21/78 00:00:00",,"b",1,"1339384","rusTavi XIX m/r kor. 6 b. 85",
+"35001005206","bagaevi","Sorena","markozi","10/06/58 00:00:00","03/02/09 00:00:00","a",2,"0798452","Tbilisi diRmis mas. IV kv. kor. 14","didube"
+"35001005207","gogaSvili","nanuli",,"02/02/58 00:00:00",,"b",2,"0069806","rusTavi J.Sartavas gamz. kor. 7 b.",
+"35001005208","posoSvili","pavle",,"06/12/51 00:00:00","07/05/02 00:00:00","g",1,"0069806","rusTavi XX m/r kor. 13 b. 38",
+"35001005209","aladaSvili","liana","givi","01/21/64 00:00:00",,"a",2,"1106091","rusTavi S.rusTavelis q. kor. 6 b. 3",
+"35001005210","tailuriSvili","Temur","valeriani","04/11/54 00:00:00",,"b",1,"0557292","Sveicaria",
+"35001005211","yifSiZe","SoTa",,"01/21/56 00:00:00",,"b",1,"0069807","rusTavi VIII m/r kor. 11 b. 50",
+"35001005212","vakulini","valentina",,"09/10/58 00:00:00",,"g",2,"0069807","rusTavi XII m/r kor. 32 b. 42",
+"35001005213","vakulini","nikoloz",,"01/02/58 00:00:00",,"d",1,"0069807","rusTavi XII m/r kor. 32 b. 42",
+"35001005214","kilasonia","murman","SoTa","11/12/51 00:00:00",,"a",1,"0819663","rusTavi XVII m/r kor. 1 b. 39",
+"35001005215","kilasonia","luiza","zauri","02/01/53 00:00:00",,"b",2,"0819663","rusTavi XVII m/r kor. 1 b. 39",
+"35001005216","mezencevi","leilan",,"11/26/55 00:00:00",,"g",2,"0069808","rusTavi g.rCeuliSvilis q. kor. 18 b",
+"35001005217","maCxaSvili","lubov","borisi","06/05/65 00:00:00",,"g",2,"1301960","rusTavi n.gogolis q. kor. 37 b. 1",
+"35001005218","gerci","robert",,"07/16/64 00:00:00",,"a",1,"0069809","rusTavi l.tolstois q. kor. 4 b. 1",
+"35001005219","lomiZe","koba","ungeri","02/15/71 00:00:00",,"a",1,"0970556","rusTavi xalxTa megobrobis gamz. kor",
+"35001005220","gogolaZe","marine","akaki","11/12/60 00:00:00",,"g",2,"0069809","rusTavi d.kldiaSvilis q. kor. 17 b.",
+"35001005221","gvancelaZe","irina",,"09/04/71 00:00:00","05/07/96 00:00:00","d",2,"0069809","rusTavi p.Todrias q. kor. 15 b. 55",
+"35001005222","CaxvaZe","biqtor","giorgi","01/24/62 00:00:00",,"d",1,"1054121","baTumi T.maqacarias q. N 9",
+"35001005223","jalilovi","valex","saiad","01/02/70 00:00:00",,"g",1,"1106645","rusTavi al.mesxiSvilis I gas. kor.",
+"35001005224","mWedliSvili","liana","aleqsandre","09/30/62 00:00:00",,"b",2,"1106200","rusTavi VIIa m/r 3 s.s.",
+"35001005225","kuznecova","natalia","iuri","11/30/68 00:00:00",,"a",2,"1066563","rusTavi n.nekrasovis q. N 39a b. 1",
+"35001005226","babaevi","susana",,"05/19/63 00:00:00",,"a",2,"0069811","rusTavi XIX m/r kor. 20 b. 6",
+"35001005227","TxeliZe","jemal","konstantine","08/31/54 00:00:00",,"g",1,"0909346","rusTavi mSenebelTa q. kor. 7 b. 10",
+"35001005228","sadiki","Suqur","sadiki","08/18/42 00:00:00","04/06/10 00:00:00","g",1,"0069811","rusTavi t.SevCenkos q. kor. 20 b. 1",
+"35001005229","karaevi","zeinab",,"05/22/56 00:00:00",,"d",2,"0069811","rusTavi t.SevCenkos q. kor. 20 b. 1",
+"35001005230","safariani","laura",,"02/03/54 00:00:00",,"a",2,"0069812","rusTavi l.tolstois q. kor. 5 b. 12",
+"35001005231","karavasiliou","nino","Saqro","01/03/68 00:00:00",,"a",2,"0105642",,
+"35001005232","jafarovi","ali",,"10/06/71 00:00:00",,"g",1,"0069812","rusTavi XVI m/r kor. 9 b. 80",
+"35001005233","babanli","zaqir",,"02/24/60 00:00:00",,"d",1,"0069812","rusTavi xalxTa megobrobis gamz. kor",
+"35001005234","ratiani","rusudan","anzori","01/27/66 00:00:00",,"g",2,"1326741","rusTavi XII m/r kor. 31 b. 11",
+"35001005235","fcqialaZe","edvarda","apoloni","07/03/33 00:00:00",,"b",2,"0069813","rusTavi S.rusTavelis q. kor. 50 b.",
+"35001005236","tuxaSvili","qeTevan","gerlandi","01/08/62 00:00:00",,"a",2,"1049040","baTumi T.maqacarias q. N 9",
+"35001005237","sadiki","arif","Sukri","12/19/67 00:00:00",,"a",1,"0630112","ukraina",
+"35001005238","vanidi","elvira",,"04/19/60 00:00:00",,"b",2,"0069814","rusTavi p.Todrias q. kor. 9 b. 102",
+"35001005239","Saxverdievi","artur",,"12/26/70 00:00:00",,"g",1,"0069814","rusTavi g.leoniZis q. kor. 34 b. 54",
+"35001005240","ternovskaia","luba","iakobi","05/31/55 00:00:00","07/21/05 00:00:00","a",2,"0242726","rusTavi XII m/r kor. 24 b. 17",
+"35001005241","sanaZe","mamuka","mixeili","04/12/61 00:00:00",,"g",1,"0992329","rusTavi S.rusTavelis q. kor. 32 b.",
+"35001005242","barbaqaZe","nora","dimitri","03/27/49 00:00:00",,"b",2,"1339988","rusTavi VII m/r kor. 21 b. 16",
+"35001005243","fotleri","anastasia","simoni","04/09/37 00:00:00",,"g",2,"0069815","rusTavi al.mesxiSvilis q. kor. 13 b",
+"35001005244","biwaZe","ia",,"08/08/66 00:00:00",,"d",2,"0069815","rusTavi XXI m/r kor. 1 b. 80",
+"35001005245","sanaia","valiko","aposto","05/10/25 00:00:00","07/07/06 00:00:00","e",1,"0122855","gagra S.rusTavelis q. N 136","gagra"
+"35001005246","mSvidobaZe","eka","mixeili","03/09/70 00:00:00",,"b",2,"1340000","rusTavi  misamarTis gareSe",
+"35001005247","bostanidis","marina","Toma","08/07/47 00:00:00",,"b",2,"0272272","rusTavi XII m/r kor. 6 b. 100",
+"35001005248","ozbeTelaSvili","qeTino","givi","03/23/69 00:00:00",,"d",2,"0528971","rusTavi daviT garejis  Cixi kor. 4",
+"35001005249","gerci","nina",,"02/26/60 00:00:00",,"a",2,"0069817","rusTavi l.tolstois q. kor. 4 b. 1",
+"35001005250","kinwuraSvili","goCa",,"10/29/63 00:00:00",,"b",1,"0069817","rusTavi daviT garejis  Cixi kor. 4",
+"35001005251","nacvliSvili","Tamar","givi","08/26/68 00:00:00",,"g",2,"0069817","rusTavi g.leoniZis q. kor. 26 b. 50",
+"35001005252","rusiaSvili","naTela","Salva","04/13/61 00:00:00",,"b",2,"0884063","rusTavi p.Todrias I Cixi kor. 4 b.",
+"35001005253","karagezov","savva","avraami","01/01/39 00:00:00",,"b",1,"1339386","rusTavi taSkentis q. kor. 5 b. 79",
+"35001005254","wiTliZe","anna","Tengizi","09/11/61 00:00:00",,"g",2,"0992505","rusTavi g.javaxiSvilis q. kor. 5 b.",
+"35001005255","slanovi","aslan",,"06/08/47 00:00:00",,"g",1,"0069818","rusTavi d.kldiaSvilis q. kor. 19 b.",
+"35001005256","sadiki","folad","Sukri","08/11/72 00:00:00",,"b",1,"0630309","ukraina",
+"35001005257","kenkebaSvili","tariel","gurami","07/27/66 00:00:00","03/25/10 00:00:00","g",1,"0627926","rusTavi xalxTa megobrobis gamz. kor",
+"35001005258","cxadaZe","gonerila","artemi","04/15/40 00:00:00",,"d",2,"0071792","rusTavi firosmanis q. kor. 27 b. 2",
+"35001005259","obgaiZe","narguli","Sio","06/21/45 00:00:00",,"a",2,"0767211","rusTavi XX m/r kor. 11 b. 63",
+"35001005260","bozoevi","SoTa",,"09/03/56 00:00:00",,"d",1,"0069819","rusTavi XXI m/r kor. 15 b. 77",
+"35001005261","jiqurauli","marina",,"07/16/61 00:00:00",,"a",2,"0069820","rusTavi p.Todrias III Cixi kor. 3 b",
+"35001005262","gerc","liudmila","herberti","05/25/54 00:00:00",,"b",2,"0069820","rusTavi z.faliaSvilis q. kor. 7a b.",
+"35001005263","gabunia","nino","vaxtangi","02/03/64 00:00:00",,"g",2,"0069820","rusTavi z.faliaSvilis q. kor. 3 b.",
+"35001005264","vardaniZe","Tamar","levani","04/17/75 00:00:00",,"d",2,"0636700","Tbilisi vaJa-fSavelas gamz. VI kv.","vake"
+"35001005265","jangvelaZe","maia","nikolozi","02/15/66 00:00:00","02/06/06 00:00:00","d",2,"0820000","rusTavi n.dumbaZis q. kor. 40 b. 8",
+"35001005266","SanSaSvili","lia","gurami","11/06/76 00:00:00",,"d",2,"0970504","rusTavi XXI m/r kor. 13 b. 74",
+"35001005267","qoquaSvili","ekaterine","elizbari","06/15/75 00:00:00",,"b",2,"1143085","rusTavi XXI m/r kor. 13 b. 50",
+"35001005268","beriZe","malxaz",,"06/01/59 00:00:00",,"d",1,"0069821","rusTavi l.tolstois q. kor. 1 b. 2",
+"35001005269","gogiberiZe","manana",,"09/30/55 00:00:00","03/29/00 00:00:00","a",2,"0069822","rusTavi p.Todrias III Cixi kor. 7 b",
+"35001005270","jmuxaZe","irma","beJani","08/16/71 00:00:00",,"a",2,"1088244","Tbilisi z.fanaskertelis q. N 20 b.","saburTalo"
+"35001005271","gogiberiZe","Temur",,"08/13/47 00:00:00",,"g",1,"0069822","rusTavi p.Todrias III Cixi kor. 7 b",
+"35001005272","apostolova","afrodita","nikolozi","01/11/74 00:00:00","11/01/95 00:00:00","d",2,"0069822","rusTavi xalxTa megobrobis gamz. kor",
+"35001005273","apostolova","izolda","giorgi","02/08/50 00:00:00",,"a",2,"0069823","rusTavi xalxTa megobrobis gamz. kor",
+"35001005274","nozaZe","marine","gurami","07/22/71 00:00:00","05/15/07 00:00:00","a",2,"0843142","baTumi m.lermontovis q. N 36 b. 49",
+"35001005275","CiCova","natalia","pavle","12/13/74 00:00:00",,"a",2,"0749694","rusTavi XVII m/r kor. 10 b. 101",
+"35001005276","lekiaSvili","maia","dimitri","06/26/78 00:00:00",,"a",2,"0608404","Tbilisi taSkentis  Ses. N 4 b. 55","saburTalo"
+"35001005277","kviJinaZe","nugzar","anzori","09/17/58 00:00:00",,"d",1,"1413482","rusTavi z.faliaSvilis q. kor. 3a b.",
+"35001005278","grigorevi","sergei","efimi","05/11/78 00:00:00",,"a",1,"0786160","rusTavi J.Sartavas gamz. kor. 13 b.",
+"35001005279","sxirtlaZe","soso","Tamazi","08/05/76 00:00:00",,"g",1,"0805463","rusTavi z.faliaSvilis q. kor. 7a b.",
+"35001005280","maisuraZe","nana",,"05/17/67 00:00:00",,"d",2,"0069824","rusTavi p.Todrias q. kor. 17 b. 48",
+"35001005281","naWyebia","karlo",,"09/20/39 00:00:00",,"b",1,"0069825","rusTavi xalxTa megobrobis gamz. kor",
+"35001005282","buliskeria","irina","mixeili","09/22/65 00:00:00",,"b",2,"0186491","rusTavi daviT garejis q. kor. 21b b",
+"35001005283","diRmelaSvili","JuJuna",,"12/03/39 00:00:00","05/24/11 00:00:00","d",2,"0069825","rusTavi xalxTa megobrobis gamz. kor",
+"35001005284","urvaCovi","galina",,"09/13/58 00:00:00",,"a",2,"0069826","rusTavi z.faliaSvilis q. kor. 3 b.",
+"35001005286","qafiaSvili","nino","iosebi","01/18/65 00:00:00",,,2,,"rusTavi  misamarTis gareSe",
+"35001005287","samxaraZe","nazi",,"10/25/61 00:00:00",,"d",2,"0069826","rusTavi firosmanis q. kor. 33 b. 4",
+"35001005288","bozoevi","marina","SoTa","06/21/79 00:00:00",,"a",2,"0069827","rusTavi XXI m/r kor. 15 b. 77",
+"35001005289","qavTaraZe","oqsana","vladimeri","11/30/67 00:00:00",,"d",2,"0844596","gardabani pioneris q. N 4","gardabani"
+"35001005290","murusiZe","giorgi","giorgi","01/12/78 00:00:00",,"g",1,"0872895","rusTavi xalxTa megobrobis gamz. kor",
+"35001005291","venjelaSvili","manana","gaiozi","01/02/65 00:00:00",,"d",2,"0417364","gardabani s. lemSveniera","gardabani"
+"35001005292","mSvildaZe","biZina","venedikte","03/04/70 00:00:00",,"g",1,"1023961","rusTavi sportis q. kor. 2 b. 51",
+"35001005382","gabunia","evgenia",,"10/10/31 00:00:00",,"a",2,"0069851","rusTavi wminda ninos q. kor. 2 b. 1",
+"35001005383","gabunia","evgeni","giorgi","11/04/56 00:00:00",,"g",1,"1413994","rusTavi wminda ninos q. kor. 2 b. 1",
+"35001005384","RonRaZe","malxaz","pavle","08/13/61 00:00:00",,"g",1,"1156867","rusTavi  misamarTis gareSe",
+"35001005385","raqviaSvili","nazi","iluri","06/08/77 00:00:00",,"g",2,"0785900","rusTavi n.baraTaSvilis  Ses. kor. 3",
+"35001005386","soloRaSvili","Tamaz","iosebi","09/29/56 00:00:00",,"a",1,"1339585","rusTavi XII m/r kor. 19 b. 108",
+"35001005387","gelaSvili","nargizi","vaJa","01/24/60 00:00:00",,"d",2,"0837578","rusTavi XVIII m/r kor. 12 b. 23",
+"35001005388","daviTaSvili","zoia",,"02/24/40 00:00:00",,"g",2,"0069852","rusTavi XII m/r kor. 5 b. 31",
+"35001005389","qarcxia","rusudan","ambrosi","03/31/58 00:00:00",,"a",2,"1413373","rusTavi XII m/r kor. 19 b. 106",
+"35001005390","papuaSvili","irine",,"03/16/62 00:00:00","03/09/11 00:00:00","a",2,"0069853","rusTavi VIII m/r kor. 8 b. 79",
+"35001005391","gogava","maia","anzori","10/26/67 00:00:00",,"b",2,"0980390","Tbilisi Sio mRvimelis q. N 15 b. 2","mTawminda"
+"35001005392","bostanjievi","simizar",,"05/10/27 00:00:00",,"g",2,"0069853","rusTavi z.faliaSvilis q. kor. 1 b.",
+"35001005393","zaikovskaia","valentina",,"09/19/47 00:00:00",,"d",2,"0069853","rusTavi VIII m/r kor. 6 b. 70",
+"35001005394","saakiani","siranuS","leuS","09/06/69 00:00:00",,"d",2,"1339475","rusTavi XIV m/r kor. 11 b. 27",
+"35001005395","samuSia","luara",,"12/08/51 00:00:00",,"b",2,"0069854","rusTavi z.faliaSvilis q. kor. 1 b.",
+"35001005396","samxaraZe","manana",,"02/10/70 00:00:00",,"g",2,"0069854","rusTavi VIII m/r kor. 6 b. 2",
+"35001005397","sibaSvili","RaRana",,"02/01/48 00:00:00",,"d",2,"0069854","rusTavi g.leoniZis q. kor. 22 b. 13",
+"35001005398","kereseliZe","konstantine","karlo","07/10/73 00:00:00",,"b",1,"1227733","rusTavi al.mesxiSvilis q. kor. 4 b.",
+"35001005399","sisina","nina",,"11/14/26 00:00:00",,"b",2,"0069855","rusTavi p.Todrias I Cixi kor. 3 b.",
+"35001005400","koroSinaZe","nikoloz",,"11/09/49 00:00:00",,"g",1,"0069855","rusTavi g.leoniZis q. kor. 26 b. 72",
+"35001005401","goCitaSvili","Tamar",,"12/31/35 00:00:00",,"d",2,"0069855","rusTavi XV m/r kor. 10 b. 68",
+"35001005402","goCitaSvili","nikoloz",,"08/18/48 00:00:00",,"a",1,"0069856","rusTavi g.leoniZis q. kor. 22 b. 13",
+"35001005403","maisuraZe","Temur",,"01/27/55 00:00:00",,"b",1,"0069856","rusTavi XII m/r kor. 21 b. 66",
+"35001005404","SerazadiSvili","goguca","irakli","03/15/33 00:00:00",,"a",2,"1228216","rusTavi XVII m/r kor. 2 b. 50",
+"35001005405","CerniSevi","grigor",,"09/09/31 00:00:00",,"d",1,"0069856","rusTavi J.Sartavas gamz. kor. 14 b.",
+"35001005407","kobaiZe","dodo","markozi","08/29/34 00:00:00",,"d",2,"0116980","rusTavi Tbilisis q. N 33 b. 45",
+"35001005408","oTinaSvili","zurab",,"08/12/62 00:00:00",,"g",1,"0069857","rusTavi XII m/r kor. 35 b. 51",
+"35001005409","ovakovi","Sura","aSo","05/29/41 00:00:00",,"d",2,"0116421","rusTavi p.Todrias III Cixi kor. 4 b",
+"35001005410","jamaspiSvili","Tina",,"09/14/30 00:00:00",,"a",2,"0069858","rusTavi XIX m/r kor. 10 b. 29",
+"35001005412","alania","niazi","daviTi","09/07/45 00:00:00",,"g",1,"0069858","rusTavi J.Sartavas gamz. kor. 23 b.",
+"35001005413","axalkaci","avTandil",,"09/07/70 00:00:00",,"a",1,"1140321","qareli s. berZenauli","qareli"
+"35001005414","vaSakiZe","jemal","vasili","08/09/35 00:00:00",,"d",1,"1106207","rusTavi z.faliaSvilis q. kor. 1 b.",
+"35001005415","gafrindaSvili","valeri",,"10/19/45 00:00:00",,"b",1,"0069859","rusTavi VIII m/r kor. 18 b. 87",
+"35001005416","TxeliZe","SuSana",,"09/15/36 00:00:00",,"g",2,"0069859","rusTavi XVI m/r kor. 9 b. 72",
+"35001005417","gamrekeli","valentina","pavle","02/05/38 00:00:00",,"b",2,"0014222","rusTavi s.axmetelis q. kor. 6 b. 81",
+"35001005418","gelaSvili","naTela","lavrenti","03/05/61 00:00:00",,"g",2,"1039384","gardabani s. sarTiWala","gardabani"
+"35001005419","diasamiZe","roland",,"01/03/56 00:00:00",,"b",1,"0069860","rusTavi VII m/r kor. 25 b. 46",
+"35001005420","golovko","Tamara","ivane","12/07/40 00:00:00",,"d",2,"0261378","rusTavi z.faliaSvilis q. kor. 1 b.",
+"35001005421","papunaSvili","akaki",,"11/29/61 00:00:00",,"d",1,"0069860","rusTavi al.mesxiSvilis q. kor. 16 b",
+"35001005422","maWaraSvili","soso",,"07/20/53 00:00:00",,"a",1,"0069861","rusTavi baTumis q. kor. 36 b. 15",
+"35001005423","lekiSvili","giorgi","vaso","12/01/38 00:00:00",,"g",1,"1300884","rusTavi xalxTa megobrobis gamz. kor",
+"35001005424","metreveli","daria",,"04/05/18 00:00:00","03/22/10 00:00:00","g",2,"0069861","rusTavi g.leoniZis q. kor. 18 b. 1",
+"35001005425","maziaSvili","nino","giorgi","01/07/54 00:00:00",,"a",2,"0938387","rusTavi XII m/r kor. 6 b. 23",
+"35001005426","mWedliSvili","mzia","giorgi","01/01/49 00:00:00",,"a",2,"0116427","rusTavi VII m/r kor. 23 b. 48",
+"35001005427","mamedovi","vagid",,"12/20/48 00:00:00",,"a",1,"1182933","rusTavi p.Todrias q. kor. 3 b. 25",
+"35001005428","potapovi","nadeJda",,"04/03/36 00:00:00",,"g",2,"0069862","rusTavi al.mesxiSvilis I gas. kor.",

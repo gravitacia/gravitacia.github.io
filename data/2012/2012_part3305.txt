@@ -1,0 +1,542 @@
+"05001007445","ivaniZe","eTeri","rostomi","01/16/71 00:00:00",,"d",2,"0754318","aspinZa s. awyvita","aspinZa"
+"05001007446","gvaramaZe","zauri","zurabi","03/06/62 00:00:00",,"b",1,"1045292","aspinZa s. toloSi","aspinZa"
+"05001007447","meliqiZe-beriZe","liana","robizoni","04/26/74 00:00:00",,"a",2,"0978238","d. aspinZa a.jorjiaSvilis q. N 4","aspinZa"
+"05001007448","beriZe","vaxtang","levani","08/28/89 00:00:00",,"g",1,"0754319","aspinZa s. toloSi","aspinZa"
+"05001007449","wamalaiZe","luba","dido","09/10/41 00:00:00",,"d",2,"0754319","aspinZa s. sayudabeli","aspinZa"
+"05001007450","ivaniZe","giorgi","maqsime","10/03/35 00:00:00",,"a",1,"0754320","d. aspinZa erekle meores q. N 32","aspinZa"
+"05001007451","anTaZe","mzia","SoTa","09/16/66 00:00:00",,"b",2,"0754320","aspinZa s. naqalaqevi","aspinZa"
+"05001007452","nozaZe","naTela","emzari","02/17/85 00:00:00",,"g",2,"1323264","aspinZa s. naqalaqevi","aspinZa"
+"05001007453","narimaniZe","ia","sevasti","03/01/66 00:00:00",,"d",2,"1323334","aspinZa s. sayudabeli","aspinZa"
+"05001007454","diasamiZe","liza","mixeili","01/25/56 00:00:00",,"a",2,"0754321","aspinZa s. awyvita","aspinZa"
+"05001007455","nadiraZe","elena","evgeni","04/22/78 00:00:00",,"b",2,"0754321","aspinZa s. toloSi","aspinZa"
+"05001007456","maRraZe","merabi","darCi","04/19/64 00:00:00",,"g",1,"0754321","aspinZa s. naqalaqevi","aspinZa"
+"05001007457","filiSvili","vaxtang","levani","06/26/39 00:00:00",,"d",1,"0754321","aspinZa s. xizabavra","aspinZa"
+"05001007458","xizaZe","maia","oTari","12/27/70 00:00:00",,"a",2,"0754322","d. aspinZa varZiis q. N 80","aspinZa"
+"05001007459","aCelaSvili","lela","valiko","01/23/74 00:00:00",,"b",2,"0754322","aspinZa s. vargavi","aspinZa"
+"05001007460","zaqaiZe","zurab","ivane","12/26/86 00:00:00",,"g",1,"0754322","d. aspinZa sanapiros q. N 24","aspinZa"
+"05001007461","riJamaZe","zaSmirka","neqtariozi","01/01/39 00:00:00","05/14/07 00:00:00","d",1,"0754322","d. aspinZa erekle meores q. N 32","aspinZa"
+"05001007462","riJamaZe","rezo","daviTi","12/28/45 00:00:00",,"a",1,"0754323","d. aspinZa d.guramiSvilis q. N 29","aspinZa"
+"05001007463","qamaSiZe","qeTevani","murseli","01/19/46 00:00:00",,"b",2,"0754323","aspinZa s. miraSxani","aspinZa"
+"05001007464","papaSvili","vaxtangi","mixeili","04/27/48 00:00:00",,"g",1,"0754323","d. aspinZa S.rusTavelis q. N 4","aspinZa"
+"05001007465","zazaZe","naira","vasili","04/13/56 00:00:00",,"d",2,"0754323","aspinZa s. Tmogvi","aspinZa"
+"05001007466","zazaZe","iradion","arSaki","04/16/51 00:00:00",,"a",1,"0754324","aspinZa s. Tmogvi","aspinZa"
+"05001007467","lekiSvili","rebeka","konstatine","08/15/25 00:00:00","03/28/11 00:00:00","b",2,"0754324","aspinZa s. Tmogvi","aspinZa"
+"05001007468","gureSiZe","lida","nestori","06/08/24 00:00:00","04/23/10 00:00:00","g",2,"0754324","d. aspinZa erekle meores q. N 88","aspinZa"
+"05001007469","ambrolaZe","gurami","sergo","01/12/61 00:00:00","08/27/10 00:00:00","d",1,"1231716","d. aspinZa d.guramiSvilis q. N 39","aspinZa"
+"05001007470","yruaSvili","giorgi","iakobi","09/24/49 00:00:00",,"b",1,"0754325","d. aspinZa varZiis q. N 101","aspinZa"
+"05001007471","oTanaZe","SoTa","irodioni","02/15/33 00:00:00","05/19/08 00:00:00","g",1,"0754325","aspinZa s. naqalaqevi","aspinZa"
+"05001007472","beriZe","asmaTi","maqsime","05/15/51 00:00:00",,"d",2,"0754325","aspinZa s. naqalaqevi","aspinZa"
+"05001007473","naTenaZe","Tamari","giorgi","08/15/30 00:00:00",,"a",2,"0754326","aspinZa s. naqalaqevi","aspinZa"
+"05001007474","xuciSvili","valiko","mixeili","09/17/37 00:00:00","03/18/11 00:00:00","b",1,"0754326","aspinZa s. xizabavra","aspinZa"
+"35001049777","kiknaZe","givi","sergo","07/27/56 00:00:00",,"d",1,"0389598","rusTavi XIX m/r kor. 8 b. 116",
+"35001049778","CaCaniZe","iuri","gervasi","01/28/50 00:00:00",,"a",1,"0389599","rusTavi J.Sartavas gamz. kor. 8 b.",
+"35001049779","gelaSvili","aza","giorgi","08/19/57 00:00:00",,"b",2,"0389599","rusTavi VII m/r kor. 6 b. 53",
+"35001049780","barnabiSvili","mamuka","giorgi","12/25/68 00:00:00",,"g",1,"0389599","rusTavi k.leseliZis q. kor. 28 b. 3",
+"35001049781","vaCnaZe","naira","germani","02/12/64 00:00:00",,"g",2,"0938381","rusTavi Tbilisis q. kor. 31 b. 3",
+"35001049782","mamulaSvili","mariami","Salva","12/09/64 00:00:00",,"g",2,"1326796","rusTavi p.Todrias I Cixi kor. 5 b.",
+"35001049783","inasariZe","marina","romani","06/30/62 00:00:00",,"b",2,"0734899","rusTavi J.Sartavas gamz. kor. 6 b.",
+"35001049784","kusiani","xaTuna","antoni","07/23/85 00:00:00",,"a",2,"1183516","saCxere s. sairxe","saCxere"
+"35001049785","vaCnaZe","vladimeri","giorgi","06/29/85 00:00:00",,"d",1,"0389600","rusTavi Tbilisis q. kor. 31 b. 3",
+"35001049786","geguCaZe","qeTevani","mamuka","12/01/84 00:00:00",,"g",2,"1300641","rusTavi XII m/r kor. 20 b. 92",
+"35001049787","agabekiani","armenaki","joniki","11/03/85 00:00:00",,"a",1,"1300688","rusTavi g.leoniZis q. kor. 32 b. 7",
+"35001049788","denisovi","sergei","vladimeri","02/23/86 00:00:00",,"g",1,"0389601","rusTavi al.mesxiSvilis q. kor. 9 b.",
+"35001049789","gelaSvili","vaxtangi","amirani","04/16/85 00:00:00",,"b",1,"1066662","rusTavi VII m/r kor. 25 b. 37",
+"35001049790","yavelaSvili","lela","vaxtangi","03/03/83 00:00:00",,"b",2,"1183043","rusTavi VII m/r kor. 9 b. 40",
+"35001049791","SavlayaZe","nikolozi","muradi","12/11/84 00:00:00",,"b",1,"1327151","rusTavi p.Todrias I Cixi kor. 1 b.",
+"35001049792","SavSiSvili","SoTa","nodari","12/21/83 00:00:00",,"g",1,"0389602","rusTavi sumg.metalurgTa q. kor. 24",
+"35001049793","xorava","inga","Jimeri","04/26/84 00:00:00",,"d",2,"1228656","rusTavi XII m/r kor. 36 b. 8",
+"35001049794","gulua","Tamari","leri","08/23/85 00:00:00",,"d",2,"1198838","rusTavi mSenebelTa q. kor. 4 b. 1",
+"35001049795","berikiSvili","nino","niko","07/05/70 00:00:00",,"a",2,"1133448","d. TianeTi S.rusTavelis q. N 92","TianeTi"
+"35001049796","lekiaSvili","dali","SoTa","09/29/72 00:00:00",,"b",2,"0459699","rusTavi p.Todrias II Cixi kor. 7 b.",
+"35001049797","kurtaniZe","romani","kirile","05/18/59 00:00:00",,"d",1,"1441008","rusTavi XXI m/r kor. 4 b. 65",
+"35001049798","kaveliZe","lali","pavle","09/01/71 00:00:00",,"b",2,"0389605","rusTavi m.kostavas gamz. kor. 31 b.",
+"35001049799","gagniZe","eldari","parTeni","03/06/48 00:00:00",,"g",1,"0389605","rusTavi XXI m/r kor. 2 b. 73",
+"35001049800","soloRaSvili","nazo","aleqsandre","10/17/57 00:00:00",,"d",2,"0389605","rusTavi XII m/r kor. 19 b. 108",
+"35001049801","qristesiaSvili","irma","borisi","05/11/75 00:00:00",,"g",2,"1166562","dmanisi s. gomareTi","dmanisi"
+"35001049802","mamedova","venera","xudaverdi","11/16/73 00:00:00",,"a",2,"0389655","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049803","kuprava","cicino","lenteri","04/21/65 00:00:00",,"g",2,"1228147","rusTavi xalxTa megobrobis II gas. k",
+"35001049804","basoSvili","Teona","aleqsandre","06/07/85 00:00:00",,"a",2,"1339113","rusTavi p.Todrias q. kor. 3 b. 103",
+"35001049805","kakaSvili","maia","daviTi","03/13/84 00:00:00",,"a",2,"1339828","rusTavi konstituciis q. kor. 14 b.",
+"35001049806","kakaSvili","sofio","daviTi","07/24/85 00:00:00",,"b",2,"1440983","rusTavi XII m/r kor. 4 b. 64",
+"35001049807","gelaSvili","giorgi","giorgi","09/18/84 00:00:00",,"a",1,"1326890","rusTavi xalxTa megobrobis gamz. kor",
+"35001049808","yifiani","fiqria","soso","01/12/81 00:00:00",,"a",2,"1044360","rusTavi XVII m/r kor. 2 b. 96",
+"35001049809","dekanosiZe","TinaTin","nodari","06/04/78 00:00:00",,"a",2,"0500690","rusTavi J.Sartavas gamz. kor. 21 b.",
+"35001049810","xvedeliZe","nana","daTuni","09/07/69 00:00:00",,"g",2,"0962283","saCxere s. korbouli","saCxere"
+"35001049811","ismailova","salma","karaoRl","11/07/51 00:00:00",,"a",2,"0734924","rusTavi g.leoniZis q. kor. 28 b. 45",
+"35001049812","abesaZe","marine","jemali","10/25/63 00:00:00",,"a",2,"1199321","rusTavi daviT garejis q. kor. 18 b.",
+"35001049813","gongaZe","naTia","avTandili","12/23/84 00:00:00",,"b",2,"1300141","rusTavi daviT garejis q. kor. 21 b.",
+"35001049814","afciauri","nona","giorgi","04/29/85 00:00:00",,"a",2,"1413366","rusTavi g.rCeuliSvilis q. kor. 18 b",
+"35001049815","lalazaSvili","ia","giorgi","09/04/85 00:00:00",,"d",2,"1340138","rusTavi k.leseliZis q. N 25",
+"35001049816","maWavariani","irakli","valeri","11/11/82 00:00:00",,"d",1,"0389610","rusTavi wminda ninos q. N 20 b. 1",
+"35001049817","lomsaZe","aleqsandre","jemali","07/07/81 00:00:00",,"a",1,"1143028","rusTavi XII m/r kor. 6 b. 42",
+"35001049818","fxoveliSvili","iza","Tengizi","06/13/83 00:00:00",,"a",2,"1182849","rusTavi VII m/r kor. 24 b. 2",
+"35001049819","kulievi","miSa","murazi","06/04/85 00:00:00",,"g",1,"0389611","rusTavi p.Todrias III Cixi kor. 7 b",
+"35001049820","SatakiSvili","naTia","vladmieri","01/22/85 00:00:00",,"g",2,"1326773","rusTavi xalxTa megobrobis gamz. kor",
+"35001049821","kosoeva","flora","raSid","07/27/84 00:00:00",,"d",2,"1300541","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049822","kosoeva","elmira","raSid","04/24/83 00:00:00",,"b",2,"0389612","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049823","aSoTia","daviT","WiWiko","02/09/85 00:00:00",,"a",1,"1340070","rusTavi  misamarTis gareSe",
+"35001049824","CikvaiZe","nona","nugzari","08/07/73 00:00:00",,"a",2,"1214639","Tbilisi wm.qeTevan dedoflis gamz. N","isani"
+"35001049825","nuvakis","lali","givi","12/20/64 00:00:00",,"d",2,"1326569","rusTavi m.kostavas gamz. kor. 12 b.",
+"35001049826","Carkviani","vaxtangi","soso","06/04/85 00:00:00",,"g",1,"1339201","rusTavi xalxTa megobrobis gamz. kor",
+"35001049827","moqia","sofio","simoni","06/08/85 00:00:00",,"d",2,"0389613","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049828","cuxiSvili","lela","romani","11/05/84 00:00:00",,"d",2,"0976071","saCxere s. Cixa","saCxere"
+"35001049829","modebaZe","Tamari","robizoni","10/12/84 00:00:00",,"a",2,"1142916","rusTavi sumg.metalurgTa q. kor. 17",
+"35001049830","carelaSvili","nino","giorgi","02/05/84 00:00:00",,"g",2,"1339403","rusTavi m.kostavas gamz. kor. 32 b.",
+"35001049831","gogiSvili","TinaTin","tarieli","03/13/83 00:00:00",,"g",2,"1227830","rusTavi m.balanCivaZis  gas. kor. 6",
+"35001049832","faiqriZe","oTari","goCa","04/04/85 00:00:00",,"d",1,"1327156","rusTavi p.Todrias II Cixi kor. 3 b.",
+"35001049833","londriSvili","levani","Salva","12/09/84 00:00:00",,"d",1,"1301891","rusTavi g.leoniZis q. kor. 14 b. 11",
+"35001049834","guseinovi","ruslan","baljan","11/09/85 00:00:00",,"g",1,"0389615","rusTavi XI m/r kor. 1 b. 18ss",
+"35001049835","fiCxnaraSvili","diana","vano","06/27/85 00:00:00",,"b",2,"1400487","gori s. arbo","gori"
+"35001049836","mWedliSvili","vasili","oTari","03/25/65 00:00:00",,"a",1,"0389616","rusTavi xalxTa megobrobis gamz. kor",
+"35001049925","lomiZe","giorgi","Tamazi","10/18/85 00:00:00",,"d",1,"1413659","rusTavi XI m/r kor. 3 b. 154",
+"35001049926","riJamaZe","Tea","olegi","11/05/84 00:00:00",,"a",2,"1326664","rusTavi XII m/r kor. 36 b. 45",
+"35001049927","WumburiZe","levani","jemali","02/16/81 00:00:00",,"g",1,"1326950","rusTavi m.balanCivaZis q. kor. 3 b.",
+"35001049928","CxikviSvili","maia","beJani","09/13/85 00:00:00",,"b",2,"1023671","rusTavi l.iosebiZis  Ses. kor. 19 b",
+"35001049929","maisuraZe","madona","fridoni","02/18/82 00:00:00",,"b",2,"1156833","rusTavi XXI m/r kor. 2 b. 105",
+"35001049930","CavelaSvili","Sorena","Salva","01/25/84 00:00:00",,"b",2,"1326656","rusTavi XXI m/r kor. 2 b. 108",
+"35001049931","axvlediani","zaza","murTazi","09/01/84 00:00:00",,"d",1,"1301549","rusTavi z.faliaSvilis q. kor. 7 b.",
+"35001049932","bakuraZe","vaxtangi","rostomi","01/23/84 00:00:00",,"d",1,"1227988","rusTavi VIIa m/r kor. 2 b. 14",
+"35001049933","jafariZe","giorgi","givi","02/20/85 00:00:00",,"a",1,"1198824","rusTavi baTumis q. kor. 23 b. 4",
+"35001049934","cxadiaSvili","zurabi","iuri","04/01/85 00:00:00",,"g",1,"1327154","rusTavi XII m/r kor. 6 b. 125",
+"35001049935","gureSiZe","iosebi","tarieli","09/26/84 00:00:00",,"b",1,"1044488","rusTavi m.kostavas gamz. kor. 19 b.",
+"35001049936","gugeSaSvili","ekaterine","nodari","09/14/84 00:00:00",,"b",2,"1327033","rusTavi XVII m/r kor. 18 b. 76",
+"35001049937","nefariZe","lela","zurabi","08/14/84 00:00:00",,"g",2,"1266234","lagodexi s. baisubani","lagodexi"
+"35001049938","rexviaSvili","eliso","aleqsi","12/20/84 00:00:00",,"a",2,"1326798","rusTavi XV m/r kor. 11 b. 97",
+"35001049939","sulamaniZe","laSa","tarieli","02/17/85 00:00:00",,"d",1,"1087170","rusTavi  misamarTis gareSe",
+"35001049940","saxelaSvili","Tamari","soso","08/21/84 00:00:00",,"d",2,"1369697","tyibuli s. muxura","tyibuli"
+"35001049941","nozaZe","luiza","Teofile","04/28/35 00:00:00",,"g",2,"0389647","rusTavi m.kostavas gamz. kor. 26 b.",
+"35001049942","oqropiriZe","nineli","gabrieli","04/08/62 00:00:00",,"g",2,"1066614","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049943","rostiaSvili","Tamari","givi","01/20/69 00:00:00",,"b",2,"0389710","rusTavi VII m/r kor. 23 b. 6",
+"35001049944","uRreliZe","eTeri","Sio","06/02/61 00:00:00",,"g",2,"1044470","rusTavi baTumis q. kor. 29 b. 12",
+"35001049945","yveliaSvili","iosebi","sergo","04/03/63 00:00:00",,"d",1,"1156985","rusTavi J.Sartavas gamz. kor. 9 b.",
+"35001049946","WumbaZe","aza","avTandili","09/19/70 00:00:00",,"d",2,"0389648","rusTavi VII m/r kor. 15 b. 41",
+"35001049947","WabaSvili","zurabi","giorgi","07/21/73 00:00:00",,"a",1,"0389649","rusTavi XXI m/r kor. 11 b. 87",
+"35001049948","kapanaZe","neli","Sura","10/01/57 00:00:00",,"d",2,"0389649","rusTavi p.Todrias q. kor. 17 b. 23",
+"35001049949","sexniaSvili","Teimuraz","pavle","02/12/56 00:00:00",,"a",1,"1106374","rusTavi p.Todrias q. kor. 13 b. 138",
+"35001049950","niJaraZe","mamuka","tarieli","04/18/67 00:00:00",,"b",1,"0389650","rusTavi al.mesxiSvilis q. kor. 3 b.",
+"35001049951","sexniaSvili","zurab","valodia","08/02/59 00:00:00",,"d",1,"1106120","rusTavi d.guramiSvilis q. kor. 4 b.",
+"35001049952","vefxvaZe","revazi","nodari","11/01/80 00:00:00","09/07/04 00:00:00","d",1,"0389650","rusTavi z.faliaSvilis q. kor. 3b b.",
+"35001049953","alieva","ramina","mexman","03/27/86 00:00:00",,"a",2,"0389651","rusTavi XX m/r kor. 14 b. 33",
+"35001049954","kvantaliani","giorgi","vaxtangi","01/26/86 00:00:00",,"d",1,"1301099","rusTavi al.mesxiSvilis I gas. kor.",
+"35001049955","Wanturia","lali","amirani","04/09/84 00:00:00",,"d",2,"1339650","rusTavi XVII m/r kor. 12 b. 15",
+"35001049956","iaSvili","SoTa","avTandili","05/09/60 00:00:00",,"g",1,"0884591","rusTavi m.balanCivaZis q. kor. 4 b.",
+"35001049957","xlianci","Teona","gineli","03/25/85 00:00:00",,"b",2,"0389652","rusTavi XXI m/r kor. 6 b. 62",
+"35001049958","jelaZe","mirza","vladimeri","06/22/84 00:00:00",,"g",1,"1301273","rusTavi XIV m/r kor. 44 b. 21",
+"35001049959","ZaZamia","gigla","megona","09/05/57 00:00:00",,"a",1,"0389653","rusTavi VIII m/r kor. 3 b. 79",
+"35001049960","wiqariSvili","olegi","levani","03/08/52 00:00:00",,"d",1,"1156510","rusTavi XIX m/r kor. 21 b. 52",
+"35001049961","metiviSvili","aleqsandre","gurami","06/28/85 00:00:00",,"g",1,"0389653","rusTavi sumg.metalurgTa q. kor. 12",
+"35001049962","barbaqaZe","zurabi","daviTi","08/18/84 00:00:00",,"a",1,"1271522","Tbilisi b.xmelnickis q. N 147a b. 6","isani"
+"35001049963","mamed","alekper-oRli",,"12/27/20 00:00:00",,"a",1,"0389654","rusTavi XX m/r kor. 13 b. 68",
+"35001049964","iaSvili","marika","SoTa","07/18/84 00:00:00",,"d",2,"1301624","rusTavi m.balanCivaZis q. kor. 4 b.",
+"35001049965","gordeziani","zaza","jumberi","11/22/84 00:00:00",,"g",1,"0389654","rusTavi g.leoniZis q. kor. 26 b. 65",
+"35001049966","zurabaSvili","galina","vasili","05/26/54 00:00:00",,"g",2,"1183229","rusTavi XIV m/r kor. 47 b. 13",
+"35001049967","xurciZe","rati","soso","02/09/83 00:00:00",,"g",1,"1023629","rusTavi v.maiakovskis q. kor. 17 b.",
+"35001049968","xurciZe","Tea","soso","09/12/81 00:00:00","06/06/11 00:00:00","d",2,"1394063","Tbilisi uiaraRos q. N 68","naZaladevi"
+"35001049969","gafrindaSvili","aleqsi","elguja","06/29/85 00:00:00",,"b",1,"1413702","rusTavi XIX m/r kor. 23 b. 63",
+"35001049970","nozaZe","giorgi","rolandi","07/18/85 00:00:00",,"g",1,"1339593","rusTavi Tbilisis q. kor. 8 b. 11",
+"35001049971","gogiZe","marine","daviTi","07/29/84 00:00:00",,"b",2,"1263241","gori d.yifianis q. N 58 b. 40","gori"
+"35001049972","gogiZe","irine","daviTi","12/29/82 00:00:00",,"g",2,"1424897","gori Sindisis gzat. N 4 b. 55","gori"
+"35001049973","gogolaZe","giorgi","sergo","09/07/85 00:00:00",,"a",1,"1143191","rusTavi Tbilisis q. kor. 31 b. 16",
+"35001049974","alaxverdievi","oruj","alixan","08/11/85 00:00:00",,"g",1,"0389657","rusTavi marjvena sanapiros III das.",
+"35001049975","baraTeli","leri","Salva","10/21/48 00:00:00",,"b",1,"0389658","rusTavi VII m/r kor. 25 b. 76",
+"35001049976","gafrindaSvili","marine","andro","08/28/55 00:00:00",,"g",2,"0389658","rusTavi XIX m/r kor. 23 b. 63",
+"35001049977","kavTiaSvili","daviTi","romani","12/24/55 00:00:00",,"d",1,"0389658","rusTavi S.rusTavelis q. kor. 26 b.",
+"35001049978","varTazariani","siranuS","janv","03/08/24 00:00:00",,"b",2,"1082872","somxeTi",
+"35001049979","tuxaSvili","liudmila","irodi","07/30/60 00:00:00",,"d",2,"0785545","rusTavi mSenebelTa q. kor. 36 b. 7",
+"35001048505","qumaritova","mania","nikolozi","02/12/36 00:00:00","01/05/05 00:00:00","b",2,"0389248","rusTavi XXI m/r kor. 10 b. 104",
+"35001048506","muraviovi","dimitri","vasili","04/30/74 00:00:00",,"d",1,"0389248","rusTavi XX m/r kor. 14 b. 71",
+"35001048507","vaWriZe","ciuri","geno","12/21/62 00:00:00",,"g",2,"1128559","rusTavi VI m/r kor. 6 b. 406-408",
+"35001048508","kiknaZe","laSa","iuri","12/18/84 00:00:00",,"b",1,"1227744","rusTavi VI m/r kor. 6 b. 410ss",
+"35001048509","getmanskaia","raisa","pavle","06/06/50 00:00:00",,"g",2,"0389249","rusTavi firosmanis q. kor. 11 b. 2",
+"35001048510","maisuraZe","olRa","aleqsandre","05/10/33 00:00:00","06/30/06 00:00:00","a",2,"0407967","rusTavi z.faliaSvilis q. kor. 1 b.",
+"35001048511","beriZe","nikolozi","omari","08/30/78 00:00:00",,"g",1,"1068051","saberZneTi",
+"35001048512","xaraziSvili","eliza","giorgi","02/17/61 00:00:00",,"g",2,"0884670","rusTavi xalxTa megobrobis gamz. kor",
+"35001048513","yvavaZe","natalia","giorgi","01/22/75 00:00:00",,"g",2,"0389250","rusTavi VIII m/r kor. 5 b. 61",
+"35001048514","cercvaZe","zoia","giorgi","01/15/60 00:00:00",,"d",2,"0786186","rusTavi n.baraTaSvilis  Ses. kor. 2",
+"35001048515","RoRaZe","nino","malxazi","12/04/92 00:00:00",,"a",2,"0000000","rusTavi sumg.metalurgTa q. kor. 7 b",
+"35001048604","avalian","agavnik","stefane","04/03/31 00:00:00","09/26/08 00:00:00","d",2,"0389276","rusTavi iv.maCabelis q. kor. 10 b.",
+"35001048605","anuaSvili","Salva","zurabi","11/26/95 00:00:00",,"a",1,"0000000","rusTavi v.sarajiSvilis q. kor. 5 b.",
+"35001048606","anuaSvili","mariam","zurabi","08/21/94 00:00:00",,"a",2,"0000000","rusTavi v.sarajiSvilis q. kor. 5 b.",
+"35001048607","bodaveli","vaxtangi","jemali","05/28/82 00:00:00",,"d",1,"1413756","rusTavi S.rusTavelis q. kor. 8 b. 9",
+"35001048608","CekuriSvili","Savlegi","nikolozi","02/18/81 00:00:00",,"b",1,"0909516","rusTavi VII m/r kor. 17 b. 36",
+"35001048609","tabataZe","xaTuna","avTandili","11/10/64 00:00:00",,"a",2,"1301415","rusTavi m.kostavas gamz. kor. 14 b.",
+"35001048610","leJava","nana","murTazi","10/02/68 00:00:00",,"d",2,"0389277","rusTavi XII m/r kor. 18 b. 6",
+"35001048611","aivazianci","levani","sergo","08/21/39 00:00:00",,"b",1,"0970745","rusTavi xalxTa megobrobis gamz. kor",
+"35001048612","sxilaZe","merabi","guguli","04/01/60 00:00:00",,"a",1,"1087579","rusTavi XVII m/r kor. 13 b. 87",
+"35001048613","qaaZe","liana","ivane","12/02/58 00:00:00",,"b",2,"1183186","rusTavi XIX m/r kor. 9 b. 8",
+"35001048614","bakaevi","giorgi","vazni","01/12/47 00:00:00",,"d",1,"0389278","rusTavi xalxTa megobrobis I gas. ko",
+"35001048615","xandaveli","elma","ivane","01/01/48 00:00:00",,"a",2,"0389279","rusTavi z.faliaSvilis q. kor. 14 b.",
+"35001048616","nazRaiZe","manana","Salva","07/12/66 00:00:00",,"b",2,"0389279","rusTavi xalxTa megobrobis gamz. kor",
+"35001048617","paqsaSvili","nikolozi","giorgi","04/01/47 00:00:00",,"g",1,"0389279","rusTavi XII m/r kor. 9 b. 5",
+"35001048618","biganaSvili","zurabi","iosebi","12/04/83 00:00:00",,"d",1,"1301712","rusTavi c.dadianis q. N 46",
+"35001048619","qorTievi","mariami","valeriani","10/23/82 00:00:00",,"a",2,"1106173","rusTavi VIII m/r kor. 10 b. 76",
+"35001048620","biganaSvili","zaza","iosebi","06/19/85 00:00:00",,"b",1,"0389280","rusTavi c.dadianis q. N 46",
+"35001048621","avakovi","antoni","mixeili","08/03/85 00:00:00",,"g",1,"0872890","rusTavi samSvildis q. kor. 20a b. 2",
+"35001048622","gziriSvili","omari","petre","05/20/84 00:00:00",,"d",1,"1228688","rusTavi firosmanis q. kor. 9 b. 6",
+"35001048623","jafarovi","fariz","farmani","12/20/85 00:00:00",,"a",1,"0389281","rusTavi p.Todrias q. kor. 17 b. 57",
+"35001048624","karavaevi","aleqsandre","iosebi","08/27/23 00:00:00","05/25/10 00:00:00","d",1,"0389281","rusTavi vaJa-fSavelas II gas. kor.",
+"35001048625","muradovi","husein","iaradangul","05/15/57 00:00:00",,"a",1,"0389282","rusTavi m.kostavas gamz. kor. 21 b.",
+"35001048626","jimSeleiSvili","maguli","ivane","02/01/58 00:00:00",,"g",2,"0389282","rusTavi m.aslanikaSvilis q. kor. 8",
+"35001048627","xizaniSvili","marine","irakli","09/15/58 00:00:00",,"a",2,"0515677","rusTavi al.mesxiSvilis III gas. kor",
+"35001048628","beiger","ludmila","ivane","08/16/23 00:00:00","08/30/10 00:00:00","a",2,"0389283","rusTavi i.WavWavaZis q. kor. 7 b. 2",
+"35001048629","aruTinovi","alberti","Tedore","03/08/60 00:00:00",,"g",1,"1106281","rusTavi p.Todrias II Cixi kor. 7 b.",
+"35001048630","riJamaZe","ramazi","tarieli","04/25/74 00:00:00",,"d",1,"0389283","rusTavi p.Todrias I Cixi kor. 1 b.",
+"35001048631","lomiZe","ekaterine","anzori","12/06/74 00:00:00",,"a",2,"0389284","rusTavi i.WavWavaZis q. kor. 7 b. 1",
+"35001048632","ZaZamia","konstantine","mixeili","12/14/53 00:00:00",,"b",1,"0389284","rusTavi konstituciis q. kor. 13 b.",
+"35001048633","afciauri","giorgi","jumberi","09/04/64 00:00:00",,"b",1,"1300731","rusTavi xalxTa megobrobis gamz. kor",
+"35001048634","beruaSvili","meri","levani","01/08/45 00:00:00",,"d",2,"0389284","rusTavi XIV m/r kor. 39 b. 46",
+"35001048635","qorTieva","babucia","vazno","04/30/49 00:00:00",,"a",2,"0389285","rusTavi VIII m/r kor. 10 b. 76",
+"35001048636","fanCviZe","Tamari","givi","11/21/74 00:00:00",,"g",2,"1251093","saCxere 26 maisis q. N 41","saCxere"
+"35001048637","CiCiliZe","nino","gurami","03/09/71 00:00:00",,"g",2,"0389285","rusTavi Tbilisis q. kor. 6 b. 9",
+"35001048638","melaZe","izoldi","arCili","07/08/58 00:00:00",,"a",2,"0909518","rusTavi S.rusTavelis q. kor. 37 b.",
+"35001048639","TodaZe","lali","jabrali","03/17/73 00:00:00",,"b",2,"0389286","rusTavi xalxTa megobrobis I gas. ko",
+"35001048640","suTiZe","gela","Tamazi","10/26/78 00:00:00",,"g",1,"1087650","rusTavi g.rCeuliSvilis q. kor. 18 b",
+"35001048641","enageli","kaxaberi","roini","05/08/84 00:00:00",,"d",1,"1087179","rusTavi d.WonqaZis q. N 14",
+"35001048642","mustafaevi","vasif","maxadi","04/15/86 00:00:00",,"d",1,"1339891","rusTavi VIII m/r kor. 19 b. 24",
+"35001048643","comaSvili","zviadi","nugzari","02/02/85 00:00:00",,"a",1,"1340024","rusTavi samSvildis q. kor. 52 b. 2",
+"35001048644","qavTaraZe","malxazi","Tamazi","04/19/85 00:00:00",,"g",1,"1300891","rusTavi XVII m/r kor. 23 b. 36",
+"35001048645","iluriZe","diana","daviTi","12/13/82 00:00:00",,"d",2,"1227870","rusTavi VIIa m/r kor. 2 b. 116",
+"35001048646","kiknaveliZe","marina","daviTi","04/18/85 00:00:00",,"b",2,"1340053","rusTavi g.rCeuliSvilis q. kor. 16 b",
+"35001048647","nakaSiZe","gela","tarieli","04/24/82 00:00:00",,"g",1,"1066699","rusTavi g.leoniZis q. kor. 32 b. 1",
+"35001048648","basilaSvili","mayvala","eliso","04/06/42 00:00:00",,"a",2,"0389289","rusTavi l.tolstois q. kor. 19 b. 1",
+"35001048649","mamedovi","iasin","maism","04/01/58 00:00:00",,"d",1,"1300598","rusTavi XII m/r kor. 8 b. 89",
+"35001048650","TaxCiaiZe","daro","giorgi","03/15/49 00:00:00","04/01/10 00:00:00","g",2,"0389289","rusTavi VII m/r kor. 14 b. 28",
+"35001048651","luaSvili","nanuli","zurabi","09/01/52 00:00:00",,"d",2,"0389289","rusTavi XVII m/r kor. 5 b. 30",
+"35001048652","baxia","bela","anzori","12/11/66 00:00:00",,"a",2,"0389290","rusTavi vaJa-fSavelas I gas. kor. 1",
+"35001048653","qurasbediani","qeTino","aleqsandre","10/19/61 00:00:00",,"d",2,"0992947","rusTavi z.faliaSvilis q. kor. 3 b.",
+"35001048654","gamsaxurdaSvili","eTeri","oTari","01/08/60 00:00:00",,"a",2,"0785644","rusTavi XII m/r kor. 1 b. 78",
+"35001048655","elisaSvili","roini","vasili","04/17/51 00:00:00",,"d",1,"0389290","rusTavi XII m/r kor. 1 b. 78",
+"35001048656","qitoSvili","jemali","nikolozi","05/28/56 00:00:00",,"a",1,"0389291","rusTavi kaxeTis q. kor. 2 b. 2",
+"35001048657","gabunia","nikolozi","ivane","09/12/55 00:00:00",,"b",1,"0389291","rusTavi VIII m/r kor. 18 b. 15",
+"35001048658","arseniani","gulnara","sergo","05/31/61 00:00:00",,"g",2,"1087734","rusTavi XXI m/r kor. 21 b. 65",
+"35001048659","sxilaZe","nestani","romani","07/26/72 00:00:00",,"d",2,"0389291","rusTavi XX m/r kor. 13 b. 79",
+"35001048660","lobjaniZe","revazi","SoTa","06/04/52 00:00:00",,"g",1,"1300462","rusTavi XIV m/r kor. 44 b. 22",
+"35001048661","melaZe","JuJuna","onise","11/02/85 00:00:00",,"b",2,"0389292","rusTavi S.rusTavelis q. kor. 37 b.",
+"35001048662","beriZe","Tamari","gurami","06/02/84 00:00:00",,"d",2,"1301472","rusTavi XVII m/r kor. 11 b. 59",
+"35001048663","yandiaSvili","nana","aleqsandre","10/16/83 00:00:00",,"d",2,"1199049","rusTavi p.Todrias q. kor. 3 b. 33",
+"35001048664","biwaZe","nato","nikolozi","01/24/85 00:00:00",,"g",2,"0693334","rusTavi XIX m/r kor. 18 b. 49",
+"35001048665","biwaZe","neli","forodi","06/21/85 00:00:00",,"a",2,"1370488","gori m.gorkis q. N 179 kor. 6 b. 6","gori"
+"35001048666","elisaSvili","nino","roini","07/14/84 00:00:00",,"b",2,"1301343","rusTavi XII m/r kor. 1 b. 78",
+"35001048667","makasaraSvili","besiki","buxuti","01/06/81 00:00:00",,"g",1,"1179968","rusTavi XVI m/r kor. 9 b. 71",
+"35001048668","gigiloSvili","marina","tristani","05/02/80 00:00:00",,"b",2,"0786019","rusTavi XIX m/r kor. 12 b. 27",
+"35001048669","vardiSvili","lali","avTandili","07/15/82 00:00:00",,"d",2,"1213524","Tbilisi b.WiWinaZis q. N 1 kor. 1 b","samgori"
+"35001048670","papuaSvili","karlo","gurami","06/28/84 00:00:00",,"g",1,"1300716","rusTavi VIII m/r kor. 3 b. 70",
+"35001048671","goxaZe","gurami","solomoni","07/04/84 00:00:00","08/25/08 00:00:00","d",1,"0389294","rusTavi VIII m/r kor. 3 b. 77",
+"35001048672","qurasbediani","nino","iuri","06/16/85 00:00:00",,"g",2,"1067503","Tbilisi s.kandelakis q. N 16 b. 5","saburTalo"
+"35001048673","kuxianiZe","miriani","demuri","08/19/78 00:00:00",,"d",1,"0992273","rusTavi al.mesxiSvilis II gas. kor.",
+"35001048674","markosiani","artur","arSaki","02/16/86 00:00:00","03/08/08 00:00:00","g",1,"0389295","rusTavi XV m/r kor. 13 b. 188",
+"35001048675","SubiTiZe","vefxia","ruSani","10/09/65 00:00:00",,"d",1,"0389295","rusTavi XI m/r kor. 3 b. 14ss",
+"35001048676","mumlaZe","avTandili","oTari","11/23/59 00:00:00",,"a",1,"1087457","rusTavi g.odiSarias q. kor. 34 b. 9",
+"35001048677","vaniani","anuSevan","androniki","01/01/44 00:00:00",,"a",1,"1300508","rusTavi xalxTa megobrobis gamz. kor",
+"35001048678","qarTveliSvili","nina","amirani","07/15/64 00:00:00",,"g",2,"1301589","rusTavi XIV m/r kor. 48 b. 2",
+"35001048679","abelaSvili","giorgi","darCo","09/27/72 00:00:00",,"d",1,"0528969","rusTavi k.leseliZis q. kor. 28 b. 4",
+"35001048680","kvezereli","Tamari","Salva","11/07/35 00:00:00",,"g",2,"0389297","rusTavi p.Todrias q. kor. 17 b. 13",
+"35001048681","maisuraZe","iza","kaxi","06/11/69 00:00:00",,"d",2,"0389297","rusTavi xalxTa megobrobis gamz. kor",
+"35001048682","sulamaniZe","mayvala","arCili","01/05/41 00:00:00","11/28/02 00:00:00","b",2,"0389298","rusTavi XVII m/r kor. 7 b. 3",
+"35001048683","yvavilaSvili","naTela","nodari","11/02/65 00:00:00",,"d",2,"0389298","rusTavi z.faliaSvilis q. kor. 5a b.",
+"35001048684","kvaracxelia","besiki","gela","08/11/90 00:00:00",,"a",1,"1228091","rusTavi XIX m/r kor. 7 b. 107",
+"35001048685","yaralaSvili","marine","borisi","05/04/67 00:00:00",,"a",2,"0389299","rusTavi al.mesxiSvilis q. kor. 5 b.",
+"35001048686","qavTaraZe","iosebi","firuzi","03/15/70 00:00:00",,"b",1,"0389299","rusTavi XX m/r kor. 10 b. 61",
+"35001048687","mamedovi","omari","ziadin","11/11/61 00:00:00",,"d",1,"0992846",,
+"35001048688","basilaSvili","fefo","raJdeni","10/01/55 00:00:00",,"b",2,"1106240","rusTavi XIX m/r kor. 18 b. 21",
+"35001048689","awkarunaSvili","miriani","beJani","03/08/84 00:00:00",,"a",1,"1301780","rusTavi XIX m/r kor. 15 b. 26",
+"35001048690","metreveli","manana","Toma","08/26/61 00:00:00",,"g",2,"1301950","rusTavi sumg.metalurgTa q. kor. 14",
+"35001048691","jinaSvili","laSa","spartaki","07/14/84 00:00:00",,"b",1,"1300789","rusTavi XIX m/r kor. 15 b. 8",
+"35001048781","TamazaSvili","mzia","vasili","03/07/65 00:00:00",,"d",2,"1326835","rusTavi donec.metalurgTa q. kor. 5",
+"35001048782","axverdiev","samir","taxir","05/08/85 00:00:00",,"g",1,"1340227","rusTavi g.leoniZis q. kor. 20 b. 14",
+"35001048783","gvazava","irma","koba","02/09/85 00:00:00",,"a",2,"1339345","rusTavi m.kostavas gamz. kor. 22 b.",
+"35001048784","lomsaZe","Salva","bejani","01/03/60 00:00:00",,"d",1,"1030377","lagodexi s. gurgeniani","lagodexi"
+"35001048785","gvazava","nato","karlo","02/03/62 00:00:00",,"b",2,"1128564","rusTavi m.kostavas gamz. kor. 22 b.",
+"35001048786","delibaSvili","naira","giorgi","10/11/55 00:00:00",,"g",2,"0389326","rusTavi t.granelis q. kor. 27 b. 23",
+"35001048787","sofromaZe","mariami","maqso","08/10/54 00:00:00",,"d",2,"0389326","rusTavi XVIII m/r kor. 12 b. 73",
+"35001048788","cirdava","naTela","oTari","04/27/68 00:00:00",,"a",2,"0749415","rusTavi maris arxis I das. N 171",
+"35001048789","stefnaZe","uSangi","qristo","04/22/62 00:00:00","03/10/05 00:00:00","b",1,"0389327","rusTavi XIX m/r kor. 23 b. 89",
+"35001048790","rTveliaSvili","maia","giorgi","04/18/70 00:00:00",,"e",2,"0150845","soxumi s. besleTi","soxumi"
+"35001048791","gurgeniZe","koba","omari","05/11/73 00:00:00",,"a",1,"1339786","rusTavi xalxTa megobrobis gamz. kor",
+"35001048792","baRaTriSvili","avTandili","zaqaria","03/12/82 00:00:00",,"a",1,"1067199","rusTavi XIX m/r kor. 5 b. 63",
+"35001048793","WikaZe","Tamari","miSa","04/25/84 00:00:00",,"d",2,"1156821","rusTavi XIX m/r kor. 10 b. 60",
+"35001048794","kenkebaSvili","giorgi","SoTa","04/28/84 00:00:00",,"g",1,"1326527","rusTavi J.Sartavas gamz. kor. 7 b.",
+"35001048795","gelaSvili","aleqsi","gunteri","09/02/79 00:00:00",,"g",1,"1087043","rusTavi n.baraTaSvilis q. kor. 13 b",
+"35001048796","xoferia","dimitri","xarlampi","03/11/36 00:00:00",,"a",1,"0432814","Tbilisi isnis q. N 6/8","isani"
+"35001048797","menafire","goCa","zurabi","07/24/85 00:00:00",,"d",1,"1339713","rusTavi p.Todrias q. kor. 3 b. 54",
+"35001048798","vaniSvili","irakli","aleqsandre","10/23/84 00:00:00",,"a",1,"1023762","rusTavi XII m/r kor. 1 b. 31",
+"35001048799","filievi","roin","Salva","05/17/59 00:00:00",,"g",1,"1339564","rusTavi iv.maCabelis q. kor. 12a b.",
+"35001048800","kilasonia","mzia","solomoni","09/18/42 00:00:00",,"g",2,"0389331","rusTavi d.kldiaSvilis q. kor. 21 b.",
+"35001048801","mustafaeva","nazife","mamed","04/11/76 00:00:00",,"d",2,"0389331","rusTavi marjvena sanapiros III das.",
+"35001048802","vardiSvili","mediko","romani","04/14/62 00:00:00",,"b",2,"1179204","Tbilisi   misamarTis gareSe","samgori"
+"35001048803","mustafaeva","ragilia","islam","12/14/60 00:00:00",,"b",2,"1301074","rusTavi marjvena sanapiros III das.",
+"35001048804","gvaramaZe","aleqsandre","ilia","04/12/77 00:00:00",,"b",1,"0734848","rusTavi l.tolstois q. kor. 3 b. 2",
+"35001048805","Tordia","nika","merabi","04/16/86 00:00:00",,"g",1,"0938673","rusTavi n.qaSakaSvilis q. kor. 6 b.",
+"35001048806","buxrikiZe","papuna","zaza","03/31/90 00:00:00",,"g",1,"0909706","rusTavi d.kldiaSvilis q. kor. 17 b.",
+"35001048807","buxrikiZe","levani","zaza","11/12/88 00:00:00",,"a",1,"1227502","rusTavi d.kldiaSvilis q. kor. 17 b.",
+"35001048808","ruxaZe","sofiko","joni","08/06/73 00:00:00",,"a",2,"0389333","rusTavi J.Sartavas gamz. kor. 25 b.",
+"35001048809","ruxaZe","maia","joni","05/26/72 00:00:00",,"b",2,"0389333","rusTavi J.Sartavas gamz. kor. 25 b.",
+"35001048810","mWedliSvili","daviTi","jondo","12/08/71 00:00:00",,"g",1,"1143300","rusTavi p.Todrias q. kor. 9 b. 103",
+"35001048811","berianiZe","zauri","nikolozi","07/17/44 00:00:00","12/03/09 00:00:00","d",1,"0389333","rusTavi xalxTa megobrobis gamz. kor",
+"35001048812","maisuraZe","mariami","akofi","08/01/35 00:00:00",,"b",2,"1327110","rusTavi i.curtavelis q. kor. 5 b. 1",
+"35001048813","gangan","akulina","makari","07/14/29 00:00:00","03/08/03 00:00:00","b",2,"0389334","rusTavi p.Todrias q. kor. 17 b. 45",
+"35001048814","kereseliZe-mWedliSvili","nino","guladi","06/15/71 00:00:00",,"g",2,"0389334","rusTavi p.Todrias q. kor. 9 b. 103",
+"35001048815","yavelaSvili","nato","Tamazi","06/14/85 00:00:00",,"b",2,"1327243","rusTavi n.nekrasovis q. kor. 21a b.",
+"35001048816","lobJaniZe","nana","revazi","10/15/85 00:00:00",,"g",2,"1340025","rusTavi XV m/r kor. 11 b. 29",
+"35001048817","baramiZe","giorgi","giga","03/18/80 00:00:00",,"b",1,"1340196","rusTavi XIX m/r kor. 5 b. 58",
+"35001048818","ramazanovi","zaid","ali","04/30/83 00:00:00",,"a",1,"1156897","rusTavi g.rCeuliSvilis q. kor. 14 b",
+"35001048819","berianiZe","lali","zauri","07/22/84 00:00:00",,"a",2,"1301950","rusTavi xalxTa megobrobis gamz. kor",
+"35001048820","asraTaSvili","levani","vaJa","02/28/77 00:00:00",,"b",1,"0389336","rusTavi XII m/r kor. 21 b. 57",
+"35001048821","saxbatova","giuldana","iusif","01/14/60 00:00:00","01/28/10 00:00:00","a",2,"0627782","rusTavi XIX m/r kor. 15 b. 11",
+"35001048822","cuxiSvili","qeTevani","avTandili","09/24/74 00:00:00",,"d",2,"0389336","rusTavi J.Sartavas gamz. kor. 6 b.",
+"35001048823","didebaSvili","SoTa","zaqaria","08/11/48 00:00:00",,"b",1,"1182805","rusTavi VII m/r kor. 9 b. 64",
+"35001048824","kiknaZe","nana","megi","04/20/71 00:00:00",,"d",2,"1106370","rusTavi m.kostavas gamz. kor. 18 b.",
+"35001048825","mirianaSvili","suliko","germane","05/26/38 00:00:00",,"d",2,"1413405","rusTavi baTumis q. kor. 23 b. 8",
+"35001048826","alieva","giulbaiaz","ibat","06/14/35 00:00:00",,"a",2,"0389338","rusTavi XX m/r kor. 15 b. 78",
+"35001048827","metreveli","madi","aleqsi","11/06/47 00:00:00",,"b",2,"0389338","rusTavi XXI m/r kor. 8 b. 12",
+"35001048828","metreveli","maia","mixeili","05/12/68 00:00:00",,"g",2,"0389338","rusTavi XXI m/r kor. 8 b. 12",
+"35001048829","meqeriSvili","givi","giorgi","05/10/57 00:00:00","08/20/08 00:00:00","d",1,"0389338","rusTavi samSvildis q. kor. 22a b. 2",
+"35001048830","mWedliZe","valida","WiWiko","02/10/49 00:00:00",,"a",2,"0389339","rusTavi Tbilisis q. kor. 13 b. 36",
+"35001048831","cecxlaZe","liana","Salva","12/17/48 00:00:00",,"b",2,"0389339","rusTavi l.iosebiZis  Ses. kor. 5 b.",
+"35001048832","glurjiZe","gulo","besarioni","03/05/46 00:00:00",,"g",2,"0389339","rusTavi p.Todrias q. kor. 7 b. 118",
+"35001048833","arjevaniZe","mzia","elizbari","01/26/53 00:00:00",,"d",2,"0389339","rusTavi g.leoniZis q. kor. 34 b. 16",
+"35001048834","TedeSvili","Tengizi","levani","04/26/56 00:00:00",,"a",1,"0389340","rusTavi z.faliaSvilis q. kor. 7 b.",
+"35001048835","amyolaZe","naTela","nugzari","04/02/69 00:00:00",,"b",2,"0389340","rusTavi VII m/r kor. 10 b. 8",
+"35001048836","xalafova","sevil","aliasa","10/15/65 00:00:00",,"b",2,"1340242","rusTavi marjvena sanapiros III das.",
+"35001048837","WibalaSvili","qeTevani","sergo","07/25/79 00:00:00",,"d",2,"1307088","Tbilisi Temqa XI m/r II kv. kor. 28","naZaladevi"
+"35001048838","SubiTiZe","lili","zauri","09/10/84 00:00:00",,"a",2,"1413732","rusTavi d.guramiSvilis q. kor. 7 b.",
+"35001048839","maisuraZe","sofiko","givi","11/25/84 00:00:00",,"g",2,"1326819","rusTavi VII m/r kor. 27 b. 18",
+"35001048840","burdilaZe","nikolozi","daviTi","11/05/84 00:00:00",,"d",1,"0389341","rusTavi al.yazbegis q. kor. 1 b. 33",
+"35001048841","qebaZe","daviTi","oTari","05/15/84 00:00:00",,"d",1,"1327245","rusTavi VII m/r kor. 15 b. 6",
+"35001048842","mamukaSvili","mixeili","nugzari","10/08/82 00:00:00",,"a",1,"1106308","rusTavi XX m/r kor. 12 b. 28",
+"35001048843","ibragimovi","emzar","telman","02/12/86 00:00:00",,"g",1,"0389342","rusTavi samSvildis q. kor. 36 b. 2",
+"35001048844","kavTelaZe","irakli","SoTa","10/15/84 00:00:00",,"d",1,"0389342","rusTavi XVI m/r kor. 9 b. 45",
+"35001048845","metreveli","marine","aleqsi","05/05/83 00:00:00",,"d",2,"1128671","rusTavi VIIa m/r kor. 1 b. 6-7",
+"35001048846","iremaSvili","valentina","simoni","11/19/30 00:00:00","11/15/06 00:00:00","g",2,"0389343","rusTavi p.Todrias q. kor. 17 b. 74",
+"35001048847","rikaZe","tuxuna","varlami","01/10/41 00:00:00",,"d",2,"0389343","rusTavi J.Sartavas gamz. kor. 13 b.",
+"35001048848","dinuaSvili","elza","barnabi","10/25/47 00:00:00",,"a",2,"0389344","rusTavi J.Sartavas gamz. kor. 13 b.",
+"35001048849","beriZe","nugzari","giorgi","01/05/64 00:00:00",,"b",1,"0389344","rusTavi VIII m/r kor. 18 b. 48",
+"35001048850","janiaSvili","frani","suliko","01/10/55 00:00:00",,"g",2,"0389344","rusTavi donec.metalurgTa q. kor. 10",
+"35001048851","kapanaZe","maro","sergo","08/06/55 00:00:00",,"d",2,"0389344","rusTavi VIII m/r kor. 12 b. 73",
+"35001048852","soxaSvili","vaxtangi","jumberi","08/19/80 00:00:00",,"g",1,"1156833","rusTavi XVII m/r kor. 12 b. 95",
+"35001048853","axmedovi","magsad","maxsud","01/21/86 00:00:00",,"g",1,"1413371","rusTavi p.Todrias I Cixi kor. 4 b.",
+"35001048854","karkuzaSvili","Tengiz","xazbi","08/19/60 00:00:00",,"a",1,"0389346","rusTavi 9 Zma xerxeuliZis q. kor. 1",
+"35001048855","bawilaSvili","akaki","qaruma","08/09/65 00:00:00",,"b",1,"1339432","rusTavi XIV m/r kor. 48 b. 3",
+"35001048856","kenkebaSvili","avTandili","Cito","08/06/73 00:00:00",,"g",1,"0389346","rusTavi XII m/r kor. 19 b. 34",
+"35001048857","kirsanova","nina","vladmieri","06/30/68 00:00:00",,"d",2,"0389346","rusTavi p.Todrias q. kor. 3 b. 117",
+"35001048858","gelaSvili","inga","jumberi","05/14/73 00:00:00",,"a",2,"0389347","rusTavi p.Todrias II Cixi kor. 3 b.",
+"35001048859","xoxaSvili","irine","Teimurazi","09/29/67 00:00:00",,"b",2,"0389347","rusTavi konstituciis q. kor. 5 b. 6",
+"35001048860","SaTiriSvili","liana","zaqro","02/09/52 00:00:00",,"g",2,"0389347","rusTavi XIX m/r kor. 10 b. 99",
+"35001048861","Sermadini","elguja","bagrati","03/18/57 00:00:00","07/29/04 00:00:00","d",1,"0389347","rusTavi sportis q. kor. 2 b. 15",
+"35001048862","mearayiSvili","ilarioni","sograti","12/20/51 00:00:00",,"a",1,"0389348","rusTavi XII m/r kor. 3 b. 50",
+"35001048863","osmanova","maruza","ibragim","06/01/49 00:00:00","08/02/10 00:00:00","b",2,"0389348","rusTavi p.Todrias q. kor. 17 b. 57",
+"35001048864","gogsaZe","viaCeslavi","konstantine","11/30/54 00:00:00",,"g",1,"0389348","rusTavi al.mesxiSvilis q. kor. 11 b",
+"35001048865","avakova","larisa","marleni","07/07/62 00:00:00","06/14/06 00:00:00","d",2,"0389348","rusTavi samSvildis q. kor. 20a b. 2",
+"35001048866","degtereva","antanina","vasili","12/19/36 00:00:00",,"d",2,"1179946","rusTavi z.faliaSvilis q. kor. 3a b.",
+"35001048867","doliZe","zviad","nodari","11/27/73 00:00:00",,"a",1,"1413907","rusTavi XXI m/r kor. 6 b. 90",
+"35001048868","basmanova","anJela","ivane","04/21/40 00:00:00","02/19/08 00:00:00","g",2,"0389350","rusTavi XV m/r kor. 16 b. 6",
+"35001048957","mkrtumiani","aleqsandre","sarqisi","08/06/52 00:00:00",,"d",1,"0389374","rusTavi sumg.metalurgTa q. kor. 11",
+"35001048958","begaSvili","eTeri","noe","05/03/61 00:00:00",,"d",2,"0909989","rusTavi samgoris q. N 27a",
+"35001048959","janiaSvili","nana","domenti","09/05/67 00:00:00",,"b",2,"0389375","rusTavi r.erisTavis q. N 13",
+"35001048960","maWaraSvili","darejan","aneri","08/26/72 00:00:00",,"g",2,"0389375","rusTavi VIII m/r kor. 8 b. 39",
+"35001048961","xvedeliZe","lali","SoTa","06/25/57 00:00:00",,"d",2,"0389375","rusTavi XIX m/r kor. 9 b. 89",
+"35001048962","TodaZe","elena","abiko","01/08/62 00:00:00",,"g",2,"1066836","rusTavi XII m/r kor. 37 b. 30",
+"35001048963","qvaWreliSvili","darejani","valodia","07/03/62 00:00:00",,"b",2,"1106440","rusTavi VIII m/r kor. 5a b. 36",
+"35001048964","biaSvili","svetlana","dimitri","05/15/50 00:00:00",,"a",2,"1390740","rusTavi XX m/r kor. 10 b. 68",
+"35001048965","gelaSvili","mariam","Temuri","12/06/91 00:00:00","04/13/11 00:00:00","g",2,"1359707","Tbilisi pekinis gamz. N 18 b. 32","saburTalo"
+"35001048966","mumlaZe","giorgi","hamleti","05/20/94 00:00:00",,"d",1,"1301153","rusTavi XIX m/r kor. 2 b. 55",
+"35001048967","bibilaSvili","irakli","pavle","09/18/94 00:00:00",,"d",1,"1228321","rusTavi XVII m/r kor. 20 b. 40",
+"35001048968","gelaSvili","mariam","mamuka","02/02/91 00:00:00",,"d",2,"1087172","rusTavi XV m/r kor. 12 b. 88",
+"35001048969","SalvaSvili","mariami","Salva","05/11/93 00:00:00",,"g",2,"1228271","rusTavi k.leseliZis II Cixi N 11",
+"35001048970","gogoCaSvili","Tamari","mixeili","07/24/88 00:00:00",,"a",2,"0909286","rusTavi XII m/r kor. 1 b. 203",
+"35001048971","gogolaZe","salome","SoTa","11/12/90 00:00:00",,"d",2,"1087176","rusTavi xalxTa megobrobis gamz. kor",
+"35001048972","geliaSvili","bela","gela","04/16/93 00:00:00",,"g",2,"1339011","rusTavi al.mesxiSvilis q. kor. 3 b.",
+"35001048973","maduraSvili","gvanca","omari","09/12/85 00:00:00",,"a",2,"1339480","rusTavi l.tolstois q. kor. 3 b. 11",
+"35001048974","maduraSvili","nino","rostevani","11/08/83 00:00:00",,"b",2,"1199367",,
+"35001048975","mananaZe","daviTi","goCa","08/13/80 00:00:00",,"d",1,"0805325","rusTavi al.yazbegis q. kor. 1 b. 28",
+"35001048976","cicviZe","laSa","Temuri","07/24/84 00:00:00",,"d",1,"0389377","rusTavi XII m/r kor. 4 b. 54",
+"35001048977","buTuriSvili","irma","romani","05/19/78 00:00:00",,"a",2,"0749315","rusTavi XVI m/r kor. 9 b. 60",
+"35001048978","kirakosiani","samvel","seirani","07/11/85 00:00:00",,"b",1,"1044827","rusTavi xalxTa megobrobis gamz. kor",
+"35001048979","kalandaZe","nino","dimitri","02/28/85 00:00:00",,"g",2,"1413541","rusTavi iv.maCabelis q. kor. 12a b.",
+"35001048980","bodur","saida","ismail","02/13/80 00:00:00",,"d",2,"1339536","rusTavi g.rCeuliSvilis q. kor. 8a b",
+"35001048981","mWedliZe","vaxtang","kukuri","05/08/85 00:00:00",,"b",1,"1087707","rusTavi VIII m/r kor. 7 b. 21",
+"35001048982","guseinovi","valex","Samdin","05/17/40 00:00:00","08/27/08 00:00:00","d",1,"0439930","gardabani s. nazarlo","gardabani"
+"35001048983","xaraziSvili","SoTa","biWiko","01/13/57 00:00:00",,"g",1,"0389379","rusTavi VI m/r kor. 4 b. 404",
+"35001048984","julayiZe","varvara","sergo","05/05/36 00:00:00",,"d",2,"0389379","rusTavi al.mesxiSvilis II gas. kor.",
+"35001048985","maxaraSvili","mixeili","aleqsandre","10/27/53 00:00:00",,"a",1,"0389380","rusTavi n.baraTaSvilis  Ses. kor. 5",
+"35001048986","engibariani","vladimeri","vagaki","09/01/34 00:00:00",,"b",1,"0389380","rusTavi p.Todrias III Cixi kor. 3 b",
+"35001048987","siWinava","tarieli","gurami","06/26/61 00:00:00",,"d",1,"0938440","rusTavi g.nikolaZis q. kor. 4 b. 7",
+"35001048988","bairamovi","faig","sabir","04/05/85 00:00:00",,"b",1,"0389381","rusTavi iv.maCabelis q. kor. 7 b. 1",
+"35001048989","malaSixini","denis","valeri","08/01/85 00:00:00",,"g",1,"0389381","rusTavi m.balanCivaZis  gas. kor. 4",
+"35001048990","mikuliak","maria","dimitri","06/08/27 00:00:00","05/25/05 00:00:00","d",2,"0389381","rusTavi wminda ninos q. kor. 2 b. 1",
+"35001048991","Satareviani","margarita","grigori","05/05/58 00:00:00",,"b",2,"0704127","rusTavi samSvildis q. kor. 34a b. 1",
+"35001048992","kavsaZe","levan","goneri","05/09/73 00:00:00",,"d",1,"1339581","rusTavi VII m/r kor. 12 b. 36",
+"35001048993","dvali","goCa","jimSeri","03/05/63 00:00:00",,"g",1,"1112821","ambrolauri s. bugeuli","ambrolauri"
+"35001048994","miminoSvili","Temuri","karlo","07/05/59 00:00:00",,"a",1,"0749398","rusTavi d.guramiSvilis q. kor. 7 b.",
+"35001048995","xubuluri","meri","giorgi","07/02/58 00:00:00",,"a",2,"0528988","rusTavi s.axmetelis q. kor. 4 b. 84",
+"35001048996","molakazimovi","vagif","maxmud","01/05/53 00:00:00",,"g",1,"1156910","rusTavi XIX m/r kor. 14 b. 59",
+"35001048997","RvedaSvili","levani","zauri","04/29/71 00:00:00",,"g",1,"0389383","rusTavi XVII m/r kor. 18 b. 70",
+"35001048998","agajaniani","naziko","Tengizi","09/24/64 00:00:00",,"d",2,"0389383","rusTavi n.baraTaSvilis q. kor. 29 b",
+"35001048999","popiaSvili","izolda","vasili","01/08/48 00:00:00",,"a",2,"0389384","rusTavi XV m/r kor. 12 b. 24",
+"35001049000","foTolaSvili","qeTevan","Teimurazi","09/07/84 00:00:00",,"a",2,"1301563","rusTavi XII m/r kor. 19 b. 71",
+"35001049001","safarovi","emin","osman","04/29/85 00:00:00",,"b",1,"1413823","rusTavi g.rCeuliSvilis q. kor. 2 b.",
+"35001049002","samxaraZe","vaxtangi","amrani","04/28/84 00:00:00",,"d",1,"0389384","rusTavi XV m/r kor. 13 b. 38",
+"35001049003","cxovrebaSvili","irine","akaki","11/03/84 00:00:00",,"a",2,"0389385","rusTavi iv.turgenevis q. N 65",
+"35001049004","cxovrebaSvili","irma","akaki","11/03/84 00:00:00",,"d",2,"1413449","rusTavi iv.turgenevis q. N 65",
+"35001049005","jafariZe-qamxaZe","xaTuna","bagrati","06/07/85 00:00:00",,"d",2,"1356977","kaspi  misamarTis gareSe","kaspi"
+"35001049006","TevdoraSvili","sofio","arCili","08/06/85 00:00:00",,"d",2,"0389385","rusTavi n.gogolis q. kor. 27 b. 1",
+"35001049007","zaaliSvili","manana","levani","08/07/82 00:00:00","11/20/02 00:00:00","a",2,"0389596","rusTavi t.granelis q. kor. 27 b. 52",
+"35001049008","carciZe","vladimeri","Tamazi","07/04/79 00:00:00",,"g",1,"1087556","rusTavi XIX m/r kor. 7 b. 17",
+"35001049009","abulaSvili","zaqaria","iosebi","08/25/56 00:00:00",,"d",1,"0389386","rusTavi m.lermontovis q. kor. 6 b.",
+"35001049010","uSariZe","Temur","nikolozi","02/02/57 00:00:00",,"a",1,"0389387","rusTavi XII m/r kor. 5 b. 70",
+"35001049011","gelaSvili","Temuri","alioSa","02/21/64 00:00:00",,"g",1,"1170625","saCxere s. baxioTi","saCxere"
+"35001049012","nabievi","anar","agali","05/26/85 00:00:00",,"d",1,"0389387","rusTavi VI m/r kor. 5 b. 512",
+"35001049013","gabrieliZe","nodari","levani","12/09/66 00:00:00",,"d",1,"1023982","rusTavi m.balanCivaZis q. kor. 7 b.",
+"35001049014","beJuaSvili","lali","jorji","11/22/72 00:00:00",,"a",2,"0389389","rusTavi xalxTa megobrobis gamz. kor",
+"01019051188","demetraSvili","nodar","giorgi","12/08/56 00:00:00",,"b",1,"0892593","Tbilisi W.bendelianis q. N 1b b. 27","naZaladevi"
+"01019051189","axalkaci","giorgi","pavle","07/10/49 00:00:00",,"g",1,"0892593","Tbilisi xerTvisis q. N 22","naZaladevi"
+"01019051190","jakonia","nugzar","sandro","09/10/53 00:00:00",,"d",1,"0892593","Tbilisi javis VI Ses. N 23","naZaladevi"
+"01019051191","asraTaSvili","rusudan","robizoni","07/14/74 00:00:00",,"g",2,"1227743","rusTavi S.rusTavelis q. kor. 37 b.",
+"01019051192","maRraZe","grigol","levani","11/01/31 00:00:00","01/09/09 00:00:00","b",1,"0892594","Tbilisi d.JRentis q. N 95a","naZaladevi"
+"01019051193","dalaqiSvili","aleqsandre","nikolozi","09/25/37 00:00:00","12/28/10 00:00:00","g",1,"0892594","Tbilisi gomareTis q. N 7","naZaladevi"
+"01019051194","balasanova","ala","gukasi","08/13/44 00:00:00",,"d",2,"0892594","Tbilisi Temqa III m/r I kv. kor. 9","naZaladevi"
+"01019051195","gaboZe","Tamaz","nodari","07/20/56 00:00:00",,"a",1,"0892595","Tbilisi e.beJaniSvilis q. N 18","naZaladevi"
+"01019051196","sivickaia","vanda","grigoli","06/08/59 00:00:00",,"g",2,"0892595","Tbilisi Temqa III m/r V kv. kor. 5","naZaladevi"
+"01019051197","alamSariani","sergo","parkevi","09/24/57 00:00:00",,"d",1,"0892595","Tbilisi Temqa III m/r V kv. kor. 2","naZaladevi"
+"01019051198","saginaSvili","vaJa","nikolozi","06/23/44 00:00:00",,"a",1,"0892596","Tbilisi Temqa III m/r V kv. kor. 16","naZaladevi"
+"01019051199","SavSiSvili","oTar","samsoni","10/18/49 00:00:00",,"b",1,"0892596","Tbilisi kiSinovis q. N 34","naZaladevi"
+"01019051200","leveraSvili","nino","aleqsandre","11/17/35 00:00:00",,"g",2,"1425053","Tbilisi Tmogvis q. N 6","naZaladevi"
+"01019051201","janjalaSvili","Tamar","ilia","07/01/19 00:00:00","01/20/11 00:00:00","b",2,"0892597","Tbilisi Temqa III m/r II kv. kor. 3","naZaladevi"
+"01019051202","janjalaSvili","TamTa","zaqaria","02/17/90 00:00:00",,"g",2,"0892597","Tbilisi Temqa III m/r II kv. kor. 3","naZaladevi"
+"01019051203","jabua","zurab","evtrofi","04/19/41 00:00:00",,"d",1,"0892597","Tbilisi Temqa III m/r V kv. kor. 15","naZaladevi"
+"01019051204","jabua","svetlana","petre","02/20/49 00:00:00",,"a",2,"0892598","Tbilisi Temqa III m/r V kv. kor. 15","naZaladevi"
+"01019051205","WikaiZe","fridon","levani","04/15/74 00:00:00",,"b",1,"0892598","Tbilisi Temqa IV m/r kor. 6 b. 197","naZaladevi"
+"01019051206","qaliaSvili","luiza","ivane","09/25/37 00:00:00",,"g",2,"0892598","Tbilisi Temqa XI m/r I kv. kor. 10","naZaladevi"
+"01019051207","svaniSvili","tariel","revazi","01/10/39 00:00:00",,"d",1,"0892598","Tbilisi moliTis q. N 31","naZaladevi"
+"01019051208","wiklauri","koba","Tengizi","07/25/68 00:00:00",,"a",1,"0892599","Tbilisi Temqa XI m/r I kv. kor. a b","naZaladevi"
+"01019051209","sabaSvili","maia","aleqsandre","11/21/70 00:00:00",,"b",2,"0892599","Tbilisi TianeTis q. N 13","naZaladevi"
+"01019051210","kereseliZe","zurab","SoTa","05/16/57 00:00:00",,"g",1,"0892599","Tbilisi sanzona kor. 28 b. 50","naZaladevi"
+"01019051211","tabataZe","gaioz","konstantine","06/02/54 00:00:00",,"d",1,"0892599","Tbilisi zestafonis q. N 22a b. 16","naZaladevi"
+"01019051212","xubaSvili","aleqsandre","vladimeri","04/15/53 00:00:00",,"a",1,"0892600","Tbilisi Temqa III m/r II kv. kor. 3","naZaladevi"
+"01019051213","gerasimova","tatiana","aleqsandre","11/04/89 00:00:00",,"b",2,"0892600","Tbilisi Temqa IV kv. kor. 8 b. 19","naZaladevi"
+"01019051214","nemsaZe","leila","WiWiko","02/05/39 00:00:00",,"g",2,"0940921","Tbilisi imereTis q. N 53","naZaladevi"
+"01019051215","mosiZe","olia","ivane","01/24/31 00:00:00",,"d",2,"0892618","Tbilisi sanzona kor. 4g b. 46","naZaladevi"
+"01019051216","tabataZe","mariam","valeriani","09/18/51 00:00:00",,"b",2,"0892601","Tbilisi n.buaCiZis q. N 14 b. 7","naZaladevi"
+"01019051217","tabataZe","zurab","dimitri","06/15/49 00:00:00",,"d",1,"0892601","Tbilisi n.buaCiZis q. N 14 b. 7","naZaladevi"
+"01019051218","samxaraZe","ana","antoni","08/09/41 00:00:00",,"b",2,"0892602","Tbilisi Temqa III m/r II kv. kor. 3","naZaladevi"
+"01019051219","kobaxiZe","eTer","giga","10/01/61 00:00:00",,"g",2,"0892602","Tbilisi Temqa III m/r I kv. kor. 14","naZaladevi"
+"01019051220","bakaSvili","sulxan","vaJa","01/17/95 00:00:00",,"d",1,"1334605","Tbilisi d.JRentis q. N 36","naZaladevi"
+"01019051221","bairamovi","esmira","vali","06/05/86 00:00:00",,"a",2,"0892604","Tbilisi   misamarTis gareSe","naZaladevi"
+"01019051222","sabaZe","ana","giorgi","07/06/69 00:00:00",,"g",2,"0892605","Tbilisi Temqa X kv. kor. 37 b. 22","naZaladevi"
+"01019051223","WoniSvili","zaal","valiko","04/23/63 00:00:00",,"g",1,"1103679","Tbilisi r.uridias q. N 86a","naZaladevi"
+"01019051224","moniava","ciala","polikarpe","10/25/86 00:00:00",,"b",2,"0892606","Tbilisi Temqa Xa kv. kor. 42 b. 18","naZaladevi"
+"01019051225","veSaguri","ia","zurabi","09/27/86 00:00:00",,"d",2,"0892606","Tbilisi zigzagis II Cixi N 1a","naZaladevi"
+"01019051226","WaWukaSvili","salome","limoni","05/22/19 00:00:00","12/26/08 00:00:00","a",2,"0892607","Tbilisi zestafonis q. N 3 b. 1","naZaladevi"
+"01019051227","leJava","revazi","spartaki","12/24/64 00:00:00",,"a",1,"1374953","Tbilisi Temqa XI m/r II kv. kor. 31","naZaladevi"
+"01019051228","nasyidaSvili","zurab","Salva","01/12/54 00:00:00",,"d",1,"0892610","Tbilisi c.dadianis q. N 122","naZaladevi"
+"01019051229","boraSvili","lali","sureni","02/28/60 00:00:00",,"d",2,"0892611","Tbilisi didi jixaiSis I Ses. N 3","naZaladevi"
+"01019051230","birkaia","irakli","aleqsandre","04/21/66 00:00:00","06/28/10 00:00:00","g",1,"0892612","Tbilisi W.bendelianis q. N 1b b. 48","naZaladevi"
+"01019051231","daviTaSvili","nina","giorgi","05/04/40 00:00:00",,"d",2,"0892612","Tbilisi sanzona kor. 25 b. 23","naZaladevi"
+"01019051232","Jvania","Tamar","bardRu","05/25/20 00:00:00",,"a",2,"0892613","Tbilisi d.guramiSvilis gamz. N 12a","naZaladevi"
+"01019051233","tuSuraSvili","giorgi","givi","01/20/86 00:00:00",,"g",1,"0892613","Tbilisi v.ninuas q. N 3 b. 5","naZaladevi"
+"01019051234","tuCaSvili","nino","vaJa","11/26/89 00:00:00","03/14/11 00:00:00","d",2,"0892613","Tbilisi Temqa III m/r V kv. kor. 23","naZaladevi"
+"01019051235","miruaSvili-sigua","rusudan","aleqsandre","12/21/62 00:00:00",,"g",2,"1423501","Tbilisi rkinigzis q. N 16","naZaladevi"
+"01019051236","CiCua","luiza","vasili","09/27/36 00:00:00",,"g",2,"0892614","Tbilisi c.dadianis q. N 142 b. 31","naZaladevi"
+"01019051237","bulaSvili","lali","lavrenti","07/26/77 00:00:00",,"d",2,"0892614","Tbilisi arbos q. N 1 b. 24","naZaladevi"
+"01019051238","begaSvili","giorgi","saba","10/15/35 00:00:00",,"b",1,"0892615","Tbilisi Temqa III m/r II kv. kor. 3","naZaladevi"
+"01019051239","TaqTaqiSvili","roland","giorgi","12/11/58 00:00:00",,"g",1,"0892615","Tbilisi qviSxeTis q. N 16 b. 8","naZaladevi"
+"01019051240","afciauri","leri","varlami","07/07/70 00:00:00",,"d",1,"1401979","Tbilisi s.qsovrelis II Cixi N 15","naZaladevi"
+"01019051241","gagniZe","aza","irodioni","08/02/57 00:00:00",,"b",2,"0892616","Tbilisi mirzaanis q. N 36","naZaladevi"
+"01019051242","tatiSvili","zaira","iosebi","07/27/38 00:00:00",,"d",2,"0892616","Tbilisi didi jixaiSis q. N 122","naZaladevi"
+"01019051243","samxaraZe","levan","daviTi","12/02/84 00:00:00",,"g",1,"0892616","Tbilisi e.beJaniSvilis II gas. N 44","naZaladevi"
+"01019051244","CiraRovi","naTela","isaki","05/05/39 00:00:00",,"a",2,"0892617","Tbilisi r.uridias q. N 135","naZaladevi"
+"01019051245","ansiani","lia","varanco","01/01/66 00:00:00",,"b",2,"0892617","Tbilisi T.toroSeliZis q. N 6","naZaladevi"
+"01019051246","samxaraZe","laSa","daviTi","01/16/86 00:00:00",,"d",1,"0892617","Tbilisi e.beJaniSvilis II gas. N 44","naZaladevi"
+"01019051247","muradiani","narek","alberti","01/19/90 00:00:00",,"g",1,"1124193","ninowminda s.Sahumianis q. N 44","ninowminda"
+"01019051248","qarTveliSvili","nana","mixeili","11/23/65 00:00:00",,"d",2,"0892619","Tbilisi Temqa XI m/r III kv. kor. 4","naZaladevi"
+"01019051249","basilaSvili","Tengiz","genadi","03/02/58 00:00:00",,"g",1,"0892621","Tbilisi c.dadianis q. N 142","naZaladevi"
+"01019051250","mujriSvili","julieta","alberti","09/22/49 00:00:00",,"d",2,"0892621","Tbilisi leCxumis q. N 47","naZaladevi"
+"01019051251","giorgobiani","nazi","revazi","06/13/50 00:00:00",,"a",2,"0892622","Tbilisi leCxumis q. N 44a","naZaladevi"
+"01019051252","ZaganaSvili","jaba","alberti","03/13/90 00:00:00",,"b",1,"0892622","Tbilisi baxmaros q. N 24","naZaladevi"
+"01019051253","yurulovi","mariam","nersesi","08/20/26 00:00:00","12/11/06 00:00:00","g",2,"0892622","Tbilisi S.cincaZis q. N 33","naZaladevi"
+"01019051254","merabiSvili","giorgi","merabi","10/08/88 00:00:00",,"d",1,"0892622","Tbilisi samRereTis q. N 48","naZaladevi"
+"01019051340","beritaSvili","ciuri","vasili","01/14/46 00:00:00",,"d",2,"0892659","Tbilisi Temqa III m/r I kv. kor. 14","naZaladevi"
+"01019051341","daviTaSvili","malxaz","anzori","05/19/66 00:00:00",,"b",1,"0892660","Tbilisi Temqa III m/r V kv. kor. 6a","naZaladevi"
+"01019051342","kereseliZe","revaz","zurabi","10/06/88 00:00:00",,"a",1,"1363402","Tbilisi Temqa XI m/r II kv. kor. 28","naZaladevi"
+"01019051343","kereseliZe","elza","vaxtangi","02/13/64 00:00:00",,"a",2,"0892661","Tbilisi Temqa XI m/r II kv. kor. 28","naZaladevi"
+"01019051344","talikaSvili","giuli","aleqsandre","09/28/52 00:00:00",,"b",2,"0892661","Tbilisi Temqa III m/r V kv. kor. 5","naZaladevi"
+"01019051345","oqruaSvili","vaxtang","simoni","09/10/23 00:00:00",,"g",1,"0892661","Tbilisi javis VI Ses. N 15","naZaladevi"
+"01019051346","sxirtlaZe","giorgi","biZina","01/25/68 00:00:00",,"a",1,"0892662","Tbilisi n.CxikvaZis q. N 28","naZaladevi"
+"01019051347","mazmiSvili","Sorena","Tamazi","10/01/89 00:00:00",,"b",2,"0892663","Tbilisi   misamarTis gareSe","naZaladevi"
+"01019051348","bardaveliZe","aza","bondo","01/01/71 00:00:00",,"g",2,"0892663","Tbilisi sanavardos q. N 48","naZaladevi"
+"01019051349","didebaSvili","vaJa","nikolozi","06/13/49 00:00:00",,"d",1,"0892663","Tbilisi didi jixaiSis q. N 89","naZaladevi"
+"01019051350","marsagiSvili","rusudan","dimitri","07/22/36 00:00:00",,"a",2,"0892664","Tbilisi svaneTis q. N 30","naZaladevi"
+"01019051351","gagoSiZe","amiran","nugzari","04/06/88 00:00:00",,"g",1,"1206621","Tbilisi c.dadianis q. N 305a b. 1","naZaladevi"
+"01019051352","gagoSiZe","aleqsandre","nugzari","04/15/89 00:00:00",,"g",1,"0892664","Tbilisi c.dadianis q. N 305a b. 1","naZaladevi"
+"01019051353","kulumbegaSvili","emzar","tarasi","06/15/55 00:00:00",,"d",1,"0892664","Tbilisi darkveTis q. N 19","naZaladevi"
+"01019051354","eqizaSvili","varlam","paata","08/25/89 00:00:00","04/23/10 00:00:00","g",1,"1166754","Tbilisi baxmaros q. N 38","naZaladevi"
+"01019051355","muradaSvili","nanuli","mixeili","05/04/30 00:00:00",,"b",2,"0892665","Tbilisi c.dadianis q. N 34 kor. 10","naZaladevi"
+"01019051356","papiaSvili","vaxtang","levani","09/18/88 00:00:00",,"g",1,"0892665","Tbilisi gordis q. N 18b","naZaladevi"
+"01019051357","vaSakiZe","lili","panteleimoni","02/26/27 00:00:00",,"a",2,"0892666","Tbilisi W.bendelianis q. N 12 kor.","naZaladevi"
+"01019051358","filievi","lali","akaki","12/05/60 00:00:00",,"d",2,"1001684","lanCxuTi Tavisuflebis q. N 3","lanCxuTi"
+"01019051359","afciauri","tristan","daviTi","08/20/59 00:00:00",,"b",1,"1030206","TianeTi s. naqalaqari","TianeTi"
+"01019051360","moZmanaSvili","sinZara","levani","08/10/40 00:00:00",,"b",2,"1242742","Tbilisi g.saakaZis III Ses. N 11","naZaladevi"
+"01019051361","WeliZe","marina","geronti","07/22/49 00:00:00",,"b",2,"1338814","Tbilisi Temqa XI m/r III kv. kor. 5","naZaladevi"
+"01019051362","ivaniZe","Teona","gela","04/22/89 00:00:00",,"g",2,"0892668","Tbilisi Temqa III m/r II kv. kor. 2","naZaladevi"
+"01019051363","jorjaZe","sofio","giorgi","12/30/70 00:00:00",,"d",2,"0892668","Tbilisi sanavardos q. N 59","naZaladevi"
+"01019051364","robaqiZe","mariam","revazi","09/11/64 00:00:00",,"a",2,"0892669","Tbilisi Temqa IX kv. kor. 18 b. 25","naZaladevi"
+"01019051365","kvirikaZe","rusudan","akaki","06/23/42 00:00:00",,"b",2,"0892669","Tbilisi gulrifSis q. N 16","naZaladevi"
+"01019051366","nusxelaZe","Temuraz","kaplo","01/22/58 00:00:00",,"g",1,"0892669","Tbilisi Temqa IV kv. kor. 9a b. 18","naZaladevi"
+"01019051367","daviTaSvili","giorgi","aleqsandre","12/19/86 00:00:00",,"a",1,"0892670","Tbilisi Temqa IX kv. kor. 15a b. 4","naZaladevi"
+"01019051368","kiknaZe","revaz","konstantine","11/20/42 00:00:00",,"d",1,"0892670","Tbilisi Carglis q. N 61","naZaladevi"
+"01019051369","ivaniZe","nino","amirani","11/05/61 00:00:00",,"a",2,"0892671","Tbilisi   misamarTis gareSe","naZaladevi"
+"01019051370","ivaniZe","ciala","aqvsenti","08/09/37 00:00:00",,"b",2,"0892671","Tbilisi   misamarTis gareSe","naZaladevi"
+"01019051371","zakutova","sonia","daviTi","08/05/52 00:00:00",,"g",2,"0892671","Tbilisi i.lisaSvilis  gas. N 3","naZaladevi"
+"01019051372","dvaliZe","liana","ivane","02/19/49 00:00:00","08/23/07 00:00:00","d",2,"0892671","Tbilisi RrmaRelis I Ses. N 34","naZaladevi"
+"01019051373","zakutovi","zaqaria","gigo","10/18/49 00:00:00",,"a",1,"0892672","Tbilisi i.lisaSvilis  gas. N 3","naZaladevi"
+"01019051374","didebaSvili","ramaz","garsevani","02/11/68 00:00:00",,"g",1,"0980675","Tbilisi Temqa III m/r V kv. kor. 26","naZaladevi"
+"01019051375","qoqiauri","evgenia","iosebi","02/02/15 00:00:00","10/05/09 00:00:00","g",2,"0892672","Tbilisi Temqa III m/r II kv. kor. 2","naZaladevi"
+"01019051376","oqropiriZe","JuJuna","arseni","10/29/39 00:00:00",,"d",2,"0892672","Tbilisi d.guramiSvilis gamz. N 23 b","naZaladevi"
+"01019051377","inauri","mariam","giorgi","10/15/39 00:00:00",,"a",2,"0892673","Tbilisi bJoleTis q. N 5","naZaladevi"
+"01019051378","masxulia","giorgi","konstantine","10/23/86 00:00:00",,"a",1,"1175014","zugdidi  misamarTis gareSe","zugdidi"
+"01019051379","sadraZe","liana","koki","04/20/58 00:00:00",,"g",2,"0892673","Tbilisi Temqa IV m/r kor. 7 b. 75","naZaladevi"
+"01019051380","xuciSvili","manana","tristani","09/12/64 00:00:00",,"a",2,"0892675","Tbilisi v.kakabaZis q. N 29","naZaladevi"
+"01019051381","badagaZe","zurab","zaqaria","07/27/56 00:00:00",,"a",1,"1423632","Tbilisi Carglis q. N 29 b. 18","naZaladevi"
+"01019051382","qorCilava","ekaterine","vardeni","02/25/68 00:00:00",,"g",2,"0892675","Tbilisi Temqa XI m/r I kv. kor. 2 b","naZaladevi"
+"01019051383","qaliaSvili","Sorena","vaxtangi","08/07/60 00:00:00",,"d",2,"0892675","Tbilisi bogvis q. N 41","naZaladevi"
+"01019051384","buTxuzi","malxaz","anzori","06/07/66 00:00:00",,"a",1,"0892676","Tbilisi wiwamuris q. N 16","naZaladevi"
+"01019051385","CxikvaZe","nika","kaxaberi","06/28/92 00:00:00","05/17/06 00:00:00",,1,,"Tbilisi n.CxikvaZis  Ses. N 6","naZaladevi"
+"01019051386","meliqiZe","mediko","SoTa","06/24/50 00:00:00",,"b",2,"0892676","Tbilisi m.glinkas q. N 41 b. 23","naZaladevi"
+"01019051387","meliqiZe","SoTa","irakli","05/02/42 00:00:00",,"g",1,"0892676","Tbilisi m.glinkas q. N 41 b. 23","naZaladevi"
+"01019051388","asiriani","aleqsandre","arSaluisi","01/08/64 00:00:00",,"g",1,"1052599","Tbilisi g.Citaias q. N 20","CuRureTi"
+"01019051389","ToTaZe","grigol","ivane","05/01/14 00:00:00","11/14/07 00:00:00","d",1,"0892676","Tbilisi Temqa IV m/r kor. 5 b. 21","naZaladevi"
+"01019051390","gasaniani","zaqaria","sergo","01/01/97 00:00:00",,"a",1,"0000000","Tbilisi Temqa III m/r III kv. kor.","naZaladevi"
+"01019051391","beriZe","mariam","nugzari","07/13/93 00:00:00",,"d",2,"1265459","Tbilisi n.yifSiZis q. N 13 b. 6","vake"
+"01019051392","beriZe","rusudan","nugzari","04/28/92 00:00:00",,"g",2,"1265459","Tbilisi n.yifSiZis q. N 13 b. 6","vake"
+"01019051393","ugrexeliZe","ana","gia","05/09/94 00:00:00",,"d",2,"1373041","Tbilisi Temqa III m/r V kv. kor. 1","naZaladevi"
+"01019051394","joxaZe","eldar","raJdeni","04/21/49 00:00:00",,"d",1,"1240881","oni s. Sqmeri","oni"
+"01019051395","gazdeliani","giorgi","vefxia","08/05/90 00:00:00","11/08/10 00:00:00","a",1,"0000000","Tbilisi zestafonis q. N 22a b. 78","naZaladevi"
+"01019051396","gazdeliani","mariam","vefxvia","08/16/94 00:00:00","11/08/10 00:00:00","a",2,"0000000","Tbilisi zestafonis q. N 22a b. 78","naZaladevi"
+"01019051397","afciauri","maka","oTari","04/23/74 00:00:00",,"a",2,"0892679","Tbilisi Temqa XI m/r III kv. kor. 4","naZaladevi"
+"01019051398","jioSvili","irina","gerasime","02/25/49 00:00:00",,"g",2,"0892680","Tbilisi c.dadianis q. N 148 b. 14","naZaladevi"
+"01019051399","gogolaZe","Tamaz","samsoni","12/20/58 00:00:00",,"a",1,"0892681","Tbilisi zestafonis q. N 22 b. 6","naZaladevi"
+"01019051400","Sewiruli","dimitri","vladimeri","09/08/88 00:00:00",,"g",1,"0889378","baTumi v.gorgasalis q. N 87",
+"01019051401","mumlaZe","nino","tarieli","04/01/71 00:00:00",,"a",2,"0892683","Tbilisi Temqa IV m/r kor. 3b b. 22","naZaladevi"
+"01019051402","gogitiZe","rusudan","omari","01/06/70 00:00:00",,"g",2,"0892683","Tbilisi a.wiklauris q. N 22","naZaladevi"
+"01019051403","gigauri","ToTia","abika","07/18/25 00:00:00","05/05/11 00:00:00","a",2,"0892684","Tbilisi d.guramiSvilis gamz. N 41 b","naZaladevi"
+"01019051404","uruSaZe","daviT","roberti","01/31/69 00:00:00",,"b",1,"0892684","Tbilisi gudamayris q. N 7 b. 19","naZaladevi"
+"01019051405","CitaZe","gurami","leri","01/10/89 00:00:00",,"d",1,"1423425","Tbilisi qviSxeTis q. N 4 b. 78","naZaladevi"
+"01019051406","azmaifaraSvili","lia","jemali","07/17/73 00:00:00",,"d",2,"0892684","Tbilisi sanzona kor. 10b b. 14","naZaladevi"
+"01019051407","azmaifaraSvili","gogita","jemali","05/06/71 00:00:00",,"a",1,"0892685","Tbilisi sanzona kor. 10b b. 14","naZaladevi"
+"01019051408","uruSaZe","natalia","zurabi","10/02/69 00:00:00",,"b",2,"0892685","Tbilisi gudamayris q. N 7 b. 19","naZaladevi"
+"01019051409","nozaZe","naTela","suliko","05/31/58 00:00:00",,"g",2,"0892685","Tbilisi javis III Ses. N 10","naZaladevi"
+"01019051410","zabnin","giorgi","valeri","06/13/89 00:00:00","06/01/11 00:00:00","g",1,"0912019","Tbilisi Temqa III m/r III kv. kor.","naZaladevi"
+"01019051411","gafrindaSvili","zurab","romani","09/13/86 00:00:00",,"g",1,"0892686","Tbilisi Temqa III m/r II kv. kor. 2","naZaladevi"
+"01019051412","gafrindaSvili","Sorena","romani","02/13/85 00:00:00",,"d",2,"0892686","Tbilisi Temqa III m/r II kv. kor. 2","naZaladevi"
+"01019051413","osiSvili","jimSer","romanozi","09/11/77 00:00:00",,"a",1,"0892687","Tbilisi qsnis q. N 52","naZaladevi"
+"01019051414","gamcemliZe","vaxtang","givi","03/07/57 00:00:00",,"b",1,"0892687","Tbilisi gr.naTaZis q. N 4","naZaladevi"
+"01019051415","inaSvili","cicino","giorgi","04/15/60 00:00:00",,"g",2,"0892687","Tbilisi gr.naTaZis q. N 4","naZaladevi"
+"01019051416","Zagania","megi","arCili","10/15/59 00:00:00",,"b",2,"0892688","Tbilisi kavTisxevis q. N 19b","naZaladevi"
+"01019051417","burjanaZe","tariel","mamisfiqri","12/08/75 00:00:00",,"g",1,"0892688","Tbilisi Temqa XI m/r II kv. kor. 34","naZaladevi"
+"01019051418","murjikneli","rusudan","gurami","12/12/66 00:00:00",,"d",2,"0892688","Tbilisi sanzona kor. 8 b. 15","naZaladevi"
+"01019051419","danelia","medea","avTandili","12/11/71 00:00:00",,"a",2,"0892689","Tbilisi sanzona kor. 6 b. 1","naZaladevi"
+"01019051420","sotnikova","margarita","simoni","06/15/32 00:00:00",,"b",2,"0892689","Tbilisi sanzona kor. 2b b. 43","naZaladevi"
+"01019051421","varTanovi","manana","rubeni","03/18/50 00:00:00","04/13/11 00:00:00","g",2,"0892689","Tbilisi Temqa XI m/r I kv. kor. 8 b","naZaladevi"
+"01019051422","ikoeva","elene","daviTi","03/12/28 00:00:00",,"d",2,"0892689","Tbilisi Temqa III m/r I kv. kor. 7","naZaladevi"
+"01019051423","gvaramaZe","Tamar","revazi","05/08/79 00:00:00",,"a",2,"0892690","Tbilisi gudamayris q. N 2","naZaladevi"
+"01019051424","vardiSvili","malxaz","vladimeri","10/15/58 00:00:00",,"b",1,"0892690","Tbilisi erwos q. N 3","naZaladevi"

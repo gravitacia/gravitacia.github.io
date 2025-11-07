@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DBS Graph Search</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/cytoscape@3.27.0/dist/cytoscape.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1 class="title">DBS Graph Search</h1>
+  </header>
+
+  <main>
+    <form id="search-form" autocomplete="off">
+      <div class="dataset-picker">
+        <label for="dataset">მონაცემთა წყარო</label>
+        <select id="dataset">
+          <option value="2012">2012</option>
+          <option value="2016">2016</option>
+        </select>
+      </div>
+
+      <!-- 2012 -->
+      <div id="fields-2012" class="fields active">
+        <label>პირადი ნომერი<input type="text" id="2012-id"></label>
+        <label>გვარი<input type="text" id="2012-last"></label>
+        <label>მამის სახელი<input type="text" id="2012-father"></label>
+        <label>სახელი<input type="text" id="2012-first"></label>
+        <label>დაბადების თარიღი<input type="text" id="2012-dob" placeholder="DD/MM/YY"></label>
+        <label>რეგისტრაციის თარიღი<input type="text" id="2012-reg"></label>
+        <label>დმონაც<input type="text" id="2012-lictype"></label>
+        <label>სქესი<input type="text" id="2012-gender" placeholder="1=მ, 2=მდ"></label>
+        <label>პრავის ნომერი<input type="text" id="2012-licnum"></label>
+        <label>მისამართი<input type="text" id="2012-address"></label>
+        <label>რაიონი<input type="text" id="2012-region"></label>
+      </div>
+
+      <!-- 2016 -->
+      <div id="fields-2016" class="fields">
+        <label>სახელი<input type="text" id="2016-name"></label>
+        <label>გვარი<input type="text" id="2016-last"></label>
+        <label>პირადი ნომერი<input type="text" id="2016-id"></label>
+        <label>ელ-ფოსტა<input type="text" id="2016-email"></label>
+        <label>მობილური ნომერი<input type="text" id="2016-phone"></label>
+        <label>ფაქტიური მისამართი<input type="text" id="2016-fact"></label>
+        <label>იურიდიული მისამართი<input type="text" id="2016-legal"></label>
+      </div>
+
+      <button type="submit" id="search-btn">ძებნა</button>
+    </form>
+
+    <div id="progress">
+      <div id="progress-bar"><span></span></div>
+      <div id="progress-text">Idle</div>
+    </div>
+
+    <section id="results">
+      <div id="grid"></div>
+      <div id="graph"></div>
+    </section>
+  </main>
+
+  <footer>© 2025 DBS Research Portal</footer>
+  <script src="main.js"></script>
+</body>
+</html>

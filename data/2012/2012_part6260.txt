@@ -1,0 +1,733 @@
+"60001086611","boboxiZe","nina","raJdeni","06/15/29 00:00:00",,"d",2,"0703405","quTaisi v.burjanaZis q. N 11",
+"60001086612","mefariSvili","lili","simoni","10/20/34 00:00:00","10/26/09 00:00:00","g",2,"0904303","quTaisi luka asaTianis q. N 23",
+"60001086613","qituaSvili","meri","ermalos","09/09/52 00:00:00",,"a",2,"0703406","quTaisi g.Wyondidelis q. N 72",
+"60001086614","mesxiSvili","rozeta","sulikos","06/01/74 00:00:00",,"b",2,"0703382","quTaisi r.TabukaSvilis q. N 205 b.",
+"60001086615","kldiaSvili","antuSa","aleqsandres","07/23/33 00:00:00",,"d",1,"0703382","quTaisi v.megreliSvilis q. N 19 b.",
+"60001086616","kldiaSvili","leila","aleqsandres","05/02/47 00:00:00",,"a",2,"0703383","quTaisi depos III Cixi N 12",
+"60001086617","bardaveliZe","iuri","daviTi","01/30/52 00:00:00",,"b",1,"0703383","quTaisi mSvidobis q. N 6 b. 45",
+"60001086618","Corgoliani","lali","elgujas","11/06/62 00:00:00",,"g",2,"0703383","quTaisi ruas q. N 8",
+"60001086619","oniani","gela","lukas","01/15/37 00:00:00",,"d",1,"0703383","quTaisi nikeas q. N 62 b. 9",
+"60001086620","kvantre","cisana","aleqsandres","10/11/35 00:00:00",,"g",2,"0703448","quTaisi 26 maisis q. N 7",
+"60001086621","beraZe","liana","ilias","10/27/60 00:00:00",,"d",2,"0703446","quTaisi d.kakabaZis q. N 3",
+"60001086622","beraZe","ana","givi","03/10/74 00:00:00",,"a",2,"0703447","quTaisi r.TabukaSvilis VI Ses. N 5",
+"60001086623","gaxokiZe","venera","besarioni","12/25/26 00:00:00",,"a",2,"0703384","quTaisi p.CanCibaZis q. N 85",
+"60001086624","CaCua","Taliko","amberkis","02/07/32 00:00:00",,"b",2,"0703432","quTaisi axalgazrdobis gamz. N 84 b.",
+"60001086625","CaCua","goguca","amberkis","09/15/26 00:00:00","04/06/10 00:00:00","g",2,"0703432","quTaisi axalgazrdobis gamz. N 84 b.",
+"60001086626","eraZe","elena","besarioni","03/16/31 00:00:00",,"b",2,"0703384","quTaisi p.CanCibaZis q. N 83",
+"60001086627","gaxokiZe","karlo","lukas","04/04/30 00:00:00",,"g",1,"0703384","quTaisi p.CanCibaZis q. N 85",
+"60001086628","qoriZe","foTola","giorgi","01/02/67 00:00:00",,"a",2,"0703385","quTaisi m.aslanikaSvilis q. N 52",
+"01250009188","yubaneiSvili","nikoloz",,"04/20/11 00:00:00",,,1,,,
+"01252007064","mgalobliSvili","elene",,"04/19/11 00:00:00",,,2,,,
+"01252007074","TibilaSvili","nikolozi","ioseb","04/19/11 00:00:00",,,1,,,
+"01253010689","demirji","luka","halis","03/09/11 00:00:00",,,1,,,
+"01253010690","focxveraSvili","giorgi","mamuka","04/20/11 00:00:00",,,1,,,
+"01253010699","birTveliSvili","nino","zurab","04/15/11 00:00:00",,,2,,,
+"01253010700","gagua","elene","gia","05/12/05 00:00:00",,,2,,,
+"01253010709","vaniSvili","sandro","biWiko","04/20/11 00:00:00",,,1,,,
+"01254013988","oqromWedliZe","emzar",,"04/19/11 00:00:00","04/21/11 00:00:00",,1,,,
+"01254013998","saxelaSvili","maTe","zviad","04/19/11 00:00:00",,,1,,,
+"01256006278","RvinianiZe","aleqsandre","laSa","04/18/11 00:00:00",,,1,,,
+"01350009181","bairamova","ilaida nur","avTandil","04/20/11 00:00:00",,,2,,,
+"17550000408","adeiSvili","izolda","malxaz","12/03/99 00:00:00",,,2,,,
+"18150002472","osaZe","inga","zurab","07/24/09 00:00:00",,,2,,,
+"18650002473","mesxiSvili","mariam",,"04/19/11 00:00:00",,,2,,,
+"19150005232","basaria","nikolozi",,"04/20/11 00:00:00",,,1,,,
+"19450005228","papoSvili","luka",,"04/17/11 00:00:00",,,1,,,
+"19550005231","kvirkvia","gurami",,"04/20/11 00:00:00",,,1,,,
+"19650005233","darsania","Tamari",,"08/29/00 00:00:00",,"z",2,"0467913",,
+"19950005229","oTxozoria","megi",,"04/19/11 00:00:00",,,2,,,
+"19950005230","jinjolava","nukri",,"04/19/11 00:00:00",,,1,,,
+"20250003252","maTiaSvili","TaTia","ambrosi","04/16/11 00:00:00",,,2,,,
+"20350003254","farnaoziSvili","lizi",,"04/18/11 00:00:00",,,2,,,
+"20450003256","ZamukaSvili","luka",,"04/18/11 00:00:00",,,1,,,
+"20650003251","javaxiSvili","saba",,"04/15/11 00:00:00",,,1,,,
+"20750003253","xecaSvili","elguja",,"04/18/11 00:00:00",,,1,,,
+"20850003255","gurgenaSvili","miSiko",,"04/18/11 00:00:00",,,1,,,
+"24250001923","beJaniSvili","giorgi",,"04/19/11 00:00:00",,,1,,,
+"25350002019","jaliaSvili","saba","giorgi","03/25/11 00:00:00",,,1,,,
+"25750002018","biwaZe","maTe",,"04/19/11 00:00:00",,,1,,,
+"26550000965","kvaWantiraZe","barbare","Temuri","02/26/11 00:00:00",,,2,,,
+"26950000964","darCia","daCi","zviad","09/26/09 00:00:00",,,1,,,
+"28250007286","xudaverdievi","roman","ganbar","03/20/99 00:00:00",,,1,,,
+"28350007288","gasanovi","iasin",,"04/19/11 00:00:00",,,1,,,
+"28450007291","isaeva","aisel","agil","09/09/07 00:00:00",,,2,,,
+"28550007293","sulTnovi","orxan",,"01/23/10 00:00:00",,,1,,,
+"28750007287","bairamova","sina","mazaxir","05/16/93 00:00:00",,"b",2,"1407216",,
+"28850007289","garaevi","rijai","javad","04/19/11 00:00:00",,,1,,,
+"28850007290","isaeva","aitan","agil","07/09/06 00:00:00",,,2,,,
+"28950007292","abasova","Tovuz","sarkar","11/30/03 00:00:00",,,2,,,
+"29850001190","kvaSilava","aleqsi","levan","04/02/09 00:00:00",,,1,,,
+"31150001744","giorgaZe","barbare",,"04/20/11 00:00:00",,,2,,,
+"31650001745","asan oRli","ani",,"04/19/11 00:00:00",,,2,,,
+"32250001293","miqaelian","liliT","arTur","08/17/07 00:00:00",,,2,,,
+"33250002497","qviria","ana",,"04/19/11 00:00:00",,,2,,,
+"35150006679","balaxaZe","nia",,"04/19/11 00:00:00",,,2,,,
+"35150006680","SiukaSvili","saba",,"04/18/11 00:00:00",,,1,,,
+"35250006682","kvaracxelia","demetre",,"04/18/11 00:00:00",,,1,,,
+"12401105072","muCiaSvili","lali","telmani","02/15/74 00:00:00",,"d",2,"1416182",,
+"62502016686","xvinTelani","nino","zurab","04/18/05 00:00:00",,,2,,,
+"62102016687","darsalia","Tamari","beJana","02/13/08 00:00:00",,,2,,,
+"26401039824","Rlonti","ani","vladimeri","05/20/05 00:00:00",,,2,,,
+"57801065392","xujaZe","cira","levani","08/10/07 00:00:00",,,2,,,
+"06101008989","suxaSvili","noSrevani","jimSeri","08/12/05 00:00:00",,,1,,,
+"62602016688","romaSko","daviTi","giorgi","05/20/07 00:00:00",,,1,,,
+"61104076938","qamaSiZe","omari","beglar","02/14/02 00:00:00",,,1,,,
+"18801075900","robaqiZe","luka","valeri","04/04/07 00:00:00",,,1,,,
+"01724096722","xubulia","saba","giorgi","10/11/05 00:00:00",,,1,,,
+"01417061884","kodalaSvili","givi","giorgi","05/26/05 00:00:00",,,1,,,
+"59401134637","farexelaSvili","giorgi","zaqaria","03/20/05 00:00:00",,,1,,,
+"60301167125","baxsolian","luka","---","10/02/09 00:00:00",,,1,,,
+"28701126038","omarova","Cinara","seifadin","08/03/06 00:00:00",,,2,,,
+"28301126039","jafarovi","Turan","anar","11/19/05 00:00:00",,,1,,,
+"28301126040","abduraxmanova","nurlana","muSvig","02/18/05 00:00:00",,,2,,,
+"15401029270","Cobanova","aisun","azar","03/10/04 00:00:00",,,1,,,
+"12901105073","bereliZe","vika","aleqsi","02/13/06 00:00:00",,,2,,,
+"32701030437","sanosian","albert","samveli","07/22/05 00:00:00",,,1,,,
+"12501105074","mamedovi","inal","afgan","04/20/06 00:00:00",,,1,,,
+"40701041859","elizbaraSvili","merabi","mamuka","08/01/05 00:00:00",,,1,,,
+"61604076939","surmaniZe","lika","Tengiz","01/14/07 00:00:00",,,2,,,
+"17701034605","amaRlobeli","Salva","eduardi","03/04/04 00:00:00",,,1,,,
+"01601111319","gejaZe","nikolozi","sergo","12/27/05 00:00:00",,,1,,,
+"37301061763","kobaxiZe","nika","giorgi","07/01/05 00:00:00",,,1,,,
+"41901032274","kinwuraSvili","Temur","kaxa","12/13/04 00:00:00",,,1,,,
+"61606084250","vanaZe","murad","jemali","04/03/05 00:00:00",,,1,,,
+"35501136272","maisuraZe","cotne","ivane","12/14/07 00:00:00",,,1,,,
+"37801061764","nikuraZe","mariam","daviTi","09/12/05 00:00:00",,,2,,,
+"01511110295","romelaSvili","barbare","ilia","12/31/06 00:00:00",,,2,,,
+"20901073546","jaSiaSvili","Temur","solomon","03/12/05 00:00:00",,,1,,,
+"37401061765","nikuraZe","zurab","daviTi","07/08/07 00:00:00",,,1,,,
+"01601111320","fircxalava","Tornike","varlami","04/05/05 00:00:00",,,1,,,
+"01111110296","bakuraZe","aleqsandre","giorgi","12/13/05 00:00:00","05/11/11 00:00:00",,1,,,
+"01611110297","lomsaZe","Tamar","badri","10/24/00 00:00:00",,,2,,,
+"60801167126","gabunia","luka","mamuka","06/09/05 00:00:00",,,1,,,
+"01211110298","burdulaZe","barbare","giorgi","02/25/06 00:00:00",,,2,,,
+"20501073547","CikvaiZe","nana","Tengizi","10/25/65 00:00:00",,"b",2,"1426541",,
+"01917061885","ruxaZe","nikolozi","oTar","06/10/05 00:00:00",,,1,,,
+"01711110299","kusiani","giorgi","givi","07/15/06 00:00:00",,,1,,,
+"57401065393","CubiniZe","Tekla","aleqsandre","07/04/05 00:00:00",,,2,,,
+"01711110300","maxaZe","nikoloz","vaxtang","04/15/06 00:00:00",,,1,,,
+"21501044288","sokolovi","daviT","vladimeri","05/22/04 00:00:00",,,1,,,
+"38201051433","qemerteliZe","mariam","valeri","07/18/07 00:00:00",,"b",2,"1420310",,
+"01311110301","ivardava","zviad","cotne","10/29/07 00:00:00",,,1,,,
+"01811110302","WamiaSvili","giorgi","iosebi","10/20/07 00:00:00",,,1,,,
+"61206084251","TikanaZe","luka","emzari","04/25/06 00:00:00",,,1,,,
+"35101136273","lekiaSvili","maia","avTandili","03/18/82 00:00:00",,"a",2,"1413892",,
+"35601136274","aidamirovi","daviT","vaxid","01/12/94 00:00:00",,"d",1,"1413892",,
+"57901065394","korkotaZe","lizi","koba","11/18/05 00:00:00",,,2,,,
+"01411110303","CubiniZe","levan","ediSeri","06/25/06 00:00:00",,,1,,,
+"11901034390","iriciani","manuk","artaS","02/14/05 00:00:00",,,1,,,
+"01911110304","demetraSvili","nino","leri","05/22/06 00:00:00",,,2,,,
+"01511110305","oganezovi","valentina","joni","02/15/05 00:00:00",,,2,,,
+"01111110306","santurCiani","lana","gari","10/06/05 00:00:00",,,2,,,
+"01611110307","mkrtiCiani","elene","Temuri","09/19/05 00:00:00",,,2,,,
+"01324096723","surameli","luka","malxazi","04/16/05 00:00:00",,,1,,,
+"01211110308","bucxrikiZe","mariam","kote","10/15/06 00:00:00",,,2,,,
+"01711110309","nacvalaZe","laSa","iuri","04/12/08 00:00:00",,,1,,,
+"17301034606","verulaSvili","esma","nodari","04/08/05 00:00:00",,,2,,,
+"01711110310","papoSvili","mixeil","Temuri","01/26/05 00:00:00",,,1,,,
+"01517061886","gigineiSvili","qeTevan","givi","03/15/59 00:00:00",,"b",2,"1412571",,
+"37901061766","mefariSvili","demetre","kaxaber","04/23/07 00:00:00",,,1,,,
+"17801034607","mardaleiSvili","saba","giorgi","01/11/08 00:00:00",,,1,,,
+"60401167127","maRlakeliZe","sofo","kaxaber","02/18/06 00:00:00",,,2,,,
+"28801126041","budagova","saqina","kiniaz","01/21/06 00:00:00",,,2,,,
+"17401034608","mardaleiSvili","keso","giorgi","04/30/06 00:00:00",,,2,,,
+"01908067872","mirziaSvili","levan","paata","07/11/07 00:00:00",,,1,,,
+"12101105075","gasanovi","turab","muslum","11/17/99 00:00:00",,,1,,,
+"28401126042","kasumovi","zaqir","nazir","03/15/92 00:00:00",,"d",1,"1407140",,
+"61604076940","mowyobili","luka","murad","02/03/05 00:00:00",,,1,,,
+"01311110311","bulia","Tamar","giorgi","04/20/04 00:00:00",,,2,,,
+"29401042894","narouSvili","Tamar","vitali","03/15/08 00:00:00",,,2,,,
+"36801057920","nasibovi","sahman","Telman","01/15/01 00:00:00",,,1,,,
+"03201023482","gavaSeli","giorgi","nodari","11/06/98 00:00:00",,,1,,,
+"33301085086","wyavzaraZe","lora","gurami","05/09/05 00:00:00",,,2,,,
+"28901126043","mamedova","ziniat","ramiz","02/10/05 00:00:00",,,2,,,
+"01897002218","Wan","suemin",,"01/18/42 00:00:00",,"a",2,"0005206",,
+"53801063769","margvelaSvili","mariam","valeri","10/15/05 00:00:00",,,2,,,
+"12601105076","gasanovi","tural","muslum","11/17/99 00:00:00",,,1,,,
+"65419000077","elbaqiZe","nika","Teimurazi","09/04/07 00:00:00",,,1,,,
+"61706084252","alaverdian","irina","vladimeri","09/25/00 00:00:00",,,2,,,
+"46801025234","babuleiSvili","ioane","zurab","10/07/06 00:00:00",,,1,,,
+"62202016689","jangvelaZe","roland","jeirani","01/18/06 00:00:00",,,1,,,
+"15901029271","sarievi","rufin","omar","12/23/93 00:00:00",,"a",1,"1424074",,
+"12201105077","suleimanovi","enar","gulan","05/18/05 00:00:00",,,1,,,
+"29901042895","ruxaia","mariami","besarion","02/21/06 00:00:00",,,2,,,
+"42201042599","basilaia","qeTevan","levan","04/15/08 00:00:00",,,2,,,
+"35401136300","suxiaSvili","daTa","iosebi","09/19/07 00:00:00",,,1,,,
+"35901136301","janikaSvili","mixeil","goCa","06/19/07 00:00:00",,,1,,,
+"35501136302","glurjiZe","lizi","muradi","02/15/07 00:00:00",,,2,,,
+"35101136303","musaevi","Teimur","rustam","09/16/05 00:00:00",,,1,,,
+"35601136304","qobulaSvili","qeTevan","vaJa","08/22/07 00:00:00",,,2,,,
+"35201136305","maisuraZe","daviT","oTari","01/02/07 00:00:00",,,1,,,
+"35701136306","vazagaevi","TamTa","gela","04/20/07 00:00:00",,,2,,,
+"35301136307","qajaia","laSa","gia","12/11/06 00:00:00",,,1,,,
+"35801136308","murusiZe","nikoloz","giorgi","03/12/07 00:00:00",,,1,,,
+"52801027186","paqsaZe","mari","gurami","11/20/96 00:00:00",,"b",2,"1340478",,
+"01411110313","Wkadua","ana","vaJa","02/24/05 00:00:00",,,2,,,
+"01911110314","laferiSvili","nika","giorgi","08/15/07 00:00:00",,,1,,,
+"01511110315","xarebaSvili","elene","iakobi","12/12/07 00:00:00",,,2,,,
+"01111110316","TaTriSvili","ana","giorgi","12/13/06 00:00:00",,,2,,,
+"01317061892","suleimanova","ganira","zaur","07/12/05 00:00:00",,,2,,,
+"01611110317","manasian","daviT","samveli","10/14/04 00:00:00",,,1,,,
+"01211110318","manasian","daiana","samveli","11/28/05 00:00:00",,,1,,,
+"01711110319","TaTriSvili","anano","Salva","01/01/07 00:00:00",,,2,,,
+"01711110320","aruTinovi","SoTa","simoni","01/08/07 00:00:00",,,1,,,
+"01817061893","abakelia","Temur","zurabi","05/18/98 00:00:00",,,1,,,
+"01311110321","durgliSvili","lizi","antoni","06/14/06 00:00:00",,,2,,,
+"01417061894","paSaev","elSan","elmar","05/31/07 00:00:00",,,1,,,
+"01917061895","basilaSvili","mariami","aleqsandre","09/02/02 00:00:00",,,2,,,
+"01517061896","naWyebia","vera","niazi","04/05/05 00:00:00",,,2,,,
+"01117061897","arjevaniZe","giorgi","goCa","06/02/06 00:00:00",,,1,,,
+"01617061898","kazariani","iuri","romani","08/01/05 00:00:00",,,1,,,
+"01217061899","aroSiZe","ana","nikoloz","05/17/05 00:00:00",,,2,,,
+"01217061900","zakutaSvili","nino","laSa","01/25/06 00:00:00",,,2,,,
+"01717061901","guseinovi","elmar","elvar","07/27/04 00:00:00",,,1,,,
+"01150009166","namiWeiSvili","aleqsandre",,"04/15/11 00:00:00",,,1,,,
+"01152007052","jinWaraZe","nika",,"04/18/11 00:00:00",,,1,,,
+"01153010677","Sarifovi","goiCaq","samir","04/17/11 00:00:00",,,1,,,
+"01154013976","quTaTelaZe","nikolozi","grigoli","04/18/11 00:00:00",,,1,,,
+"01156006266","CuguaSvili","nikoloz","oTar","04/18/11 00:00:00",,,1,,,
+"01250009168","baramiZe","mariami","vaxtangi","04/17/11 00:00:00",,,2,,,
+"01252007044","onikaSvili","mariami",,"04/18/11 00:00:00",,,2,,,
+"01252007054","goraSvili","daviTi",,"04/17/11 00:00:00",,,1,,,
+"01253010679","mazmiSvili","daCi","iuri","04/18/11 00:00:00",,,1,,,
+"01253010680","ganaia","demetre","beJan","04/18/11 00:00:00",,,1,,,
+"01254013968","alievi","hasan",,"04/16/11 00:00:00",,,1,,,
+"01254013978","mextievi","jamil","elvar","08/19/06 00:00:00",,,1,,,
+"01256006258","umfriani","lazare","goCa","04/17/11 00:00:00",,,1,,,
+"01256006268","gabadaZe","amirani","daviT","04/14/11 00:00:00",,,1,,,
+"01350009161","manZulaSvili","lela",,"04/16/11 00:00:00",,,2,,,
+"01350009171","yuraSvili","daTa","vefxvia","12/13/03 00:00:00",,,1,,,
+"01352007046","Wkadua","nino",,"04/19/11 00:00:00",,,2,,,
+"01352007056","lomsaZe","maTe",,"04/19/11 00:00:00",,,1,,,
+"01353010682","morCiaSvili","daviT","baCana","04/18/11 00:00:00",,,1,,,
+"01354013971","joxaZe","barbare",,"04/12/11 00:00:00","04/19/11 00:00:00",,2,,,
+"01354013981","odikaZe","daCi","vladimeri","04/18/11 00:00:00",,,1,,,
+"01356006261","xmalaZe","giorgi","daviT","04/19/11 00:00:00",,,1,,,
+"01450009163","devdariZe","guga",,"04/18/11 00:00:00",,,1,,,
+"01452007048","valiSvili","elene",,"04/18/11 00:00:00",,,2,,,
+"01453010674","tiginaSvili","elene","giorgi","04/16/11 00:00:00",,,2,,,
+"01453010684","vardiaSvili","giorgi","mixeil","04/18/11 00:00:00",,,1,,,
+"01454013973","golobiani","qristine",,"04/18/11 00:00:00",,,2,,,
+"01454013983","iremaZe","nodar","giorgi","04/16/11 00:00:00",,,1,,,
+"01456006263","siWinava","anano","iago","04/18/11 00:00:00",,,2,,,
+"01550009165","siWinava","anastasia",,"04/16/11 00:00:00",,,2,,,
+"01552007051","feraZe","mariami",,"04/18/11 00:00:00",,,2,,,
+"01553010676","jafoSvili","erekle","levan","04/18/11 00:00:00",,,1,,,
+"01554013975","gablaia","Tekle","giorgi","04/17/11 00:00:00",,,2,,,
+"01556006265","qavTaraZe","elene","ioseb","04/17/11 00:00:00",,,2,,,
+"01650009167","raminaSvili","barbare",,"04/19/11 00:00:00",,,2,,,
+"01652007043","guramiSvili","Sorena",,"04/18/11 00:00:00",,,2,,,
+"01652007053","arabiZe","samuel",,"04/19/11 00:00:00",,,1,,,
+"01653010678","Wanturia","irakli","malxaz","04/18/11 00:00:00",,,1,,,
+"01654013977","dadunaSvili","mariami","aleqsandre","04/18/11 00:00:00",,,2,,,
+"01656006257","nabievi","abulfaz",,"04/15/11 00:00:00",,,1,,,
+"01656006267","sulxaniSvili","natali","mirian","04/18/11 00:00:00",,,2,,,
+"01750009169","samWkuaSvili","salome",,"04/17/11 00:00:00",,,2,,,
+"01750009170","beselia","giorgi",,"04/19/11 00:00:00",,,1,,,
+"01752007045","veruliZe","cisana","spartak","04/18/11 00:00:00",,,2,,,
+"01752007055","goraSvili","nikolozi",,"04/17/11 00:00:00",,,1,,,
+"01753010681","koraSvili","ia","gela","04/16/11 00:00:00",,,2,,,
+"01754013969","nozaZe","giorgi","Salva","04/15/11 00:00:00",,,1,,,
+"01754013970","yavelaSvili","nino","zurabi","04/17/11 00:00:00",,,2,,,
+"01754013979","nadaraia","sofiko","roini","04/19/11 00:00:00",,,2,,,
+"01754013980","ragimovi","revan","elnur","04/18/11 00:00:00",,,1,,,
+"01756006259","magraqveliZe","barbare","giorgi","04/15/11 00:00:00",,,2,,,
+"01756006260","ZiZiguri","laSa","SoTa","04/18/11 00:00:00",,,1,,,
+"01756006269","zurabiani","daCi","daviT","04/18/11 00:00:00",,,1,,,
+"01850009162","doliZe","ana",,"04/17/11 00:00:00",,,2,,,
+"01852007047","gelovani","demetre",,"04/15/11 00:00:00",,,1,,,
+"01853010673","modebaZe","zura","irakli","04/18/11 00:00:00",,,1,,,
+"01853010683","wiwilaSvili","giorgi","jondo","04/18/11 00:00:00",,,1,,,
+"01854013972","arsenaZe","beso","rati","04/17/11 00:00:00",,,1,,,
+"60101167131","labaZe","nana","evgeni","04/17/67 00:00:00",,"b",2,"1419333",,
+"16601034476","wuliaSvili","zaza","mixeili","07/21/72 00:00:00",,"a",1,"1404666",,
+"40301041861","tuxaSvili","jemali","aroni","04/02/94 00:00:00",,"b",1,"1402867",,
+"18401075901","kvinikaZe","naTela","pavle","04/24/56 00:00:00",,"g",2,"1418111",,
+"11501034391","xalaZe","nika","besiki","04/02/05 00:00:00",,,1,,,
+"19401116021","qavTaraZe","nikoloz","daTa","12/17/05 00:00:00",,"g",1,"1422552",,
+"19901116022","golobiani","nika","juanSeri","12/26/04 00:00:00",,"d",1,"1422552",,
+"01811110322","kaxaberi","mariam","nikolozi","10/11/06 00:00:00",,,2,,,
+"19501116023","beraia","lia","zurabi","01/06/93 00:00:00",,"a",2,"1422554",,
+"01817061903","RelaRutaSvili","sofia","daviT","01/30/04 00:00:00",,,2,,,
+"47201048559","beqauri","giorgi","daviT","04/24/07 00:00:00",,,1,,,
+"61901093085","xajiSvili","ana","sulxani","04/11/07 00:00:00",,,2,,,
+"01401111325","jananaSvili","nikoloz","Salva","05/29/06 00:00:00",,,1,,,
+"12301105079","ismailovi","eljan","jalal","08/26/04 00:00:00",,,1,,,
+"01411110323","uflisaSvili","luka","besiki","05/13/05 00:00:00",,,1,,,
+"19101116024","Todua","anJelika","besiki","12/08/94 00:00:00",,"g",2,"1422559",,
+"33401085088","zoiZe","nikoloz","SoTa","08/09/94 00:00:00",,"a",1,"1398910",,
+"59501134639","gazaSvili","giorgi","noSrevani","03/30/96 00:00:00",,"b",1,"1424773",,
+"01911110324","andriasovi","artur","givi","09/01/06 00:00:00",,,1,,,
+"59501134640","dudaevi","Cermen",,"09/08/31 00:00:00",,"b",1,"1424774",,
+"59101134641","qareli","laSa","akaki","10/31/86 00:00:00",,"b",1,"1424809",,
+"56801027243","okribelaSvili","eremia","arseni","06/07/92 00:00:00",,"b",1,"1375361",,
+"13801072153","mosuliSvili","giorgi","nikoloz","11/09/05 00:00:00",,,1,,,
+"61501093086","melnikov","eduard","sergo","06/22/05 00:00:00",,,1,,,
+"59601134642","yaliCava","marika","zurab","12/26/84 00:00:00",,"g",2,"1424777",,
+"01624096729","sanikiZe","ioane","giga","08/08/05 00:00:00",,,1,,,
+"36501057923","osmanova","raqsana","narman","12/10/94 00:00:00",,"d",2,"1426816",,
+"01511110325","zasoxaSvili","lizi","daviTi","12/27/04 00:00:00",,,2,,,
+"13401072154","kroxmaliuki","iuli","giorgi","05/19/05 00:00:00",,,1,,,
+"37501061767","kaWkaWaSvili","Tamaz","vladimeri","02/05/52 00:00:00",,"g",1,"1375663",,
+"13901072155","qarTleliSvili","ana","givi","01/16/06 00:00:00",,,2,,,
+"61101093087","diasamiZe","diego","rivaTi","12/13/00 00:00:00",,,1,,,
+"54101064018","CafiZe","nika","daviTi","06/20/05 00:00:00",,,1,,,
+"61601093088","valenkova","iuliana","iuri","06/12/05 00:00:00",,,2,,,
+"13501072156","lazaSvili","elene","revazi","03/14/07 00:00:00",,,2,,,
+"01111110326","suxiSvili","mariam","iosebi","10/11/06 00:00:00",,,2,,,
+"08601040139","maruqaSvili","qeTevan","mamuka","09/11/07 00:00:00",,,2,,,
+"61201093089","SafaTava","mariam","iuri","05/16/06 00:00:00",,,2,,,
+"01901111326","wiklauri","sandro","emzari","06/04/05 00:00:00",,,1,,,
+"62402016694","xufenia","mariana","mamuka","03/29/94 00:00:00",,"e",2,"0467823",,
+"61208021442","diasamiZe","lizi","Tengizi","10/14/07 00:00:00",,,2,,,
+"01501111327","gulaRaSvili","mixeil","giorgi","12/04/05 00:00:00",,,1,,,
+"03701023483","qvelaZe","diana","zaza","01/06/95 00:00:00",,"g",2,"1426009",,
+"61201093090","gabaiZe","nino","rauli","01/15/05 00:00:00",,,2,,,
+"38701051434","grZeliSvili","ani","roman","04/10/06 00:00:00",,,2,,,
+"01101111328","qvriviSvili","luka","koba","11/21/05 00:00:00",,,1,,,
+"47201048560","petrosian","arTur","samvel","01/11/06 00:00:00",,"d",1,"0015948",,
+"40801041862","RvedaSvili","Tamuna","levan","10/23/05 00:00:00",,,2,,,
+"32301030438","beriZe","maria","paata","06/30/06 00:00:00",,,2,,,
+"61701093091","kirTaZe","maTe","grigoli","12/30/04 00:00:00",,,1,,,
+"01611110327","guseinovi","afina","kiriam","06/07/07 00:00:00",,,2,,,
+"61191000994","gunal","hairullah",,"09/20/68 00:00:00",,"d",1,"0004325",,
+"12301105080","ediberiZe","Tekle","tarieli","12/07/89 00:00:00",,"d",2,"1416185",,
+"01601111329","gogava","nika","daviTi","10/27/05 00:00:00",,,1,,,
+"62902016695","qaldani","Tamazi","zauri","03/13/94 00:00:00",,"e",1,"0467827",,
+"62502016696","qancliani","cotne","guram","03/16/95 00:00:00",,"z",1,"0467827",,
+"18901075902","TabukaSvili","ana","giorgi","04/28/05 00:00:00",,,2,,,
+"62102016697","wifuria","mariam","laSa","08/10/07 00:00:00",,"e",2,"0467828",,
+"55601031170","axvlediani","giorgi","malxaz","01/05/06 00:00:00",,,1,,,
+"65341001015","gogvaZe","saba","beqa","02/24/10 00:00:00",,,1,,,
+"06601008991","cucqiriZe","mariami","besiki","02/13/07 00:00:00",,"a",2,"1422790",,
+"53401063771","WeliZe","ana","mamuka","05/10/07 00:00:00",,,2,,,
+"01601111330","gogia","anano","kaxa","05/01/05 00:00:00",,,2,,,
+"42201042600","zalilova","venera","marsi","06/02/81 00:00:00",,"d",2,"1389404",,
+"12801105081","nasibovi","rail","rafail","05/19/06 00:00:00",,,1,,,
+"46401025235","axalaZe","goCa","giorgi","09/14/63 00:00:00",,"g",1,"1343750",,
+"59201134643","wiwikaSvili","juli","zviadi","07/03/06 00:00:00",,,2,,,
+"53901063772","TuTberiZe","luka","giorgi","04/04/08 00:00:00",,,1,,,
+"53501063773","WeliZe","ineza","mamuka","05/10/07 00:00:00",,,2,,,
+"01211110328","urumaSvili","vasil","oTari","11/06/96 00:00:00",,"g",1,"1429684",,
+"61708021443","bolqvaZe","laSa","eldari","08/02/92 00:00:00",,"b",1,"1377118",,
+"12401105082","nasibovi","raul","rafail","11/06/04 00:00:00",,,1,,,
+"35401136309","qumsiaSvili","daviT","omari","05/02/67 00:00:00",,"a",1,"1413896",,
+"23101014730","sulxaniSvili","giorgi","daviT","02/11/06 00:00:00",,,1,,,
+"01201111331","xideSeli","daviT","akaki","07/14/63 00:00:00",,"g",1,"1430634",,
+"07901057608","zurnajian","arusiak","aSoti","10/28/94 00:00:00",,"d",2,"1322733",,
+"12901105083","masimovi","qanan","namik","07/03/04 00:00:00",,,1,,,
+"07501057609","zurnajian","armenui","aSoti","05/14/91 00:00:00",,"a",2,"1322734",,
+"07501057610","Sipakcian","beniamin","martin","11/28/71 00:00:00",,"g",1,"1322734",,
+"32801030439","aRaian","sinarik","vreJi","01/09/97 00:00:00",,"a",1,"1255377",,
+"01701111332","aRapiSvili","luka","beJani","03/18/07 00:00:00",,,1,,,
+"14301030575","natroSvili","Tamazi","giorgi","09/17/04 00:00:00",,,1,,,
+"01301111333","wamalaiZe","Salva","simoni","03/15/36 00:00:00",,"d",1,"1430639",,
+"12501105084","abdulaeva","nigar","asad","11/12/05 00:00:00",,,2,,,
+"01801111334","CxeiZe","lizi","avTandili","03/23/06 00:00:00",,,2,,,
+"25701052238","biWaSvili","nugzari","jaba","05/24/06 00:00:00",,,1,,,
+"01401111335","CubiniZe","luka","Teimurazi","08/17/05 00:00:00",,,1,,,
+"08601040140","idoiZe","salome","gela","04/14/05 00:00:00",,,2,,,
+"65501001877","vaSaZe","nika","koba","11/17/10 00:00:00",,,1,,,
+"01211110338","olagov","georq","giorgi","06/07/50 00:00:00",,"g",1,"1439595",,
+"65823001026","mazmanova","isabel","Jozef","09/15/06 00:00:00",,,2,,,
+"28901126053","osmanovi","isaxan","kazim","07/05/68 00:00:00",,"a",1,"1407151",,
+"28501126054","ragimova","naiba","aqber","04/04/94 00:00:00",,"b",2,"1407151",,
+"21101044289","wulukiZe","meri","biWiko","07/03/65 00:00:00",,"g",2,"1379679",,
+"60301167135","CeremuSina","inga","sergo","04/27/89 00:00:00",,"a",2,"1419337",,
+"14801030576","mamiauri","giorgi","gela","05/31/93 00:00:00",,"b",1,"1382693",,
+"14401030577","mamiauri","mari","gela","01/17/92 00:00:00",,"g",2,"1382693",,
+"14901030578","mindiaSvili","marina","guguli","05/01/92 00:00:00",,"d",2,"1382693",,
+"61606084260","maWutaZe","luka","badri","10/11/06 00:00:00",,,1,,,
+"28101126055","musaevi","dilgam","karim","06/06/66 00:00:00",,"a",1,"1407152",,
+"29501042896","baCilava","ramini","mamuka","05/18/86 00:00:00",,"g",1,"1397448",,
+"01393000149","fadaifar","said","ahmad","09/21/84 00:00:00",,"d",1,"0004610",,
+"01292004833","islamov","fuad",,"10/05/79 00:00:00",,"a",1,"0005108",,
+"65423001027","mgeliaSvili maisuraZe","devi","Tengiz","10/19/04 00:00:00",,,1,,,
+"01393000150","beheSTian","hosein","ramezan","05/29/43 00:00:00",,"a",1,"0004611",,
+"62202016700","fifia","lizi","emzar","02/18/05 00:00:00",,,2,,,
+"57601065397","tyemalaZe","giorgi","badri","05/29/05 00:00:00",,,1,,,
+"10701073468","avaliSvili","nato","paata","01/19/91 00:00:00",,"a",2,"1435540",,
+"08701040142","noniaSvili","giorgi","nugzar","03/20/08 00:00:00",,,1,,,
+"61804076944","joxaZe","luka","daviT","10/23/05 00:00:00",,,1,,,
+"32501030443","gigolian","vitali","esai","05/09/06 00:00:00",,,1,,,
+"62702016701","caava","luka","genadi","01/23/06 00:00:00",,,1,,,
+"62302016702","bokuCava","magda","gela","02/15/07 00:00:00",,,2,,,
+"22701026136","daviTaSvili","nino","nikoloz","11/19/69 00:00:00",,"b",2,"1406049",,
+"23601014731","mindikauri","mariam","mindia","04/18/05 00:00:00",,,2,,,
+"62802016703","comaia","giorgi","koba","12/10/06 00:00:00",,,1,,,
+"03301023484","vanaZe","maradi","Temur","06/01/05 00:00:00",,,1,,,
+"62402016704","zarandia","buba","revazi","01/07/07 00:00:00",,,1,,,
+"62902016705","kakulia","ana","gela","05/03/05 00:00:00",,,2,,,
+"58101035080","alania","baia","badri","04/16/06 00:00:00",,,1,,,
+"09501030079","mSvildaZe","qristine","malxaz","12/29/05 00:00:00",,,2,,,
+"01711110339","astanovi","revazi","Tamazi","01/27/05 00:00:00",,"d",1,"1429698",,
+"57201065398","melaZe","mariam","kaxaberi","02/12/06 00:00:00",,,2,,,
+"62709010103","kobaxia","nia","irakli","06/11/07 00:00:00",,,2,,,
+"62502016706","kaWarava","elizaveta","daviT","05/30/06 00:00:00",,,2,,,
+"12601105086","ismailova","mayvala","avTandil","10/04/05 00:00:00",,,2,,,
+"59801134646","terteraSvili","nodar","Tengiz","08/17/06 00:00:00",,,1,,,
+"62102016707","kaWarava","luka","daviT","09/19/07 00:00:00",,,1,,,
+"62602016708","xvadagiani","miranda","joni","04/03/05 00:00:00",,,2,,,
+"60801167136","maxarobliZe","Tamar","zaal","02/23/05 00:00:00",,,2,,,
+"59401134647","kapanaZe","Tengiz","paata","09/13/05 00:00:00",,,1,,,
+"62202016709","kenWuaSvili","Tornike","mixeil","06/01/05 00:00:00",,,1,,,
+"39401046308","beraia","aneti","levani","11/10/05 00:00:00",,,2,,,
+"61404076945","qaTamaZe","luka","SoTa","10/10/05 00:00:00",,,1,,,
+"01808067879","devdariani","TinaTin","gugua","01/26/08 00:00:00",,,2,,,
+"01711110340","kasreliSvili","mariami","daviTi","01/31/07 00:00:00",,,2,,,
+"01808067880","devdariani","giorgi","gugua","01/09/06 00:00:00",,,1,,,
+"62006062820","buTbaia","irma","jambuli","08/20/73 00:00:00",,"e",2,"0216188","gali s. otobaia","gali"
+"62006062821","SagiZe","zamira","aleqsandre","01/03/49 00:00:00",,"e",2,"0216191","gali qecbaias q. N 14","gali"
+"62006062822","yolbaia","nana","ramini","01/13/90 00:00:00",,"e",2,"0216192","gali s. Wuburxinji","gali"
+"62006062823","canava","irakli","nukri","05/17/06 00:00:00",,"z",1,"0463408","gali s. dixazurga","gali"
+"62006062824","buliskeria","eliso","aleqsi","10/20/74 00:00:00",,"e",2,"0216195","gali ninoSvilis q. N 45","gali"
+"62006062825","iailoiani","daviT","giorgi","01/08/98 00:00:00",,"e",1,"0000000","gali stalinis q. N 31","gali"
+"62006062826","qobalia","daviT","levani","01/12/01 00:00:00",,"e",1,"0000000","gali s. nabak","gali"
+"62006062827","qobalia","gvanca","levani","08/07/03 00:00:00",,"e",2,"0000000","gali s. nabak","gali"
+"62006062828","ratia","manuCar","devizi","07/09/75 00:00:00",,"e",1,"0216196","gali s. otobaia","gali"
+"62006062829","jobava","giorgi","gia","10/05/05 00:00:00",,"e",1,"0000000","gali s. reCxi","gali"
+"62006062830","Wedia","reziko","zurabi","05/09/98 00:00:00",,"e",1,"0458509","gali s. ganaxleba","gali"
+"62006062831","gogoxia","marika","zurabi","12/10/90 00:00:00",,"T",2,"0451745","gali s. pirveli gali","gali"
+"62006062832","akobia","gogita","gurami","12/08/88 00:00:00",,"e",1,"0216198","gali engelsis q. N 13","gali"
+"62006062833","sebiskveraZe","nika","oTari","12/24/89 00:00:00",,"T",1,"0465747","gali Sengelias q. N 10","gali"
+"62006062834","Sengelia","daTo","daviTi","06/08/90 00:00:00",,"e",1,"0216200","gali qvaCaxias q. N 67","gali"
+"62006062835","gagua","nana","inveri","12/16/89 00:00:00",,"e",2,"0216202","gali s. aCigvara","gali"
+"62006062836","Sonia","maia","levani","12/26/91 00:00:00",,"T",2,"0455010","gali s. saberio","gali"
+"62006062837","gabunia","paata","rauli","02/06/90 00:00:00",,"e",1,"0216207","gali qvaCaxias q. N 6","gali"
+"62006062838","belqania","badri","geno","09/08/74 00:00:00",,"e",1,"0216208","gali s. refi","gali"
+"62006062839","torua","nika","reno","07/10/90 00:00:00",,"e",1,"0216209","gali qursuas q. N 4","gali"
+"62006062840","arqania","ana","Tamazi","09/15/96 00:00:00",,"e",2,"0000000","gali s. mziuri","gali"
+"62006062841","arqania","daviT","Tamazi","06/05/05 00:00:00",,"e",1,"0000000","gali s. mziuri","gali"
+"62006062842","Rurwkaia","guram","grigori","11/11/60 00:00:00",,"v",1,"0463498","gali Saumianis q. N 17","gali"
+"62006062843","naWyebia","xatia","gia","03/11/90 00:00:00",,"T",2,"0466812","gali s. aCigvara","gali"
+"62006062844","qorTua","xatia","giorgi","07/31/90 00:00:00",,"e",2,"0216215","gali s. Wuburxinji","gali"
+"62006062845","kvaSilava","indira","revazi","07/14/90 00:00:00",,"e",2,"0216216","gali s. ganaxleba","gali"
+"62006062846","Waava","darejan","indiko","03/18/65 00:00:00",,"e",2,"0216217","gali s. qvemo barRebi","gali"
+"62006062847","xviCia","maia","galaqtioni","06/13/85 00:00:00",,"e",2,"0216218","gali s. aCigvara","gali"
+"62006062848","ezugbaia","giorgi","alma","06/06/90 00:00:00",,"e",1,"0216219","gali s. aCigvara","gali"
+"62006062849","cacua","cira","avTandili","07/13/80 00:00:00",,"v",2,"0468203","gali s. zemo barRebi","gali"
+"62006062850","revia","mariami","giorgi","05/14/06 00:00:00",,"e",2,"0000000","gali v.fSavelas q. N 14","gali"
+"62006062851","minjia","qristina","daviTi","05/15/90 00:00:00",,"e",2,"0216223","gali engelsis q. N 7","gali"
+"62006062852","akobia","izeta","terenti","03/21/90 00:00:00",,"e",2,"0216227","gali s. nabak","gali"
+"62006062853","gersamia","Tamuna","roini","05/20/90 00:00:00",,"e",2,"0216228","gali engelsis q. N 40","gali"
+"62006062854","papava","nona","romani","02/13/90 00:00:00",,"z",2,"0463446","gali s. pirveli gali","gali"
+"62006062855","oCigava","aleqsi","anzori","06/06/85 00:00:00",,"e",1,"0216389","gali s. CxorToli","gali"
+"62006062856","SeyelaSvili","irakli","besiki","07/22/93 00:00:00",,"v",1,"0463302","gali s. aCigvara","gali"
+"62006062857","jojua","ivane","Suqri","12/17/78 00:00:00",,"z",1,"0466829","gali s. aCigvara","gali"
+"62006062858","aqubardia","diego","tarieli","07/05/90 00:00:00",,"e",1,"0216236","gali s. refi","gali"
+"62006062859","kvaracxelia","rusiko","giorgi","11/26/89 00:00:00",,"e",2,"0216238","gali s. Wuburxinji","gali"
+"62006062860","qarCava","luka","zaali","03/04/98 00:00:00",,"e",1,"0000000","gali sarajiSvilis q. N 24","gali"
+"62006062861","Sonia","madona","vaxtangi","05/04/06 00:00:00",,"e",2,"0000000","gali s. dixazurga","gali"
+"62006062965","miqautaZe","naTela","silovani","09/14/54 00:00:00",,"e",2,"0216378","gali s. mziuri","gali"
+"62006062966","izoria","levan","gela","11/10/89 00:00:00",,"e",1,"0216379","gali s. mziuri","gali"
+"62006062967","faCulia","guram","grigoli","08/26/59 00:00:00",,"e",1,"0216380","gali b.ZnelaZis q. N 64","gali"
+"62006062968","melaia","Tamar","gia","03/04/90 00:00:00",,"e",2,"0216381","gali s.orjonikiZis q. N 31","gali"
+"62006062969","biblaia","aveli","Tamazi","08/09/90 00:00:00",,"z",1,"0460367","gali sabWos q. N 13","gali"
+"62006062970","Zigua","zezva","valteri","08/17/88 00:00:00",,"e",1,"0216391","gali s. oqumi","gali"
+"62006062971","lacuzbaia","mamuka","roveli","06/11/72 00:00:00",,"e",1,"0216392","gali s. oqumi","gali"
+"62006062972","Wolaria","Sarizan","vaJiko","12/19/78 00:00:00",,"e",2,"0216393","gali s. oqumi","gali"
+"62006062973","Jvania","zviad","badri","07/31/89 00:00:00",,"e",1,"0216394","gali s. dixazurga","gali"
+"62006062974","ezugbaia","roman","vaxtangi","03/16/76 00:00:00",,"e",1,"0216395","gali s. pirveli gali","gali"
+"62006062975","gogia","qristine","irakli","02/21/04 00:00:00",,"e",2,"0000000","gali s. zemo barRebi","gali"
+"62006062976","darsania","jina","ramazi","09/12/91 00:00:00",,"T",2,"0453681","gali s. saberio","gali"
+"62006062977","murRulia","nukri","zauri","04/19/92 00:00:00",,"z",1,"0455204","gali s. saberio","gali"
+"62006062978","xaburzania","lana","dazmeri","11/15/91 00:00:00",,"e",2,"0000000","gali s. saberio","gali"
+"62006062979","Sonia","lado","nugzari","05/09/91 00:00:00",,"v",1,"0451844","gali s. saberio","gali"
+"62006062980","Sonia","levan","nugzari","12/03/89 00:00:00",,"e",1,"0216396","gali s. saberio","gali"
+"62006062981","yolbaia","Tamar","valeriane","07/28/89 00:00:00",,"e",2,"0219397","gali ilia WavWavaZis q. N 9","gali"
+"62006062982","baxtaZe","levan","merabi","08/13/83 00:00:00",,"e",1,"0216400","gali s. otobaia","gali"
+"62006062983","catava","ioseb","ruslani","08/01/90 00:00:00",,"e",1,"0216401","gali svaniZis q. N 5","gali"
+"62006062984","Sonia","irakli","alberti","07/11/90 00:00:00",,"e",1,"0216402","gali s. mziuri","gali"
+"62006062985","janaSia","lika","simoni","01/29/90 00:00:00",,"e",2,"0216407","gali s. mziuri","gali"
+"62006062986","Sonia","cira","zurabi","08/30/96 00:00:00",,"e",2,"0465879","gali s. saberio","gali"
+"62006062987","kikoria","roman","gela","08/24/97 00:00:00",,"e",1,"0000000","gali s. CxorToli","gali"
+"62006062988","Cxetia","nino","zviadi","11/25/05 00:00:00",,"e",2,"0000000","gali s. Wuburxinji","gali"
+"62006062989","korkelia","Salva","Tengizi","05/08/89 00:00:00",,"e",1,"0216410","gali svaniZis q. N 9","gali"
+"62006062990","zuxbaia","TaTia","antifo","12/22/89 00:00:00",,"e",2,"0216411","gali s. aCigvara","gali"
+"62006062991","matua","qristina","kaxaberi","06/17/90 00:00:00",,"e",2,"0216412","gali s. pirveli gali","gali"
+"62006062992","Selia","sofiko","revazi","04/27/90 00:00:00",,"e",2,"0216414","gali qvaCaxias q. N 42 b. 41","gali"
+"62006062993","sarTania","daviT","oTari","08/20/90 00:00:00",,"e",1,"0216415","gali s. sida","gali"
+"62006062994","kvanWiani","Tamar","ramazi","01/27/90 00:00:00",,"e",2,"0216416","gali s. Wuburxinji","gali"
+"62006062995","rigvava","zaza","kukuri","03/11/78 00:00:00",,"e",1,"0216417","gali s. RumuriSi","gali"
+"62006062996","gazaeva","inga","sokrati","04/24/78 00:00:00",,"e",2,"0216420","gali s. warCe","gali"
+"62006062997","qilorava","Temur","nugzari","03/27/90 00:00:00",,"e",1,"0216424","gali Saumianis q. N 30","gali"
+"62006062998","basaria","Tea","zurabi","01/05/90 00:00:00",,"z",2,"0467727","gali oqumis q. N 11","gali"
+"62006062999","leJava","naTia","rolandi","07/19/90 00:00:00",,"e",2,"0216426","gali goris q. N 16","gali"
+"62006063000","yolbaia","qeTevan","roini","08/27/90 00:00:00",,"e",2,"0216427","gali s. Wuburxinji","gali"
+"62006063001","saTalanZe","dima","Temuri","11/29/89 00:00:00",,"e",1,"0216428","gali s. pirveli gali","gali"
+"62006063002","rodonaia","nino","besiki","06/29/90 00:00:00",,"e",2,"0216430","gali s. Wuburxinji","gali"
+"62006063003","gamsaxurdia","gizo","murTazi","07/18/89 00:00:00",,"e",1,"0216433","gali s. Wuburxinji","gali"
+"62006063004","Wolaria","ana","murmani","01/24/90 00:00:00",,"e",2,"0216434","gali s. bedia","gali"
+"62006063005","kakubava","giorgi","mamia","01/24/62 00:00:00",,"z",1,"0454443","gali sarajiSvilis q. N 5","gali"
+"62006063006","ezugbaia","omar","omari","08/01/90 00:00:00",,"z",1,"0456218","gali gorkis q. N 5","gali"
+"62006063009","qecbaia","anna","zauri","06/26/90 00:00:00",,"v",2,"0450839","gali s. muxuri","gali"
+"62006063010","qobalia","Teona","anzori","11/18/89 00:00:00",,"T",2,"0450838","gali s. zemo barRebi","gali"
+"62006063011","akiSbaia","TamTa","murTazi","09/06/90 00:00:00",,"z",2,"0466494","gali Tavisuflebis q. N 33","gali"
+"62006063012","dgebia","salome","gurami","02/16/90 00:00:00",,"T",2,"0450839","gali gogebaSvilis q. N 45","gali"
+"62006063013","Cxvirkia","irakli","murTazi","03/02/89 00:00:00",,"e",1,"0450840","gali svaneTis q. N 4","gali"
+"62006063014","gujejiani","Tamari","valodia","08/01/90 00:00:00",,"v",2,"0450840","gali s. warCe","gali"
+"62006063015","boxua","marika","roberti","07/29/90 00:00:00",,"z",2,"0450840","gali s. otobaia","gali"
+"62006063016","goxinZe","Temur","olegi","10/25/03 00:00:00",,"e",1,"0000000","gali s. aCigvara","gali"
+"62006063017","zaqaraia","irakli","besiki","08/21/89 00:00:00",,"e",1,"0467194","gali parizis komunis q. N 23","gali"
+"62006063018","ezugbaia","daviT","velodi","03/16/90 00:00:00",,"z",1,"0452978","gali s. pirveli gali","gali"
+"62006063019","xarziani","Tamar","joyola","12/02/89 00:00:00",,"v",2,"0450841","gali s. aCigvara","gali"
+"62006063020","korZaia","giorgi","gurieli","08/05/89 00:00:00",,"z",1,"0450841","gali s. Wuburxinji","gali"
+"62006063021","kvaracxelia","naTia","Tengizi","09/12/90 00:00:00",,"e",2,"0451609","gali engelsis q. N 84","gali"
+"62006063022","cacua","biZina","davexi","01/01/89 00:00:00",,"v",1,"0450842","gali s. aCigvara","gali"
+"62006063023","qanTaria","aleko","alkazi","01/17/90 00:00:00",,"z",1,"0450842","gali s. Wuburxinji","gali"
+"62006063024","Toloraia","giorgi","givi","02/08/90 00:00:00",,"T",1,"0450842","gali s. muxuri","gali"
+"62006063025","abloTia","Wabuka","koba","09/06/90 00:00:00",,"e",1,"0464144","gali s. Wuburxinji","gali"
+"62006063026","daraselia","levan","daviTi","07/20/90 00:00:00",,"v",1,"0450843","gali s. otobaia","gali"
+"62006063027","buliskeria","malxaz","leonti","03/22/79 00:00:00",,"z",1,"0450843","gali s. muxuri","gali"
+"62006063028","jobava","niko","revazi","09/21/90 00:00:00",,"T",1,"0466738","gali gorkis q. N 27","gali"
+"62006063029","markelia","niko","jemali","11/11/89 00:00:00",,"e",1,"0450844","gali gogebaSvilis q. N 63","gali"
+"62006063030","ezugbaia","ela","kukuri","07/31/90 00:00:00",,"v",2,"0450844","gali s. pirveli gali","gali"
+"62006063031","bendelava","lia","Tengizi","02/17/90 00:00:00",,"z",2,"0450844","gali cxakaias q. N 54","gali"
+"62006063032","Sonia","Teona","omari","12/16/89 00:00:00",,"T",2,"0450844","gali gagarinis q.","gali"
+"62006063033","Rurwkaia","Tamar","ramazi","09/28/90 00:00:00",,"e",2,"0450845","gali s. refi","gali"
+"62006063034","boxua","xatia","raJdeni","07/14/90 00:00:00",,"v",2,"0455580","gali s. zemo barRebi","gali"
+"62006063035","boxua","Sorena","raJdeni","08/09/89 00:00:00",,"v",2,"0467148","gali s. zemo barRebi","gali"
+"62006063036","naWyebia","nika","vaxtangi","08/14/90 00:00:00",,"T",1,"0452992","gali s. aCigvara","gali"
+"62006063037","Cikvatia","merab","borisi","10/09/90 00:00:00",,"v",1,"0450846","gali s. sida","gali"
+"62006063038","Sukvani","nino","omari","09/30/90 00:00:00",,"z",2,"0450846","gali s. Wuburxinji","gali"
+"62006063039","gogoxia","guram","guli","10/01/61 00:00:00",,"T",1,"0450846","gali s. bedia","gali"
+"62006063040","Wolaria","saida","nugzari","05/14/90 00:00:00",,"e",2,"0450847","gali s. mziuri","gali"
+"62006063041","ezugbaia","irakli","daviTi","10/16/90 00:00:00",,"v",1,"0450847","gali s. pirveli gali","gali"
+"62006063042","basaria","bili","rubeni","04/27/87 00:00:00",,"z",1,"0450847","gali s. muxuri","gali"
+"62006063043","basaria","bobi","rubeni","06/08/90 00:00:00",,"T",2,"0450847","gali s. muxuri","gali"
+"62006063044","basaria","nika","rauli","10/03/90 00:00:00",,"e",1,"0450848","gali s. mziuri","gali"
+"62006063045","xurcilava","giga","gogi","05/05/90 00:00:00",,"v",1,"0450848","gali s. pirveli gali","gali"
+"62006063046","Sonia","iana","revazi","05/26/88 00:00:00",,"z",2,"0450848","gali s. saberio","gali"
+"62006063047","yolbaia","violeta","giorgi","02/13/90 00:00:00",,"e",2,"0450849","gali daviT aRmaSenebelis q. N 5 b.","gali"
+"62006063048","guledani","miledi","vaxtangi","07/31/74 00:00:00",,"v",2,"0450849","gali s. sida","gali"
+"62006063049","qavSbaia","mariami","mamuka","06/13/04 00:00:00",,"e",2,"0000000","gali qvaCaxias q. N 4","gali"
+"62006063050","Todua","eka","gurami","09/10/90 00:00:00",,"z",2,"0450849","gali s. oqumi","gali"
+"62006063051","anCabaZe","marina","SoTa","04/05/58 00:00:00",,"z",2,"0457793","gali s. otobaia","gali"
+"62006063052","Sonia","romani","Jilini","03/27/72 00:00:00",,"e",1,"0450850","gali s. Wuburxinji","gali"
+"62006063053","jgerenaia","jino","zauri","01/04/89 00:00:00",,"v",1,"0450850","gali goris q. N 10","gali"
+"62006063054","janaSia","nino","rolandi","09/15/90 00:00:00",,"T",2,"0457865","gali s. aCigvara","gali"
+"62006063055","Wanturia","naTia","gela","05/28/90 00:00:00",,"v",2,"0454284","gali s. pirveli gali","gali"
+"62006063056","farqosaZe","Tamar","mixeili","02/22/90 00:00:00",,"e",2,"0450851","gali s. pirveli gali","gali"
+"62006063057","zaqaraia","marika","soso","06/13/90 00:00:00",,"v",2,"0450851","gali s. aCigvara","gali"
+"62006063058","buTbaia","sofiko","daviTi","04/03/90 00:00:00",,"z",2,"0450851","gali s. qvemo barRebi","gali"
+"62006063059","fangani","Tamari","arCili","01/21/89 00:00:00",,"T",2,"0450851","gali s. Wuburxinji","gali"
+"62006063060","qaldani","nana","raibuli","09/07/90 00:00:00",,"e",2,"0466650","gali s. aCigvara","gali"
+"62006063061","gejua","Tamuna","elguja","08/22/90 00:00:00",,"v",2,"0450852","gali pekinis q. N 5","gali"
+"62006063062","jgerenaia","ramazi","giorgi","07/27/58 00:00:00",,"z",1,"0450852","gali s. mziuri","gali"
+"62006063063","Sonia","giorgi","zurabi","08/09/89 00:00:00",,"T",1,"0450852","gali moskovis q. N 78","gali"
+"62006063064","vaCanZe","Temuri","mamuka","03/28/92 00:00:00",,"e",1,"0455587","gali s. nabak","gali"
+"62006063065","onezaSvili","naTia","valeriani","04/28/90 00:00:00",,"e",2,"0450853","gali abuRbaias q. N 15","gali"
+"62006063066","guCua","baCana","besiki","08/20/89 00:00:00",,"v",1,"0450853","gali s. Wuburxinji","gali"
+"62006063067","gogoxia","daviTi","valeri","06/16/89 00:00:00",,"T",1,"0450853","gali s. mziuri","gali"
+"62006063068","Sonia","nika","zurabi","10/11/90 00:00:00",,"e",1,"0450854","gali moskovis q. N 78","gali"
+"62006063069","gogia","Tamar","zauri","05/14/89 00:00:00",,"v",2,"0450854","gali s. Wuburxinji","gali"
+"62006063070","quTelia","giorgi","anzori","12/15/04 00:00:00",,"e",1,"0000000","gali s. saberio","gali"
+"62006063176","guCua","marika","Temuri","03/15/89 00:00:00",,"T",2,"0451474","gali s. bedia","gali"
+"62006063177","Saria","arCili","abesalomi","06/06/90 00:00:00",,"e",1,"0451475","gali s. Tagiloni","gali"
+"62006063178","boboxaZe","levan","oTari","10/26/84 00:00:00",,"v",1,"0451475","gali s. muxuri","gali"
+"62006063179","Citaia","naTia","merabi","09/27/89 00:00:00",,"z",2,"0451475","gali s. fiCori","gali"
+"62006063180","abrumia","lia","jemali","11/10/90 00:00:00",,"T",2,"0451475","gali cxakaias q. N 48","gali"
+"62006063181","cikolia","erekle","Tamazi","11/19/90 00:00:00",,"e",1,"0451476","gali s. pirveli gali","gali"
+"62006063182","exvaia","Tamriko","giorgi","11/07/90 00:00:00",,"v",2,"0451476","gali s. nabak","gali"
+"62006063183","qarCava","xatia","devi","11/21/89 00:00:00",,"z",2,"0451476","gali wulukiZis q. N 18","gali"
+"62006063184","markelia","qristine","goCa","04/30/91 00:00:00",,"e",2,"0451614","gali s. aCigvara","gali"
+"62006063185","markelia","giorgi","goCa","04/05/93 00:00:00",,"e",1,"0457872","gali s. aCigvara","gali"
+"62006063186","gulbani","TinaTini","romani","01/28/91 00:00:00",,"T",2,"0451476","gali s. Wuburxinji","gali"
+"62006063187","jaiani","levan","daviTi","01/28/91 00:00:00",,"e",1,"0451477","gali stalinis q. N 11 b. 43","gali"
+"62006063188","jRarkava","zurab","zurabi","03/25/90 00:00:00",,"v",1,"0451477","gali b.ZnelaZis q. N 43","gali"
+"62006063189","zaqaraia","daviT","revazi","01/30/91 00:00:00",,"z",1,"0451477","gali s. pirveli gali","gali"
+"62006063190","kaxiani","xatia","Tengizi","07/24/90 00:00:00",,"e",2,"0451478","gali dimitrovis q. N 97","gali"
+"62006063191","minjia","gogita","justani","09/24/90 00:00:00",,"v",1,"0451478","gali s. Wuburxinji","gali"
+"62006063192","kvanWiani","Tengizi","niko","06/25/85 00:00:00",,"z",1,"0451478","gali s. aCigvara","gali"
+"62006063193","gvazava","Tamar","Salva","11/28/90 00:00:00",,"T",2,"0451478","gali sanapiros q. N 3","gali"
+"62006063194","nukri xuciZe","maria nestan","nukri","07/06/01 00:00:00",,"z",2,"0457828","gali s. Tagiloni","gali"
+"62006063195","darsania","naTia","jemali","07/01/89 00:00:00",,"T",2,"0463119","gali gogebaSvilis q. N 54","gali"
+"62006063196","qobalia","marika","mamuka","12/25/90 00:00:00",,"v",2,"0451587","gali parizis komunis q. N 2","gali"
+"62006063197","papasqua","nika","zurabi","12/23/99 00:00:00",,"e",1,"0000000","gali s. zemo barRebi","gali"
+"62006063198","Sonia","giorgi","revazi","09/14/89 00:00:00",,"T",1,"0451587","gali s. saberio","gali"
+"62006063199","xvistani","marina","rafieli","06/19/89 00:00:00",,"e",2,"0451591","gali s. Wuburxinji","gali"
+"62006063200","kvirkvelia","nana","saSa","11/26/89 00:00:00",,"v",2,"0451591","gali s. saberio","gali"
+"62006063201","qardava","nino","valeriani","01/01/91 00:00:00",,"z",2,"0451591","gali s. RumuriSi","gali"
+"62006063202","zaraqua","raisa","konstantine","05/10/42 00:00:00",,"v",2,"0451592","gali s. CxorToli","gali"
+"62006063203","goderZiSvili","zaza","ramini","07/01/65 00:00:00",,"e",1,"0451592",,
+"62006063204","dgebuaZe","sofiko","roberti","05/15/90 00:00:00",,"z",2,"0451592","gali s. fiCori","gali"
+"62006063205","farfalia","qeTevan","daviTi","02/07/91 00:00:00",,"v",2,"0451599","gali stalinis q. N 19","gali"
+"62006063206","zuxbaia","giorgi","roini","01/03/91 00:00:00",,"e",1,"0451593","gali s. mziuri","gali"
+"62006063207","gergedava","Tamaz","Tengizi","11/09/90 00:00:00",,"v",1,"0451593","gali Ziguas q. N 31","gali"
+"62006063208","doCia","gurgeni","mustambegi","06/20/83 00:00:00",,"z",1,"0451593","gali wulukiZis q. N 33","gali"
+"62006063209","agumava","violeta","revazi","01/16/91 00:00:00",,"T",2,"0451593","gali rusTavelis q. N 34","gali"
+"62006063210","xvistani","giorgi","konstantine","04/26/90 00:00:00",,"e",1,"0451594","gali s. Wuburxinji","gali"
+"62006063211","arjavaniZe","giorgi","justani","01/20/91 00:00:00",,"T",1,"0451594","gali baraTaSvilis  q. N 16","gali"
+"62006063212","gamisonia","iago","megona","01/02/71 00:00:00",,"z",1,"0451594","gali s. Tagiloni","gali"
+"62006063213","xasaia","giorgi","Tengizi","08/14/93 00:00:00",,"e",1,"0000000","gali s. ganaxleba","gali"
+"62006063214","yolbaia","Tea","nodari","02/03/89 00:00:00",,"e",2,"0451595","gali Tavisuflebis q. N 101","gali"
+"62006063215","gugeSaSvili","mariami","goCa","10/15/93 00:00:00",,"T",2,"0456584","gali s. Tagiloni","gali"
+"62006063216","wiTelauri","ani","revazi","01/23/98 00:00:00",,"e",2,"0000000","gali s. aCigvara","gali"
+"62006063217","gogoxia","daviT","romanozi","03/13/89 00:00:00",,"v",1,"0451595","gali s. Tagiloni","gali"
+"62006063218","gogia","goga","joni","03/12/90 00:00:00",,"z",1,"0451595","gali s. Wuburxinji","gali"
+"62006063219","wulaia","sofio","murmani","07/09/90 00:00:00",,"T",2,"0451595","gali s. sida","gali"
+"62006063220","fifia","maia","bondo","10/25/90 00:00:00",,"e",2,"0451596","gali s. pirveli gali","gali"
+"62006063221","orJonia","angelina","goneri","09/20/73 00:00:00",,"v",2,"0451596","gali s. fiCori","gali"
+"62006063222","gablaia","beqa","iuri","02/17/91 00:00:00",,"z",1,"0451596","gali s. pirveli gali","gali"
+"62006063223","yolbaia","avTandil","indiko","07/06/60 00:00:00",,"T",1,"0451596","gali s. Wuburxinji","gali"
+"62006063224","lomiZe","sofia","daviTi","08/18/90 00:00:00",,"e",2,"0451597","gali s. saberio","gali"
+"62006063225","Toria","konstantine","Tengizi","03/19/90 00:00:00",,"v",1,"0451597","gali s. Tagiloni","gali"
+"62006063226","gergedava","aleqsandre","vaxtangi","08/20/83 00:00:00",,"z",1,"0451597","gali WoWuas q. N 4","gali"
+"62006063227","gogoxia","xatia","silovani","06/18/93 00:00:00",,"v",2,"0456576","gali komkavSiris q. N 49","gali"
+"62006063228","aqubardia","mariam","Tengizi","03/12/91 00:00:00",,"T",2,"0451597","gali dimitrovis q. N 2","gali"
+"62006063229","Wkadua","naTia","rolandi","07/10/89 00:00:00",,"e",2,"0451598","gali s. CxorToli","gali"
+"62006063230","xorava","gela","Tengizi","07/23/90 00:00:00",,"v",1,"0451598","gali moskovis q. N 64","gali"
+"62006063231","naWyebia","qristina","anzori","09/18/02 00:00:00",,"e",2,"0000000","gali s. qvemo barRebi","gali"
+"62006063232","naWyebia","xristo","anzori","12/19/00 00:00:00",,"e",1,"0000000","gali s. qvemo barRebi","gali"
+"62006063233","gulua","naTia","dazmeri","01/23/91 00:00:00",,"z",2,"0451598","gali s. muxuri","gali"
+"62006063234","gergedava","maiko","ridani","12/14/90 00:00:00",,"T",2,"0451598","gali Sengelias q. N 20","gali"
+"62006063235","ardaSelia","nugzar","mamuka","07/06/89 00:00:00",,"e",1,"0451599","gali Tamar mefis q. N 84","gali"
+"62006063236","basaria","mariam","omari","12/22/97 00:00:00",,"e",2,"0000000","gali oqtombris q. N 14","gali"
+"62006063237","tufuria","mariam","joni","02/13/01 00:00:00",,"e",2,"0000000","gali engelsis q. N 74","gali"
+"62006063238","tufuria","bakuri","joni","10/30/03 00:00:00",,"e",1,"0000000","gali engelsis q. N 74","gali"
+"62006063239","morgoSia","TinaTin","janiko","03/05/91 00:00:00",,"z",2,"0451599","gali s. mziuri","gali"
+"62006063240","izoria","levan","elvardi","10/31/90 00:00:00",,"T",1,"0451599","gali s. ganaxleba","gali"
+"62006063241","zarqua","qristina","janiko","09/08/90 00:00:00",,"e",2,"0451600","gali s. gudava","gali"
+"62006063242","zaqaraia","lika","ingiSteri","02/12/91 00:00:00",,"v",2,"0457790","gali s. pirveli gali","gali"
+"62006063243","konjaria","bakur","mamuka","11/27/88 00:00:00",,"z",1,"0451600","gali s. mziuri","gali"
+"62006063244","konjaria","nana","mamuka","04/10/90 00:00:00",,"T",2,"0451600","gali s. mziuri","gali"
+"62006063245","ezugbaia","lika","paata","04/14/89 00:00:00",,"e",2,"0451601","gali b.ZnelaZis q. N 8","gali"
+"62006063246","qardava","mariami","vaxtangi","11/05/93 00:00:00",,"v",2,"0457786","gali s. sida","gali"
+"62006063247","xubutia","nika","valeri","08/26/92 00:00:00",,"v",1,"0457803","gali s. Wuburxinji","gali"
+"62006063248","kakava","salome","fridoni","12/16/90 00:00:00",,"v",2,"0451601","gali s. pirveli gali","gali"
+"62006063249","benia","xatia","gia","01/16/89 00:00:00",,"z",2,"0451601","gali s. muxuri","gali"
+"62006063250","kvaSilava","maTiko","anzori","09/14/90 00:00:00",,"T",2,"0451601","gali s. aCigvara","gali"
+"62006063251","kozmava","revaz","slaviki","02/20/90 00:00:00",,"e",1,"0451602","gali s. oqumi","gali"
+"62006063252","molaSxia","TamTa","besiki","01/20/91 00:00:00",,"v",2,"0451602","gali qvaCaxias q. N 6","gali"
+"62006063253","mircxulava","zaza","misousti","10/21/90 00:00:00",,"z",1,"0451602","gali parizis komunis q. N 17","gali"
+"62006063254","gabelia","giorgi","oneri","08/14/90 00:00:00",,"v",1,"0457814","gali s. otobaia","gali"
+"62006063255","lukava","valeri","givi","04/21/89 00:00:00",,"z",1,"0465239","gali s. zemo barRebi","gali"
+"62006063256","jaxaia","giorgi","zurabi","05/23/96 00:00:00",,"e",1,"0000000","gali belinskis q. N 9","gali"
+"62006063257","xubulava","mixeil","vitali","09/01/05 00:00:00",,"e",1,"0000000","gali s. muxuri","gali"
+"62006063258","xubulava","baCana","vitali","10/05/03 00:00:00",,"e",1,"0000000","gali s. muxuri","gali"
+"62006063259","farjiani","grigoli","daviTi","07/31/90 00:00:00",,"v",1,"0451603","gali s. Wuburxinji","gali"
+"62006063260","jalaRonia","spartak","Temuri","01/21/91 00:00:00",,"z",1,"0451603","gali s. aCigvara","gali"
+"62006063261","gogilava","lamara","pokro","01/10/22 00:00:00","02/22/11 00:00:00","T",2,"0451603","gali s. mziuri","gali"
+"62006063262","jaxaia","julieta","klimenti","01/01/58 00:00:00",,"e",2,"0451604","gali s. mziuri","gali"
+"62006063263","gogilava","jemal","valiko","10/06/52 00:00:00",,"v",1,"0451604","gali s. mziuri","gali"
+"62006063264","zaqaraia","lara","kiazo","09/12/90 00:00:00",,"z",2,"0451604","gali sarajiSvilis q.","gali"
+"62006063265","buliskeria","daviT","nugzari","02/08/91 00:00:00",,"T",1,"0451604","gali leseliZis q. N 20","gali"
+"62006063266","Wkadua","goCa","emzari","02/25/91 00:00:00",,"e",1,"0451605","gali s. warCe","gali"
+"62006063267","cikolia","roza","rauli","07/17/90 00:00:00",,"v",2,"0451605","gali s. warCe","gali"
+"62006063268","darsania","Tekle","Tengizi","02/18/90 00:00:00",,"v",2,"0467169","gali bagrat III q. N 8","gali"
+"62006063269","melaSvili","mariam","henri","11/19/98 00:00:00",,"e",2,"0000000","gali s. ganaxleba","gali"
+"62006063270","ubilava","naTia","emzari","12/06/90 00:00:00",,"T",2,"0451605","gali s. mziuri","gali"
+"62006063271","ubilava","xatia","merabi","08/01/90 00:00:00",,"e",2,"0451606","gali s. mziuri","gali"
+"62006063272","pertaia","aleqsei","gigla","08/09/88 00:00:00",,"v",1,"0451606","gali s. sida","gali"
+"62006063273","mesxia","Tamuna","anatoli","02/27/91 00:00:00",,"z",2,"0451606","gali s. Wuburxinji","gali"
+"62006063274","laSxia","qristina","xviCa","05/06/96 00:00:00",,"v",2,"0462809","gali griSaSvilis q. N 6","gali"
+"62006063275","guCua","nika","ediki","10/28/92 00:00:00",,"T",1,"0456594","gali s. aCigvara","gali"
+"62006063276","lakirbaia","giorgi","beno","02/08/91 00:00:00",,"T",1,"0451606","gali Tavisuflebis q. N 110","gali"
+"62006063277","kilanava","valeria","gela","02/09/90 00:00:00",,"e",2,"0451607","gali sanapiros q. N 5","gali"
+"62006063380","kaWarava","Tamuna","Tamazi","03/17/91 00:00:00",,"e",2,"0452954","gali s. CxorToli","gali"
+"62006063381","dgebuaZe","maTe","badri","02/14/91 00:00:00",,"v",1,"0452954","gali walenjixis q. N 21","gali"
+"62006063382","gordulaZe","nino","arnoldi","01/14/91 00:00:00",,"T",2,"0452954","gali bokuCavas q. N 3","gali"
+"62006063383","cqvitaria","giga","roini","03/13/91 00:00:00",,"e",1,"0452955","gali cxakaias q. N 46","gali"
+"62006063384","gogoxia","zviadi","oTari","05/06/91 00:00:00",,"v",1,"0452955","gali s. oqumi","gali"
+"62006063385","ZaZua","beqa","mamia","02/06/91 00:00:00",,"z",1,"0452955","gali s. otobaia","gali"
+"62006063386","vezdeni","nana","daviTi","03/12/91 00:00:00",,"T",2,"0452955","gali s. warCe","gali"
+"62006063387","Sonia","akaki","oneri","01/02/91 00:00:00",,"e",1,"0452956","gali dimitrovis q. N 54","gali"
+"62006063388","xazalia","xatia","giuli","04/04/91 00:00:00",,"v",2,"0452956","gali stalinis q. N 57","gali"
+"62006063389","qobalia","giorgi","gia","06/16/91 00:00:00",,"z",1,"0452956","gali dimitrovis q. N 14","gali"
+"62006063390","aqirTava","koba","zaliko","03/04/78 00:00:00",,"T",1,"0452956","gali pirveli maisis q. N 2","gali"
+"62006063391","Cxapelia","salome","avTandili","02/11/91 00:00:00",,"e",2,"0452957","gali vekuas q. N 28","gali"
+"62006063392","zvanbaia","zviad","demaguli","04/08/91 00:00:00",,"z",1,"0454298","gali engelsis q. N 53","gali"
+"62006063393","marxulia","zviad","aruSa","08/14/76 00:00:00",,"z",1,"0452957","gali s. refo-SeSeleTi","gali"
+"62006063394","kaWarava","giorgi","alfezi","07/03/91 00:00:00",,"T",1,"0452957","gali s. pirveli gali","gali"
+"62006063395","kilanava","ani","Tornike","05/27/91 00:00:00",,"e",2,"0452958","gali Tavisuflebis q. N 77","gali"
+"62006063396","Wanturia","giorgi","Temuri","04/21/90 00:00:00",,"e",1,"0462776","gali Tavisuflebis q. N 75","gali"
+"62006063397","kukava","salome","gigla","06/22/91 00:00:00",,"T",2,"0452958","gali s. mziuri","gali"
+"62006063398","daraselia","naTia","mamuka","06/16/91 00:00:00",,"e",2,"0452959","gali s. refi","gali"
+"62006063399","Sarangia","giga","besiki","08/27/90 00:00:00",,"z",1,"0452959","gali s. pirveli gali","gali"
+"62006063400","quTaTelaZe","giorgi","goCa","01/16/98 00:00:00",,"e",1,"0000000","gali s. qvemo barRebi","gali"
+"62006063401","qardava","nino","rezo","02/20/91 00:00:00",,"T",2,"0452959","gali Saumianis q. N 23","gali"
+"62006063402","fifia","Tabuka","koba","06/18/91 00:00:00",,"e",1,"0452960","gali s. pirveli gali","gali"
+"62006063403","jologua","maka","ramini","06/18/91 00:00:00",,"v",2,"0452960","gali s. Tagiloni","gali"
+"62006063404","Wkadua","ana","mamuka","10/30/96 00:00:00",,"e",2,"0000000","gali s. aCigvara","gali"
+"62006063405","gvajava","juliana","livteri","07/03/91 00:00:00",,"z",2,"0452960","gali maCabelis q. N 9","gali"
+"62006063406","zuxbaia","laSa","givi","04/04/90 00:00:00",,"T",1,"0452960","gali s. CxorToli","gali"
+"62006063407","SamaTava","salome","zamiri","06/25/91 00:00:00",,"T",2,"0454281","gali s. oqumi","gali"
+"62006063408","kvirkvelia","salome","jimSeri","06/30/91 00:00:00",,"v",2,"0452961","gali s. Wuburxinji","gali"
+"62006063409","Sonia","lia","omari","03/12/91 00:00:00",,"z",2,"0452961","gali engelsis q. N 21","gali"
+"62006063410","Zeria","ana","anzori","02/09/91 00:00:00",,"T",2,"0452961","gali s. gudava","gali"
+"62006063411","gamisonia","daviTi","koba","09/07/03 00:00:00",,"e",1,"0000000","gali s. refo-SeSeleTi","gali"
+"62006063412","buliskeria","gigla","nugzari","01/30/91 00:00:00",,"e",1,"0452962","gali s. oqumi","gali"
+"62006063413","niJaraZe","nino","oTari","12/24/90 00:00:00",,"T",2,"0452962","gali 8 martis q. N 10","gali"
+"62006063414","catava","daviTi","oneri","07/17/91 00:00:00",,"e",1,"0452963","gali qvaCaxias q. N 15 b. 7","gali"
+"62006063415","sajaia","jino","jumberi","02/05/91 00:00:00",,"v",1,"0452963","gali gorkis q. N 9","gali"
+"62006063416","barqaia","beqa","mogeli","07/13/91 00:00:00",,"z",1,"0457829","gali engurhesis q. N 67","gali"
+"62006063417","cqvitaria","Tea","raindi","06/29/90 00:00:00",,"T",2,"0452963","gali cxakaias q. N 46","gali"
+"62006063418","lefsaia","magda","kaxaberi","01/07/06 00:00:00",,"e",2,"0000000","gali s. oqumi","gali"
+"62006063419","lefsaia","megi","kaxaberi","02/22/03 00:00:00",,"e",2,"0000000","gali s. oqumi","gali"
+"62006063420","qurdagia","Savlegi","gela","03/07/90 00:00:00",,"v",1,"0452964","gali s. warCe","gali"
+"62006063421","gamisonia","naTia","jemali","06/16/91 00:00:00",,"z",2,"0452964","gali s. Tagiloni","gali"
+"62006063422","qurdagia","amiran","avTandili","07/19/91 00:00:00",,"T",1,"0452964","gali s. warCe","gali"
+"62006063423","Wkadua","marika","merabi","08/02/91 00:00:00",,"e",2,"0452965","gali janaSias q. N 21","gali"
+"62006063424","Jvania","marika","giorgi","07/08/91 00:00:00",,"z",2,"0452965","gali s. oqumi","gali"
+"62006063425","Rurwkaia","Tamari","arvelodi","11/13/90 00:00:00",,"T",2,"0452965","gali s. aCigvara","gali"
+"62006063426","goCava","Tea","nugzari","11/10/75 00:00:00",,"e",2,"0452966","gali s. pirveli gali","gali"
+"62006063427","garmelia","giorgi","giguSa","05/27/91 00:00:00",,"v",1,"0452966","gali s. CxorToli","gali"
+"62006063428","Cofliani","varlami","maharbi","03/18/90 00:00:00",,"z",1,"0452966","gali s. Wuburxinji","gali"
+"62006063429","gulua","erekle","rostomi","09/09/03 00:00:00",,"T",1,"0466594","gali s. aCigvara","gali"
+"62006063430","gulua","mariam","rostomi","12/30/05 00:00:00",,"e",2,"0000000","gali s. aCigvara","gali"
+"62006063431","jobava","Tako","besiki","04/03/96 00:00:00",,"v",2,"0465401","gali s. reCxo-cxiri","gali"
+"62006063432","jobava","Toma","besiki","07/09/97 00:00:00",,"e",1,"0000000","gali s. refo-SeSeleTi","gali"
+"62006063433","cobexia","gabriel","Saliko","06/11/61 00:00:00",,"e",1,"0452967","gali s. qvemo barRebi","gali"
+"62006063434","Samugia","lali","vaJiko","01/02/72 00:00:00",,"v",2,"0452967","gali s. qvemo barRebi","gali"
+"62006063435","berzenia","susana","giorgi","06/01/74 00:00:00",,"v",2,"0452968","gali s. warCe","gali"
+"62006063436","sajaia","naTia","demuri","09/02/90 00:00:00",,"z",2,"0452968","gali s. aCigvara","gali"
+"62006063437","burjaliani","amiran","daTo","09/23/98 00:00:00",,"v",1,"0457797","gali s. muxuri","gali"
+"62006063438","Cikvatia","anna-maria","mamuka","06/16/98 00:00:00",,"e",2,"0000000","gali leninis q. N 114","gali"
+"62006063439","jaxaia","irakli","koba","10/21/04 00:00:00",,"e",1,"0000000","gali s. pirveli gali","gali"
+"62006063440","jaxaia","konstantine","koba","07/04/01 00:00:00",,"e",1,"0000000","gali s. pirveli gali","gali"
+"62006063441","cikolia","giorgi","mamuka","04/01/91 00:00:00",,"T",1,"0452968","gali s. pirveli gali","gali"
+"62006063442","tabaRua","salome","gia","07/04/91 00:00:00",,"e",2,"0452969","gali ninoSvilis q. N 24","gali"
+"62006063443","Sonia","xaTuna","oneri","06/15/90 00:00:00",,"v",2,"0452969","gali engelsis q. N 104","gali"
+"62006063444","TakalanZe","sveta","soso","07/16/91 00:00:00",,"z",2,"0452969","gali s. fiCori","gali"
+"62006063445","quTelia","marika","Tengizi","07/09/91 00:00:00",,"T",2,"0452969","gali s. gudava","gali"
+"62006063446","gaxokia","giorgi","gaiozi","12/15/90 00:00:00",,"T",1,"0452982","gali Tavisuflebis q. N 2","gali"
+"62006063447","lagvilava","salome","gizo","07/25/91 00:00:00",,"v",2,"0452970","gali s. Wuburxinji","gali"
+"62006063448","ubilava","giorgi","merabi","06/10/91 00:00:00",,"z",1,"0452970","gali s. mziuri","gali"
+"62006063449","aqubardia","salome","kaxa","02/12/91 00:00:00",,"T",2,"0452970","gali s. Wuburxinji","gali"
+"62006063450","Wilava","xatia","kaxaberi","07/27/91 00:00:00",,"e",2,"0452971","gali axalaias q. N 7","gali"
+"62006063451","SagiZe","Savlegi","vaxtangi","09/02/91 00:00:00",,"v",1,"0452975","gali qvaCaxias q. N 17","gali"
+"62006063452","Wkadua","daviT","merabi","08/18/92 00:00:00",,"T",1,"0466559","gali janaSias q. N 21","gali"
+"62006063453","gvaramia","vaxtang","kote","02/19/81 00:00:00",,"T",1,"0452971","gali s. Tagiloni","gali"
+"62006063454","qardava","paata","malxazi","06/18/98 00:00:00",,"e",1,"0000000","gali Tamar mefis q. N 14 b. 7","gali"
+"62006063455","gvaZabia","mariami","sergo","06/12/91 00:00:00",,"z",2,"0452971","gali s. zemo barRebi","gali"
+"62006063456","guledani","salome","murTazi","08/10/91 00:00:00",,"e",2,"0452972",,
+"62006063457","gogoxia","sofiko","soso","05/24/93 00:00:00",,"e",2,"0462174","gali qvaCaxias q. N 25","gali"
+"62006063458","Wanturia","mariami","levani","12/12/03 00:00:00",,"e",2,"0000000","gali lermontovis q. N 21","gali"
+"62006063459","Wanturia","ana","levani","06/19/02 00:00:00",,"e",2,"0000000","gali lermontovis q. N 21","gali"
+"62006063460","Wanturia","mariam","daviTi","04/30/00 00:00:00",,"e",2,"0000000","gali cxakaias q. N 19","gali"
+"62006063461","buliskeria","qeTevani","Temuri","07/15/91 00:00:00",,"T",2,"0452972","gali svaniZis q. N 16","gali"
+"62006063462","gulua","salome","oTari","11/10/90 00:00:00",,"z",2,"0452972","gali baraTaSvilis  q. N 3","gali"
+"62006063463","zuxbaia","Teona","merabi","11/25/91 00:00:00",,"e",2,"0465199","gali barnovis q. N 8","gali"
+"62006063464","bendeliani","naTia","giorgi","12/15/98 00:00:00",,"e",2,"0000000","gali s. Tagiloni","gali"
+"62006063465","laSxia","Tamuna","zaali","06/28/91 00:00:00",,"e",2,"0452973","gali s. qvemo barRebi","gali"
+"62006063466","benia","salome","zamiri","02/03/91 00:00:00",,"v",2,"0452973","gali s. muxuri","gali"
+"62006063467","yolbaia","arCili","oneri","08/12/91 00:00:00",,"z",1,"0452973","gali jguburias q. N 13","gali"
+"62006063468","jorjikia","lia","irakli","07/22/95 00:00:00",,"e",2,"0000000","gali s. pirveli gali","gali"
+"62006063469","TavzaraSvili","salome","varlami","10/29/96 00:00:00",,"e",2,"0000000","gali Sonias q. N 9","gali"
+"62006063470","moroxia","vefxvia","pantiko","04/06/67 00:00:00",,"T",1,"0452973","gali s. refo-SeSeleTi","gali"
+"62006063471","daraselia","rati","mamuka","08/08/86 00:00:00",,"e",1,"0452974","gali s. refi","gali"
+"62006063472","zuxbaia","xatia","merabi","01/06/90 00:00:00",,"v",2,"0452974","gali barnovis q. N 8","gali"
+"62006063473","janjulia","daviT","oTari","09/19/88 00:00:00",,"z",1,"0452974","gali s. gudava","gali"
+"62006063474","wurwumia","mamisa","roini","03/05/91 00:00:00",,"T",2,"0452974","gali s. saberio","gali"
+"62006063475","bendeliani","qristina","giorgi","10/17/04 00:00:00",,"e",2,"0000000","gali s. Tagiloni","gali"
+"62006063476","Wanturia","amirani","paata","02/19/96 00:00:00",,"e",1,"0000000","gali s. pirveli gali","gali"
+"62006063477","Selia","monika","baaka","09/29/91 00:00:00",,"z",2,"0452990","gali s. ganaxleba","gali"
+"62006063478","zuxbaia","merabi","Tamazi","08/02/91 00:00:00",,"z",1,"0452975","gali s. oqumi","gali"
+"62006063479","emuxvari","avTandili","zaza","07/24/91 00:00:00",,"T",1,"0452975","gali meliqiSvilis q. N 3","gali"
+"62006063480","laSxia","baCuki","zaali","05/14/89 00:00:00",,"e",1,"0452976","gali s. qvemo barRebi","gali"
+"62006063481","markelia","anzori","paata","08/13/91 00:00:00",,"v",1,"0452976","gali s. muxuri","gali"
+"62006063586","filipia","marika","gogi","10/28/91 00:00:00",,"v",2,"0467456","gali s. pirveli gali","gali"
+"62006063587","kvaracxelia","eliso","kaxaberi","06/22/04 00:00:00",,"e",2,"0000000","gali s. muxuri","gali"
+"62006063588","gablaia","qristina","romeo","09/19/91 00:00:00",,"T",2,"0454277","gali s. pirveli gali","gali"
+"62006063589","dgebuaZe","nino","Suqri","07/23/91 00:00:00",,"e",2,"0454278","gali s. saberio","gali"
+"62006063590","yolbaia","kaxaber","Jora","05/21/72 00:00:00",,"v",1,"0454278","gali s. Wuburxinji","gali"
