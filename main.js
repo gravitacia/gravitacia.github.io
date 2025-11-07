@@ -1,7 +1,7 @@
 // === DBS Graph Search (Optimized, Private R2-Proxy) ===
 
 // Proxy endpoint base (your Worker or Cloudflare Pages Function)
-const API_BASE = '/api/dbs_data'; // example: /api/data/2012/2012_part1.txt
+const API_BASE = 'https://dbs-proxy.gravity13501.workers.dev/dbs_data'; // example: /api/data/2012/2012_part1.txt
 
 const DATASETS = {
   '2012': {
