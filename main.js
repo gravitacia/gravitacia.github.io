@@ -1,4 +1,45 @@
-// --- Georgian → Latin transliteration map ---
+// === DBS Graph Search (Optimized, Private R2-Proxy) ===
+
+// Proxy endpoint base (your Worker or Cloudflare Pages Function)
+const API_BASE = '/api/data'; // example: /api/data/2012/2012_part1.txt
+
+const DATASETS = {
+  '2012': {
+    folder: '2012',
+    fields: [
+      { id: 'id', label: 'პირადი ნომერი' },
+      { id: 'last', label: 'გვარი' },
+      { id: 'first', label: 'სახელი' },
+      { id: 'father', label: 'მამის სახელი' },
+      { id: 'dob', label: 'დაბადების თარიღი' },
+      { id: 'reg_date', label: 'რეგისტრაციის თარიღი' },
+      { id: 'prav', label: 'დმონაც' },
+      { id: 'gender', label: 'სქესი' },
+      { id: 'licnum', label: 'მოწმობის ნომერი' },
+      { id: 'address', label: 'მისამართი' },
+      { id: 'region', label: 'რაიონი' }
+    ],
+    transliterate: true
+  },
+  '2016': {
+    folder: '2016',
+    fields: [
+      { id: 'name', label: 'სახელი' },
+      { id: 'last', label: 'გვარი' },
+      { id: 'id', label: 'პირადი ნომერი' },
+      { id: 'email', label: 'ელ-ფოსტა' },
+      { id: 'phone', label: 'მობილური ნომერი' },
+      { id: 'fact', label: 'ფაქტიური მისამართი' },
+      { id: 'legal', label: 'იურიდიული მისამართი' }
+    ],
+    transliterate: false
+  }
+};
+
+let currentDataset = '2012';
+let abortController = null;
+
+// Georgian transliteration map
 const ge2lat = {
   "ა": "a","ბ": "b","გ": "g","დ": "d","ე": "e","ვ": "v","ზ": "z","თ": "T",
   "ი": "i","კ": "k","ლ": "l","მ": "m","ნ": "n","ო": "o","პ": "P","ჟ": "j",
@@ -6,246 +47,176 @@ const ge2lat = {
   "შ": "S","ჩ": "C","ც": "c","ძ": "Z","წ": "w","ჭ": "W","ხ": "X","ჯ": "J","ჰ": "h"
 };
 function translit(str) {
-  return str.replace(/[აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ]/g, l => ge2lat[l] || l);
+  return str.replace(/[აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ]/g, c => ge2lat[c] || c);
 }
 
-// --- Dataset Definitions ---
-const DATASETS = {
-  "2012": {
-    folder: "data/2012",
-    headers: [
-      "პირადი ნომერი","გვარი","სახელი","მამის სახელი","დაბადების თარიღი",
-      "დმონაც","პრივა","სქესი","პრავის ნომერი","მისამართი","რაიონი"
-    ],
-    fields: ["id","last","first","father","dob","dmonac","prava","gender","licnum","address","region"]
-  },
-  "2016": {
-    folder: "data/2016",
-    headers: [
-      "სახელი","გვარი","პირადი ნომერი","ელ-ფოსტა","მობილური ნომერი","ფაქტიური მისამართი","იურიდიული მისამართი"
-    ],
-    fields: ["name","last","id","email","phone","fact","legal"]
-  }
-};
-
-// --- State ---
-let currentDataset = "2012";
-let abortController = null;
+// === UI References ===
+const dsSelect = document.getElementById('dataset-select');
+const searchForm = document.getElementById('advanced-search');
+const fieldsContainer = document.getElementById('search-fields');
+const resultsList = document.getElementById('results-list');
+const progressDiv = document.getElementById('progress-message');
+const cyEl = document.getElementById('cyto-graph');
 let cy = null;
 
-// --- DOM Elements ---
-const datasetSelect = document.getElementById("dataset");
-const progressBar = document.querySelector("#progress-bar span");
-const progressText = document.getElementById("progress-text");
-const gridDiv = document.getElementById("grid");
-const graphDiv = document.getElementById("graph");
-
-// === Handle Dataset Switch ===
-datasetSelect.addEventListener("change", () => {
-  stopSearch();
-  currentDataset = datasetSelect.value;
-  document.querySelectorAll(".fields").forEach(f => f.classList.remove("active"));
-  document.getElementById(`fields-${currentDataset}`).classList.add("active");
+// === Initialize ===
+dsSelect.addEventListener('change', () => {
+  currentDataset = dsSelect.value;
+  renderFields();
+  if (abortController) abortController.abort(); // cancel previous search
+  resultsList.innerHTML = '';
+  progressDiv.textContent = '';
 });
+renderFields();
 
-// === Handle Search Submit ===
-document.getElementById("search-form").addEventListener("submit", e => {
-  e.preventDefault();
-  stopSearch();
-  startSearch();
-});
-
-// === Stop Search ===
-function stopSearch() {
-  if (abortController) {
-    abortController.abort();
-    abortController = null;
-    progressText.textContent = "ძებნა შეჩერებულია";
-  }
+// Render input fields dynamically
+function renderFields() {
+  const ds = DATASETS[currentDataset];
+  fieldsContainer.innerHTML = '';
+  ds.fields.forEach(f => {
+    const div = document.createElement('div');
+    div.className = 'field-row';
+    div.innerHTML = `<label>${f.label}</label><input type="text" id="f-${f.id}" placeholder="${f.label}">`;
+    fieldsContainer.appendChild(div);
+  });
 }
 
-// === Start Search ===
-async function startSearch() {
-  const folder = DATASETS[currentDataset].folder;
-  const filters = collectFilters();
-  const activeFilters = Object.entries(filters).filter(([k,v]) => v !== "");
-  if (activeFilters.length === 0) {
-    progressText.textContent = "გთხოვთ შეიყვანოთ მინიმუმ ერთი ველი";
-    return;
-  }
-
-  gridDiv.innerHTML = "";
-  progressText.textContent = "ძებნა მიმდინარეობს...";
-  progressBar.style.width = "0%";
-
-  if (cy) cy.destroy();
-  cy = initGraph();
+// === Handle Search ===
+searchForm.addEventListener('submit', e => {
+  e.preventDefault();
+  if (abortController) abortController.abort(); // stop previous
   abortController = new AbortController();
+  resultsList.innerHTML = '';
+  progressDiv.textContent = '🔍 Searching...';
+  startSearch(abortController.signal);
+});
 
+async function startSearch(signal) {
+  const ds = DATASETS[currentDataset];
+  const folder = ds.folder;
+
+  // Build search criteria
+  const criteria = {};
+  ds.fields.forEach(f => {
+    const val = document.getElementById(`f-${f.id}`).value.trim();
+    if (val) criteria[f.id] = val;
+  });
+
+  // Load manifest
   let manifest;
   try {
-    manifest = await fetch(`${folder}/manifest.json`, { signal: abortController.signal }).then(r => r.json());
-  } catch (e) {
-    if (e.name === "AbortError") return;
-    progressText.textContent = "Manifest ვერ ჩაიტვირთა";
+    const m = await fetch(`${API_BASE}/${folder}/manifest.json`, { signal });
+    if (!m.ok) throw new Error('Manifest missing');
+    manifest = await m.json();
+  } catch (err) {
+    if (err.name === 'AbortError') return;
+    progressDiv.textContent = '⚠️ Error loading manifest';
     return;
   }
 
-  const { headers, fields } = DATASETS[currentDataset];
-  gridDiv.innerHTML = `<table><thead><tr>${headers.map(h => `<th>${h}</th>`).join("")}</tr></thead><tbody id="tbody"></tbody></table>`;
-  const tbody = document.getElementById("tbody");
-  let found = 0;
-  const total = manifest.length;
+  let total = manifest.length;
+  let processed = 0;
+  let matches = [];
 
-  // --- Async streaming file-by-file ---
-  for (let i = 0; i < total; i++) {
-    if (abortController.signal.aborted) return;
-
-    const file = manifest[i];
-    const response = await fetch(`${folder}/${file}`, { signal: abortController.signal });
-    const text = await response.text();
-
-    // Only parse relevant columns for speed
-    const rows = parseChunkOptimized(text, currentDataset, activeFilters.map(([k]) => k));
-
-    for (const row of rows) {
-      if (abortController.signal.aborted) return;
-      if (matches(row, filters)) {
-        found++;
-        addRow(row, tbody, fields);
-        addNode(row);
-      }
-    }
-
-    // update UI asynchronously
-    progressBar.style.width = `${((i + 1) / total) * 100}%`;
-    progressText.textContent = `ფაილი ${i + 1}/${total} | ნაპოვნია: ${found}`;
-    await new Promise(r => requestAnimationFrame(r));
-  }
-
-  if (!abortController.signal.aborted) {
-    progressText.textContent = found ? `დასრულებულია: ${found} ჩანაწერი` : "შესაბამისობა არ მოიძებნა";
-    cy.layout({ name: "cose", animate: true }).run();
-  }
-  abortController = null;
-}
-
-// === Collect User Filters ===
-function collectFilters() {
-  const inputs = document.querySelectorAll(`#fields-${currentDataset} input`);
-  const f = {};
-  inputs.forEach(inp => (f[inp.id.split("-").pop()] = inp.value.trim().toLowerCase()));
-  return f;
-}
-
-// === Optimized Chunk Parser ===
-function parseChunkOptimized(text, dataset, neededFields) {
-  const lines = text.split(/\r?\n/).filter(Boolean);
-  const rows = [];
-
-  for (const line of lines) {
-    if (dataset === "2012") {
-      const parts = parseCSVLine(line);
-      const [id,last,first,father,dob,dmonac,prava,gender,licnum,address,region] =
-        parts.map(p => p.replace(/^"|"$/g, "").trim());
-
-      // construct row object only for needed fields
-      const r = {};
-      for (const key of neededFields) {
-        switch (key) {
-          case "id": r.id = id; break;
-          case "last": r.last = last; break;
-          case "first": r.first = first; break;
-          case "father": r.father = father; break;
-          case "dob": r.dob = dob; break;
-          case "dmonac": r.dmonac = dmonac; break;
-          case "prava": r.prava = prava; break;
-          case "gender": r.gender = gender; break;
-          case "licnum": r.licnum = licnum; break;
-          case "address": r.address = address; break;
-          case "region": r.region = region; break;
-        }
-      }
-      rows.push(r);
-    } else {
-      const [name,last,id,email,phone,fact,legal] = line.split(/\t/);
-      const r = {};
-      for (const key of neededFields) {
-        switch (key) {
-          case "name": r.name = name; break;
-          case "last": r.last = last; break;
-          case "id": r.id = id; break;
-          case "email": r.email = email; break;
-          case "phone": r.phone = phone; break;
-          case "fact": r.fact = fact; break;
-          case "legal": r.legal = legal; break;
-        }
-      }
-      rows.push(r);
-    }
-  }
-  return rows;
-}
-
-// --- Simple quoted CSV parser ---
-function parseCSVLine(line) {
-  const parts = [];
-  let current = "";
-  let inQuote = false;
-  for (let i = 0; i < line.length; i++) {
-    const c = line[i];
-    if (c === '"') inQuote = !inQuote;
-    else if (c === "," && !inQuote) {
-      parts.push(current);
-      current = "";
-    } else current += c;
-  }
-  parts.push(current);
-  return parts;
-}
-
-// === Georgian/Latin Aware Match ===
-function matches(r, f) {
-  return Object.entries(f).every(([k, v]) => {
-    if (!v) return true;
-    const val = (r[k] || "").toLowerCase();
-    const valT = translit(val);
-    const vT = translit(v);
-    return val.includes(v) || val.includes(vT) || valT.includes(v);
-  });
-}
-
-// === Add Table Row ===
-function addRow(r, body, fields) {
-  const tr = document.createElement("tr");
-  const cells = fields.map(f => `<td>${r[f] || ""}</td>`).join("");
-  tr.innerHTML = cells;
-  body.appendChild(tr);
-}
-
-// === Graph Setup ===
-function initGraph() {
-  return cytoscape({
-    container: graphDiv,
+  if (cy) { cy.destroy(); cy = null; }
+  cy = cytoscape({
+    container: cyEl,
+    layout: { name: 'cose', animate: true },
     style: [
-      {
-        selector: "node",
-        style: {
-          "background-color": "#00bfff",
-          label: "data(label)",
-          color: "#fff",
-          "font-size": "10px",
-          "border-width": 2,
-          "border-color": "#ff61e6"
-        }
-      },
-      { selector: "edge", style: { width: 1, "line-color": "#ff61e6" } }
+      { selector: 'node', style: { 'background-color': '#0076ff', 'label': 'data(label)', 'color': '#fff', 'border-width': 3, 'border-color': '#ff61e6', 'font-size': '12px' }},
+      { selector: 'edge', style: { 'line-color': '#ff61e6', 'width': 2 }}
     ]
   });
+
+  for (const file of manifest) {
+    if (signal.aborted) return;
+    processed++;
+    progressDiv.textContent = `📦 Loading ${processed}/${total}`;
+    try {
+      const txt = await fetch(`${API_BASE}/${folder}/${file}`, { signal }).then(r => r.text());
+      const rows = parseRows(txt, currentDataset);
+      const found = filterRows(rows, criteria, ds.transliterate);
+      for (const r of found) {
+        matches.push(r);
+        addNode(r);
+      }
+      if (matches.length) renderTable(matches);
+    } catch (e) {
+      if (e.name === 'AbortError') return;
+      continue;
+    }
+  }
+  progressDiv.textContent = matches.length ? `✅ Found ${matches.length} results` : '❌ No matches';
 }
 
-function addNode(r) {
-  const id = "n" + Math.random().toString(36).slice(2, 9);
-  const label = (r.last || r.name || "").slice(0, 15);
+// === Row Parsing ===
+function parseRows(txt, dataset) {
+  const lines = txt.split(/\r?\n/).filter(Boolean);
+  if (dataset === '2012') {
+    return lines.map(line => {
+      const parts = line.replace(/^"|"$/g, '').split(/","/);
+      return {
+        id: parts[0],
+        last: parts[1],
+        first: parts[2],
+        father: parts[3],
+        dob: parts[4],
+        reg_date: parts[5] || '',
+        prav: parts[6] || '',
+        gender: parts[7],
+        licnum: parts[8] || '',
+        address: parts[9],
+        region: parts[10]
+      };
+    });
+  } else {
+    return lines.map(line => {
+      const parts = line.replace(/^"|"$/g, '').split(/["\t,]+/).filter(Boolean);
+      return {
+        name: parts[0],
+        last: parts[1],
+        id: parts[2],
+        email: parts[3],
+        phone: parts[4],
+        fact: parts[5],
+        legal: parts[6]
+      };
+    });
+  }
+}
+
+// === Search Filtering ===
+function filterRows(rows, criteria, transliterateFlag) {
+  return rows.filter(r => {
+    for (const [k, v] of Object.entries(criteria)) {
+      if (!v) continue;
+      let val = r[k] || '';
+      let query = v;
+      if (transliterateFlag) {
+        val = translit(val);
+        query = translit(query);
+      }
+      if (!val.toLowerCase().includes(query.toLowerCase())) return false;
+    }
+    return true;
+  });
+}
+
+// === Visualization ===
+function addNode(record) {
+  const id = `n${record.id || Math.random()}`;
+  const label = record.last || record.name || 'unknown';
+  if (cy.getElementById(id).nonempty()) return;
   cy.add({ data: { id, label } });
+  cy.layout({ name: 'cose', animate: true }).run();
+}
+
+function renderTable(records) {
+  const ds = DATASETS[currentDataset];
+  const headers = ds.fields.map(f => `<th>${f.label}</th>`).join('');
+  const rows = records.slice(-50).map(r => {
+    const cells = ds.fields.map(f => `<td>${r[f.id] || ''}</td>`).join('');
+    return `<tr>${cells}</tr>`;
+  }).join('');
+  resultsList.innerHTML = `<table><thead><tr>${headers}</tr></thead><tbody>${rows}</tbody></table>`;
 }
